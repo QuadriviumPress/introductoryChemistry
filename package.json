@@ -17,7 +17,7 @@
     "convert": "python3 scripts/html_to_myst.py"
   },
   "devDependencies": {
-    "mystmd": "1.11.0",
+    "mystmd": "1.12.0",
     "sharp": "0.35.5",
     "yaml": "2.9.1"
   }
