@@ -1,0 +1,8 @@
+:root {
+  --book-accent: #1d6a4f;
+}
+
+/* Add project-specific book styling below. */
+a {
+  text-underline-offset: 0.15em;
+}

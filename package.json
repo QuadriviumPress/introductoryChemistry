@@ -1,0 +1,24 @@
+{
+  "name": "introductory-chemistry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MyST Markdown edition of Introductory Chemistry, from the Saylor Academy HTML text adapted from David W. Ball.",
+  "license": "CC-BY-NC-SA-3.0",
+  "packageManager": "npm@10.9.8",
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10 <11"
+  },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html && node scripts/setup-pwa.mjs",
+    "verify": "node scripts/verify-book.mjs",
+    "check": "npm run verify && myst build --html --strict --check-links",
+    "convert": "python3 scripts/html_to_myst.py"
+  },
+  "devDependencies": {
+    "mystmd": "1.11.0",
+    "sharp": "0.35.5",
+    "yaml": "2.9.1"
+  }
+}

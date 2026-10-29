@@ -1,0 +1,190 @@
+version: 1
+project:
+  title: Introductory Chemistry
+  short_title: Intro Chemistry
+  description: A one-semester introductory chemistry textbook. MyST edition of the Saylor Academy HTML text adapted from David W. Ball.
+  authors:
+    - name: David W. Ball
+    - name: Saylor Academy
+  license: CC-BY-NC-SA-3.0
+  open_access: true
+  github: QuadriviumPress/introductoryChemistry
+  keywords:
+    - chemistry
+    - introductory chemistry
+    - open textbook
+  # Remote hosts often answer 403, 404, or 5xx to the CI checker even when the
+  # page is fine in a browser. Internal links and missing files still fail.
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+      keys:
+        - "{http,https}://**"
+    - rule: doi-link-valid
+      severity: ignore
+  toc:
+    - file: index.md
+    - file: license.md
+    - title: "Chapter 1: What Is Chemistry?"
+      children:
+        - file: chapters/ch-01-s00-what-is-chemistry.md
+        - file: chapters/ch-01-s01-some-basic-definitions.md
+        - file: chapters/ch-01-s02-chemistry-as-a-science.md
+    - title: "Chapter 2: Measurements"
+      children:
+        - file: chapters/ch-02-s00-measurements.md
+        - file: chapters/ch-02-s01-expressing-numbers.md
+        - file: chapters/ch-02-s02-expressing-units.md
+        - file: chapters/ch-02-s03-significant-figures.md
+        - file: chapters/ch-02-s04-converting-units.md
+        - file: chapters/ch-02-s05-other-units-temperature-and-de.md
+        - file: chapters/ch-02-s06-end-of-chapter-material.md
+    - title: "Chapter 3: Atoms, Molecules, and Ions"
+      children:
+        - file: chapters/ch-03-s00-atoms-molecules-and-ions.md
+        - file: chapters/ch-03-s01-atomic-theory.md
+        - file: chapters/ch-03-s02-molecules-and-chemical-nomencl.md
+        - file: chapters/ch-03-s03-masses-of-atoms-and-molecules.md
+        - file: chapters/ch-03-s04-ions-and-ionic-compounds.md
+        - file: chapters/ch-03-s05-acids.md
+        - file: chapters/ch-03-s06-end-of-chapter-material.md
+    - title: "Chapter 4: Chemical Reactions and Equations"
+      children:
+        - file: chapters/ch-04-s00-chemical-reactions-and-equatio.md
+        - file: chapters/ch-04-s01-the-chemical-equation.md
+        - file: chapters/ch-04-s02-types-of-chemical-reactions-si.md
+        - file: chapters/ch-04-s03-ionic-equations-a-closer-look.md
+        - file: chapters/ch-04-s04-composition-decomposition-and-.md
+        - file: chapters/ch-04-s05-neutralization-reactions.md
+        - file: chapters/ch-04-s06-oxidation-reduction-reactions.md
+        - file: chapters/ch-04-s07-end-of-chapter-material.md
+    - title: "Chapter 5: Stoichiometry and the Mole"
+      children:
+        - file: chapters/ch-05-s00-stoichiometry-and-the-mole.md
+        - file: chapters/ch-05-s01-stoichiometry.md
+        - file: chapters/ch-05-s02-the-mole.md
+        - file: chapters/ch-05-s03-the-mole-in-chemical-reactions.md
+        - file: chapters/ch-05-s04-mole-mass-and-mass-mass-calcul.md
+        - file: chapters/ch-05-s05-yields.md
+        - file: chapters/ch-05-s06-limiting-reagents.md
+        - file: chapters/ch-05-s07-end-of-chapter-material.md
+    - title: "Chapter 6: Gases"
+      children:
+        - file: chapters/ch-06-s00-gases.md
+        - file: chapters/ch-06-s01-kinetic-theory-of-gases.md
+        - file: chapters/ch-06-s02-pressure.md
+        - file: chapters/ch-06-s03-gas-laws.md
+        - file: chapters/ch-06-s04-other-gas-laws.md
+        - file: chapters/ch-06-s05-the-ideal-gas-law-and-some-app.md
+        - file: chapters/ch-06-s06-gas-mixtures.md
+        - file: chapters/ch-06-s07-end-of-chapter-material.md
+    - title: "Chapter 7: Energy and Chemistry"
+      children:
+        - file: chapters/ch-07-s00-energy-and-chemistry.md
+        - file: chapters/ch-07-s01-energy.md
+        - file: chapters/ch-07-s02-work-and-heat.md
+        - file: chapters/ch-07-s03-enthalpy-and-chemical-reaction.md
+        - file: chapters/ch-07-s04-stoichiometry-calculations-usi.md
+        - file: chapters/ch-07-s05-hess-s-law.md
+        - file: chapters/ch-07-s06-formation-reactions.md
+        - file: chapters/ch-07-s07-end-of-chapter-material.md
+    - title: "Chapter 8: Electronic Structure"
+      children:
+        - file: chapters/ch-08-s00-electronic-structure.md
+        - file: chapters/ch-08-s01-light.md
+        - file: chapters/ch-08-s02-quantum-numbers-for-electrons.md
+        - file: chapters/ch-08-s03-organization-of-electrons-in-a.md
+        - file: chapters/ch-08-s04-electronic-structure-and-the-p.md
+        - file: chapters/ch-08-s05-periodic-trends.md
+        - file: chapters/ch-08-s06-end-of-chapter-material.md
+    - title: "Chapter 9: Chemical Bonds"
+      children:
+        - file: chapters/ch-09-s00-chemical-bonds.md
+        - file: chapters/ch-09-s01-lewis-electron-dot-diagrams.md
+        - file: chapters/ch-09-s02-electron-transfer-ionic-bonds.md
+        - file: chapters/ch-09-s03-covalent-bonds.md
+        - file: chapters/ch-09-s04-other-aspects-of-covalent-bond.md
+        - file: chapters/ch-09-s05-violations-of-the-octet-rule.md
+        - file: chapters/ch-09-s06-molecular-shapes.md
+        - file: chapters/ch-09-s07-end-of-chapter-material.md
+    - title: "Chapter 10: Solids and Liquids"
+      children:
+        - file: chapters/ch-10-s00-solids-and-liquids.md
+        - file: chapters/ch-10-s01-intermolecular-forces.md
+        - file: chapters/ch-10-s02-phase-transitions-melting-boil.md
+        - file: chapters/ch-10-s03-properties-of-liquids.md
+        - file: chapters/ch-10-s04-solids.md
+        - file: chapters/ch-10-s05-end-of-chapter-material.md
+    - title: "Chapter 11: Solutions"
+      children:
+        - file: chapters/ch-11-s00-solutions.md
+        - file: chapters/ch-11-s01-some-definitions.md
+        - file: chapters/ch-11-s02-quantitative-units-of-concentr.md
+        - file: chapters/ch-11-s03-dilutions-and-concentrations.md
+        - file: chapters/ch-11-s04-concentrations-as-conversion-f.md
+        - file: chapters/ch-11-s05-colligative-properties-of-solu.md
+        - file: chapters/ch-11-s06-colligative-properties-of-ioni.md
+        - file: chapters/ch-11-s07-end-of-chapter-material.md
+    - title: "Chapter 12: Acids and Bases"
+      children:
+        - file: chapters/ch-12-s00-acids-and-bases.md
+        - file: chapters/ch-12-s01-arrhenius-acids-and-bases.md
+        - file: chapters/ch-12-s02-bronsted-lowry-acids-and-bases.md
+        - file: chapters/ch-12-s03-acid-base-titrations.md
+        - file: chapters/ch-12-s04-strong-and-weak-acids-and-base.md
+        - file: chapters/ch-12-s05-autoionization-of-water.md
+        - file: chapters/ch-12-s06-the-ph-scale.md
+        - file: chapters/ch-12-s07-buffers.md
+        - file: chapters/ch-12-s08-end-of-chapter-material.md
+    - title: "Chapter 13: Chemical Equilibrium"
+      children:
+        - file: chapters/ch-13-s00-chemical-equilibrium.md
+        - file: chapters/ch-13-s01-chemical-equilibrium.md
+        - file: chapters/ch-13-s02-the-equilibrium-constant.md
+        - file: chapters/ch-13-s03-shifting-equilibria-le-chateli.md
+        - file: chapters/ch-13-s04-calculating-equilibrium-consta.md
+        - file: chapters/ch-13-s05-some-special-types-of-equilibr.md
+        - file: chapters/ch-13-s06-end-of-chapter-material.md
+    - title: "Chapter 14: Oxidation and Reduction"
+      children:
+        - file: chapters/ch-14-s00-oxidation-and-reduction.md
+        - file: chapters/ch-14-s01-oxidation-reduction-reactions.md
+        - file: chapters/ch-14-s02-balancing-redox-reactions.md
+        - file: chapters/ch-14-s03-applications-of-redox-reaction.md
+        - file: chapters/ch-14-s04-electrolysis.md
+        - file: chapters/ch-14-s05-end-of-chapter-material.md
+    - title: "Chapter 15: Nuclear Chemistry"
+      children:
+        - file: chapters/ch-15-s00-nuclear-chemistry.md
+        - file: chapters/ch-15-s01-radioactivity.md
+        - file: chapters/ch-15-s02-half-life.md
+        - file: chapters/ch-15-s03-units-of-radioactivity.md
+        - file: chapters/ch-15-s04-uses-of-radioactive-isotopes.md
+        - file: chapters/ch-15-s05-nuclear-energy.md
+        - file: chapters/ch-15-s06-end-of-chapter-material.md
+    - title: "Chapter 16: Organic Chemistry"
+      children:
+        - file: chapters/ch-16-s00-organic-chemistry.md
+        - file: chapters/ch-16-s01-hydrocarbons.md
+        - file: chapters/ch-16-s02-branched-hydrocarbons.md
+        - file: chapters/ch-16-s03-alkyl-halides-and-alcohols.md
+        - file: chapters/ch-16-s04-other-oxygen-containing-functi.md
+        - file: chapters/ch-16-s05-other-functional-groups.md
+        - file: chapters/ch-16-s06-polymers.md
+        - file: chapters/ch-16-s07-end-of-chapter-material.md
+    - file: chapters/ap-periodic-table.md
+site:
+  template: book-theme
+  title: Introductory Chemistry
+  options:
+    favicon: images/favicon.svg
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    logo_alt: Open book logo
+    logo_text: Intro Chemistry
+    logo_url: /
+    style: css/custom.css
+    hide_authors: false
+  nav:
+    - title: Sources & Attribution
+      url: https://github.com/QuadriviumPress/introductoryChemistry/blob/main/SOURCES.md
