@@ -12,7 +12,7 @@ Perhaps one of the most spectacular chemical reactions involving a gas occurred 
 
 Hydrogen is the lightest known gas. Any balloon filled with hydrogen gas will float in air if its mass is not too great. This makes hydrogen an obvious choice for flying machines based on balloons—airships, dirigibles, and blimps. However, hydrogen also has one obvious drawback: it burns in air according to the well-known chemical equation
 
-$\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}$
+$\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}$
 
 So although hydrogen is an obvious choice, it is also a dangerous choice.
 

@@ -16,7 +16,7 @@ title: "14.1 Oxidation-Reduction Reactions"
 Consider this chemical reaction:
 
 $$
-\text{Mg(s) + Cl2(g) }\rightarrow{}\text{ MgCl2}
+\text{Mg(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ MgCl}_{2}
 $$
 
 The reactants are two electrically neutral elements; they have the same number of electrons as protons. The product, however, is ionic; it is composed of Mg<sup>2+</sup> and Cl<sup>−</sup> ions. Somehow, the individual Mg atoms lose two electrons to make the Mg<sup>2+</sup> ion, while the Cl atoms gain an electron to become Cl<sup>−</sup> ions. This reaction involves the *transfer of electrons* between atoms.
@@ -54,11 +54,11 @@ Assign oxidation numbers to the atoms in each substance.
 2. By rule 3, oxygen is normally assigned an oxidation number of −2. For the sum of the oxidation numbers to equal the charge on the species (zero), the Ge atom is assigned an oxidation number of +4.
 3. Ca(NO<sub>3</sub>)<sub>2</sub> can be separated into two parts: the Ca<sup>2+</sup> ion and the NO<sub>3</sub><sup>−</sup> ion. Considering these separately, the Ca<sup>2+</sup> ion has an oxidation number of +2 by rule 2. Now consider the NO<sub>3</sub><sup>−</sup> ion. Oxygen is assigned an oxidation number of −2, and there are three of them. According to rule 4, the sum of the oxidation numbers on all atoms must equal the charge on the species, so we have the simple algebraic equation
 
-   $\text{x + 3(}-\text{2) = }-\text{1}$
+   $x\text{ + 3(}-\text{2) = }-\text{1}$
 
    where *x* is the oxidation number of the N atom and the −1 represents the charge on the species. Evaluating for *x*,
 
-   $\text{x + (}-\text{6) = }-\text{1}$ $\text{x = +5}$
+   $x\text{ + (}-\text{6) = }-\text{1}$ $x\text{ = +5}$
 
    Thus the oxidation number on the N atom in the NO<sub>3</sub><sup>−</sup> ion is +5.
 ```
@@ -87,7 +87,7 @@ All redox reactions occur with a simultaneous change in the oxidation numbers of
 
 Identify what is being oxidized and reduced in this redox reaction.
 
-$\text{2Na + Br2 }\rightarrow{}\text{ 2NaBr}$
+$\text{2Na + Br}_{2}\text{ }\rightarrow{}\text{ 2NaBr}$
 ```
 
 ```{solution} ex:ball-ch14-s01-n03
@@ -118,7 +118,7 @@ Because oxidation numbers are changing, this is a redox reaction. The total numb
 
 Identify what is being oxidized and reduced in this redox reaction.
 
-$\text{C + O2 }\rightarrow{}\text{ CO2}$
+$\text{C + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}$
 ```
 
 ```{solution} ex:ball-ch14-s01-n03-ty2
@@ -164,7 +164,7 @@ Although it is difficult to establish conclusive reasons, a search of scientific
 
 Is this reaction a redox reaction? Explain your answer.
 
-$\text{2K(s) + Br2(}\ell{}\text{) }\rightarrow{}\text{ 2KBr(s)}$
+$\text{2K(s) + Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ 2KBr(s)}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa01
@@ -181,7 +181,7 @@ yes because oxidation numbers are changing
 
 Is this reaction a redox reaction? Explain your answer.
 
-$\text{2NaCl(aq) + Pb(NO3)2(aq) }\rightarrow{}\text{ 2NaNO3(aq) + PbCl2(s)}$
+$\text{2NaCl(aq) + Pb(NO}_{3}\text{)}_{2}\text{(aq) }\rightarrow{}\text{ 2NaNO}_{3}\text{(aq) + PbCl}_{2}\text{(s)}$
 ```
 
 ```{exercise}
@@ -191,7 +191,7 @@ $\text{2NaCl(aq) + Pb(NO3)2(aq) }\rightarrow{}\text{ 2NaNO3(aq) + PbCl2(s)}$
 
 Which substance loses electrons and which substance gains electrons in this reaction?
 
-$\text{2Mg(s) + O2(g) }\rightarrow{}\text{ 2MgO}$
+$\text{2Mg(s) + O}_{2}\text{(g) }\rightarrow{}\text{ 2MgO}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa03
@@ -208,7 +208,7 @@ lose: Mg; gain: O
 
 Which substance loses electrons and which substance gains electrons in this reaction?
 
-$\text{16Fe(s) + 3S8(s) }\rightarrow{}\text{ 8Fe2S3(s)}$
+$\text{16Fe(s) + 3S}_{8}\text{(s) }\rightarrow{}\text{ 8Fe}_{2}\text{S}_{3}\text{(s)}$
 ```
 
 ```{exercise}
@@ -218,7 +218,7 @@ $\text{16Fe(s) + 3S8(s) }\rightarrow{}\text{ 8Fe2S3(s)}$
 
 Which substance is oxidized and which substance is reduced in this reaction?
 
-$\text{2Li(s) + O2(g) }\rightarrow{}\text{ Li2O2(s)}$
+$\text{2Li(s) + O}_{2}\text{(g) }\rightarrow{}\text{ Li}_{2}\text{O}_{2}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa05
@@ -235,7 +235,7 @@ oxidized: Li; reduced: O
 
 Which substance is oxidized and which substance is reduced in this reaction?
 
-$\text{2Fe(s) + 3I2(s) }\rightarrow{}\text{ 2FeI3(s)}$
+$\text{2Fe(s) + 3I}_{2}\text{(s) }\rightarrow{}\text{ 2FeI}_{3}\text{(s)}$
 ```
 
 ```{exercise}
@@ -376,7 +376,7 @@ d. Au
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{2NO + Cl2 }\rightarrow{}\text{ 2NOCl}$
+$\text{2NO + Cl}_{2}\text{ }\rightarrow{}\text{ 2NOCl}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa15
@@ -393,7 +393,7 @@ oxidized: N; reduced: Cl
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{Sr + SO3 }\rightarrow{}\text{ SrSO3}$
+$\text{Sr + SO}_{3}\text{ }\rightarrow{}\text{ SrSO}_{3}$
 ```
 
 ```{exercise}
@@ -403,7 +403,7 @@ $\text{Sr + SO3 }\rightarrow{}\text{ SrSO3}$
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{2KrF2 + 2H2O }\rightarrow{}\text{ 2Kr + 4HF + O2}$
+$\text{2KrF}_{2}\text{ + 2H}_{2}\text{O }\rightarrow{}\text{ 2Kr + 4HF + O}_{2}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa17
@@ -420,7 +420,7 @@ oxidized: O; reduced: Kr
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{SO3 + SCl2 }\rightarrow{}\text{ SOCl2 + SO2}$
+$\text{SO}_{3}\text{ + SCl}_{2}\text{ }\rightarrow{}\text{ SOCl}_{2}\text{ + SO}_{2}$
 ```
 
 ```{exercise}
@@ -430,7 +430,7 @@ $\text{SO3 + SCl2 }\rightarrow{}\text{ SOCl2 + SO2}$
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{2Rb + MgCl2 }\rightarrow{}\text{ 2RbCl + Mg}$
+$\text{2Rb + MgCl}_{2}\text{ }\rightarrow{}\text{ 2RbCl + Mg}$
 ```
 
 ```{solution} ex:ball-ch14-s01-qs01-qd01-qa19
@@ -447,5 +447,5 @@ oxidized: Rb; reduced: Mg
 
 Identify what is being oxidized and reduced in this redox reaction by assigning oxidation numbers to the atoms.
 
-$\text{2C8H18 + 25O2 }\rightarrow{}\text{ 16CO2 + 18H2O}$
+$\text{2C}_{8}\text{H}_{18}\text{ + 25O}_{2}\text{ }\rightarrow{}\text{ 16CO}_{2}\text{ + 18H}_{2}\text{O}$
 ```

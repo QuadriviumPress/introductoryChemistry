@@ -60,7 +60,7 @@ $$
 
 The L units cancel, so we solve for *n*<sub>2</sub>:
 
-$\text{n2 = 7.1 }\times{}\text{ 1021 particles}$
+$n_{2}\text{ = 7.1 }\times{}\text{ 10}^{21}\text{ particles}$
 ```
 
 ```{exercise}
@@ -116,7 +116,7 @@ $$
 
 Multiplying and dividing all the numbers, we get
 
-$\text{P2 = 3.29 atm}$
+$P_{2}\text{ = 3.29 atm}$
 
 Ultimately, the pressure increased, which would have been difficult to predict because two properties of the gas were changing.
 ```

@@ -158,7 +158,7 @@ Chromium is thought to be an ultratrace element, with about 8.9 ng present in a 
 
 What mass of 3.00% H<sub>2</sub>O<sub>2</sub> solution is needed to produce 35.7 g of O<sub>2</sub>(g) at 295 K at 1.05 atm pressure?
 
-$\text{2H2O2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + O2(g)}$
+$\text{2H}_{2}\text{O}_{2}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + O}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch11-s07-qs01-qd01-qa13
@@ -175,7 +175,7 @@ $\text{2H2O2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + O2(g)}$
 
 What volume of pool water is needed to generate 1.000 L of Cl<sub>2</sub>(g) at standard temperature and pressure if the pool contains 4.0 ppm HOCl and the water is slightly acidic? The chemical reaction is as follows:
 
-$\text{HOCl(aq) + HCl(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + Cl2(g)}$
+$\text{HOCl(aq) + HCl(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + Cl}_{2}\text{(g)}$
 
 Assume the pool water has a density of 1.00 g/mL.
 ```

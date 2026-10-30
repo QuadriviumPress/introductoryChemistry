@@ -18,19 +18,19 @@ When seventeenth-century scientists began studying the physical properties of ga
 There is more to it, however: pressure and volume of a given amount of gas at constant temperature are *numerically* related. If you take the pressure value and multiply it by the volume value, the product is a constant for a given amount of gas at a constant temperature:
 
 $$
-\text{P }\times{}\text{ V = constant at constant n and T}
+P\text{ }\times{}\text{ }V\text{ = constant at constant }n\text{ and }T
 $$
 
 If either volume or pressure changes while amount and temperature stay the same, then the other property must change so that the product of the two properties still equals that same constant. That is, if the original conditions are labeled *P*<sub>1</sub> and *V*<sub>1</sub> and the new conditions are labeled *P*<sub>2</sub> and *V*<sub>2</sub>, we have
 
 $$
-\text{P1V1 = constant = P2V2}
+P_{1}V_{1}\text{ = constant = }P_{2}V_{2}
 $$
 
 where the properties are assumed to be multiplied together. Leaving out the middle part, we have simply
 
 $$
-\text{P1V1 = P2V2 at constant n and T}
+P_{1}V_{1}\text{ = }P_{2}V_{2}\text{ at constant }n\text{ and }T
 $$
 
 This equation is an example of a gas law. A **gas law** (*A simple mathematical formula that allows one to model, or predict, the behavior of a gas.*) is a simple mathematical formula that allows you to model, or predict, the behavior of a gas. This particular gas law is called **Boyle’s law** (*A gas law that relates pressure and volume at constant temperature and amount.*), after the English scientist Robert Boyle, who first announced it in 1662. {ref}`Figure 6.2 "Boyle’s Law" <fig:ch06:s03:f01>` shows two representations of how Boyle’s law works.
@@ -60,15 +60,15 @@ A sample of gas has an initial pressure of 2.44 atm and an initial volume of 4.0
 
 First, determine what quantities we are given. We are given an initial pressure and an initial volume, so let these values be *P*<sub>1</sub> and *V*<sub>1:</sub>
 
-$\text{P1 = 2.44 atm and V1 = 4.01 L}$
+$P_{1}\text{ = 2.44 atm and }V_{1}\text{ = 4.01 L}$
 
 We are given another quantity, final pressure of 1.93 atm, but not a final volume. This final volume is the variable we will solve for.
 
-$\text{P2 = 1.93 atm and V2 = ? L}$
+$P_{2}\text{ = 1.93 atm and }V_{2}\text{ = ? L}$
 
 Substituting these values into Boyle’s law, we get
 
-$\text{(2.44 atm)(4.01 L) = (1.93 atm)V2}$
+$\text{(2.44 atm)(4.01 L) = (1.93 atm)}V_{2}$
 
 To solve for the unknown variable, we isolate it by dividing both sides of the equation by 1.93 atm—both the number *and* the unit:
 
@@ -90,7 +90,7 @@ $$
 
 Now we simply multiply and divide the numbers together and combine the answer with the *L* unit, which is a unit of volume. Doing so, we get
 
-$\text{V2 = 5.07 L}$
+$V_{2}\text{ = 5.07 L}$
 
 Does this answer make sense? We know that pressure and volume are inversely related; as one decreases, the other increases. Pressure is decreasing (from 2.44 atm to 1.93 atm), so volume should be increasing to compensate, and it is (from 4.01 L to 5.07 L). So the answer makes sense based on Boyle’s law.
 ```
@@ -141,7 +141,7 @@ $$
 
 The mL units cancel, and we multiply and divide the numbers to get
 
-$\text{P2 = 96.7 torr}$
+$P_{2}\text{ = 96.7 torr}$
 
 The volume is increasing, and the pressure is decreasing, which is as expected for Boyle’s law.
 ```
@@ -228,7 +228,7 @@ $$
 
 By multiplying and dividing the numbers, we see that the only remaining unit is mL, so our final answer is
 
-$\text{V2 = 61.8 mL}$
+$V_{2}\text{ = 61.8 mL}$
 
 Does this answer make sense? We know that as temperature increases, volume increases. Here, the temperature is increasing from 315 K to 559 K, so the volume should also increase, which it does.
 ```
@@ -292,7 +292,7 @@ $$
 
 The L units cancel, so our final answer is
 
-$\text{T2 = 148 K}$
+$T_{2}\text{ = 148 K}$
 
 This is also equal to −125°C. As temperature decreases, volume decreases, which it does in this example.
 ```

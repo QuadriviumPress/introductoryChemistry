@@ -27,7 +27,7 @@ $$
 where the + sign means that the two substances interact chemically with each other and the → symbol implies that a chemical reaction takes place. But substances can also be represented by chemical formulas. Remembering that hydrogen and oxygen both exist as diatomic molecules, we can rewrite our chemical change as
 
 $$
-\text{H2 + O2 }\rightarrow{}\text{ H2O}
+\text{H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ H}_{2}\text{O}
 $$
 
 This is an example of a **chemical equation** (*A concise way of representing a chemical reaction.*), which is a concise way of representing a chemical reaction. The initial substances are called **reactants** (*An initial substance in a chemical equation.*), and the final substances are called **products** (*A final substance in a chemical equation.*).
@@ -39,13 +39,13 @@ What can we do? Can we change the subscripts in the formula for water so that it
 To accommodate the two oxygen atoms as reactants, let us assume that we have two water molecules as products:
 
 $$
-\text{H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 The 2 in front of the formula for water is called a **coefficient** (*A number in a chemical equation indicating more than one molecule of the substance.*). Now there is the same number of oxygen atoms in the reactants as there are in the product. But in satisfying the need for the same number of oxygen atoms on both sides of the reaction, we have also changed the number of hydrogen atoms on the product side, so the number of hydrogen atoms is no longer equal. No problem—simply go back to the reactant side of the equation and add a coefficient in front of the H<sub>2</sub>. The coefficient that works is 2:
 
 $$
-\text{2H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{2H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 There are now four hydrogen atoms in the reactants and also four atoms of hydrogen in the product. There are two oxygen atoms in the reactants and two atoms of oxygen in the product. The law of conservation of matter has been satisfied. When the reactants and products of a chemical equation have the same number of atoms of all elements present, we say that an equation is **balanced** (*A condition when the reactants and products of a chemical equation have the same number of atoms of all elements present.*). All proper chemical equations are balanced. If a substance does not have a coefficient written in front of it, it is assumed to be 1. Also, the convention is to use all whole numbers when balancing chemical equations. This sometimes makes us do a bit more “back and forth” work when balancing a chemical equation.
@@ -67,28 +67,28 @@ Write and balance the chemical equation for each given chemical reaction.
 
 1. Let us start by simply writing a chemical equation in terms of the formulas of the substances, remembering that both elemental hydrogen and chlorine are diatomic:
 
-   $\text{H2 + Cl2 }\rightarrow{}\text{ HCl}$
+   $\text{H}_{2}\text{ + Cl}_{2}\text{ }\rightarrow{}\text{ HCl}$
 
    There are two hydrogen atoms and two chlorine atoms in the reactants and one of each atom in the product. We can fix this by including the coefficient 2 on the product side:
 
-   $\text{H2 + Cl2 }\rightarrow{}\text{ 2HCl}$
+   $\text{H}_{2}\text{ + Cl}_{2}\text{ }\rightarrow{}\text{ 2HCl}$
 
    Now there are two hydrogen atoms and two chlorine atoms on both sides of the chemical equation, so it is balanced.
 2. Start by writing the chemical equation in terms of the substances involved:
 
-   $\text{C2H6 + O2 }\rightarrow{}\text{ CO2 + H2O}$
+   $\text{C}_{2}\text{H}_{6}\text{ + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + H}_{2}\text{O}$
 
    We have two carbon atoms on the left, so we need two carbon dioxide molecules on the product side, so that each side has two carbon atoms; that element is balanced. We have six hydrogen atoms in the reactants, so we need six hydrogen atoms in the products. We can get this by having three water molecules:
 
-   $\text{C2H6 + O2 }\rightarrow{}\text{ 2CO2 + 3H2O}$
+   $\text{C}_{2}\text{H}_{6}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2CO}_{2}\text{ + 3H}_{2}\text{O}$
 
    Now we have seven oxygen atoms in the products (four from the CO<sub>2</sub> and three from the H<sub>2</sub>O). That means we need seven oxygen atoms in the reactants. However, because oxygen is a diatomic molecule, we can only get an even number of oxygen atoms at a time. We can achieve this by multiplying the other coefficients by 2:
 
-   $\text{2C2H6 + O2 }\rightarrow{}\text{ 4CO2 + 6H2O}$
+   $\text{2C}_{2}\text{H}_{6}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 4CO}_{2}\text{ + 6H}_{2}\text{O}$
 
    By multiplying everything else by 2, we don’t unbalance the other elements, and we now get an even number of oxygen atoms in the product—14. We can get 14 oxygen atoms on the reactant side by having 7 oxygen molecules:
 
-   $\text{2C2H6 + 7O2 }\rightarrow{}\text{ 4CO2 + 6H2O}$
+   $\text{2C}_{2}\text{H}_{6}\text{ + 7O}_{2}\text{ }\rightarrow{}\text{ 4CO}_{2}\text{ + 6H}_{2}\text{O}$
 
    As a check, recount everything to determine that each side has the same number of atoms of each element. This chemical equation is now balanced.
 ```

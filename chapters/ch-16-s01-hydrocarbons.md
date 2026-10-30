@@ -175,7 +175,7 @@ $$
 By far the most common reaction of hydrocarbons is combustion, which is the combination of a hydrocarbon with O<sub>2</sub> to make CO<sub>2</sub> and H<sub>2</sub>O. The combustion of hydrocarbons is accompanied by a release of energy and is a primary source of energy production in our society (Figure 16.2 "Combustion"). The combustion reaction for gasoline, for example, which can be represented by C<sub>8</sub>H<sub>18</sub>, is as follows:
 
 $$
-\text{2C8H18 + 25O2 }\rightarrow{}\text{ 16CO2 + 18H2O + \textasciitilde{}5060 kJ}
+\text{2C}_{8}\text{H}_{18}\text{ + 25O}_{2}\text{ }\rightarrow{}\text{ 16CO}_{2}\text{ + 18H}_{2}\text{O + \textasciitilde{}5060 kJ}
 $$
 
 ```{important} Key Takeaways

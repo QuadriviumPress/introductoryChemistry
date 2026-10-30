@@ -16,7 +16,7 @@ title: "7.1 Energy"
 **Energy** (*The ability to do work.*) is the ability to do work. Think about it: when you have a lot of energy, you can do a lot of work; but if you’re low on energy, you don’t want to do much work. Work (*w*) itself is defined as a force (*F*) operating over a distance (Δ*x*):
 
 $$
-\text{w = F }\times{}\text{ }\Delta{}\text{x}
+w\text{ = }F\text{ }\times{}\text{ }\Delta{}x
 $$
 
 In SI, force has units of newtons (N), while distance has units of meters. Therefore, work has units of N·m. This compound unit is redefined as a **joule** (*The SI unit of energy.*) (J):

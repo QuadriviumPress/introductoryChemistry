@@ -26,11 +26,11 @@ Electrolysis. In an electrolytic cell, electricity is forced through the cell to
 Electrolysis has many applications. For example, if NaCl is melted at about 800°C in an electrolytic cell and an electric current is passed through it, elemental sodium will appear at the cathode and elemental chlorine will appear at the anode as the following two reactions occur:
 
 $$
-\text{Na+ + e}-\text{ }\rightarrow{}\text{ Na}
+\text{Na}^{+}\text{ + e}^{-}\text{ }\rightarrow{}\text{ Na}
 $$
 
 $$
-\text{2Cl}-\text{ }\rightarrow{}\text{ Cl2 + 2e}-
+\text{2Cl}^{-}\text{ }\rightarrow{}\text{ Cl}_{2}\text{ + 2e}^{-}
 $$
 
 Normally we expect elemental sodium and chlorine to react spontaneously to make NaCl. However, by using an input of electricity, we can force the opposite reaction to occur and generate the elements. Lithium, potassium, and magnesium can also be isolated from compounds by electrolysis.
@@ -38,11 +38,11 @@ Normally we expect elemental sodium and chlorine to react spontaneously to make 
 Another element that is isolated by electrolysis is aluminum. Aluminum formerly was a difficult metal to isolate in its elemental form; in fact, the top of the Washington Monument has a 2.8 kg cap of aluminum metal, which at the time—1884—was the largest piece of elemental aluminum ever isolated. However, in 1886 the American Charles Hall and the Frenchman Paul Héroult almost simultaneously worked out an electrolytic process for isolating aluminum from bauxite, an ore of aluminum whose chemical formula is AlO<sub>*x*</sub>(OH)<sub>3 − 2</sub><sub>*x*</sub>. The basic reactions are as follows:
 
 $$
-\text{Al3+ + 3e}-\text{ }\rightarrow{}\text{ Al}
+\text{Al}^{3+}\text{ + 3e}^{-}\text{ }\rightarrow{}\text{ Al}
 $$
 
 $$
-\text{2O2}-\text{ }\rightarrow{}\text{ O2 + 4e}-
+\text{2O}^{2-}\text{ }\rightarrow{}\text{ O}_{2}\text{ + 4e}^{-}
 $$
 
 With the development of the Hall-Héroult process, the price of aluminum dropped by a factor of over 200, and aluminum metal became common. So much elemental aluminum is produced in the United States each year that it has been estimated that the electrolysis of aluminum uses 5% of all the electricity in the country. (Recycling aluminum requires about 1/70th the energy of refining aluminum from ore, which illustrates the tremendous energy savings that recycling provides.)

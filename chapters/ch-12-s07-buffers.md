@@ -19,7 +19,7 @@ The mechanism involves a **buffer** (*A solution that resists dramatic changes i
 Let us use an HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>/NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> buffer to demonstrate how buffers work. If a strong base—a source of OH<sup>−</sup>(aq) ions—is added to the buffer solution, those OH<sup>−</sup> ions will react with the HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> in an acid-base reaction:
 
 $$
-\text{HC2H3O2(aq) + OH}-\text{(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + C2H3O2}-\text{(aq)}
+\text{HC}_{2}\text{H}_{3}\text{O}_{2}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + C}_{2}\text{H}_{3}\text{O}_{2}^{-}\text{(aq)}
 $$
 
 Rather than changing the pH dramatically by making the solution basic, the added OH<sup>−</sup> ions react to make H<sub>2</sub>O, so the pH does not change much.
@@ -27,7 +27,7 @@ Rather than changing the pH dramatically by making the solution basic, the added
 If a strong acid—a source of H<sup>+</sup> ions—is added to the buffer solution, the H<sup>+</sup> ions will react with the anion from the salt. Because HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> is a weak acid, it is not ionized much. This means that if lots of H<sup>+</sup> ions and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup> ions are present in the same solution, they will come together to make HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>:
 
 $$
-\text{H+(aq) + C2H3O2}-\text{(aq) }\rightarrow{}\text{ HC2H3O2(aq)}
+\text{H}^{+}\text{(aq) + C}_{2}\text{H}_{3}\text{O}_{2}^{-}\text{(aq) }\rightarrow{}\text{ HC}_{2}\text{H}_{3}\text{O}_{2}\text{(aq)}
 $$
 
 Rather than changing the pH dramatically and making the solution acidic, the added H<sup>+</sup> ions react to make molecules of a weak acid. {ref}`Figure 12.2 "The Actions of Buffers" <fig:ch12:s07:f01>` illustrates both actions of a buffer.
@@ -44,13 +44,13 @@ The Actions of Buffers. Buffers can react with both strong acids (top) and stron
 Buffers made from weak bases and salts of weak bases act similarly. For example, in a buffer containing NH<sub>3</sub> and NH<sub>4</sub>Cl, NH<sub>3</sub> molecules can react with any excess H<sup>+</sup> ions introduced by strong acids:
 
 $$
-\text{NH3(aq) + H+(aq) }\rightarrow{}\text{ NH4+(aq)}
+\text{NH}_{3}\text{(aq) + H}^{+}\text{(aq) }\rightarrow{}\text{ NH}_{4}^{+}\text{(aq)}
 $$
 
 while the NH<sub>4</sub><sup>+</sup>(aq) ion can react with any OH<sup>−</sup> ions introduced by strong bases:
 
 $$
-\text{NH4+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ NH3(aq) + H2O(}\ell{}\text{)}
+\text{NH}_{4}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ NH}_{3}\text{(aq) + H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 ```{exercise}

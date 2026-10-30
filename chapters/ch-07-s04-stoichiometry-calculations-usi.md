@@ -14,25 +14,25 @@ title: "7.4 Stoichiometry Calculations Using Enthalpy"
 In {ref}`Chapter 5 "Stoichiometry and the Mole" <ch:ch05>`, we related quantities of one substance to another in a chemical equation by performing calculations that used the balanced chemical equation; the balanced chemical equation provided equivalences that we used to construct conversion factors. For example, in the balanced chemical equation
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 we recognized the equivalences
 
 $$
-\text{2 mol H2 }\Leftrightarrow{}\text{ 1 mol O2 }\Leftrightarrow{}\text{ 2 mol H2O}
+\text{2 mol H}_{2}\text{ }\Leftrightarrow{}\text{ 1 mol O}_{2}\text{ }\Leftrightarrow{}\text{ 2 mol H}_{2}\text{O}
 $$
 
 where ⇔ is the mathematical symbol for “is equivalent to.” In our thermochemical equation, however, we have another quantity—energy change:
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)     }\Delta{}\text{H = }-\text{570 kJ}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)     }\Delta{}H\text{ = }-\text{570 kJ}
 $$
 
 This new quantity allows us to add another equivalence to our list:
 
 $$
-\text{2 mol H2 }\Leftrightarrow{}\text{ 1 mol O2 }\Leftrightarrow{}\text{ 2 mol H2O }\Leftrightarrow{}\text{ }-\text{570 kJ}
+\text{2 mol H}_{2}\text{ }\Leftrightarrow{}\text{ 1 mol O}_{2}\text{ }\Leftrightarrow{}\text{ 2 mol H}_{2}\text{O }\Leftrightarrow{}\text{ }-\text{570 kJ}
 $$
 
 That is, we can now add an energy amount to the equivalences—the enthalpy change of a balanced chemical reaction. This equivalence can also be used to construct conversion factors so that we can relate enthalpy change to amounts of substances reacted or produced.
@@ -42,13 +42,13 @@ Note that these equivalences address a concern. When an amount of energy is list
 For example, consider the thermochemical equation
 
 $$
-\text{H2(g) + Cl2(g) }\rightarrow{}\text{ 2HCl(g)     }\Delta{}\text{H = }-\text{184.6 kJ}
+\text{H}_{2}\text{(g) + Cl}_{2}\text{(g) }\rightarrow{}\text{ 2HCl(g)     }\Delta{}H\text{ = }-\text{184.6 kJ}
 $$
 
 The equivalences for this thermochemical equation are
 
 $$
-\text{1 mol H2 }\Leftrightarrow{}\text{ 1 mol Cl2 }\Leftrightarrow{}\text{ 2 mol HCl }\Leftrightarrow{}\text{ }-\text{184.6 kJ}
+\text{1 mol H}_{2}\text{ }\Leftrightarrow{}\text{ 1 mol Cl}_{2}\text{ }\Leftrightarrow{}\text{ 2 mol HCl }\Leftrightarrow{}\text{ }-\text{184.6 kJ}
 $$
 
 Suppose we asked how much energy is given off when 8.22 mol of H<sub>2</sub> react. We would construct a conversion factor between the number of moles of H<sub>2</sub> and the energy given off, −184.6 kJ:
@@ -66,7 +66,7 @@ The negative sign means that this much energy is given off.
 
 Given the thermochemical equation
 
-$\text{N2(g) + 3H2(g) }\rightarrow{}\text{ 2NH3(g)     }\Delta{}\text{H = }-\text{91.8 kJ}$
+$\text{N}_{2}\text{(g) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2NH}_{3}\text{(g)     }\Delta{}H\text{ = }-\text{91.8 kJ}$
 
 how much energy is given off when 222.4 g of N<sub>2</sub> reacts?
 ```
@@ -89,7 +89,7 @@ $$
 
 Given the thermochemical equation
 
-$\text{N2(g) + 3H2(g) }\rightarrow{}\text{ 2NH3(g)     }\Delta{}\text{H = }-\text{91.8 kJ}$
+$\text{N}_{2}\text{(g) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2NH}_{3}\text{(g)     }\Delta{}H\text{ = }-\text{91.8 kJ}$
 
 how much heat is given off when 1.00 g of H<sub>2</sub> reacts?
 ```
@@ -110,7 +110,7 @@ Like any stoichiometric quantity, we can start with energy and determine an amou
 
 Given the thermochemical equation
 
-$\text{N2(g) + O2(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}\text{H = 180.6 kJ}$
+$\text{N}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}H\text{ = 180.6 kJ}$
 
 if 558 kJ of energy are supplied, what mass of NO can be made?
 ```
@@ -133,7 +133,7 @@ $$
 
 How many grams of N<sub>2</sub> will react if 100.0 kJ of energy are supplied?
 
-$\text{N2(g) + O2(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}\text{H = 180.6 kJ}$
+$\text{N}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}H\text{ = 180.6 kJ}$
 ```
 
 ```{solution} ex:ball-ch07-s04-n03-ty2
@@ -147,7 +147,7 @@ $\text{N2(g) + O2(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}\text{H = 180.6 kJ
 
 One very energetic reaction is called the *thermite reaction*. Its classic reactants are aluminum metal and iron(III) oxide; the reaction produces iron metal and aluminum oxide:
 
-$\text{2Al(s) + Fe2O3(s) }\rightarrow{}\text{ Al2O3(s) + 2Fe(s)     }\Delta{}\text{H = }-\text{850.2 kJ}$
+$\text{2Al(s) + Fe}_{2}\text{O}_{3}\text{(s) }\rightarrow{}\text{ Al}_{2}\text{O}_{3}\text{(s) + 2Fe(s)     }\Delta{}H\text{ = }-\text{850.2 kJ}$
 
 When properly done, the reaction gives off so much energy that the iron product comes off as a *liquid*. (Iron normally melts at 1,536°C.) If carefully directed, the liquid iron can fill spaces between two or more metal parts and, after it quickly cools, can weld the metal parts together.
 
@@ -176,7 +176,7 @@ Thermite reactions are also used for military purposes. Thermite mixtures are fr
 
 Write the equivalences that this balanced thermochemical equation implies.
 
-$\text{PCl3(g) + Cl2(g) }\rightarrow{}\text{ PCl5(g) }\Delta{}\text{H = }-\text{87.9 kJ}$
+$\text{PCl}_{3}\text{(g) + Cl}_{2}\text{(g) }\rightarrow{}\text{ PCl}_{5}\text{(g) }\Delta{}H\text{ = }-\text{87.9 kJ}$
 ```
 
 ```{solution} ex:ball-ch07-s04-qs01-qd01-qa01
@@ -193,7 +193,7 @@ $\text{PCl3(g) + Cl2(g) }\rightarrow{}\text{ PCl5(g) }\Delta{}\text{H = }-\text{
 
 Write the equivalences that this balanced thermochemical equation implies.
 
-$\text{2SO3(g) }\rightarrow{}\text{ 2SO2(g) + O2(g) }\Delta{}\text{H = 197.9 kJ}$
+$\text{2SO}_{3}\text{(g) }\rightarrow{}\text{ 2SO}_{2}\text{(g) + O}_{2}\text{(g) }\Delta{}H\text{ = 197.9 kJ}$
 ```
 
 ```{exercise}
@@ -203,7 +203,7 @@ $\text{2SO3(g) }\rightarrow{}\text{ 2SO2(g) + O2(g) }\Delta{}\text{H = 197.9 kJ}
 
 How many kilojoules are given off when 17.8 mol of CH<sub>4</sub>(g) react?
 
-$\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{) }\Delta{}\text{H = }-\text{890.1 kJ}$
+$\text{CH}_{4}\text{(g) + 2O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g) + 2H}_{2}\text{O(}\ell{}\text{) }\Delta{}H\text{ = }-\text{890.1 kJ}$
 ```
 
 ```{solution} ex:ball-ch07-s04-qs01-qd01-qa03
@@ -220,7 +220,7 @@ $\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{) }\Delta
 
 How many kilojoules are absorbed when 0.772 mol of N<sub>2</sub>(g) reacts?
 
-$\text{N2(g) + 2NO(g) }\rightarrow{}\text{ 2N2O(g) }\Delta{}\text{H = 73.8 kJ}$
+$\text{N}_{2}\text{(g) + 2NO(g) }\rightarrow{}\text{ 2N}_{2}\text{O(g) }\Delta{}H\text{ = 73.8 kJ}$
 ```
 
 ```{exercise}
@@ -230,7 +230,7 @@ $\text{N2(g) + 2NO(g) }\rightarrow{}\text{ 2N2O(g) }\Delta{}\text{H = 73.8 kJ}$
 
 How many kilojoules are absorbed when 23.09 mol of C<sub>6</sub>H<sub>6</sub>(ℓ) are formed?
 
-$\text{6C(s) + 3H2(g) }\rightarrow{}\text{ C6H6(}\ell{}\text{) }\Delta{}\text{H = 49.0 kJ}$
+$\text{6C(s) + 3H}_{2}\text{(g) }\rightarrow{}\text{ C}_{6}\text{H}_{6}\text{(}\ell{}\text{) }\Delta{}H\text{ = 49.0 kJ}$
 ```
 
 ```{solution} ex:ball-ch07-s04-qs01-qd01-qa05
@@ -247,7 +247,7 @@ $\text{6C(s) + 3H2(g) }\rightarrow{}\text{ C6H6(}\ell{}\text{) }\Delta{}\text{H 
 
 How many kilojoules are given off when 8.32 mol of Mg react?
 
-$\text{2Mg(s) + O2(g) }\rightarrow{}\text{ 2MgO(s) }\Delta{}\text{H = }-\text{1,213 kJ}$
+$\text{2Mg(s) + O}_{2}\text{(g) }\rightarrow{}\text{ 2MgO(s) }\Delta{}H\text{ = }-\text{1,213 kJ}$
 ```
 
 ```{exercise}
@@ -257,7 +257,7 @@ $\text{2Mg(s) + O2(g) }\rightarrow{}\text{ 2MgO(s) }\Delta{}\text{H = }-\text{1,
 
 Glucose is the main fuel metabolized in animal cells:
 
-$\text{C6H12O6 + 6O2 }\rightarrow{}\text{ 6CO2 + 6H2O }\Delta{}\text{H = }-\text{2,799 kJ}$
+$\text{C}_{6}\text{H}_{12}\text{O}_{6}\text{ + 6O}_{2}\text{ }\rightarrow{}\text{ 6CO}_{2}\text{ + 6H}_{2}\text{O }\Delta{}H\text{ = }-\text{2,799 kJ}$
 
 How much energy is given off when 100.0 g of C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> react?
 ```
@@ -276,7 +276,7 @@ How much energy is given off when 100.0 g of C<sub>6</sub>H<sub>12</sub>O<sub>6<
 
 Given the thermochemical equation
 
-$\text{2Al(s) + Fe2O3(s) }\rightarrow{}\text{ Al2O3(s) + 2Fe(s) }\Delta{}\text{H = }-\text{850.2 kJ}$
+$\text{2Al(s) + Fe}_{2}\text{O}_{3}\text{(s) }\rightarrow{}\text{ Al}_{2}\text{O}_{3}\text{(s) + 2Fe(s) }\Delta{}H\text{ = }-\text{850.2 kJ}$
 
 how much energy is given off when 288 g of Fe are produced?
 ```
@@ -288,7 +288,7 @@ how much energy is given off when 288 g of Fe are produced?
 
 Given the thermochemical equation
 
-$\text{2CO2(g) }\rightarrow{}\text{ 2CO(g) + O2(g) }\Delta{}\text{H = 566 kJ}$
+$\text{2CO}_{2}\text{(g) }\rightarrow{}\text{ 2CO(g) + O}_{2}\text{(g) }\Delta{}H\text{ = 566 kJ}$
 
 how much energy is absorbed when 85.2 g of CO<sub>2</sub> are reacted?
 ```
@@ -307,7 +307,7 @@ how much energy is absorbed when 85.2 g of CO<sub>2</sub> are reacted?
 
 Given the thermochemical equation
 
-$\text{2Na+(aq) + SO42}-\text{(aq) }\rightarrow{}\text{ Na2SO4(s) }\Delta{}\text{H = 819.8 kJ}$
+$\text{2Na}^{+}\text{(aq) + SO}_{4}^{2-}\text{(aq) }\rightarrow{}\text{ Na}_{2}\text{SO}_{4}\text{(s) }\Delta{}H\text{ = 819.8 kJ}$
 
 how much energy is absorbed when 55.9 g of Na<sup>+</sup>(aq) are reacted?
 ```
@@ -319,7 +319,7 @@ how much energy is absorbed when 55.9 g of Na<sup>+</sup>(aq) are reacted?
 
 NaHCO<sub>3</sub> decomposes when exposed to heat:
 
-$\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + CO2(g) + H2O(}\ell{}\text{) }\Delta{}\text{H = 91.5 kJ}$
+$\text{2NaHCO}_{3}\text{(s) }\rightarrow{}\text{ Na}_{2}\text{CO}_{3}\text{(s) + CO}_{2}\text{(g) + H}_{2}\text{O(}\ell{}\text{) }\Delta{}H\text{ = 91.5 kJ}$
 
 What mass of NaHCO<sub>3</sub> is decomposed by 256 kJ?
 ```
@@ -338,7 +338,7 @@ What mass of NaHCO<sub>3</sub> is decomposed by 256 kJ?
 
 HgO decomposes when exposed to heat:
 
-$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O2(g) }\Delta{}\text{H = 181.6 kJ}$
+$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O}_{2}\text{(g) }\Delta{}H\text{ = 181.6 kJ}$
 
 What mass of O<sub>2</sub> can be made with 100.0 kJ?
 ```
@@ -350,7 +350,7 @@ What mass of O<sub>2</sub> can be made with 100.0 kJ?
 
 For the thermochemical equation
 
-$\text{Fe2O3(s) + 3SO3(g) }\rightarrow{}\text{ Fe2(SO4)3 (s) }\Delta{}\text{H = }-\text{570.2 kJ}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}\text{ (s) }\Delta{}H\text{ = }-\text{570.2 kJ}$
 
 what mass of SO<sub>3</sub> is needed to generate 1,566 kJ?
 ```
@@ -369,7 +369,7 @@ what mass of SO<sub>3</sub> is needed to generate 1,566 kJ?
 
 For the thermochemical equation
 
-$\text{H2(g) + Br2(}\ell{}\text{) }\rightarrow{}\text{ 2HBr(g) }\Delta{}\text{H = }-\text{72.6 kJ}$
+$\text{H}_{2}\text{(g) + Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ 2HBr(g) }\Delta{}H\text{ = }-\text{72.6 kJ}$
 
 what mass of HBr will be formed when 553 kJ of energy are given off?
 ```

@@ -52,7 +52,7 @@ A reaction with water is called **hydrolysis** (*A reaction with water.*); we sa
 Even the dissolving of an Arrhenius acid in water can be considered a Brønsted-Lowry acid-base reaction. Consider the process of dissolving HCl(g) in water to make an aqueous solution of hydrochloric acid. The process can be written as follows:
 
 $$
-\text{HCl(g) + H2O(}\ell{}\text{) }\rightarrow{}\text{ H3O+(aq) + Cl}-\text{(aq)}
+\text{HCl(g) + H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ H}_{3}\text{O}^{+}\text{(aq) + Cl}^{-}\text{(aq)}
 $$
 
 HCl(g) is the proton donor and therefore a Brønsted-Lowry acid, while H<sub>2</sub>O is the proton acceptor and a Brønsted-Lowry base. These two examples show that H<sub>2</sub>O can act as both a proton donor and a proton acceptor, depending on what other substance is in the chemical reaction. A substance that can act as a proton donor or a proton acceptor is called **amphiprotic** (*A substance that can act as a proton donor or a proton acceptor.*). Water is probably the most common amphiprotic substance we will encounter, but other substances are also amphiprotic.
@@ -64,7 +64,7 @@ HCl(g) is the proton donor and therefore a Brønsted-Lowry acid, while H<sub>2</
 
 Identify the Brønsted-Lowry acid and the Brønsted-Lowry base in this chemical equation.
 
-$\text{C6H5OH + NH2}-\text{ }\rightarrow{}\text{ C6H5O}-\text{ + NH3}$
+$\text{C}_{6}\text{H}_{5}\text{OH + NH}_{2}^{-}\text{ }\rightarrow{}\text{ C}_{6}\text{H}_{5}\text{O}^{-}\text{ + NH}_{3}$
 ```
 
 ```{solution} ex:ball-ch12-s02-n02
@@ -81,7 +81,7 @@ The C<sub>6</sub>H<sub>5</sub>OH molecule is losing an H<sup>+</sup>; it is the 
 
 Identify the Brønsted-Lowry acid and the Brønsted-Lowry base in this chemical equation.
 
-$\text{Al(H2O)63+ + H2O }\rightarrow{}\text{ Al(H2O)5(OH)2+ + H3O+}$
+$\text{Al(H}_{2}\text{O)}_{6}^{3+}\text{ + H}_{2}\text{O }\rightarrow{}\text{ Al(H}_{2}\text{O)}_{5}\text{(OH)}^{2+}\text{ + H}_{3}\text{O}^{+}$
 ```
 
 ```{solution} ex:ball-ch12-s02-n02-ty2
@@ -181,7 +181,7 @@ Many household products are acids or bases. For example, the owner of a swimming
 
 One of the more familiar household bases is NH<sub>3</sub>, which is found in numerous cleaning products. NH<sub>3</sub> is a base because it increases the OH<sup>−</sup> ion concentration by reacting with H<sub>2</sub>O:
 
-$\text{NH3(aq) + H2O(}\ell{}\text{) }\rightarrow{}\text{ NH4+(aq) + OH}-\text{(aq)}$
+$\text{NH}_{3}\text{(aq) + H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ NH}_{4}^{+}\text{(aq) + OH}^{-}\text{(aq)}$
 
 Many soaps are also slightly basic because they contain compounds that act as Brønsted-Lowry bases, accepting protons from H<sub>2</sub>O and forming excess OH<sup>−</sup> ions. This is one explanation for why soap solutions are slippery.
 
@@ -276,7 +276,7 @@ The methoxide ion (CH<sub>3</sub>O<sup>−</sup>) acts as a Brønsted-Lowry base
 
 Identify the Brønsted-Lowry acid and Brønsted-Lowry base in this chemical equation.
 
-$\text{H3PO4 + OH}-\text{ }\rightarrow{}\text{ H2PO4}-\text{ + H2O}$
+$\text{H}_{3}\text{PO}_{4}\text{ + OH}^{-}\text{ }\rightarrow{}\text{ H}_{2}\text{PO}_{4}^{-}\text{ + H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch12-s02-qs01-qd01-qa07
@@ -293,7 +293,7 @@ BL acid: H<sub>3</sub>PO<sub>4</sub>; BL base: OH<sup>−</sup>
 
 Identify the Brønsted-Lowry acid and Brønsted-Lowry base in this chemical equation.
 
-$\text{H2C2O4 + 2F}-\text{ }\rightarrow{}\text{ 2HF + C2O42}-$
+$\text{H}_{2}\text{C}_{2}\text{O}_{4}\text{ + 2F}^{-}\text{ }\rightarrow{}\text{ 2HF + C}_{2}\text{O}_{4}^{2-}$
 ```
 
 ```{exercise}
@@ -303,7 +303,7 @@ $\text{H2C2O4 + 2F}-\text{ }\rightarrow{}\text{ 2HF + C2O42}-$
 
 Predict the products of this reaction, assuming it undergoes a Brønsted-Lowry acid-base reaction.
 
-$\text{HC2H3O2 + C5H5N }\rightarrow{}\text{ ?}$
+$\text{HC}_{2}\text{H}_{3}\text{O}_{2}\text{ + C}_{5}\text{H}_{5}\text{N }\rightarrow{}\text{ ?}$
 ```
 
 ```{solution} ex:ball-ch12-s02-qs01-qd01-qa09
@@ -320,7 +320,7 @@ C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup> and C<sub>5</sub>H<sub>5</
 
 Predict the products of this reaction, assuming it undergoes a Brønsted-Lowry acid-base reaction.
 
-$\text{(C2H5)3N + H2O }\rightarrow{}\text{ ?}$
+$\text{(C}_{2}\text{H}_{5}\text{)}_{3}\text{N + H}_{2}\text{O }\rightarrow{}\text{ ?}$
 ```
 
 ```{exercise}
@@ -376,7 +376,7 @@ What is the conjugate base of H<sub>3</sub>O<sup>+</sup>? of H<sub>2</sub>SO<sub
 
 Identify the conjugate acid-base pairs in this reaction.
 
-$\text{HSO4}-\text{ + PO43}-\text{ }\rightarrow{}\text{ SO42}-\text{ + HPO42}-$
+$\text{HSO}_{4}^{-}\text{ + PO}_{4}^{3-}\text{ }\rightarrow{}\text{ SO}_{4}^{2-}\text{ + HPO}_{4}^{2-}$
 ```
 
 ```{solution} ex:ball-ch12-s02-qs01-qd01-qa15
@@ -393,7 +393,7 @@ HSO<sub>4</sub><sup>−</sup> and SO<sub>4</sub><sup>2−</sup>; PO<sub>4</sub><
 
 Identify the conjugate acid-base pairs in this reaction.
 
-$\text{HClO3 + (C2H5)3N }\rightarrow{}\text{ ClO3}-\text{ + (C2H5)3NH+}$
+$\text{HClO}_{3}\text{ + (C}_{2}\text{H}_{5}\text{)}_{3}\text{N }\rightarrow{}\text{ ClO}_{3}^{-}\text{ + (C}_{2}\text{H}_{5}\text{)}_{3}\text{NH}^{+}$
 ```
 
 ```{exercise}
@@ -403,7 +403,7 @@ $\text{HClO3 + (C2H5)3N }\rightarrow{}\text{ ClO3}-\text{ + (C2H5)3NH+}$
 
 Identify the conjugate acid-base pairs in this reaction.
 
-$\text{NH3 + C6H5O}-\text{ }\rightarrow{}\text{ C6H5OH + NH2}-$
+$\text{NH}_{3}\text{ + C}_{6}\text{H}_{5}\text{O}^{-}\text{ }\rightarrow{}\text{ C}_{6}\text{H}_{5}\text{OH + NH}_{2}^{-}$
 ```
 
 ```{solution} ex:ball-ch12-s02-qs01-qd01-qa17
@@ -420,5 +420,5 @@ NH<sub>3</sub> and NH<sub>2</sub><sup>−</sup>; C<sub>6</sub>H<sub>5</sub>O<sup
 
 Identify the conjugate acid-base pairs in this reaction.
 
-$\text{C5H5NH+ + C2O42}-\text{ }\rightarrow{}\text{ C5H5N + HC2O4}-$
+$\text{C}_{5}\text{H}_{5}\text{NH}^{+}\text{ + C}_{2}\text{O}_{4}^{2-}\text{ }\rightarrow{}\text{ C}_{5}\text{H}_{5}\text{N + HC}_{2}\text{O}_{4}^{-}$
 ```

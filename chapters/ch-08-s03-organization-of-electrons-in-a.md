@@ -57,51 +57,51 @@ Now that we see how electrons are partitioned among the shells and subshells, we
 For example, an H atom has a single electron in the 1*s* subshell. Its electron configuration is
 
 $$
-\text{H: 1s1}
+\text{H: 1}s^{1}
 $$
 
 He has two electrons in the 1*s* subshell. Its electron configuration is
 
 $$
-\text{He: 1s2}
+\text{He: 1}s^{2}
 $$
 
 The three electrons for Li are arranged in the 1*s* subshell (two electrons) and the 2*s* subshell (one electron). The electron configuration of Li is
 
 $$
-\text{Li: 1s22s1}
+\text{Li: 1}s^{2}\text{2}s^{1}
 $$
 
 Be has four electrons, two in the 1*s* subshell and two in the 2*s* subshell. Its electron configuration is
 
 $$
-\text{Be: 1s22s2}
+\text{Be: 1}s^{2}\text{2}s^{2}
 $$
 
 Now that the 2*s* subshell is filled, electrons in larger atoms must go into the 2*p* subshell, which can hold a maximum of six electrons. The next six elements progressively fill up the 2*p* subshell:
 
 $$
-\text{B: 1s22s22p1}
+\text{B: 1}s^{2}\text{2}s^{2}\text{2}p^{1}
 $$
 
 $$
-\text{C: 1s22s22p2}
+\text{C: 1}s^{2}\text{2}s^{2}\text{2}p^{2}
 $$
 
 $$
-\text{N: 1s22s22p3}
+\text{N: 1}s^{2}\text{2}s^{2}\text{2}p^{3}
 $$
 
 $$
-\text{O: 1s22s22p4}
+\text{O: 1}s^{2}\text{2}s^{2}\text{2}p^{4}
 $$
 
 $$
-\text{F: 1s22s22p5}
+\text{F: 1}s^{2}\text{2}s^{2}\text{2}p^{5}
 $$
 
 $$
-\text{Ne: 1s22s22p6}
+\text{Ne: 1}s^{2}\text{2}s^{2}\text{2}p^{6}
 $$
 
 Now that the 2*p* subshell is filled (all possible subshells in the *n* = 2 shell), the next electron for the next-larger atom must go into the *n* = 3 shell, *s* subshell.
@@ -139,7 +139,7 @@ What is the electron configuration for Mg, which has 12 electrons?
 For larger atoms, the electron arrangement becomes more complicated. This is because after the 3*p* subshell is filled, filling the 4*s* subshell first actually leads to a lesser overall energy than filling the 3*d* subshell. Recall that while the principal quantum number largely dictates the energy of an electron, the angular momentum quantum number also has an impact on energy; by the time we get to the 3*d* and 4*s* subshells, we see overlap in the filling of the shells. Thus, after the 3*p* subshell is completely filled (which occurs for Ar), the next electron for K occupies the 4*s* subshell, not the 3*d* subshell:
 
 $$
-\text{K: 1s22s22p63s23p64s1, not 1s22s22p63s23p63d1}
+\text{K: 1}s^{2}\text{2}s^{2}\text{2}p^{6}\text{3}s^{2}\text{3}p^{6}\text{4}s^{1}\text{, }\mathit{not}\text{ 1}s^{2}\text{2}s^{2}\text{2}p^{6}\text{3}s^{2}\text{3}p^{6}\text{3}d^{1}
 $$
 
 For larger and larger atoms, the order of filling the shells and subshells seems to become even more complicated. There are some useful ways to remember the order, like that shown in {ref}`Figure 8.7 "Electron Shell Filling Order" <fig:ch08:s03:f01>`. If you follow the arrows in order, they pass through the subshells in the order that they are filled with electrons in larger atoms. Initially, the order is the same as the expected shell-subshell order, but for larger atoms, there is some shifting around of the principal quantum numbers. However, {ref}`Figure 8.7 "Electron Shell Filling Order" <fig:ch08:s03:f01>` gives a valid ordering of filling subshells with electrons for most atoms.
@@ -167,7 +167,7 @@ What is the predicted electron configuration for Sn, which has 50 electrons?
 
 We will follow the chart in {ref}`Figure 8.7 "Electron Shell Filling Order" <fig:ch08:s03:f01>` until we can accommodate 50 electrons in the subshells in the proper order:
 
-$\text{Sn: 1s22s22p63s23p64s23d104p65s24d105p2}$
+$\text{Sn: 1}s^{2}\text{2}s^{2}\text{2}p^{6}\text{3}s^{2}\text{3}p^{6}\text{4}s^{2}\text{3}d^{10}\text{4}p^{6}\text{5}s^{2}\text{4}d^{10}\text{5}p^{2}$
 
 Verify by adding the superscripts, which indicate the number of electrons: 2 + 2 + 6 + 2 + 6 + 2 + 10 + 6 + 2 + 10 + 2 = 50, so we have placed all 50 electrons in subshells in the proper order.
 ```
@@ -190,13 +190,13 @@ What is the electron configuration for Ba, which has 56 electrons?
 As the previous example demonstrated, electron configurations can get fairly long. An **abbreviated electron configuration** (*An electron configuration that uses one of the noble gases to represent the core of electrons up to that element.*) uses one of the elements from the last column of the periodic table, which contains what are called the *noble gases*, to represent the core of electrons up to that element. Then the remaining electrons are listed explicitly. For example, the abbreviated electron configuration for Li, which has three electrons, would be
 
 $$
-\text{Li: [He]2s1}
+\text{Li: [He]2}s^{1}
 $$
 
 where [He] represents the two-electron core that is equivalent to He’s electron configuration. The square brackets represent the electron configuration of a noble gas. This is not much of an abbreviation. However, consider the abbreviated electron configuration for W, which has 74 electrons:
 
 $$
-\text{W: [Xe]6s24f145d4}
+\text{W: [Xe]6}s^{2}\text{4}f^{14}\text{5}d^{4}
 $$
 
 This is a significant simplification over an explicit listing of all 74 electrons. So for larger elements, the abbreviated electron configuration can be a very useful shorthand.
@@ -215,11 +215,11 @@ What is the abbreviated electron configuration for P, which has 15 electrons?
 
 With 15 electrons, the electron configuration of P is
 
-$\text{P: 1s22s22p63s23p3}$
+$\text{P: 1}s^{2}\text{2}s^{2}\text{2}p^{6}\text{3}s^{2}\text{3}p^{3}$
 
 The first immediate noble gas is Ne, which has an electron configuration of 1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>. Using the electron configuration of Ne to represent the first 10 electrons, the abbreviated electron configuration of P is
 
-$\text{P: [Ne]3s23p3}$
+$\text{P: [Ne]3}s^{2}\text{3}p^{3}$
 ```
 
 ```{exercise}
@@ -240,13 +240,13 @@ What is the abbreviated electron configuration for Rb, which has 37 electrons?
 There are some exceptions to the rigorous filling of subshells by electrons. In many cases, an electron goes from a higher-numbered shell to a lower-numbered but later-filled subshell to fill the later-filled subshell. One example is Ag. With 47 electrons, its electron configuration is predicted to be
 
 $$
-\text{Ag: [Kr]5s24d9}
+\text{Ag: [Kr]5}s^{2}\text{4}d^{9}
 $$
 
 However, experiments have shown that the electron configuration is actually
 
 $$
-\text{Ag: [Kr]5s14d10}
+\text{Ag: [Kr]5}s^{1}\text{4}d^{10}
 $$
 
 This, then, qualifies as an exception to our expectations. At this point, you do not need to memorize the exceptions; but if you come across one, understand that it is an exception to the normal rules of filling subshells with electrons, which can happen.

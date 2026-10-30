@@ -15,7 +15,7 @@ title: "13.1 Chemical Equilibrium"
 Consider the following reaction occurring in a closed container (so that no material can go in or out):
 
 $$
-\text{H2 + I2 }\rightarrow{}\text{ 2HI}
+\text{H}_{2}\text{ + I}_{2}\text{ }\rightarrow{}\text{ 2HI}
 $$
 
 This is simply the reaction between elemental hydrogen and elemental iodine to make hydrogen iodide. The way the equation is written, we are led to believe that the reaction goes to completion, that all the H<sub>2</sub> and the I<sub>2</sub> react to make HI.
@@ -23,7 +23,7 @@ This is simply the reaction between elemental hydrogen and elemental iodine to m
 However, this is not the case. The reverse chemical reaction is also taking place:
 
 $$
-\text{2HI }\rightarrow{}\text{ H2 + I2}
+\text{2HI }\rightarrow{}\text{ H}_{2}\text{ + I}_{2}
 $$
 
 It acts to undo what the first reaction does. Eventually, the reverse reaction proceeds so quickly that it matches the speed of the forward reaction. When that happens, any continued overall reaction stops: the reaction has reached **chemical equilibrium** (*The point at which forward and reverse chemical reactions balance each other’s progress.*) (sometimes just spoken as *equilibrium*; plural *equilibria*), the point at which the forward and reverse processes balance each other’s progress.

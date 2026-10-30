@@ -18,13 +18,13 @@ We have already defined work as a force acting through a distance. It turns out 
 When a certain volume of a gas expands, it works against an external pressure to expand ({ref}`Figure 7.2 "Volume versus Pressure" <fig:ch07:s02:f01>`). That is, the gas must perform work. Assuming that the external pressure *P*<sub>ext</sub> is constant, the amount of work done by the gas is given by the equation
 
 $$
-\text{w = }-\text{Pext }\times{}\text{ }\Delta{}\text{V}
+w\text{ = }-P_{\text{ext}}\text{ }\times{}\text{ }\Delta{}V
 $$
 
 where Δ*V* is the change in volume of the gas. This term is always the final volume minus the initial volume,
 
 $$
-\Delta{}\text{V = Vfinal }-\text{ Vinitial}
+\Delta{}V\text{ = }V_{\text{final}}\text{ }-\text{ }V_{\text{initial}}
 $$
 
 and can be positive or negative, depending on whether *V*<sub>final</sub> is larger (is expanding) or smaller (is contracting) than *V*<sub>initial</sub>. The negative sign in the equation for work is important and implies that as volume expands (Δ*V* is positive), the gas in the system is *losing* energy as work. On the other hand, if the gas is contracting, Δ*V* is negative, and the two negative signs make the work positive, so energy is being added to the system.
@@ -60,11 +60,11 @@ What is the work performed by a gas if it expands from 3.44 L to 6.19 L against 
 
 First we need to determine the change in volume, Δ*V*. A change is always the final value minus the initial value:
 
-$\Delta{}\text{V = Vfinal }-\text{ Vinitial = 6.19 L }-\text{ 3.44 L = 2.75 L}$
+$\Delta{}V\text{ = }V_{\text{final}}\text{ }-\text{ }V_{\text{initial}}\text{ = 6.19 L }-\text{ 3.44 L = 2.75 L}$
 
 Now we can use the definition of work to determine the work done:
 
-$\text{w = }-\text{Pext }\cdot{}\text{ }\Delta{}\text{V = }-\text{(1.26 atm)(2.75 L) = }-\text{3.47 L}\cdot{}\text{atm}$
+$w\text{ = }-P_{\text{ext}}\text{ }\cdot{}\text{ }\Delta{}V\text{ = }-\text{(1.26 atm)(2.75 L) = }-\text{3.47 L}\cdot{}\text{atm}$
 
 Now we construct a conversion factor from the relationship between liter·atmospheres and joules:
 
@@ -101,7 +101,7 @@ $$
 where ∝ means “is proportional to.” To make a proportionality an equality, we include a proportionality constant. In this case, the proportionality constant is labeled *c* and is called the **specific heat capacity** (*The proportionality constant between heat, mass, and temperature change; also called specific heat.*), or, more succinctly, **specific heat**:
 
 $$
-\text{q = mc}\Delta{}\text{T}
+q\text{ = }\mathit{mc}\Delta{}T
 $$
 
 where the mass, specific heat, and change in temperature are multiplied together. Specific heat is a measure of how much energy is needed to change the temperature of a substance; the larger the specific heat, the more energy is needed to change the temperature. The units for specific heat are $\frac{\text{J}}{\text{g}\cdot{}^{\circ}\text{C}}$ or $\frac{\text{J}}{\text{g}\cdot{}\text{K}}$, depending on what the unit of Δ*T* is. You may note a departure from the insistence that temperature be expressed in Kelvin. That is because a *change* in temperature has the same value whether the temperatures are expressed in degrees Celsius or kelvins.
@@ -120,7 +120,7 @@ Calculate the heat involved when 25.0 g of Fe increase temperature from 22°C to
 
 First we need to determine Δ*T*. A change is always the final value minus the initial value:
 
-$\Delta{}\text{T = 76}^{\circ}\text{C }-\text{ 22}^{\circ}\text{C = 54}^{\circ}\text{C}$
+$\Delta{}T\text{ = 76}^{\circ}\text{C }-\text{ 22}^{\circ}\text{C = 54}^{\circ}\text{C}$
 
 Now we can use the expression for *q*, substitute for all variables, and solve for heat:
 
@@ -162,7 +162,7 @@ It takes 5,408 J of heat to raise the temperature of 373 g of Hg by 104°C. What
 
 We can start with the equation for *q*, but now different values are given, and we need to solve for specific heat. Note that Δ*T* is given directly as 104°C. Substituting,
 
-$\text{5,408 J = (373 g)c(104}^{\circ}\text{C)}$
+$\text{5,408 J = (373 g)}c\text{(104}^{\circ}\text{C)}$
 
 We divide both sides of the equation by 373 g and 104°C:
 

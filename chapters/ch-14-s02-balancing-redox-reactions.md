@@ -16,19 +16,19 @@ title: "14.2 Balancing Redox Reactions"
 Balancing simple redox reactions can be a straightforward matter of going back and forth between products and reactants. For example, in the redox reaction of Na and Cl<sub>2</sub>:
 
 $$
-\text{Na + Cl2 }\rightarrow{}\text{ NaCl}
+\text{Na + Cl}_{2}\text{ }\rightarrow{}\text{ NaCl}
 $$
 
 it should be immediately clear that the Cl atoms are not balanced. We can fix this by putting the coefficient 2 in front of the product:
 
 $$
-\text{Na + Cl2 }\rightarrow{}\text{ 2NaCl}
+\text{Na + Cl}_{2}\text{ }\rightarrow{}\text{ 2NaCl}
 $$
 
 However, now the sodium is unbalanced. This can be fixed by including the coefficient 2 in front of the Na reactant:
 
 $$
-\text{2Na + Cl2 }\rightarrow{}\text{ 2NaCl}
+\text{2Na + Cl}_{2}\text{ }\rightarrow{}\text{ 2NaCl}
 $$
 
 This reaction is now balanced. That was fairly straightforward; we say that we are able to balance the reaction *by inspection*. Many simple redox reactions can be balanced by inspection.
@@ -40,7 +40,7 @@ This reaction is now balanced. That was fairly straightforward; we say that we a
 
 Balance this redox reaction by inspection.
 
-$\text{SO2 + O2 }\rightarrow{}\text{ SO3}$
+$\text{SO}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ SO}_{3}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n02
@@ -49,11 +49,11 @@ $\text{SO2 + O2 }\rightarrow{}\text{ SO3}$
 
 There is one S atom on both sides of the equation, so the sulfur is balanced. However, the reactant side has four O atoms while the product side has three. Clearly we need more O atoms on the product side, so let us start by including the coefficient 2 on the SO<sub>3</sub>:
 
-$\text{SO2 + O2 }\rightarrow{}\text{ 2SO3}$
+$\text{SO}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2SO}_{3}$
 
 This now gives us six O atoms on the product side, and it also imbalances the S atoms. We can balance both the elements by adding coefficient 2 on the SO<sub>2</sub> on the reactant side:
 
-$\text{2SO2 + O2 }\rightarrow{}\text{ 2SO3}$
+$\text{2SO}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2SO}_{3}$
 
 This gives us two S atoms on both sides and a total of six O atoms on both sides of the chemical equation. This redox reaction is now balanced.
 ```
@@ -65,7 +65,7 @@ This gives us two S atoms on both sides and a total of six O atoms on both sides
 
 Balance this redox reaction by inspection.
 
-$\text{Al + O2 }\rightarrow{}\text{ Al2O3}$
+$\text{Al + O}_{2}\text{ }\rightarrow{}\text{ Al}_{2}\text{O}_{3}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n02-ty2
@@ -80,7 +80,7 @@ The first thing you should do when encountering an unbalanced redox reaction is 
 Some redox reactions are not easily balanced by inspection. Consider this redox reaction:
 
 $$
-\text{Al + Ag+ }\rightarrow{}\text{ Al3+ + Ag}
+\text{Al + Ag}^{+}\text{ }\rightarrow{}\text{ Al}^{3+}\text{ + Ag}
 $$
 
 At first glance, this equation seems balanced: there is one Ag atom on both sides and one Al atom on both sides. However, if you look at the total charge on each side, there is a charge imbalance: the reactant side has a total charge of 1+, while the product side has a total charge of 3+. Something is amiss with this chemical equation; despite the equal number of atoms on each side, it is not balanced.
@@ -92,13 +92,13 @@ To balance this, we will write each oxidation and reduction reaction separately,
 The oxidation half reaction involves aluminum, which is being oxidized:
 
 $$
-\text{Al }\rightarrow{}\text{ Al3+}
+\text{Al }\rightarrow{}\text{ Al}^{3+}
 $$
 
 This half reaction is not completely balanced because the overall charges on each side are not equal. When an Al atom is oxidized to Al<sup>3+</sup>, it loses three electrons. We can write these electrons explicitly as products:
 
 $$
-\text{Al }\rightarrow{}\text{ Al3+ + 3e}-
+\text{Al }\rightarrow{}\text{ Al}^{3+}\text{ + 3e}^{-}
 $$
 
 Now this half reaction is balanced—in terms of both atoms and charges.
@@ -106,13 +106,13 @@ Now this half reaction is balanced—in terms of both atoms and charges.
 The reduction half reaction involves silver:
 
 $$
-\text{Ag+ }\rightarrow{}\text{ Ag}
+\text{Ag}^{+}\text{ }\rightarrow{}\text{ Ag}
 $$
 
 The overall charge is not balanced on both sides. But we can fix this by adding one electron to the reactant side because the Ag<sup>+</sup> ion must accept one electron to become the neutral Ag atom:
 
 $$
-\text{Ag+ + e}-\text{ }\rightarrow{}\text{ Ag}
+\text{Ag}^{+}\text{ + e}^{-}\text{ }\rightarrow{}\text{ Ag}
 $$
 
 This half reaction is now also balanced.
@@ -120,21 +120,21 @@ This half reaction is now also balanced.
 When combining the two half reactions into a balanced chemical equation, the key is that *the total number of electrons must cancel*, so the number of electrons lost by atoms are equal to the number of electrons gained by other atoms. This may require we multiply one or both half reaction(s) by an integer to make the number of electrons on each side equal. With three electrons as products and one as reactant, the least common multiple of these two numbers is three: we can use a single aluminum reaction but must take three times the silver reaction:
 
 $$
-\text{Al }\rightarrow{}\text{ Al3+ + 3e}-
+\text{Al }\rightarrow{}\text{ Al}^{3+}\text{ + 3e}^{-}
 $$
 
 $$
-\text{3 }\times{}\text{ [Ag+ + e}-\text{ }\rightarrow{}\text{ Ag]}
+\text{3 }\times{}\text{ [Ag}^{+}\text{ + e}^{-}\text{ }\rightarrow{}\text{ Ag]}
 $$
 
 The 3 on the second reaction is distributed to all species in the reaction:
 
 $$
-\text{Al }\rightarrow{}\text{ Al3+ + 3e}-
+\text{Al }\rightarrow{}\text{ Al}^{3+}\text{ + 3e}^{-}
 $$
 
 $$
-\text{3Ag+ + 3e}-\text{ }\rightarrow{}\text{ 3Ag}
+\text{3Ag}^{+}\text{ + 3e}^{-}\text{ }\rightarrow{}\text{ 3Ag}
 $$
 
 Now the two half reactions can be combined just like two algebraic equations, with the arrow serving as the equals sign. The same species on opposite sides of the arrow can be canceled:
@@ -146,7 +146,7 @@ $$
 The net balanced redox reaction is as follows:
 
 $$
-\text{Al + 3Ag+ }\rightarrow{}\text{ Al3+ + 3Ag}
+\text{Al + 3Ag}^{+}\text{ }\rightarrow{}\text{ Al}^{3+}\text{ + 3Ag}
 $$
 
 There is still only one Al atom on each side of the chemical equation, but there are now three Ag atoms, and the total charge on each side of the equation is the same (3+ for both sides). This redox reaction is balanced. It took more effort to use the half reaction method than by inspection, but the correct balanced redox reaction was obtained.
@@ -158,7 +158,7 @@ There is still only one Al atom on each side of the chemical equation, but there
 
 Balance this redox reaction by using the half reaction method.
 
-$\text{Fe2+ + Cr }\rightarrow{}\text{ Fe + Cr3+}$
+$\text{Fe}^{2+}\text{ + Cr }\rightarrow{}\text{ Fe + Cr}^{3+}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n03
@@ -167,21 +167,21 @@ $\text{Fe2+ + Cr }\rightarrow{}\text{ Fe + Cr3+}$
 
 We start by writing the two half reactions. Chromium is being oxidized, and iron is being reduced:
 
-$\text{Cr }\rightarrow{}\text{ Cr3+     oxidation}$
+$\text{Cr }\rightarrow{}\text{ Cr}^{3+}\text{     oxidation}$
 
-$\text{Fe2+ }\rightarrow{}\text{ Fe     reduction}$
+$\text{Fe}^{2+}\text{ }\rightarrow{}\text{ Fe     reduction}$
 
 Then we include the appropriate number of electrons on the proper side to balance the charges for each reaction:
 
-$\text{Cr }\rightarrow{}\text{ Cr3+ + 3e}-$
+$\text{Cr }\rightarrow{}\text{ Cr}^{3+}\text{ + 3e}^{-}$
 
-$\text{Fe2+ + 2e}-\text{ }\rightarrow{}\text{ Fe}$
+$\text{Fe}^{2+}\text{ + 2e}^{-}\text{ }\rightarrow{}\text{ Fe}$
 
 The first reaction involves three electrons, while the second reaction involves two electrons. The least common multiple of these two numbers is six, so to get six electrons in each reaction we need to double the first reaction and triple the second one:
 
-$\text{2 }\times{}\text{ [Cr }\rightarrow{}\text{ Cr3+ + 3e}-\text{] = 2Cr }\rightarrow{}\text{ 2Cr3+ + 6e}-$
+$\text{2 }\times{}\text{ [Cr }\rightarrow{}\text{ Cr}^{3+}\text{ + 3e}^{-}\text{] = 2Cr }\rightarrow{}\text{ 2Cr}^{3+}\text{ + 6e}^{-}$
 
-$\text{3 }\times{}\text{ [Fe2+ + 2e}-\text{ }\rightarrow{}\text{ Fe] = 3Fe2+ + 6e}-\text{ }\rightarrow{}\text{ 3Fe}$
+$\text{3 }\times{}\text{ [Fe}^{2+}\text{ + 2e}^{-}\text{ }\rightarrow{}\text{ Fe] = 3Fe}^{2+}\text{ + 6e}^{-}\text{ }\rightarrow{}\text{ 3Fe}$
 
 We can combine the two final reactions, noting that the electrons cancel:
 
@@ -191,7 +191,7 @@ $$
 
 The overall, balanced redox reaction is
 
-$\text{2Cr + 3Fe2+ }\rightarrow{}\text{ 2Cr3+ + 3Fe}$
+$\text{2Cr + 3Fe}^{2+}\text{ }\rightarrow{}\text{ 2Cr}^{3+}\text{ + 3Fe}$
 ```
 
 ```{exercise}
@@ -201,7 +201,7 @@ $\text{2Cr + 3Fe2+ }\rightarrow{}\text{ 2Cr3+ + 3Fe}$
 
 Balance this redox reaction by using the half reaction method.
 
-$\text{O2}-\text{ + F2 }\rightarrow{}\text{ O2 + F}-$
+$\text{O}^{2-}\text{ + F}_{2}\text{ }\rightarrow{}\text{ O}_{2}\text{ + F}^{-}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n03-ty2
@@ -216,25 +216,25 @@ Many redox reactions occur in aqueous solution—in water. Because of this, in m
 Consider the following oxidation half reaction in aqueous solution, which has one Cr atom on each side:
 
 $$
-\text{Cr3+ }\rightarrow{}\text{ CrO4}-
+\text{Cr}^{3+}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}
 $$
 
 Here, the Cr atom is going from the +3 to the +7 oxidation state. To do this, the Cr atom must lose four electrons. Let us start by listing the four electrons as products:
 
 $$
-\text{Cr3+ }\rightarrow{}\text{ CrO4}-\text{ + 4e}-
+\text{Cr}^{3+}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 4e}^{-}
 $$
 
 But where do the O atoms come from? They come from water molecules or a common fragment of a water molecule that contains an O atom: the OH<sup>−</sup> ion. When we balance this half reaction, we should feel free to include either of these species in the reaction to balance the elements. Let us use H<sub>2</sub>O to balance the O atoms; we need to include four water molecules to balance the four O atoms in the products:
 
 $$
-\text{4H2O + Cr3+ }\rightarrow{}\text{ CrO4}-\text{ + 4e}-
+\text{4H}_{2}\text{O + Cr}^{3+}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 4e}^{-}
 $$
 
 This balances the O atoms, but now introduces hydrogen to the reaction. We can balance the H atoms by adding an H<sup>+</sup> ion, which is another fragment of the water molecule. We need to add eight H<sup>+</sup> ions to the product side:
 
 $$
-\text{4H2O + Cr3+ }\rightarrow{}\text{ CrO4}-\text{ + 4e}-\text{ + 8H+}
+\text{4H}_{2}\text{O + Cr}^{3+}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 4e}^{-}\text{ + 8H}^{+}
 $$
 
 The Cr atoms are balanced, the O atoms are balanced, and the H atoms are balanced; if we check the total charge on both sides of the chemical equation, they are the same (3+, in this case). This half reaction is now balanced, using water molecules and parts of water molecules as reactants and products.
@@ -250,7 +250,7 @@ Unless otherwise noted, it does not matter if you add H<sub>2</sub>O or OH<sup>�
 
 Balance this redox reaction. Assume a basic solution.
 
-$\text{MnO2 + CrO3}-\text{ }\rightarrow{}\text{ Mn + CrO4}-$
+$\text{MnO}_{2}\text{ + CrO}_{3}^{-}\text{ }\rightarrow{}\text{ Mn + CrO}_{4}^{-}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n04
@@ -259,63 +259,63 @@ $\text{MnO2 + CrO3}-\text{ }\rightarrow{}\text{ Mn + CrO4}-$
 
 We start by separating the oxidation and reduction processes so we can balance each half reaction separately. The oxidation reaction is as follows:
 
-$\text{CrO3}-\text{ }\rightarrow{}\text{ CrO4}-$
+$\text{CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}$
 
 The Cr atom is going from a +5 to a +7 oxidation state and loses two electrons in the process. We add those two electrons to the product side:
 
-$\text{CrO3}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-$
+$\text{CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}$
 
 Now we must balance the O atoms. Because the solution is basic, we should use OH<sup>−</sup> rather than H<sub>2</sub>O:
 
-$\text{OH}-\text{ + CrO3}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-$
+$\text{OH}^{-}\text{ + CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}$
 
 We have introduced H atoms as part of the reactants; we can balance them by adding H<sup>+</sup> as products:
 
-$\text{OH}-\text{ + CrO3}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-\text{ + H+}$
+$\text{OH}^{-}\text{ + CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}\text{ + H}^{+}$
 
 If we check the atoms and the overall charge on both sides, we see that this reaction is balanced. However, if the reaction is occurring in a basic solution, it is unlikely that H<sup>+</sup> ions will be present in quantity. The way to address this is to add an additional OH<sup>−</sup> ion to each side of the equation:
 
-$\text{OH}-\text{ + CrO3}-\text{ + OH}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-\text{ + H+ + OH}-$
+$\text{OH}^{-}\text{ + CrO}_{3}^{-}\text{ + OH}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}\text{ + H}^{+}\text{ + OH}^{-}$
 
 The two OH<sup>−</sup> ions on the left side can be grouped together as 2OH<sup>−</sup>. On the right side, the H<sup>+</sup> and OH<sup>−</sup> ions can be grouped into an H<sub>2</sub>O molecule:
 
-$\text{2OH}-\text{ + CrO3}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-\text{ + H2O}$
+$\text{2OH}^{-}\text{ + CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}\text{ + H}_{2}\text{O}$
 
 This is a more appropriate form for a basic solution.
 
 Now we balance the reduction reaction:
 
-$\text{MnO2 }\rightarrow{}\text{ Mn}$
+$\text{MnO}_{2}\text{ }\rightarrow{}\text{ Mn}$
 
 The Mn atom is going from +4 to 0 in oxidation number, which requires a gain of four electrons:
 
-$\text{4e}-\text{ + MnO2 }\rightarrow{}\text{ Mn}$
+$\text{4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ Mn}$
 
 Then we balance the O atoms and then the H atoms:
 
-$\text{4e}-\text{ + MnO2 }\rightarrow{}\text{ Mn + 2OH}-$
+$\text{4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ Mn + 2OH}^{-}$
 
-$\text{2H+ + 4e}-\text{ + MnO2 }\rightarrow{}\text{ Mn + 2OH}-$
+$\text{2H}^{+}\text{ + 4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ Mn + 2OH}^{-}$
 
 We add two OH<sup>−</sup> ions to each side to eliminate the H<sup>+</sup> ion in the reactants; the reactant species combine to make two water molecules, and the number of OH<sup>−</sup> ions in the product increases to four:
 
-$\text{2H2O + 4e}-\text{ + MnO2 }\rightarrow{}\text{ Mn + 4OH}-$
+$\text{2H}_{2}\text{O + 4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ Mn + 4OH}^{-}$
 
 This reaction is balanced for a basic solution.
 
 Now we combine the two balanced half reactions. The oxidation reaction has two electrons, while the reduction reaction has four. The least common multiple of these two numbers is four, so we multiply the oxidation reaction by 2 so that the electrons are balanced:
 
-$\text{2 }\times{}\text{ [2OH}-\text{ + CrO3}-\text{ }\rightarrow{}\text{ CrO4}-\text{ + 2e}-\text{ + H2O]}$
+$\text{2 }\times{}\text{ [2OH}^{-}\text{ + CrO}_{3}^{-}\text{ }\rightarrow{}\text{ CrO}_{4}^{-}\text{ + 2e}^{-}\text{ + H}_{2}\text{O]}$
 
-$\text{2H2O + 4e}-\text{ + MnO2 }\rightarrow{}\text{ Mn + 4OH}-$
+$\text{2H}_{2}\text{O + 4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ Mn + 4OH}^{-}$
 
 Combining these two equations results in the following equation:
 
-$\text{4OH}-\text{ + 2CrO3}-\text{ + 2H2O + 4e}-\text{ + MnO2 }\rightarrow{}\text{ 2CrO4}-\text{ + 4e}-\text{ + 2H2O + Mn + 4OH}-$
+$\text{4OH}^{-}\text{ + 2CrO}_{3}^{-}\text{ + 2H}_{2}\text{O + 4e}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ 2CrO}_{4}^{-}\text{ + 4e}^{-}\text{ + 2H}_{2}\text{O + Mn + 4OH}^{-}$
 
 The four electrons cancel. So do the two H<sub>2</sub>O molecules and the four OH<sup>−</sup> ions. What remains is
 
-$\text{2CrO3}-\text{ + MnO2 }\rightarrow{}\text{ 2CrO4}-\text{ + Mn}$
+$\text{2CrO}_{3}^{-}\text{ + MnO}_{2}\text{ }\rightarrow{}\text{ 2CrO}_{4}^{-}\text{ + Mn}$
 
 which is our final balanced redox reaction.
 ```
@@ -327,7 +327,7 @@ which is our final balanced redox reaction.
 
 Balance this redox reaction. Assume a basic solution.
 
-$\text{Cl}-\text{ + MnO4}-\text{ }\rightarrow{}\text{ MnO2 + ClO3}-$
+$\text{Cl}^{-}\text{ + MnO}_{4}^{-}\text{ }\rightarrow{}\text{ MnO}_{2}\text{ + ClO}_{3}^{-}$
 ```
 
 ```{solution} ex:ball-ch14-s02-n04-ty2
@@ -532,7 +532,7 @@ b. VO<sub>2</sub><sup>+</sup> + NO → V<sup>3+</sup> + NO<sub>2</sub>
 
 Explain why this chemical equation is not balanced and balance it if it can be balanced.
 
-$\text{Cr2+ + Cl2 }\rightarrow{}\text{ Cr3+ + 2Cl}-$
+$\text{Cr}^{2+}\text{ + Cl}_{2}\text{ }\rightarrow{}\text{ Cr}^{3+}\text{ + 2Cl}^{-}$
 ```
 
 ```{solution} ex:ball-ch14-s02-qs01-qd01-qa13
@@ -549,5 +549,5 @@ The charges are not properly balanced. The correct balanced equation is 2Cr<sup>
 
 Explain why this equation is not balanced and balance it if it can be balanced.
 
-$\text{O2 + 2H2O + Br2 }\rightarrow{}\text{ 4OH}-\text{ + 2Br}-$
+$\text{O}_{2}\text{ + 2H}_{2}\text{O + Br}_{2}\text{ }\rightarrow{}\text{ 4OH}^{-}\text{ + 2Br}^{-}$
 ```

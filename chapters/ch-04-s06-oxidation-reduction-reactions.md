@@ -16,7 +16,7 @@ title: "4.6 Oxidation-Reduction Reactions"
 Consider this chemical reaction:
 
 $$
-\text{2Na(s) + Cl2(g) }\rightarrow{}\text{ 2NaCl}
+\text{2Na(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ 2NaCl}
 $$
 
 The reactants are elements, and it is assumed that they are electrically neutral; they have the same number of electrons as protons. The product, however, is ionic; it is composed of Na<sup>+</sup> and Cl<sup>−</sup> ions. Somehow, the individual sodium atoms as reactants had to lose an electron to make the Na<sup>+</sup> ion, while the chlorine atoms as reactants had to each gain an electron to become the Cl<sup>−</sup> ion. This reaction involves the *transfer of electrons* between atoms.
@@ -54,11 +54,11 @@ Assign oxidation numbers to the atoms in each substance.
 2. By rule 3, oxygen is normally assigned an oxidation number of −2. For the sum of the oxidation numbers to equal the charge on the species (which is zero), the silicon atom is assigned an oxidation number of +4.
 3. The compound barium nitrate can be separated into two parts: the Ba<sup>2+</sup> ion and the nitrate ion. Considering these separately, the Ba<sup>2+</sup> ion has an oxidation number of +2 by rule 2. Now consider the NO<sub>3</sub><sup>−</sup> ion. Oxygen is assigned an oxidation number of −2, and there are three oxygens. According to rule 4, the sum of the oxidation number on all atoms must equal the charge on the species, so we have the simple algebraic equation
 
-   $\text{x + 3(}-\text{2) = }-\text{1}$
+   $x\text{ + 3(}-\text{2) = }-\text{1}$
 
    where *x* is the oxidation number of the nitrogen atom and −1 represents the charge on the species. Evaluating,
 
-   $\text{x + (}-\text{6) = }-\text{1}$ $\text{x = +5}$
+   $x\text{ + (}-\text{6) = }-\text{1}$ $x\text{ = +5}$
 
    Thus, the oxidation number on the N atom in the nitrate ion is +5.
 ```
@@ -87,7 +87,7 @@ All redox reactions occur with a simultaneous change in the oxidation numbers of
 
 Identify what is being oxidized and reduced in this redox equation.
 
-$\text{2Na + Cl2 }\rightarrow{}\text{ 2NaCl}$
+$\text{2Na + Cl}_{2}\text{ }\rightarrow{}\text{ 2NaCl}$
 ```
 
 ```{solution} ex:ball-ch04-s06-n03
@@ -120,7 +120,7 @@ Because oxidation numbers are changing, this is a redox reaction. Note that the 
 
 Identify what is being oxidized and reduced in this redox equation.
 
-$\text{C + O2 }\rightarrow{}\text{ CO2}$
+$\text{C + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}$
 ```
 
 ```{solution} ex:ball-ch04-s06-n03-ty2
@@ -199,7 +199,7 @@ Many foods and beverages contain acids. Acids impart a sour note to the taste of
 
 Is the reaction
 
-$\text{2K(s) + Br2(}\ell{}\text{) }\rightarrow{}\text{ 2KBr(s)}$
+$\text{2K(s) + Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ 2KBr(s)}$
 
 an oxidation-reduction reaction? Explain your answer.
 ```
@@ -218,7 +218,7 @@ Yes; both K and Br are changing oxidation numbers.
 
 Is the reaction
 
-$\text{NaCl(aq) + AgNO3(aq) }\rightarrow{}\text{ NaNO3(aq) + AgCl(s)}$
+$\text{NaCl(aq) + AgNO}_{3}\text{(aq) }\rightarrow{}\text{ NaNO}_{3}\text{(aq) + AgCl(s)}$
 
 an oxidation-reduction reaction? Explain your answer.
 ```
@@ -230,7 +230,7 @@ an oxidation-reduction reaction? Explain your answer.
 
 In the reaction
 
-$\text{2Ca(s) + O2(g) }\rightarrow{}\text{ 2CaO}$
+$\text{2Ca(s) + O}_{2}\text{(g) }\rightarrow{}\text{ 2CaO}$
 
 indicate what has lost electrons and what has gained electrons.
 ```
@@ -249,7 +249,7 @@ Ca has lost electrons, and O has gained electrons.
 
 In the reaction
 
-$\text{16Fe(s) + 3S8(s) }\rightarrow{}\text{ 8Fe2S3(s)}$
+$\text{16Fe(s) + 3S}_{8}\text{(s) }\rightarrow{}\text{ 8Fe}_{2}\text{S}_{3}\text{(s)}$
 
 indicate what has lost electrons and what has gained electrons.
 ```
@@ -261,7 +261,7 @@ indicate what has lost electrons and what has gained electrons.
 
 In the reaction
 
-$\text{2Li(s) + O2(g) }\rightarrow{}\text{ Li2O2(s)}$
+$\text{2Li(s) + O}_{2}\text{(g) }\rightarrow{}\text{ Li}_{2}\text{O}_{2}\text{(s)}$
 
 indicate what has been oxidized and what has been reduced.
 ```
@@ -280,7 +280,7 @@ Li has been oxidized, and O has been reduced.
 
 In the reaction
 
-$\text{2Ni(s) + 3I2(s) }\rightarrow{}\text{ 2NiI3(s)}$
+$\text{2Ni(s) + 3I}_{2}\text{(s) }\rightarrow{}\text{ 2NiI}_{3}\text{(s)}$
 
 indicate what has been oxidized and what has been reduced.
 ```
@@ -423,7 +423,7 @@ d. Au
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{2NO + Cl2 }\rightarrow{}\text{ 2NOCl}$
+$\text{2NO + Cl}_{2}\text{ }\rightarrow{}\text{ 2NOCl}$
 ```
 
 ```{solution} ex:ball-ch04-s06-qs01-qd01-qa15
@@ -440,7 +440,7 @@ N is being oxidized, and Cl is being reduced.
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{Fe + SO3 }\rightarrow{}\text{ FeSO3}$
+$\text{Fe + SO}_{3}\text{ }\rightarrow{}\text{ FeSO}_{3}$
 ```
 
 ```{exercise}
@@ -450,7 +450,7 @@ $\text{Fe + SO3 }\rightarrow{}\text{ FeSO3}$
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{2KrF2 + 2H2O }\rightarrow{}\text{ 2Kr + 4HF + O2}$
+$\text{2KrF}_{2}\text{ + 2H}_{2}\text{O }\rightarrow{}\text{ 2Kr + 4HF + O}_{2}$
 ```
 
 ```{solution} ex:ball-ch04-s06-qs01-qd01-qa17
@@ -467,7 +467,7 @@ O is being oxidized, and Kr is being reduced.
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{SO3 + SCl2 }\rightarrow{}\text{ SOCl2 + SO2}$
+$\text{SO}_{3}\text{ + SCl}_{2}\text{ }\rightarrow{}\text{ SOCl}_{2}\text{ + SO}_{2}$
 ```
 
 ```{exercise}
@@ -477,7 +477,7 @@ $\text{SO3 + SCl2 }\rightarrow{}\text{ SOCl2 + SO2}$
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{2K + MgCl2 }\rightarrow{}\text{ 2KCl + Mg}$
+$\text{2K + MgCl}_{2}\text{ }\rightarrow{}\text{ 2KCl + Mg}$
 ```
 
 ```{solution} ex:ball-ch04-s06-qs01-qd01-qa19
@@ -494,5 +494,5 @@ K is being oxidized, and Mg is being reduced.
 
 Identify what is being oxidized and reduced in this redox equation by assigning oxidation numbers to the atoms.
 
-$\text{C7H16 + 11O2 }\rightarrow{}\text{ 7CO2 + 8H2O}$
+$\text{C}_{7}\text{H}_{16}\text{ + 11O}_{2}\text{ }\rightarrow{}\text{ 7CO}_{2}\text{ + 8H}_{2}\text{O}$
 ```

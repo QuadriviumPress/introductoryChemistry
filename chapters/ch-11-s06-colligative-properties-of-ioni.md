@@ -18,7 +18,7 @@ There is a complicating factor: ionic solutes separate into ions when they disso
 For example, when NaCl dissolves, it separates into two ions:
 
 $$
-\text{NaCl(s) }\rightarrow{}\text{ Na+(aq) + Cl}-\text{(aq)}
+\text{NaCl(s) }\rightarrow{}\text{ Na}^{+}\text{(aq) + Cl}^{-}\text{(aq)}
 $$
 
 This means that a 1 M solution of NaCl actually has a net particle concentration of 2 M. The observed colligative property will then be twice as large as expected for a 1 M solution.
@@ -55,7 +55,7 @@ Predict the van’t Hoff factor for Sr(OH)<sub>2</sub>.
 
 When Sr(OH)<sub>2</sub> dissolves, it separates into one Sr<sup>2+</sup> ion and two OH<sup>−</sup> ions:
 
-$\text{Sr(OH)2 }\rightarrow{}\text{ Sr2+(aq) + 2OH}-\text{(aq)}$
+$\text{Sr(OH)}_{2}\text{ }\rightarrow{}\text{ Sr}^{2+}\text{(aq) + 2OH}^{-}\text{(aq)}$
 
 Because it breaks up into three ions, its van’t Hoff factor is 3.
 ```
@@ -80,15 +80,15 @@ It is the “ideal” van’t Hoff factor because this is what we expect from th
 Revised equations to calculate the effect of ionization are then easily produced:
 
 $$
-\Delta{}\text{Tb = imKb}
+\Delta{}T_{\text{b}}\text{ = }\mathit{imK}_{\text{b}}
 $$
 
 $$
-\Delta{}\text{Tf = imKg}
+\Delta{}T_{\text{f}}\text{ = }\mathit{imK}_{\text{g}}
 $$
 
 $$
-\Pi{}\text{ = iMRT}
+\Pi{}\text{ = }\mathit{iMRT}
 $$
 
 where all variables have been previously defined. To calculate vapor pressure depression according to Raoult’s law, the mole fraction of solvent particles must be recalculated to take into account the increased number of particles formed on ionization.
@@ -107,7 +107,7 @@ Determine the freezing point of a 1.77 *m* solution of NaCl in H<sub>2</sub>O.
 
 For NaCl, we need to remember to include the van’t Hoff factor, which is 2. Otherwise, the calculation of the freezing point is straightforward:
 
-$\Delta{}\text{Tf = (2)(1.77 m)(1.86}^{\circ}\text{C/m) = 6.58}^{\circ}\text{C}$
+$\Delta{}T_{\text{f}}\text{ = (2)(1.77 }m\text{)(1.86}^{\circ}\text{C/}m\text{) = 6.58}^{\circ}\text{C}$
 
 This represents the change in the freezing point, which is decreasing. So we have to subtract this change from the normal freezing point of water, 0.00°C:
 
@@ -135,9 +135,9 @@ When cooking dried pasta, many recipes call for salting the water before cooking
 
 To judge the veracity of this claim, we can calculate how much salt should be added to the water to raise the boiling temperature by 1.0°C, with the presumption that dried pasta cooks noticeably faster at 101°C than at 100°C (although a 1° difference may make only a negligible change in cooking times). We can calculate the molality that the water should have:
 
-$\text{1.0}^{\circ}\text{C = m(0.512}^{\circ}\text{C/m)}$
+$\text{1.0}^{\circ}\text{C = }m\text{(0.512}^{\circ}\text{C/}m\text{)}$
 
-$\text{m = 1.95}$
+$m\text{ = 1.95}$
 
 We have ignored the van’t Hoff factor in our estimation because this obviously is not a dilute solution. Let us further assume that we are using 4 L of water (which is very close to 4 qt, which in turn equals 1 gal). Because 4 L of water is about 4 kg (it is actually slightly less at 100°C), we can determine how much salt (NaCl) to add:
 

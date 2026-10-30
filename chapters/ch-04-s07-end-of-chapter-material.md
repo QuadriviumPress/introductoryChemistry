@@ -38,7 +38,7 @@ Chemical equations can also be used to represent physical processes. Write a che
 
 Explain why
 
-$\text{4Na(s) + 2Cl2(g) }\rightarrow{}\text{ 4NaCl(s)}$
+$\text{4Na(s) + 2Cl}_{2}\text{(g) }\rightarrow{}\text{ 4NaCl(s)}$
 
 should not be considered a proper chemical equation.
 ```
@@ -57,7 +57,7 @@ The coefficients are not in their lowest whole-number ratio.
 
 Explain why
 
-$\text{H2(g) + 1/2O2(g) }\rightarrow{}\text{ H2O(}\ell{}\text{)}$
+$\text{H}_{2}\text{(g) + 1/2O}_{2}\text{(g) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{)}$
 
 should not be considered a proper chemical equation.
 ```
@@ -69,7 +69,7 @@ should not be considered a proper chemical equation.
 
 Does the chemical reaction represented by
 
-$\text{3Zn(s) + 2Al(NO3)3(aq) }\rightarrow{}\text{ 3Zn(NO3)2(aq) + 2Al(s)}$
+$\text{3Zn(s) + 2Al(NO}_{3}\text{)}_{3}\text{(aq) }\rightarrow{}\text{ 3Zn(NO}_{3}\text{)}_{2}\text{(aq) + 2Al(s)}$
 
 proceed as written? Why or why not?
 ```
@@ -88,7 +88,7 @@ No; zinc is lower in the activity series than aluminum.
 
 Does the chemical reaction represented by
 
-$\text{2Au(s) + 2HNO3(aq) }\rightarrow{}\text{ 2AuNO3(aq) + H2(g)}$
+$\text{2Au(s) + 2HNO}_{3}\text{(aq) }\rightarrow{}\text{ 2AuNO}_{3}\text{(aq) + H}_{2}\text{(g)}$
 
 proceed as written? Gold is a relatively useful metal for certain applications, such as jewelry and electronics. Does your answer suggest why this is so?
 ```
@@ -117,7 +117,7 @@ In the products, the cation is pairing with the cation, and the anion is pairing
 
 Predict the products of and balance this double-replacement reaction.
 
-$\text{Ag2SO4(aq) + SrCl2(aq) }\rightarrow{}\text{ ?}$
+$\text{Ag}_{2}\text{SO}_{4}\text{(aq) + SrCl}_{2}\text{(aq) }\rightarrow{}\text{ ?}$
 ```
 
 ```{exercise}
@@ -127,7 +127,7 @@ $\text{Ag2SO4(aq) + SrCl2(aq) }\rightarrow{}\text{ ?}$
 
 Write the complete and net ionic equations for this double-replacement reaction.
 
-$\text{BaCl2(aq) + Ag2SO4(aq) }\rightarrow{}\text{ ?}$
+$\text{BaCl}_{2}\text{(aq) + Ag}_{2}\text{SO}_{4}\text{(aq) }\rightarrow{}\text{ ?}$
 ```
 
 ```{solution} ex:ball-ch04-s07-qs01-qd01-qa09
@@ -146,7 +146,7 @@ Net ionic equation: The net ionic equation is the same as the complete ionic equ
 
 Write the complete and net ionic equations for this double-replacement reaction.
 
-$\text{Ag2SO4(aq) + SrCl2(aq) }\rightarrow{}\text{ ?}$
+$\text{Ag}_{2}\text{SO}_{4}\text{(aq) + SrCl}_{2}\text{(aq) }\rightarrow{}\text{ ?}$
 ```
 
 ```{exercise}
@@ -173,7 +173,7 @@ Each ion is a spectator ion; there is no overall net ionic equation.
 
 Complete this reaction and identify the spectator ions. What is the net ionic equation?
 
-$\text{3H2SO4(aq) + 2Al(OH)3(s) }\rightarrow{}\text{ ?}$
+$\text{3H}_{2}\text{SO}_{4}\text{(aq) + 2Al(OH)}_{3}\text{(s) }\rightarrow{}\text{ ?}$
 ```
 
 ```{exercise}
@@ -299,7 +299,7 @@ g. Na<sub>2</sub>S
 
 Disproportion is a type of redox reaction in which the same substance is both oxidized and reduced. Identify the element that is disproportionating and indicate the initial and final oxidation numbers of that element.
 
-$\text{2CuCl(aq) }\rightarrow{}\text{ CuCl2(aq) + Cu(s)}$
+$\text{2CuCl(aq) }\rightarrow{}\text{ CuCl}_{2}\text{(aq) + Cu(s)}$
 ```
 
 ```{solution} ex:ball-ch04-s07-qs01-qd01-qa21
@@ -316,5 +316,5 @@ Copper is disproportionating. Initially, its oxidation number is +1; in the prod
 
 Disproportion is a type of redox reaction in which the same substance is both oxidized and reduced. Identify the element that is disproportionating and indicate the initial and final oxidation numbers of that element.
 
-$\text{3Cl2(g) + 6OH}-\text{(aq) }\rightarrow{}\text{ 5Cl}-\text{(aq) + ClO3}-\text{(aq) + 3H2O(}\ell{}\text{)}$
+$\text{3Cl}_{2}\text{(g) + 6OH}^{-}\text{(aq) }\rightarrow{}\text{ 5Cl}^{-}\text{(aq) + ClO}_{3}^{-}\text{(aq) + 3H}_{2}\text{O(}\ell{}\text{)}$
 ```

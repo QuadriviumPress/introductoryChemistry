@@ -25,7 +25,7 @@ Consider the following example. Suppose we have 100.0 g of tritium (a radioactiv
 Radioactive Decay. During each successive half-life, half of the initial amount will radioactively decay.
 ```
 
-We can determine the amount of a radioactive isotope remaining after a given number half-lives by using the following expression:
+We can determine the amount of a radioactive isotope remaining after a given number of half-lives by using the following expression:
 
 $$
 \text{amount remaining}=\text{initial amount}\times{}{(\frac{1}{2})}^{n}
@@ -114,13 +114,13 @@ The average human body experiences about 8,000 radioactive decays/s.
 Most of the radioactivity in the human body comes from potassium-40 and carbon-14. Potassium and carbon are two elements that we absolutely cannot live without, so unless we can remove all the radioactive isotopes of these elements, there is no way to escape at least some radioactivity. There is debate about which radioactive element is more problematic. There is more potassium-40 in the body than carbon-14, and it has a much longer half-life. Potassium-40 also decays with about 10 times more energy than carbon-14, making each decay potentially more problematic. However, carbon is the element that makes up the backbone of most living molecules, making carbon-14 more likely to be present around important molecules, such as proteins and DNA molecules. Most experts agree that while it is foolhardy to expect absolutely no exposure to radioactivity, we can and should minimize exposure to excess radioactivity.
 ```
 
-What if the elapsed time is not an exact number of half-lives? We can still calculate the amount of material we have left, but the equation is more complicated. The equation is
+The amount remaining can also be calculated from the elapsed time directly, without first converting that time into a number of half-lives. The equation is
 
 $$
 \text{amount remaining = (amount initially) }\times{}\,{e}^{-0.693t/{t}_{1/2}}
 $$
 
-where *e* is the base of natural logarithms (2.71828182…), *t* is the elapsed time, and *t*<sub>1/2</sub> is the half-life of the radioactive isotope. The variables *t* and *t*<sub>1/2</sub> should have the same units of time, and you may need to make sure you know how to evaluate natural-logarithm powers on your calculator (for many calculators, there is an “inverse logarithm” function that you can use; consult your instructor if you are not sure how to use your calculator). Although this is a more complicated formula, the length of time *t* need not be an exact multiple of half-lives.
+where *e* is the base of natural logarithms (2.71828182…), *t* is the elapsed time, and *t*<sub>1/2</sub> is the half-life of the radioactive isotope. The variables *t* and *t*<sub>1/2</sub> should have the same units of time, and you may need to make sure you know how to evaluate natural-logarithm powers on your calculator (for many calculators, there is an “inverse logarithm” function that you can use; consult your instructor if you are not sure how to use your calculator). This is the same relationship as the expression above, with *n* = *t* / *t*<sub>1/2</sub>. The elapsed time does not have to be an exact multiple of the half-life.
 
 ```{exercise}
 :label: ex:ball-ch15-s02-n04
@@ -136,11 +136,11 @@ The half-life of fluorine-20 is 11.0 s. If a sample initially contains 5.00 g of
 
 Although similar to Example 3, the amount of time is not an exact multiple of a half-life. Here we identify the initial amount as 5.00 g, *t* = 60.0 s, and *t*<sub>1/2</sub> = 11.0 s. Substituting into the equation:
 
-$\text{amount remaining = (5.00 g) }\times{}\text{ e}-\text{(0.693)(60.0 s)/11.0 s}$
+$\text{amount remaining = (5.00 g) }\times{}\text{ }e^{-\text{(0.693)(60.0 s)/11.0 s}}$
 
 Evaluating the exponent (and noting that the *s* units cancel), we get
 
-$\text{amount remaining = (5.00 g) }\times{}\text{ e}-\text{3.78}$
+$\text{amount remaining = (5.00 g) }\times{}\text{ }e^{-3.78}$
 
 Solving, the amount remaining is 0.114 g. (You may want to verify this answer to confirm that you are using your calculator properly.)
 ```

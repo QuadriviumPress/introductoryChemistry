@@ -365,15 +365,57 @@ def display_math(el: Tag) -> bool:
     return bool(math is not None and math.get("display") == "block")
 
 
+def script_body(node: Tag) -> str:
+    """Turn a superscript or subscript into TeX, keeping the sign on the script."""
+    text = clean_text(node.get_text()).strip().replace("−", "-").replace("–", "-").replace("—", "-")
+    if re.fullmatch(r"[+\-]?\d+(?:\.\d+)?(?:/\d+)?|\d+[+\-]|[+\-]", text):
+        return text
+    return mathphrase_tex(node)
+
+
+def mathphrase_tex(node) -> str:
+    """Render a mathphrase, including its sup and sub tags.
+
+    get_text() drops those tags, which turned 10^4 into 104 and 10^-7 into 10 minus 7.
+    """
+    chunks: list[str] = []
+    children = node.children if isinstance(node, Tag) else [node]
+    for child in children:
+        chunks.append(phrase_piece(child))
+    return "".join(chunks)
+
+
+def phrase_piece(node) -> str:
+    if isinstance(node, NavigableString):
+        raw = clean_text(str(node))
+        return render_rich_text(raw) if raw else ""
+    if not isinstance(node, Tag):
+        return ""
+    kind = classes(node)
+    if node.name == "sup" or "superscript" in kind:
+        body = script_body(node)
+        return "^{" + body + "}" if body else ""
+    if node.name == "sub" or "subscript" in kind:
+        body = script_body(node)
+        return "_{" + body + "}" if body else ""
+    if node.name in ("em", "i") or "emphasis" in kind:
+        raw = clean_text(node.get_text()).strip()
+        if re.fullmatch(r"[A-Za-z]", raw):
+            return raw
+        if re.fullmatch(r"[A-Za-z]+", raw):
+            return r"\mathit{" + raw + "}"
+        return r"\text{" + text_escape(raw) + "}" if raw else ""
+    if node.name == "br":
+        return r"\\"
+    return mathphrase_tex(node)
+
+
 def render_math(el: Tag, ctx: Ctx, force_display: bool = False) -> str:
     math = el if el.name == "math" else el.find("math")
     if math is None:
         phrase = el.find(class_="mathphrase")
         if phrase is not None:
-            raw = clean_text(phrase.get_text()).strip()
-            if not raw:
-                return ""
-            tex = render_rich_text(raw)
+            tex = mathphrase_tex(phrase).strip()
         else:
             return ""
     else:
@@ -423,6 +465,8 @@ def copy_image(ctx: Ctx, src: str) -> str:
             raise FileNotFoundError(src_path)
         shutil.copy2(src_path, dest)
         normalize_image(dest)
+        if name == "86495288d4baa241709baaed0454b93a.jpg":
+            correct_electronegativity_figure(dest)
         ctx.copied.add(name)
     rel = os.path.relpath(dest, ctx.out_file.parent)
     return Path(rel).as_posix()
@@ -1003,6 +1047,57 @@ def render_paragraph(el: Tag, ctx: Ctx) -> str:
     return target_line(ctx, el.get("id")) + "\n\n".join(parts)
 
 
+def correct_electronegativity_figure(dest: Path) -> None:
+    """Figure 9.2 gives boron as 1.5 and sulfur as 3.5. Pauling values here are 2.0 and 2.5.
+
+    The 2.0 is copied from the arsenic cell in the same figure, and sulfur's 3 is
+    replaced with that same 2. Runs on the freshly copied source image.
+    """
+    from PIL import Image
+
+    image = Image.open(dest).convert("RGB")
+    pixels = image.load()
+    # Copy glyphs before any pixels are overwritten.
+    arsenic = image.crop((1565, 618, 1622, 651))
+    two = image.crop((1565, 618, 1585, 651))
+    # Boron "1.5" sits at the bottom of its cell. Clear it, then center "2.0".
+    for y in range(318, 363):
+        for x in range(1328, 1396):
+            pixels[x, y] = (255, 255, 255)
+    image.paste(arsenic, (1334, 325))
+    # Sulfur's first digit is 3. Clear it and paste the 2, keeping ".5".
+    for y in range(468, 508):
+        for x in range(1682, 1710):
+            pixels[x, y] = (255, 255, 255)
+    image.paste(two, (1686, 473))
+    image.save(dest, "JPEG", quality=90, optimize=True)
+
+
+def apply_content_corrections(text: str) -> str:
+    """Corrections to the Saylor HTML that the conversion would otherwise preserve."""
+    replacements = {
+        "the number of neurons": "the number of neutrons",
+        "a given number half-lives": "a given number of half-lives",
+        "The change is mass is determined": "The change in mass is determined",
+        "The smallest nucleus that exhibits spontaneous fission is lead-208. (Fission is the radioactive process used in nuclear power plants and one type of nuclear bomb.)":
+        "Lead-208 is stable and does not fission spontaneously; measurable spontaneous fission occurs in much heavier nuclei, such as isotopes of uranium. (The fission used in nuclear power plants and in one type of nuclear bomb is induced by a neutron, rather than spontaneous.)",
+        "What if the elapsed time is not an exact number of half-lives? We can still calculate the amount of material we have left, but the equation is more complicated. The equation is":
+        "The amount remaining can also be calculated from the elapsed time directly, without first converting that time into a number of half-lives. The equation is",
+        "Although this is a more complicated formula, the length of time *t* need not be an exact multiple of half-lives.":
+        "This is the same relationship as the expression above, with *n* = *t* / *t*<sub>1/2</sub>. The elapsed time does not have to be an exact multiple of the half-life.",
+        "| 0–0.4 | slightly polar covalent |\n| 0.4–1.9 | definitely polar covalent |\n| >1.9 | likely ionic |":
+        "| >0–0.4 | slightly polar covalent |\n| >0.4–1.9 | definitely polar covalent |\n| >1.9 | likely ionic |\n\nA difference of 0.4 is slightly polar covalent. The cutoff at 1.9 is only a guide: a bond between a metal and a nonmetal is ionic even when the difference is smaller. Sodium and iodine differ by 1.6 on this scale, and sodium iodide is an ionic compound.",
+        r"\text{)(0.08205)(298)}^{-2}": r"\text{)[(0.08205)(298)]}^{-2}",
+        "In the spontaneous fission of lead-208, the following reaction occurs:":
+        "Lead-208 does not spontaneously fission. Use this hypothetical equation to practice the mass-energy calculation:",
+        "In the spontaneous fission of radium-226, the following reaction occurs:":
+        "Radium-226 decays by alpha emission, not by the split below. Use the equation to practice the mass-energy calculation:",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return text
+
+
 def convert_page(html_path: Path, out_path: Path, ctx: Ctx) -> str:
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "lxml")
     content = soup.select_one("#book-content")
@@ -1032,7 +1127,7 @@ def convert_page(html_path: Path, out_path: Path, ctx: Ctx) -> str:
         footer = "\n\n" + "\n\n".join(lines)
     text = "\n".join(header) + "\n" + body + footer + "\n"
     text = re.sub(r"\n{3,}", "\n\n", text)
-    return text
+    return apply_content_corrections(text)
 
 
 def is_section(name: str) -> bool:

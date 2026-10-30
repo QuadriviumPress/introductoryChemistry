@@ -17,7 +17,7 @@ Three classifications of chemical reactions will be reviewed in this section. Pr
 A **composition reaction** (*A chemical reaction in which a single substance is produced from multiple reactants.*) (sometimes also called a *combination reaction* or a *synthesis reaction*) produces a single substance from multiple reactants. A single substance as a product is the key characteristic of the composition reaction. There may be a coefficient other than one for the substance, but if the reaction has only a single substance as a product, it can be called a composition reaction. In the reaction
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 water is produced from hydrogen and oxygen. Although there are two molecules of water being produced, there is only one substance—water—as a product. So this is a composition reaction.
@@ -25,7 +25,7 @@ water is produced from hydrogen and oxygen. Although there are two molecules of 
 A **decomposition reaction** (*A chemical reaction in which a single substance becomes more than one substance.*) starts from a single substance and produces more than one substance; that is, it decomposes. One substance as a reactant and more than one substance as the products is the key characteristic of a decomposition reaction. For example, in the decomposition of sodium hydrogen carbonate (also known as sodium bicarbonate),
 
 $$
-\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + CO2(g) + H2O(}\ell{}\text{)}
+\text{2NaHCO}_{3}\text{(s) }\rightarrow{}\text{ Na}_{2}\text{CO}_{3}\text{(s) + CO}_{2}\text{(g) + H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 sodium carbonate, carbon dioxide, and water are produced from the single substance sodium hydrogen carbonate.
@@ -60,7 +60,7 @@ Identify each equation as a composition reaction, a decomposition reaction, or n
 
 Identify the equation as a composition reaction, a decomposition reaction, or neither.
 
-$\text{C3H8 }\rightarrow{}\text{ C3H4 + 2H2}$
+$\text{C}_{3}\text{H}_{8}\text{ }\rightarrow{}\text{ C}_{3}\text{H}_{4}\text{ + 2H}_{2}$
 ```
 
 ```{solution} ex:ball-ch04-s04-n02-ty2
@@ -73,25 +73,25 @@ decomposition
 A **combustion reaction** (*A chemical reaction in which a reactant combines with oxygen to produce oxides of all other elements as products.*) occurs when a reactant combines with oxygen, many times from the atmosphere, to produce oxides of all other elements as products; any nitrogen in the reactant is converted to elemental nitrogen, N<sub>2</sub>. Many reactants, called *fuels*, contain mostly carbon and hydrogen atoms, reacting with oxygen to produce CO<sub>2</sub> and H<sub>2</sub>O. For example, the balanced chemical equation for the combustion of methane, CH<sub>4</sub>, is as follows:
 
 $$
-\text{CH4 + 2O2 }\rightarrow{}\text{ CO2 + 2H2O}
+\text{CH}_{4}\text{ + 2O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + 2H}_{2}\text{O}
 $$
 
 Kerosene can be approximated with the formula C<sub>12</sub>H<sub>26</sub>, and its combustion equation is
 
 $$
-\text{2C12H26 + 37O2 }\rightarrow{}\text{ 24CO2 + 26H2O}
+\text{2C}_{12}\text{H}_{26}\text{ + 37O}_{2}\text{ }\rightarrow{}\text{ 24CO}_{2}\text{ + 26H}_{2}\text{O}
 $$
 
 Sometimes fuels contain oxygen atoms, which must be counted when balancing the chemical equation. One common fuel is ethanol, C<sub>2</sub>H<sub>5</sub>OH, whose combustion equation is
 
 $$
-\text{C2H5OH + 3O2 }\rightarrow{}\text{ 2CO2 + 3H2O}
+\text{C}_{2}\text{H}_{5}\text{OH + 3O}_{2}\text{ }\rightarrow{}\text{ 2CO}_{2}\text{ + 3H}_{2}\text{O}
 $$
 
 If nitrogen is present in the original fuel, it is converted to N<sub>2</sub>, not to a nitrogen-oxygen compound. Thus, for the combustion of the fuel dinitroethylene, whose formula is C<sub>2</sub>H<sub>2</sub>N<sub>2</sub>O<sub>4</sub>, we have
 
 $$
-\text{2C2H2N2O4 + O2 }\rightarrow{}\text{ 4CO2 + 2H2O + 2N2}
+\text{2C}_{2}\text{H}_{2}\text{N}_{2}\text{O}_{4}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 4CO}_{2}\text{ + 2H}_{2}\text{O + 2N}_{2}
 $$
 
 ```{exercise}
@@ -111,18 +111,18 @@ Complete and balance each combustion equation.
 
 1. The products of the reaction are CO<sub>2</sub> and H<sub>2</sub>O, so our unbalanced equation is
 
-   $\text{C3H8 + O2 }\rightarrow{}\text{ CO2 + H2O}$
+   $\text{C}_{3}\text{H}_{8}\text{ + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + H}_{2}\text{O}$
 
    Balancing (and you may have to go back and forth a few times to balance this), we get
 
-   $\text{C3H8 + 5O2 }\rightarrow{}\text{ 3CO2 + 4H2O}$
+   $\text{C}_{3}\text{H}_{8}\text{ + 5O}_{2}\text{ }\rightarrow{}\text{ 3CO}_{2}\text{ + 4H}_{2}\text{O}$
 2. The nitrogen atoms in ammonia will react to make N<sub>2</sub>, while the hydrogen atoms will react with O<sub>2</sub> to make H<sub>2</sub>O:
 
-   $\text{NH3 + O2 }\rightarrow{}\text{ N2 + H2O}$
+   $\text{NH}_{3}\text{ + O}_{2}\text{ }\rightarrow{}\text{ N}_{2}\text{ + H}_{2}\text{O}$
 
    To balance this equation without fractions (which is the convention), we get
 
-   $\text{4NH3 + 3O2 }\rightarrow{}\text{ 2N2 + 6H2O}$
+   $\text{4NH}_{3}\text{ + 3O}_{2}\text{ }\rightarrow{}\text{ 2N}_{2}\text{ + 6H}_{2}\text{O}$
 ```
 
 ```{exercise}

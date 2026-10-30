@@ -66,7 +66,7 @@ In the quantum-mechanical model of an atom, the state of an electron is describe
 Within a shell, there may be multiple possible values of the next quantum number, the **angular momentum quantum number** (*An index that affects the energy and the spatial distribution of an electron in an atom. Represented by ℓ.*) (ℓ). The ℓ quantum number has a minor effect on the energy of the electron but also affects the spatial distribution of the electron in three-dimensional space—that is, the shape of an electron’s distribution in space. The value of the ℓ quantum number can be any integer between 0 and *n* − 1:
 
 $$
-\ell{}\text{ = 0, 1, 2,…, n }-\text{ 1}
+\ell{}\text{ = 0, 1, 2,…, }n\text{ }-\text{ 1}
 $$
 
 Thus, for a given value of *n*, there are different possible values of ℓ:
@@ -90,7 +90,7 @@ and so forth. Electrons within a shell that have the same value of ℓ are said 
 The next quantum number is called the **magnetic quantum number** (*The index that determines the orientation of the electron’s spatial distribution. Represented by ${m}_{\ell{}}$.*) (*m*<sub>ℓ</sub>). For any value of ℓ, there are 2ℓ + 1 possible values of *m*<sub>ℓ</sub>, ranging from −ℓ to ℓ:
 
 $$
--\ell{}\text{ }\leq{}\text{ m}\ell{}\text{ }\leq{}\text{ }\ell{}
+-\ell{}\text{ }\leq{}\text{ }m_{\ell{}}\text{ }\leq{}\text{ }\ell{}
 $$
 
 or

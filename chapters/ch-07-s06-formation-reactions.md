@@ -19,25 +19,25 @@ But what are the benchmark reactions? We need to have some agreed-on sets of rea
 **Formation reactions** (*A chemical reaction that forms one mole of a substance from its constituent elements in their standard states.*) are chemical reactions that form one mole of a substance from its constituent elements in their standard states. By *standard states* we mean as a diatomic molecule if that is how the element exists and the proper phase at normal temperatures (typically room temperature). The product is one mole of substance, which may require that coefficients on the reactant side be fractional (a change from our normal insistence that all coefficients be whole numbers). For example, the formation reaction for methane (CH<sub>4</sub>) is
 
 $$
-\text{C(s) + 2H2(g) }\rightarrow{}\text{ CH4(g)}
+\text{C(s) + 2H}_{2}\text{(g) }\rightarrow{}\text{ CH}_{4}\text{(g)}
 $$
 
 The formation reaction for carbon dioxide (CO<sub>2</sub>) is
 
 $$
-\text{C(s) + O2(g) }\rightarrow{}\text{ CO2(g)}
+\text{C(s) + O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g)}
 $$
 
 In both cases, one of the elements is a diatomic molecule because that is the standard state for that particular element. The formation reaction for H<sub>2</sub>O—
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 —is *not* in a standard state because the coefficient on the product is 2; for a proper formation reaction, only one mole of product is formed. Thus, we have to divide all coefficients by 2:
 
 $$
-\text{H2(g) + 1/2O2(g) }\rightarrow{}\text{ H2O(}\ell{}\text{)}
+\text{H}_{2}\text{(g) + 1/2O}_{2}\text{(g) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 On a molecular scale, we are using half of an oxygen molecule, which may be problematic to visualize. However, on a molar level, it implies that we are reacting only half of a mole of oxygen molecules, which should be an easy concept for us to understand.
@@ -70,7 +70,7 @@ Which of the following are proper formation reactions?
 
 Is this a proper formation reaction? Explain why or why not.
 
-$\text{2Fe(s) + 3P(s) + 12O(g) }\rightarrow{}\text{ Fe2(PO4)3(s)}$
+$\text{2Fe(s) + 3P(s) + 12O(g) }\rightarrow{}\text{ Fe}_{2}\text{(PO}_{4}\text{)}_{3}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch07-s06-n02-ty2
@@ -115,7 +115,7 @@ Write the equation for the formation of CaCO<sub>3</sub>(s).
 :label: sol:ball-ch07-s06-n03-ty2
 :class: dropdown
 
-$\text{Ca(s) + C(s) + 3/2O2(g) }\rightarrow{}\text{ CaCO3(s)}$
+$\text{Ca(s) + C(s) + 3/2O}_{2}\text{(g) }\rightarrow{}\text{ CaCO}_{3}\text{(s)}$
 ```
 
 The enthalpy change for a formation reaction is called the **enthalpy of formation** (*The enthalpy change for a formation reaction; denoted $\Delta{}{H}_{\text{f}}$.*) and is given the symbol Δ*H*<sub>f</sub>. The subscript *f* is the clue that the reaction of interest is a formation reaction. Thus, for the formation of FeO(s),
@@ -127,7 +127,7 @@ $$
 Note that now we are using kJ/mol as the unit because it is understood that the enthalpy change is for one mole of substance. Note, too, by definition, that the enthalpy of formation of an element is exactly zero because making an element from an element is no change. For example,
 
 $$
-\text{H2(g) }\rightarrow{}\text{ H2(g)     }\Delta{}\text{Hf = 0}
+\text{H}_{2}\text{(g) }\rightarrow{}\text{ H}_{2}\text{(g)     }\Delta{}H_{\text{f}}\text{ = 0}
 $$
 
 Formation reactions and their enthalpies are important because *these are the thermochemical data that are tabulated* for any chemical reaction. {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>` lists some enthalpies of formation for a variety of substances; in some cases, however, phases can be important (e.g., for H<sub>2</sub>O).
@@ -135,7 +135,7 @@ Formation reactions and their enthalpies are important because *these are the th
 It is easy to show that any general chemical equation can be written in terms of the formation reactions of its reactants and products, some of them reversed (which means the sign must change in accordance with Hess’s law). For example, consider
 
 $$
-\text{2NO2(g) }\rightarrow{}\text{ N2O4(g)}
+\text{2NO}_{2}\text{(g) }\rightarrow{}\text{ N}_{2}\text{O}_{4}\text{(g)}
 $$
 
 We can write it in terms of the (reverse) formation reaction of NO<sub>2</sub> and the formation reaction of N<sub>2</sub>O<sub>4</sub>:
@@ -192,7 +192,7 @@ We must multiply the first reaction by 2 to get the correct overall balanced equ
 
 Show that the reaction
 
-$\text{Fe2O3(s) + 3SO3(g) }\rightarrow{}\text{ Fe2(SO4)3(s)}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}\text{(s)}$
 
 can be written as a combination of formation reactions.
 ```
@@ -211,11 +211,11 @@ $$
 \text{3}\times{}[{\text{SO}}_{\text{3}}\text{(g)}\rightarrow{}\text{S(s)}+\frac{3}{2}{\text{O}}_{\text{2}}\text{(g)}]
 $$
 
-$\text{2Fe(s) + 3S(s) + 6O2(g) }\rightarrow{}\text{ Fe2(SO4)3(s)}$
+$\text{2Fe(s) + 3S(s) + 6O}_{2}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}\text{(s)}$
 
 When these three equations are combined and simplified, the overall reaction is
 
-$\text{Fe2O3(s) + 3SO3(s) }\rightarrow{}\text{ Fe2(SO4)3(s)}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(s) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}\text{(s)}$
 ```
 
 ```{exercise}
@@ -225,7 +225,7 @@ $\text{Fe2O3(s) + 3SO3(s) }\rightarrow{}\text{ Fe2(SO4)3(s)}$
 
 Write the formation reactions that will yield
 
-$\text{2SO2(g) + O2(g) }\rightarrow{}\text{ 2SO3(g).}$
+$\text{2SO}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2SO}_{3}\text{(g).}$
 ```
 
 ```{solution} ex:ball-ch07-s06-n04-ty2
@@ -279,7 +279,7 @@ $$
 
 All the mol units cancel. Multiplying and combining all the values, we get
 
-$\Delta{}\text{Hrxn = }-\text{112.0 kJ}$
+$\Delta{}H_{\text{rxn}}\text{ = }-\text{112.0 kJ}$
 ```
 
 ```{exercise}
@@ -485,7 +485,7 @@ c. PCl<sub>5</sub>(g)
 
 Write this reaction in terms of formation reactions.
 
-$\text{MgCO3(s) }\rightarrow{}\text{ MgO(s) + CO2(g)}$
+$\text{MgCO}_{3}\text{(s) }\rightarrow{}\text{ MgO(s) + CO}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch07-s06-qs01-qd01-qa11
@@ -506,7 +506,7 @@ C(s) + O<sub>2</sub>(g) → CO<sub>2</sub>(g)
 
 Write this reaction in terms of formation reactions.
 
-$\text{2NO + 4NO2 }\rightarrow{}\text{ 2N2O5 + N2}$
+$\text{2NO + 4NO}_{2}\text{ }\rightarrow{}\text{ 2N}_{2}\text{O}_{5}\text{ + N}_{2}$
 ```
 
 ```{exercise}
@@ -516,7 +516,7 @@ $\text{2NO + 4NO2 }\rightarrow{}\text{ 2N2O5 + N2}$
 
 Write this reaction in terms of formation reactions.
 
-$\text{2CuCl(s) }\rightarrow{}\text{ Cu(s) + CuCl2(s)}$
+$\text{2CuCl(s) }\rightarrow{}\text{ Cu(s) + CuCl}_{2}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch07-s06-qs01-qd01-qa13
@@ -537,7 +537,7 @@ Cu(s) + Cl<sub>2</sub>(g) → CuCl<sub>2</sub>(s)
 
 Write this reaction in terms of formation reactions.
 
-$\text{SiH4 + 4F2 }\rightarrow{}\text{ SiF4 + 4HF}$
+$\text{SiH}_{4}\text{ + 4F}_{2}\text{ }\rightarrow{}\text{ SiF}_{4}\text{ + 4HF}$
 ```
 
 ```{exercise}
@@ -547,7 +547,7 @@ $\text{SiH4 + 4F2 }\rightarrow{}\text{ SiF4 + 4HF}$
 
 Determine the enthalpy change of this reaction. Data can be found in {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>`.
 
-$\text{CH2O(g) + O2 }\rightarrow{}\text{ CO2(g) + H2O(}\ell{}\text{)}$
+$\text{CH}_{2}\text{O(g) + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{(g) + H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{solution} ex:ball-ch07-s06-qs01-qd01-qa15
@@ -564,7 +564,7 @@ $\text{CH2O(g) + O2 }\rightarrow{}\text{ CO2(g) + H2O(}\ell{}\text{)}$
 
 Determine the enthalpy change of this reaction. Data can be found in {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>`.
 
-$\text{2AgBr(s) + Cl2(g) }\rightarrow{}\text{ 2AgCl(s) + Br2(}\ell{}\text{)}$
+$\text{2AgBr(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ 2AgCl(s) + Br}_{2}\text{(}\ell{}\text{)}$
 ```
 
 ```{exercise}
@@ -574,7 +574,7 @@ $\text{2AgBr(s) + Cl2(g) }\rightarrow{}\text{ 2AgCl(s) + Br2(}\ell{}\text{)}$
 
 Determine the enthalpy change of this reaction. Data can be found in {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>`.
 
-$\text{Mg(s) + N2O5(g) }\rightarrow{}\text{ MgO(s) + 2NO2(g)}$
+$\text{Mg(s) + N}_{2}\text{O}_{5}\text{(g) }\rightarrow{}\text{ MgO(s) + 2NO}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch07-s06-qs01-qd01-qa17
@@ -591,5 +591,5 @@ $\text{Mg(s) + N2O5(g) }\rightarrow{}\text{ MgO(s) + 2NO2(g)}$
 
 Determine the enthalpy change of this reaction. Data can be found in {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>`.
 
-$\text{2C6H6(}\ell{}\text{) + 15O2(g) }\rightarrow{}\text{ 12CO2(g) + 6H2O(}\ell{}\text{)}$
+$\text{2C}_{6}\text{H}_{6}\text{(}\ell{}\text{) + 15O}_{2}\text{(g) }\rightarrow{}\text{ 12CO}_{2}\text{(g) + 6H}_{2}\text{O(}\ell{}\text{)}$
 ```

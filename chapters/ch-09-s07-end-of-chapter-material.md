@@ -136,7 +136,7 @@ Which bond do you expect to be more polar—an O–F bond or an S–O bond?
 
 Use bond energies to estimate the energy change of this reaction.
 
-$\text{C3H8 + 5O2 }\rightarrow{}\text{ 3CO2 + 4H2O}$
+$\text{C}_{3}\text{H}_{8}\text{ + 5O}_{2}\text{ }\rightarrow{}\text{ 3CO}_{2}\text{ + 4H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch09-s07-qs01-qd01-qa11
@@ -153,7 +153,7 @@ $\text{C3H8 + 5O2 }\rightarrow{}\text{ 3CO2 + 4H2O}$
 
 Use bond energies to estimate the energy change of this reaction.
 
-$\text{N2H4 + O2 }\rightarrow{}\text{ N2 + 2H2O}$
+$\text{N}_{2}\text{H}_{4}\text{ + O}_{2}\text{ }\rightarrow{}\text{ N}_{2}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{exercise}

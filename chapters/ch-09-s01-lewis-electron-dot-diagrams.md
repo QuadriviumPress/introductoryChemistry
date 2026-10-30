@@ -173,7 +173,7 @@ What is the Lewis electron dot diagram for each ion?
 
 1. Having lost its two original valence electrons, the Lewis electron dot diagram is just Ca<sup>2+</sup>.
 
-   $\text{Ca2+}$
+   $\text{Ca}^{2+}$
 2. The O<sup>2−</sup> ion has gained two electrons in its valence shell, so its Lewis electron dot diagram is as follows:
 
    ![9.1 Lewis Electron Dot Diagrams](../images/figures/a47af21b6febb3e8f155b6c7d9756f60.jpg)

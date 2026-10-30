@@ -130,7 +130,7 @@ What is the volume of 0.662 mol of He if the density of He is 0.1785 g/L?
 
 For the chemical reaction
 
-$\text{2C4H10(g) + 13O2(g) }\rightarrow{}\text{ 8CO2(g) + 10H2O(}\ell{}\text{)}$
+$\text{2C}_{4}\text{H}_{10}\text{(g) + 13O}_{2}\text{(g) }\rightarrow{}\text{ 8CO}_{2}\text{(g) + 10H}_{2}\text{O(}\ell{}\text{)}$
 
 assume that 13.4 g of C<sub>4</sub>H<sub>10</sub> reacts completely to products. The density of CO<sub>2</sub> is 1.96 g/L. What volume in liters of CO<sub>2</sub> is produced?
 ```
@@ -149,7 +149,7 @@ assume that 13.4 g of C<sub>4</sub>H<sub>10</sub> reacts completely to products.
 
 For the chemical reaction
 
-$\text{2GaCl3(s) + 3H2(g) }\rightarrow{}\text{ 2Ga(}\ell{}\text{) + 6HCl(g)}$
+$\text{2GaCl}_{3}\text{(s) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2Ga(}\ell{}\text{) + 6HCl(g)}$
 
 if 223 g of GaCl<sub>3</sub> reacts completely to products and the density of Ga is 6.08 g/mL, what volume in milliliters of Ga is produced?
 ```
@@ -161,7 +161,7 @@ if 223 g of GaCl<sub>3</sub> reacts completely to products and the density of Ga
 
 Calculate the mass of each product when 100.0 g of CuCl react according to the reaction
 
-$\text{2CuCl(aq) }\rightarrow{}\text{ CuCl2(aq) + Cu(s)}$
+$\text{2CuCl(aq) }\rightarrow{}\text{ CuCl}_{2}\text{(aq) + Cu(s)}$
 
 What do you notice about the sum of the masses of the products? What concept is being illustrated here?
 ```
@@ -180,7 +180,7 @@ What do you notice about the sum of the masses of the products? What concept is 
 
 Calculate the mass of each product when 500.0 g of SnCl<sub>2</sub> react according to the reaction
 
-$\text{2SnCl2(aq) }\rightarrow{}\text{ SnCl4(aq) + Sn(s)}$
+$\text{2SnCl}_{2}\text{(aq) }\rightarrow{}\text{ SnCl}_{4}\text{(aq) + Sn(s)}$
 
 What do you notice about the sum of the masses of the products? What concept is being illustrated here?
 ```

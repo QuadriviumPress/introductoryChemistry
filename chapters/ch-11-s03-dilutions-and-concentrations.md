@@ -28,13 +28,13 @@ $$
 A simpler way of writing this is to use *M* to represent molarity and *V* to represent volume. So the equation becomes
 
 $$
-\text{moles of solute = MV}
+\text{moles of solute = }\mathit{MV}
 $$
 
 Because this quantity does not change before and after the change in concentration, the product *MV* must be the same before and after the concentration change. Using numbers to represent the initial and final conditions, we have
 
 $$
-\text{M1V1 = M2V2}
+M_{1}V_{1}\text{ = }M_{2}V_{2}
 $$
 
 as the **dilution equation** (*The mathematical formula for calculating new concentrations or volumes when a solution is diluted or concentrated.*). The volumes must be expressed in the same units. Note that this equation gives only the initial and final conditions, not the amount of the change. The amount of change is determined by subtraction.
@@ -53,11 +53,11 @@ If 25.0 mL of a 2.19 M solution are diluted to 72.8 mL, what is the final concen
 
 It does not matter which set of conditions is labeled 1 or 2, as long as the conditions are paired together properly. Using the dilution equation, we have
 
-$\text{(2.19 M)(25.0 mL) = M2(72.8 mL)}$
+$\text{(2.19 M)(25.0 mL) = }M_{2}\text{(72.8 mL)}$
 
 Solving for the second concentration (noting that the milliliter units cancel),
 
-$\text{M2 = 0.752 M}$
+$M_{2}\text{ = 0.752 M}$
 
 The concentration of the solution has decreased. In going from 25.0 mL to 72.8 mL, 72.8 − 25.0 = 47.8 mL of solvent must be added.
 ```
@@ -87,9 +87,9 @@ Not likely. It is more probable that the aide must make the proper solution from
 
 If the stock solution is 10.0% KCl and the final volume and concentration need to be 100 mL and 0.50%, respectively, then it is an easy calculation to determine how much stock solution to use:
 
-$\text{(10}\%\text{)V1 = (0.50}\%\text{)(100 mL)}$
+$\text{(10}\%\text{)}V_{1}\text{ = (0.50}\%\text{)(100 mL)}$
 
-$\text{V1 = 5 mL}$
+$V_{1}\text{ = 5 mL}$
 
 Of course, the addition of the stock solution affects the total volume of the diluted solution, but the final concentration is likely close enough even for medical purposes.
 

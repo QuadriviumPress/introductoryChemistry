@@ -39,13 +39,13 @@ and so forth. Again, the value of the exponent is equal to the number of zeros i
 A number is expressed in scientific notation by writing the first nonzero digit, then a decimal point, and then the rest of the digits. The part of a number in scientific notation that is multiplied by a power of 10 is called the **coefficient** (*The part of a number in scientific notation that is multiplied by a power of 10.*). Then determine the power of 10 needed to make that number into the original number and multiply the written number by the proper power of 10. For example, to write 79,345 in scientific notation,
 
 $$
-\text{79,345 = 7.9345 }\times{}\text{ 10,000 = 7.9345 }\times{}\text{ 104}
+\text{79,345 = 7.9345 }\times{}\text{ 10,000 = 7.9345 }\times{}\text{ 10}^{4}
 $$
 
 Thus, the number in scientific notation is 7.9345 × 10<sup>4</sup>. For small numbers, the same process is used, but the exponent for the power of 10 is negative:
 
 $$
-\text{0.000411 = 4.11 }\times{}\text{ 1/10,000 = 4.11 }\times{}\text{ 10}-\text{4}
+\text{0.000411 = 4.11 }\times{}\text{ 1/10,000 = 4.11 }\times{}\text{ 10}^{-4}
 $$
 
 Typically, the extra zero digits at the end or the beginning of a number are not included. (See Figure 2.1 "Using Scientific Notation".)

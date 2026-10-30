@@ -33,7 +33,7 @@ The key to recognizing which reactant is the limiting reagent is based on a mole
 For example, consider this reaction:
 
 $$
-\text{4As(s) + 3O2(g) }\rightarrow{}\text{ 2As2O3(s)}
+\text{4As(s) + 3O}_{2}\text{(g) }\rightarrow{}\text{ 2As}_{2}\text{O}_{3}\text{(s)}
 $$
 
 Suppose we start a reaction with 50.0 g of As and 50.0 g of O<sub>2</sub>. Which one is the limiting reagent? We need to perform two mole-mass calculations, each assuming that each reactant reacts completely. Then we compare the amount of the product produced by each and determine which is less.
@@ -65,7 +65,7 @@ $$
 Because we reacted 16.0 g of our original O<sub>2</sub>, we subtract that from the original amount, 50.0 g, to get the mass of O<sub>2</sub> remaining:
 
 $$
-\text{50.0 g O2 }-\text{ 16.0 g O2 reacted = 34.0 g O2 left over}
+\text{50.0 g O}_{2}\text{ }-\text{ 16.0 g O}_{2}\text{ reacted = 34.0 g O}_{2}\text{ left over}
 $$
 
 You must remember to perform this final subtraction to determine the amount remaining; a common error is to report the 16.0 g as the amount remaining.
@@ -77,7 +77,7 @@ You must remember to perform this final subtraction to determine the amount rema
 
 A 5.00 g quantity of Rb are combined with 3.44 g of MgCl<sub>2</sub> according to this chemical reaction:
 
-$\text{2Rb(s) + MgCl2(s) }\rightarrow{}\text{ Mg(s) + 2RbCl(s)}$
+$\text{2Rb(s) + MgCl}_{2}\text{(s) }\rightarrow{}\text{ Mg(s) + 2RbCl(s)}$
 
 What mass of Mg is formed, and what mass of what reactant is left over?
 ```
@@ -104,7 +104,7 @@ $$
 
 Because we started with 3.44 g of MgCl<sub>2</sub>, we have
 
-$\text{3.44 g MgCl2 }-\text{ 2.78 g MgCl2 reacted = 0.66 g MgCl2 left}$
+$\text{3.44 g MgCl}_{2}\text{ }-\text{ 2.78 g MgCl}_{2}\text{ reacted = 0.66 g MgCl}_{2}\text{ left}$
 ```
 
 ```{exercise}
@@ -195,7 +195,7 @@ Given the statement â€œthe metal is heated in the presence of excess hydrogen,â€
 
 Acetylene (C<sub>2</sub>H<sub>2</sub>) is formed by reacting 7.08 g of C and 4.92 g of H<sub>2</sub>.
 
-$\text{2C(s) + H2(g) }\rightarrow{}\text{ C2H2(g)}$
+$\text{2C(s) + H}_{2}\text{(g) }\rightarrow{}\text{ C}_{2}\text{H}_{2}\text{(g)}$
 
 What is the limiting reagent? How much of the other reactant is in excess?
 ```
@@ -214,7 +214,7 @@ C is the limiting reagent; 4.33 g of H<sub>2</sub> are left over.
 
 Ethane (C<sub>2</sub>H<sub>6</sub>) is formed by reacting 7.08 g of C and 4.92 g of H<sub>2</sub>.
 
-$\text{2C(s) + 3H2(g) }\rightarrow{}\text{ C2H6(g)}$
+$\text{2C(s) + 3H}_{2}\text{(g) }\rightarrow{}\text{ C}_{2}\text{H}_{6}\text{(g)}$
 
 What is the limiting reagent? How much of the other reactant is in excess?
 ```

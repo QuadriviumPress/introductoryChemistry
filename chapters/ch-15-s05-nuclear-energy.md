@@ -23,13 +23,13 @@ If we compare the mass of the reactant (235.0439) to the masses of the products 
 According to Albert Einstein’s theory of relativity, energy (*E*) and mass (*m*) are related by the following equation:
 
 $$
-\text{E = mc2}
+E\text{ = }\mathit{mc}^{2}
 $$
 
 where *c* is the speed of light, or 3.00 × 10<sup>8</sup> m/s. In the course of the chemical reaction for uranium, the mass difference is converted to energy, which is given off by the reaction:
 
 $$
-\text{E = (}-\text{0.0001834 kg)(3.00 }\times{}\text{ 108 m/s)2 = }-\text{1.65 }\times{}\text{ 1013 J = }-\text{1.65 }\times{}\text{ 1010 kJ}
+E\text{ = (}-\text{0.0001834 kg)(3.00 }\times{}\text{ 10}^{8}\text{ m/s)}^{2}\text{ = }-\text{1.65 }\times{}\text{ 10}^{13}\text{ J = }-\text{1.65 }\times{}\text{ 10}^{10}\text{ kJ}
 $$
 
 (For the units to work out, mass must be expressed in units of kilograms.) That is, 16.5 billion kJ of energy is given off every time 1 mol of uranium-235 undergoes this nuclear reaction. This is an extraordinary amount of energy. Compare it to combustion reactions of hydrocarbons, which give off about 650 kJ/mol of energy for every CH<sub>2</sub> unit in the hydrocarbon—on the order of *hundreds* of kilojoules per mole. Nuclear reactions give off *billions* of kilojoules per mole.
@@ -37,7 +37,7 @@ $$
 If this energy could be properly harvested, it would be a significant source of energy for our society. **Nuclear energy** (*The controlled harvesting of energy from fission reactions.*) involves the controlled harvesting of energy from fission reactions. The reaction can be controlled because the fission of uranium-235 (and a few other isotopes, such as plutonium-239) can be artificially initiated by injecting a neutron into a uranium nucleus. The overall nuclear equation, with energy included as a product, is then as follows:
 
 $$
-\text{235U + 1n }\rightarrow{}\text{ 139Ba + 94Kr + 31n + energy}
+^{235}\text{U + }^{1}\text{n }\rightarrow{}\text{ }^{139}\text{Ba + }^{94}\text{Kr + 3}^{1}\text{n + energy}
 $$
 
 Thus by the careful addition of extra neutrons into a sample of uranium, we can control the fission process and obtain energy that can be used for other purposes. (Artificial or induced radioactivity, in which neutrons are injected into a sample of matter that subsequently cause fission, was first demonstrated in 1934 by Irène Joliot-Curie and Frédéric Joliot, the daughter and son-in-law of Marie Curie.)
@@ -110,7 +110,7 @@ The total mass of the products is as follows:
 
 $\text{203.9777 + 30.9738 + (5 }\times{}\text{ 1.0087) = 239.9950 g}$
 
-The change is mass is determined by subtracting the mass of the reactants from the mass of the products:
+The change in mass is determined by subtracting the mass of the reactants from the mass of the products:
 
 $\text{change in mass = 239.9950 }-\text{ 240.0609 = }-\text{0.0659 g}$
 
@@ -122,7 +122,7 @@ $$
 
 Now we can use Einstein’s equation to determine the energy change of the nuclear reaction:
 
-$\text{E = (}-\text{0.0000659 kg)(3.00 }\times{}\text{ 108 m/s)2 = }-\text{5.93 }\times{}\text{ 1012 J}$
+$E\text{ = (}-\text{0.0000659 kg)(3.00 }\times{}\text{ 10}^{8}\text{ m/s)}^{2}\text{ = }-\text{5.93 }\times{}\text{ 10}^{12}\text{ J}$
 
 This is almost 6 *trillion* joules given off.
 ```
@@ -172,7 +172,7 @@ Although fairly simple in theory, an atomic bomb is difficult to produce, in par
 **Fusion** (*A nuclear process in which small nuclei are combined into larger nuclei, releasing energy.*) is another nuclear process that can be used to produce energy. In this process, smaller nuclei are combined to make larger nuclei, with an accompanying release of energy. One example is hydrogen fusion, which makes helium:
 
 $$
-\text{41H }\rightarrow{}\text{ 4He + 2.58 }\times{}\text{ 1012 J}
+\text{4}^{1}\text{H }\rightarrow{}\text{ }^{4}\text{He + 2.58 }\times{}\text{ 10}^{12}\text{ J}
 $$
 
 Notice that the amount of energy given off per mole of reactant is only one-tenth of the amount given off by the fission of 1 mol of uranium-235. On a mass (per gram) basis, however, hydrogen fusion gives off 10 times more energy than fission does. In addition, the product of fission is helium gas, not a wide range of isotopes (some of which are also radioactive) produced by fission.
@@ -215,9 +215,9 @@ How much matter needs to be converted to energy to supply 400 kJ of energy, the 
 
 **Exercise 3.**
 
-In the spontaneous fission of lead-208, the following reaction occurs:
+Lead-208 does not spontaneously fission. Use this hypothetical equation to practice the mass-energy calculation:
 
-$\text{208Pb }\rightarrow{}\text{ 129I + 76Cu + 31n}$
+$^{208}\text{Pb }\rightarrow{}\text{ }^{129}\text{I + }^{76}\text{Cu + 3}^{1}\text{n}$
 
 For every mole of lead-208 that decays, 0.1002 g of mass is lost. How much energy is given off per mole of lead-208 reacted?
 ```
@@ -234,9 +234,9 @@ For every mole of lead-208 that decays, 0.1002 g of mass is lost. How much energ
 
 **Exercise 4.**
 
-In the spontaneous fission of radium-226, the following reaction occurs:
+Radium-226 decays by alpha emission, not by the split below. Use the equation to practice the mass-energy calculation:
 
-$\text{226Ra }\rightarrow{}\text{ 156Pm + 68Co + 21n}$
+$^{226}\text{Ra }\rightarrow{}\text{ }^{156}\text{Pm + }^{68}\text{Co + 2}^{1}\text{n}$
 
 For every mole of radium-226 that decays, 0.1330 g of mass is lost. How much energy is given off per mole of radium-226 reacted?
 ```
@@ -302,7 +302,7 @@ $$
 
 The two rarer isotopes of hydrogen—deuterium and tritium—can also be fused to make helium by the following reaction:
 
-$\text{2H + 3H }\rightarrow{}\text{ 4He + 1n}$
+$^{2}\text{H + }^{3}\text{H }\rightarrow{}\text{ }^{4}\text{He + }^{1}\text{n}$
 
 In the course of this reaction, 0.01888 g of mass is lost. How much energy is given off in the reaction of 1 mol of deuterium and tritium?
 ```
@@ -321,7 +321,7 @@ In the course of this reaction, 0.01888 g of mass is lost. How much energy is gi
 
 A process called *helium burning* is thought to occur inside older stars, forming carbon:
 
-$\text{34He }\rightarrow{}\text{ 12C}$
+$\text{3}^{4}\text{He }\rightarrow{}\text{ }^{12}\text{C}$
 
 If the reaction proceeds with 0.00781 g of mass lost on a molar basis, how much energy is given off?
 ```

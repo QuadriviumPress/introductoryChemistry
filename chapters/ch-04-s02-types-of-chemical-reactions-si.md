@@ -17,13 +17,13 @@ Up to now, we have presented chemical reactions as a topic, but we have not disc
 A **single-replacement reaction** (*A chemical reaction in which one element is substituted for another element in a compound.*) is a chemical reaction in which one element is substituted for another element in a compound, generating a new element and a new compound as products. For example,
 
 $$
-\text{2HCl(aq) + Zn(s) }\rightarrow{}\text{ ZnCl2(aq) + H2(g)}
+\text{2HCl(aq) + Zn(s) }\rightarrow{}\text{ ZnCl}_{2}\text{(aq) + H}_{2}\text{(g)}
 $$
 
 is an example of a single-replacement reaction. The hydrogen atoms in HCl are replaced by Zn atoms, and in the process a new element—hydrogen—is formed. Another example of a single-replacement reaction is
 
 $$
-\text{2NaCl(aq) + F2(g) }\rightarrow{}\text{ 2NaF(s) + Cl2(g)}
+\text{2NaCl(aq) + F}_{2}\text{(g) }\rightarrow{}\text{ 2NaF(s) + Cl}_{2}\text{(g)}
 $$
 
 Here the negatively charged ion changes from chloride to fluoride. A typical characteristic of a single-replacement reaction is that there is one element as a reactant and another element as a product.
@@ -31,13 +31,13 @@ Here the negatively charged ion changes from chloride to fluoride. A typical cha
 Not all proposed single-replacement reactions will occur between two given reactants. This is most easily demonstrated with fluorine, chlorine, bromine, and iodine. Collectively, these elements are called the *halogens* and are in the next-to-last column on the periodic table (see {ref}`Figure 4.1 "Halogens on the Periodic Table" <fig:ch04:s02:f01>`). The elements on top of the column will replace the elements below them on the periodic table but not the other way around. Thus, the reaction represented by
 
 $$
-\text{CaI2(s) + Cl2(g) }\rightarrow{}\text{ CaCl2(s) + I2(s)}
+\text{CaI}_{2}\text{(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ CaCl}_{2}\text{(s) + I}_{2}\text{(s)}
 $$
 
 will occur, but the reaction
 
 $$
-\text{CaF2(s) + Br2(}\ell{}\text{) }\rightarrow{}\text{ CaBr2(s) + F2(g)}
+\text{CaF}_{2}\text{(s) + Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ CaBr}_{2}\text{(s) + F}_{2}\text{(g)}
 $$
 
 will not because bromine is below fluorine on the periodic table. This is just one of many ways the periodic table helps us understand chemistry.
@@ -156,7 +156,7 @@ Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> and Al
 A **double-replacement reaction** (*A chemical reaction in which parts of two ionic compounds are exchanged.*) occurs when parts of two ionic compounds are exchanged, making two new compounds. A characteristic of a double-replacement equation is that there are two compounds as reactants and two different compounds as products. An example is
 
 $$
-\text{CuCl2(aq) + 2AgNO3(aq) }\rightarrow{}\text{ Cu(NO3)2(aq) + 2AgCl(s)}
+\text{CuCl}_{2}\text{(aq) + 2AgNO}_{3}\text{(aq) }\rightarrow{}\text{ Cu(NO}_{3}\text{)}_{2}\text{(aq) + 2AgCl(s)}
 $$
 
 There are two equivalent ways of considering a double-replacement equation: either the cations are swapped, or the anions are swapped. (You cannot swap both; you would end up with the same substances you started with.) Either perspective should allow you to predict the proper products, as long as you pair a cation with an anion and not a cation with a cation or an anion with an anion.
@@ -212,7 +212,7 @@ To judge whether double-replacement reactions will occur, we need to know what k
 For example, consider the possible double-replacement reaction between Na<sub>2</sub>SO<sub>4</sub> and SrCl<sub>2</sub>. The solubility rules say that all ionic sodium compounds are soluble and all ionic chloride compounds are soluble except for Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, and Pb<sup>2+</sup>, which are not being considered here. Therefore, Na<sub>2</sub>SO<sub>4</sub> and SrCl<sub>2</sub> are both soluble. The possible double-replacement reaction products are NaCl and SrSO<sub>4</sub>. Are these soluble? NaCl is (by the same rule we just quoted), but what about SrSO<sub>4</sub>? Compounds of the sulfate ion are generally soluble, but Sr<sup>2+</sup> is an exception: we expect it to be insoluble—a precipitate. Therefore, we expect a reaction to occur, and the balanced chemical equation would be
 
 $$
-\text{Na2SO4(aq) + SrCl2(aq) }\rightarrow{}\text{ 2NaCl(aq) + SrSO4(s)}
+\text{Na}_{2}\text{SO}_{4}\text{(aq) + SrCl}_{2}\text{(aq) }\rightarrow{}\text{ 2NaCl(aq) + SrSO}_{4}\text{(s)}
 $$
 
 You would expect to see a visual change corresponding to SrSO<sub>4</sub> precipitating out of solution ({ref}`Figure 4.2 "Double-Replacement Reactions" <fig:ch04:s02:f02>`).
@@ -244,7 +244,7 @@ Will a double-replacement reaction occur? If so, identify the products.
 1. According to the solubility rules, both Ca(NO<sub>3</sub>)<sub>2</sub> and KBr are soluble. Now we consider what the double-replacement products would be by switching the cations (or the anions)—namely, CaBr<sub>2</sub> and KNO<sub>3</sub>. However, the solubility rules predict that these two substances would also be soluble, so no precipitate would form. Thus, we predict no reaction in this case.
 2. According to the solubility rules, both NaOH and FeCl<sub>2</sub> are expected to be soluble. If we assume that a double-replacement reaction may occur, we need to consider the possible products, which would be NaCl and Fe(OH)<sub>2</sub>. NaCl is soluble, but, according to the solubility rules, Fe(OH)<sub>2</sub> is not. Therefore, a reaction would occur, and Fe(OH)<sub>2</sub>(s) would precipitate out of solution. The balanced chemical equation is
 
-   $\text{2NaOH(aq) + FeCl2(aq) }\rightarrow{}\text{ 2NaCl(aq) + Fe(OH)2(s)}$
+   $\text{2NaOH(aq) + FeCl}_{2}\text{(aq) }\rightarrow{}\text{ 2NaCl(aq) + Fe(OH)}_{2}\text{(s)}$
 ```
 
 ```{exercise}

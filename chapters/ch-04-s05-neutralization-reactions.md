@@ -25,13 +25,13 @@ $$
 where the term **salt** (*Any ionic compound that is formed from a reaction between an acid and a base.*) is generally used to define any ionic compound (soluble or insoluble) that is formed from a reaction between an acid and a base. (In chemistry, the word *salt* refers to more than just table salt.) For example, the balanced chemical equation for the reaction between HCl(aq) and KOH(aq) is
 
 $$
-\text{HCl(aq) + KOH(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + KCl(aq)}
+\text{HCl(aq) + KOH(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + KCl(aq)}
 $$
 
 where the salt is KCl. By counting the number of atoms of each element, we find that only one water molecule is formed as a product. However, in the reaction between HCl(aq) and Mg(OH)<sub>2</sub>(aq), additional molecules of HCl and H<sub>2</sub>O are required to balance the chemical equation:
 
 $$
-\text{2HCl(aq) + Mg(OH)2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + MgCl2(aq)}
+\text{2HCl(aq) + Mg(OH)}_{2}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + MgCl}_{2}\text{(aq)}
 $$
 
 Here, the salt is MgCl<sub>2</sub>. (This is one of several reactions that take place when a type of antacid—a base—is used to treat stomach acid.)
@@ -55,20 +55,20 @@ First, we will write the chemical equation with the formulas of the reactants an
 
 1. The expected products are water and barium nitrate, so the initial chemical reaction is
 
-   $\text{HNO3(aq) + Ba(OH)2(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + Ba(NO3)2(aq)}$
+   $\text{HNO}_{3}\text{(aq) + Ba(OH)}_{2}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + Ba(NO}_{3}\text{)}_{2}\text{(aq)}$
 
    To balance the equation, we need to realize that there will be two H<sub>2</sub>O molecules, so two HNO<sub>3</sub> molecules are required:
 
-   $\text{2HNO3(aq) + Ba(OH)2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + Ba(NO3)2(aq)}$
+   $\text{2HNO}_{3}\text{(aq) + Ba(OH)}_{2}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + Ba(NO}_{3}\text{)}_{2}\text{(aq)}$
 
    This chemical equation is now balanced.
 2. The expected products are water and calcium phosphate, so the initial chemical equation is
 
-   $\text{H3PO4(aq) + Ca(OH)2(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + Ca3(PO4)2(s)}$
+   $\text{H}_{3}\text{PO}_{4}\text{(aq) + Ca(OH)}_{2}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + Ca}_{3}\text{(PO}_{4}\text{)}_{2}\text{(s)}$
 
    According to the solubility rules, Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> is insoluble, so it has an (s) phase label. To balance this equation, we need two phosphate ions and three calcium ions; we end up with six water molecules to balance the equation:
 
-   $\text{2H3PO4(aq) + 3Ca(OH)2(aq) }\rightarrow{}\text{ 6H2O(}\ell{}\text{) + Ca3(PO4)2(s)}$
+   $\text{2H}_{3}\text{PO}_{4}\text{(aq) + 3Ca(OH)}_{2}\text{(aq) }\rightarrow{}\text{ 6H}_{2}\text{O(}\ell{}\text{) + Ca}_{3}\text{(PO}_{4}\text{)}_{2}\text{(s)}$
 
    This chemical equation is now balanced.
 ```
@@ -91,7 +91,7 @@ H<sub>2</sub>SO<sub>4</sub>(aq) + Sr(OH)<sub>2</sub>(aq) → 2H<sub>2</sub>O(ℓ
 Neutralization reactions are one type of chemical reaction that proceeds even if one reactant is not in the aqueous phase. For example, the chemical reaction between HCl(aq) and Fe(OH)<sub>3</sub>(s) still proceeds according to the equation
 
 $$
-\text{3HCl(aq) + Fe(OH)3(s) }\rightarrow{}\text{ 3H2O(}\ell{}\text{) + FeCl3(aq)}
+\text{3HCl(aq) + Fe(OH)}_{3}\text{(s) }\rightarrow{}\text{ 3H}_{2}\text{O(}\ell{}\text{) + FeCl}_{3}\text{(aq)}
 $$
 
 even though Fe(OH)<sub>3</sub> is not soluble. When one realizes that Fe(OH)<sub>3</sub>(s) is a component of rust, this explains why some cleaning solutions for rust stains contain acids—the neutralization reaction produces products that are soluble and wash away. (Washing with acids like HCl is one way to remove rust and rust stains, but HCl must be used with caution!)
@@ -99,25 +99,25 @@ even though Fe(OH)<sub>3</sub> is not soluble. When one realizes that Fe(OH)<sub
 Complete and net ionic reactions for neutralization reactions will depend on whether the reactants and products are soluble, even if the acid and base react. For example, in the reaction of HCl(aq) and NaOH(aq),
 
 $$
-\text{HCl(aq) + NaOH(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + NaCl(aq)}
+\text{HCl(aq) + NaOH(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + NaCl(aq)}
 $$
 
 the complete ionic reaction is
 
 $$
-\text{H+(aq) + Cl}-\text{(aq) + Na+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{) + Na+(aq) + Cl}-\text{(aq)}
+\text{H}^{+}\text{(aq) + Cl}^{-}\text{(aq) + Na}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{) + Na}^{+}\text{(aq) + Cl}^{-}\text{(aq)}
 $$
 
 The Na<sup>+</sup>(aq) and Cl<sup>−</sup>(aq) ions are spectator ions, so we can remove them to have
 
 $$
-\text{H+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ H2O(}\ell{}\text{)}
+\text{H}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 as the net ionic equation. If we wanted to write this in terms of the hydronium ion, H<sub>3</sub>O<sup>+</sup>(aq), we would write it as
 
 $$
-\text{H3O+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{H}_{3}\text{O}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 With the exception of the introduction of an extra water molecule, these two net ionic equations are equivalent.
@@ -125,13 +125,13 @@ With the exception of the introduction of an extra water molecule, these two net
 However, for the reaction between HCl(aq) and Cr(OH)<sub>2</sub>(s), because chromium(II) hydroxide is insoluble, we cannot separate it into ions for the complete ionic equation:
 
 $$
-\text{2H+(aq) + 2Cl}-\text{(aq) + Cr(OH)2(s) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + Cr2+(aq) + 2Cl}-\text{(aq)}
+\text{2H}^{+}\text{(aq) + 2Cl}^{-}\text{(aq) + Cr(OH)}_{2}\text{(s) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + Cr}^{2+}\text{(aq) + 2Cl}^{-}\text{(aq)}
 $$
 
 The chloride ions are the only spectator ions here, so the net ionic equation is
 
 $$
-\text{2H+(aq) + Cr(OH)2(s) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + Cr2+(aq)}
+\text{2H}^{+}\text{(aq) + Cr(OH)}_{2}\text{(s) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + Cr}^{2+}\text{(aq)}
 $$
 
 ```{exercise}
@@ -148,7 +148,7 @@ Oxalic acid, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(s), and Ca(OH)<sub>2</sub>(
 
 The products of the neutralization reaction will be water and calcium oxalate:
 
-$\text{H2C2O4(s) + Ca(OH)2(s) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + CaC2O4(s)}$
+$\text{H}_{2}\text{C}_{2}\text{O}_{4}\text{(s) + Ca(OH)}_{2}\text{(s) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + CaC}_{2}\text{O}_{4}\text{(s)}$
 
 Because nothing is dissolved, there are no substances to separate into ions, so the net ionic equation is the equation of the three solids and one liquid.
 ```
@@ -327,11 +327,11 @@ Write the complete and net ionic equations for the neutralization reaction betwe
 
 Complete ionic equation:
 
-$\text{2H+(aq) + 2ClO3}-\text{(aq) + Zn2+(aq) + 2OH}-\text{(aq) }\rightarrow{}\text{ Zn2+(aq) + 2ClO3}-\text{(aq) + 2H2O(}\ell{}\text{)}$
+$\text{2H}^{+}\text{(aq) + 2ClO}_{3}^{-}\text{(aq) + Zn}^{2+}\text{(aq) + 2OH}^{-}\text{(aq) }\rightarrow{}\text{ Zn}^{2+}\text{(aq) + 2ClO}_{3}^{-}\text{(aq) + 2H}_{2}\text{O(}\ell{}\text{)}$
 
 Net ionic equation:
 
-$\text{2H+(aq) + 2OH}-\text{(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}$
+$\text{2H}^{+}\text{(aq) + 2OH}^{-}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}
@@ -379,11 +379,11 @@ Write the complete and net ionic equations for the neutralization reaction betwe
 
 Complete ionic equation:
 
-$\text{H3O+(aq) + Cl}-\text{(aq) + K+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + K+(aq) + Cl}-\text{(aq)}$
+$\text{H}_{3}\text{O}^{+}\text{(aq) + Cl}^{-}\text{(aq) + K}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + K}^{+}\text{(aq) + Cl}^{-}\text{(aq)}$
 
 Net ionic equation:
 
-$\text{H3O+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}$
+$\text{H}_{3}\text{O}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}$
 
 The difference is simply the presence of an extra water molecule as a product.
 ```

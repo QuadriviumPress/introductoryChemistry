@@ -187,13 +187,13 @@ $$
 The two R groups may be the same or different. Naming ethers is like the alternate way of naming ketones. In this case, the R groups are named sequentially, and the word *ether* is appended. The molecule
 
 $$
-\text{CH3OCH3}
+\text{CH}_{3}\text{OCH}_{3}
 $$
 
 is dimethyl ether, while
 
 $$
-\text{CH3OCH2CH3}
+\text{CH}_{3}\text{OCH}_{2}\text{CH}_{3}
 $$
 
 is methyl ethyl ether. Diethyl ether, another ether, was once used as an anesthetic, but its flammability and toxicity caused it to fall out of favor. Smaller ether molecules that are liquids at room temperature are common solvents for organic chemical reactions.

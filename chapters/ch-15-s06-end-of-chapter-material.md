@@ -38,7 +38,7 @@ Many alpha-emitting radioactive substances are relatively safe to handle, but in
 
 Uranium can be separated from its daughter isotope thorium by dissolving a sample in acid and adding sodium iodide, which precipitates thorium(III) iodide:
 
-$\text{Th3+(aq) + 3I}-\text{(aq) }\rightarrow{}\text{ ThI3(s)}$
+$\text{Th}^{3+}\text{(aq) + 3I}^{-}\text{(aq) }\rightarrow{}\text{ ThI}_{3}\text{(s)}$
 
 If 0.567 g of Th<sup>3+</sup> were dissolved in solution, how many milliliters of 0.500 M NaI(aq) would have to be added to precipitate all the thorium?
 ```
@@ -57,7 +57,7 @@ If 0.567 g of Th<sup>3+</sup> were dissolved in solution, how many milliliters o
 
 Thorium oxide can be dissolved in acidic solution:
 
-$\text{ThO2(s) + 4H+ }\rightarrow{}\text{ Th4+(aq) + 2H2O(}\ell{}\text{)}$
+$\text{ThO}_{2}\text{(s) + 4H}^{+}\text{ }\rightarrow{}\text{ Th}^{4+}\text{(aq) + 2H}_{2}\text{O(}\ell{}\text{)}$
 
 How many milliliters of 1.55 M HCl(aq) are needed to dissolve 10.65 g of ThO<sub>2</sub>?
 ```
@@ -138,7 +138,7 @@ Smoke detectors typically contain about 0.25 mg of americium-241 as part of the 
 
 Uranium hexafluoride (UF<sub>6</sub>) reacts with water to make uranyl fluoride (UO<sub>2</sub>F<sub>2</sub>) and HF. Balance the following reaction:
 
-$\text{UF6 + H2O }\rightarrow{}\text{ UO2F2 + HF}$
+$\text{UF}_{6}\text{ + H}_{2}\text{O }\rightarrow{}\text{ UO}_{2}\text{F}_{2}\text{ + HF}$
 ```
 
 ```{solution} ex:ball-ch15-s06-qs01-qd01-qa11
@@ -155,7 +155,7 @@ UF<sub>6</sub> + 2H<sub>2</sub>O → UO<sub>2</sub>F<sub>2</sub> + 4HF
 
 The cyclopentadienyl anion (C<sub>5</sub>H<sub>5</sub><sup>−</sup>) is an organic ion that can make ionic compounds with positive ions of radioactive elements, such as Np<sup>3+</sup>. Balance the following reaction:
 
-$\text{NpCl3 + Be(C5H5)2 }\rightarrow{}\text{ Np(C5H5)3 + BeCl2}$
+$\text{NpCl}_{3}\text{ + Be(C}_{5}\text{H}_{5}\text{)}_{2}\text{ }\rightarrow{}\text{ Np(C}_{5}\text{H}_{5}\text{)}_{3}\text{ + BeCl}_{2}$
 ```
 
 ```{exercise}

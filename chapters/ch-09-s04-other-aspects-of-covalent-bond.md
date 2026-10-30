@@ -65,9 +65,11 @@ The polarity of a covalent bond can be judged by determining the *difference* of
 | Electronegativity Difference | Bond Type |
 | --- | --- |
 | 0 | nonpolar covalent |
-| 0–0.4 | slightly polar covalent |
-| 0.4–1.9 | definitely polar covalent |
+| >0–0.4 | slightly polar covalent |
+| >0.4–1.9 | definitely polar covalent |
 | >1.9 | likely ionic |
+
+A difference of 0.4 is slightly polar covalent. The cutoff at 1.9 is only a guide: a bond between a metal and a nonmetal is ionic even when the difference is smaller. Sodium and iodine differ by 1.6 on this scale, and sodium iodide is an ionic compound.
 
 ```{exercise}
 :label: ex:ball-ch09-s04-n02
@@ -136,19 +138,19 @@ A few trends are obvious from {ref}`Table 9.2 "Bond Energies of Covalent Bonds" 
 To be broken, covalent bonds always require energy; that is, covalent bond breaking is always an *endothermic* process. Thus the Δ*H* for this process is positive:
 
 $$
-\text{Molecule}-\text{O}-\text{H }\rightarrow{}\text{ Molecule}-\text{O + H     }\Delta{}\text{H }\approx{}\text{ +463 kJ/mol}
+\text{Molecule}-\text{O}-\text{H }\rightarrow{}\text{ Molecule}-\text{O + H     }\Delta{}H\text{ }\approx{}\text{ +463 kJ/mol}
 $$
 
 However, when making a covalent bond, energy is always given off; covalent bond making is always an *exothermic* process. Thus Δ*H* for this process is negative:
 
 $$
-\text{Molecule}-\text{S + H }\rightarrow{}\text{ Molecule}-\text{S}-\text{H     }\Delta{}\text{H }\approx{}\text{ }-\text{339 kJ/mol}
+\text{Molecule}-\text{S + H }\rightarrow{}\text{ Molecule}-\text{S}-\text{H     }\Delta{}H\text{ }\approx{}\text{ }-\text{339 kJ/mol}
 $$
 
 Bond energies can be used to estimate the energy change of a chemical reaction. When bonds are broken in the reactants, the energy change for this process is endothermic. When bonds are formed in the products, the energy change for this process is exothermic. We combine the positive energy change with the negative energy change to estimate the overall energy change of the reaction. For example, in
 
 $$
-\text{2H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{2H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 we can draw Lewis electron dot diagrams for each substance to see what bonds are broken and what bonds are formed:
@@ -365,7 +367,7 @@ Which covalent bond is stronger—an O–O double bond or an N–N double bond?
 
 Estimate the enthalpy change for this reaction. Start by drawing the Lewis electron dot diagrams for each substance.
 
-$\text{N2 + 3H2 }\rightarrow{}\text{ 2NH3}$
+$\text{N}_{2}\text{ + 3H}_{2}\text{ }\rightarrow{}\text{ 2NH}_{3}$
 ```
 
 ```{solution} ex:ball-ch09-s04-qs01-qd01-qa09
@@ -382,7 +384,7 @@ $\text{N2 + 3H2 }\rightarrow{}\text{ 2NH3}$
 
 Estimate the enthalpy change for this reaction. Start by drawing the Lewis electron dot diagrams for each substance.
 
-$\text{HN=NH + 2H2 }\rightarrow{}\text{ 2NH3}$
+$\text{HN=NH + 2H}_{2}\text{ }\rightarrow{}\text{ 2NH}_{3}$
 ```
 
 ```{exercise}
@@ -392,7 +394,7 @@ $\text{HN=NH + 2H2 }\rightarrow{}\text{ 2NH3}$
 
 Estimate the enthalpy change for this reaction. Start by drawing the Lewis electron dot diagrams for each substance.
 
-$\text{CH4 + 2O2 }\rightarrow{}\text{ CO2 + 2H2O}$
+$\text{CH}_{4}\text{ + 2O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch09-s04-qs01-qd01-qa11
@@ -409,5 +411,5 @@ $\text{CH4 + 2O2 }\rightarrow{}\text{ CO2 + 2H2O}$
 
 Estimate the enthalpy change for this reaction. Start by drawing the Lewis electron dot diagrams for each substance.
 
-$\text{4NH3 + 3O2 }\rightarrow{}\text{ 2N2 + 6H2O}$
+$\text{4NH}_{3}\text{ + 3O}_{2}\text{ }\rightarrow{}\text{ 2N}_{2}\text{ + 6H}_{2}\text{O}$
 ```

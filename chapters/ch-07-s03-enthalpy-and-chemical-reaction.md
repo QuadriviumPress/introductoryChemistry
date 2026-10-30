@@ -28,7 +28,7 @@ The letter *H* stands for “enthalpy,” a kind of energy, while the Δ implies
 When a chemical reaction occurs, there is a characteristic change in enthalpy. The enthalpy change for a reaction is typically written after a balanced chemical equation and on the same line. For example, when two moles of hydrogen react with one mole of oxygen to make two moles of water, the characteristic enthalpy change is 570 kJ. We write the equation as
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)     }\Delta{}\text{H = }-\text{570 kJ}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)     }\Delta{}H\text{ = }-\text{570 kJ}
 $$
 
 A chemical equation that includes an enthalpy change is called a **thermochemical equation** (*A chemical equation that includes an enthalpy change.*). A thermochemical equation is assumed to refer to the equation in molar quantities, which means it must be interpreted in terms of moles, not individual molecules.
@@ -47,7 +47,7 @@ Write the thermochemical equation for the reaction of PCl<sub>3</sub>(g) with Cl
 
 The thermochemical equation is
 
-$\text{PCl3(g) + Cl2(g) }\rightarrow{}\text{ PCl5(g)     }\Delta{}\text{H = }-\text{88 kJ}$
+$\text{PCl}_{3}\text{(g) + Cl}_{2}\text{(g) }\rightarrow{}\text{ PCl}_{5}\text{(g)     }\Delta{}H\text{ = }-\text{88 kJ}$
 ```
 
 ```{exercise}
@@ -62,7 +62,7 @@ Write the thermochemical equation for the reaction of N<sub>2</sub>(g) with O<su
 :label: sol:ball-ch07-s03-n02-ty2
 :class: dropdown
 
-$\text{N2(g) + O2(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}\text{H = 181 kJ}$
+$\text{N}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2NO(g)     }\Delta{}H\text{ = 181 kJ}$
 ```
 
 You may have noticed that the Δ*H* for a chemical reaction may be positive or negative. The number is assumed to be positive if it has no sign; a + sign can be added explicitly to avoid confusion. A chemical reaction that has a positive Δ*H* is said to be **endothermic** (*A chemical reaction that has a positive change in enthalpy.*), while a chemical reaction that has a negative Δ*H* is said to be **exothermic** (*A chemical reaction that has a negative change in enthalpy.*).
@@ -87,7 +87,7 @@ Reaction Energy. (a) In an endothermic reaction, the energy of the system increa
 
 Consider this thermochemical equation.
 
-$\text{2CO(g) + O2(g) }\rightarrow{}\text{ 2CO2(g)     }\Delta{}\text{H = }-\text{565 kJ}$
+$\text{2CO(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2CO}_{2}\text{(g)     }\Delta{}H\text{ = }-\text{565 kJ}$
 
 Is it exothermic or endothermic? How much energy is given off or absorbed?
 ```
@@ -106,7 +106,7 @@ By definition, a chemical reaction that has a negative Δ*H* is exothermic, mean
 
 Consider this thermochemical equation.
 
-$\text{CO2(g) + H2(g) }\rightarrow{}\text{ CO(g) + H2O(g)     }\Delta{}\text{H = 42 kJ}$
+$\text{CO}_{2}\text{(g) + H}_{2}\text{(g) }\rightarrow{}\text{ CO(g) + H}_{2}\text{O(g)     }\Delta{}H\text{ = 42 kJ}$
 
 Is it exothermic or endothermic? How much energy is given off or absorbed?
 ```
@@ -123,7 +123,7 @@ How are Δ*H* values measured experimentally? Actually, Δ*H* is not measured; *
 Experimentally, *q* is measured by taking advantage of the equation
 
 $$
-\text{q = mc}\Delta{}\text{T}
+q\text{ = }\mathit{mc}\Delta{}T
 $$
 
 We premeasure the mass of the chemicals in a system. Then we let the chemical reaction occur and measure the change in temperature (Δ*T*) of the system. If we know the specific heat of the materials in the system (typically, we do), we can calculate *q*. That value of *q* is numerically equal to the Δ*H* of the process, which we can scale up to a molar scale. The container in which the system resides is typically insulated, so any energy change goes into changing the temperature of the system, rather than being leaked from the system. The container is referred to as a **calorimeter** (*A container used to measure the heat of a chemical reaction.*), and the process of measuring changes in enthalpy is called **calorimetry** (*The process of measuring enthalpy changes for chemical reactions.*).
@@ -140,7 +140,7 @@ Calorimeters. A simple calorimeter can be constructed from some nested foam coff
 For example, suppose 4.0 g of NaOH, or 0.10 mol of NaOH, are dissolved to make 100.0 mL of aqueous solution, while 3.65 g of HCl, or 0.10 mol of HCl, are dissolved to make another 100.0 mL of aqueous solution. The two solutions are mixed in an insulated calorimeter, a thermometer is inserted, and the calorimeter is covered (see {ref}`Figure 7.4 "Calorimeters" <fig:ch07:s03:f02>` for an example setup). The thermometer measures the temperature change as the following chemical reaction occurs:
 
 $$
-\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H2O(}\ell{}\text{)}
+\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 An observer notes that the temperature increases from 22.4°C to 29.1°C. Assuming that the heat capacities and densities of the solutions are the same as those of pure water, we now have the information we need to determine the enthalpy change of the chemical reaction. The total amount of solution is 200.0 mL, and with a density of 1.00 g/mL, we thus have 200.0 g of solution. Using the equation for *q*, we substitute for our experimental measurements and the specific heat of water ({ref}`Table 7.1 "Specific Heats of Various Substances" <tbl:ch07:s02:t01>`):
@@ -158,7 +158,7 @@ $$
 The heat *q* is equal to the Δ*H* for the reaction because the chemical reaction occurs at constant pressure. However, the reaction is giving off this amount of energy, so the actual sign on Δ*H* is negative:
 
 $$
-\Delta{}\text{H = }-\text{5,600 J for the reaction}
+\Delta{}H\text{ = }-\text{5,600 J for the reaction}
 $$
 
 Thus, we have the following thermochemical equation for the chemical reaction that occurred in the calorimeter:
@@ -172,13 +172,13 @@ $$
 The 1/10 coefficients are present to remind us that we started with one-tenth of a mole of each reactant, so we make one-tenth of a mole of each product. Typically, however, we report thermochemical equations in terms of moles, not one-tenth of a mole. To scale up to molar quantities, we must multiply the coefficients by 10. However, when we do this, we get 10 times as much energy. Thus, we have
 
 $$
-\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H2O(}\ell{}\text{)     }\Delta{}\text{H = }-\text{56,000 J}
+\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H}_{2}\text{O(}\ell{}\text{)     }\Delta{}H\text{ = }-\text{56,000 J}
 $$
 
 The Δ*H* can be converted into kJ units, so our final thermochemical equation is
 
 $$
-\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H2O(}\ell{}\text{)     }\Delta{}\text{H = }-\text{56 kJ}
+\text{NaOH (aq) + HCl(aq) }\rightarrow{}\text{ NaCl(aq) + H}_{2}\text{O(}\ell{}\text{)     }\Delta{}H\text{ = }-\text{56 kJ}
 $$
 
 We have just taken our experimental data from calorimetry and determined the enthalpy change of a chemical reaction. Similar measurements on other chemical reactions can determine the Δ*H* values of any chemical reaction you want to study.
@@ -190,7 +190,7 @@ We have just taken our experimental data from calorimetry and determined the ent
 
 A 100 mL solution of 0.25 mol of Ca<sup>2+</sup>(aq) was mixed with 0.50 mol of F<sup>−</sup>(aq) ions, and CaF<sub>2</sub> was precipitated:
 
-$\text{Ca2+(aq) + 2F}-\text{(aq) }\rightarrow{}\text{ CaF2(s)}$
+$\text{Ca}^{2+}\text{(aq) + 2F}^{-}\text{(aq) }\rightarrow{}\text{ CaF}_{2}\text{(s)}$
 
 The temperature of the solution increased by 10.5°C. What was the enthalpy change for the chemical reaction? What was the enthalpy change for the production of 1 mol of CaF<sub>2</sub>? Assume that the solution has the same density and specific heat as water.
 ```
@@ -207,17 +207,17 @@ $$
 
 Solving for *q*, we get
 
-$\text{q = 4,400 J}$
+$q\text{ = 4,400 J}$
 
 Therefore, Δ*H* = −4,400 J.
 
 According to the stoichiometry of the reaction, exactly 0.25 mol of CaF<sub>2</sub> will form, so this quantity of heat is for 0.25 mol. For 1 mol of CaF<sub>2</sub>, we need to scale up the heat by a factor of four:
 
-$\text{q = 4,400 J }\times{}\text{ 4 = 17,600 J for 1 mol CaF2}$
+$q\text{ = 4,400 J }\times{}\text{ 4 = 17,600 J for 1 mol CaF}_{2}$
 
 On a molar basis, the change in enthalpy is
 
-$\Delta{}\text{H = }-\text{17,600 J = }-\text{17.6 kJ}$
+$\Delta{}H\text{ = }-\text{17,600 J = }-\text{17.6 kJ}$
 ```
 
 ```{exercise}
@@ -227,7 +227,7 @@ $\Delta{}\text{H = }-\text{17,600 J = }-\text{17.6 kJ}$
 
 In a calorimeter at constant pressure, 0.10 mol of CH<sub>4</sub>(g) and 0.20 mol of O<sub>2</sub>(g) are reacted.
 
-$\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{)}$
+$\text{CH}_{4}\text{(g) + 2O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g) + 2H}_{2}\text{O(}\ell{}\text{)}$
 
 The reaction warms 750.0 g of H<sub>2</sub>O by 28.4°C. What is Δ*H* for the reaction on a molar scale?
 ```

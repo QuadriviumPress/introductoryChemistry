@@ -105,7 +105,7 @@ Write the balanced chemical equation for the dissociation of Ca(OH)<sub>2</sub> 
 
 This is an ionic compound of Ca<sup>2+</sup> ions and OH<sup>−</sup> ions. When an ionic compound dissolves, it separates into its constituent ions:
 
-$\text{Ca(OH)2 }\rightarrow{}\text{ Ca2+(aq) + 2OH}-\text{(aq)}$
+$\text{Ca(OH)}_{2}\text{ }\rightarrow{}\text{ Ca}^{2+}\text{(aq) + 2OH}^{-}\text{(aq)}$
 
 Because Ca(OH)<sub>2</sub> is listed in {ref}`Table 12.2 "Strong Acids and Bases" <tbl:ch12:s04:t01>`, this reaction proceeds 100% to products.
 ```
@@ -124,7 +124,7 @@ Write the balanced chemical equation for the dissociation of hydrazoic acid (HN<
 
 The reaction is as follows:
 
-$\text{HN3 }\rightarrow{}\text{ H+(aq) + N3}-\text{(aq)}$
+$\text{HN}_{3}\text{ }\rightarrow{}\text{ H}^{+}\text{(aq) + N}_{3}^{-}\text{(aq)}$
 
 It does not proceed 100% to products because hydrazoic acid is not a strong acid.
 ```
@@ -134,43 +134,43 @@ Certain salts will also affect the acidity or basicity of aqueous solutions beca
 Consider NaCl. When it dissolves in an aqueous solution, it separates into Na<sup>+</sup> ions and Cl<sup>−</sup> ions:
 
 $$
-\text{NaCl }\rightarrow{}\text{ Na+(aq) + Cl}-\text{(aq)}
+\text{NaCl }\rightarrow{}\text{ Na}^{+}\text{(aq) + Cl}^{-}\text{(aq)}
 $$
 
 Will the Na<sup>+</sup>(aq) ion hydrolyze? If it does, it will interact with the OH<sup>−</sup> ion to make NaOH:
 
 $$
-\text{Na+(aq) + H2O }\rightarrow{}\text{ NaOH + H+(aq)}
+\text{Na}^{+}\text{(aq) + H}_{2}\text{O }\rightarrow{}\text{ NaOH + H}^{+}\text{(aq)}
 $$
 
 However, NaOH is a strong base, which means that it is 100% ionized in solution:
 
 $$
-\text{NaOH }\rightarrow{}\text{ Na+(aq) + OH}-\text{(aq)}
+\text{NaOH }\rightarrow{}\text{ Na}^{+}\text{(aq) + OH}^{-}\text{(aq)}
 $$
 
 The free OH<sup>−</sup>(aq) ion reacts with the H<sup>+</sup>(aq) ion to remake a water molecule:
 
 $$
-\text{H+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ H2O}
+\text{H}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O}
 $$
 
 The net result? There is no change, so there is no effect on the acidity or basicity of the solution from the Na<sup>+</sup>(aq) ion. What about the Cl<sup>−</sup> ion? Will it hydrolyze? If it does, it will take an H<sup>+</sup> ion from a water molecule:
 
 $$
-\text{Cl}-\text{(aq) + H2O }\rightarrow{}\text{ HCl + OH}-
+\text{Cl}^{-}\text{(aq) + H}_{2}\text{O }\rightarrow{}\text{ HCl + OH}^{-}
 $$
 
 However, HCl is a strong acid, which means that it is 100% ionized in solution:
 
 $$
-\text{HCl }\rightarrow{}\text{ H+(aq) + Cl}-\text{(aq)}
+\text{HCl }\rightarrow{}\text{ H}^{+}\text{(aq) + Cl}^{-}\text{(aq)}
 $$
 
 The free H<sup>+</sup>(aq) ion reacts with the OH<sup>−</sup>(aq) ion to remake a water molecule:
 
 $$
-\text{H+(aq) + OH}-\text{(aq) }\rightarrow{}\text{ H2O}
+\text{H}^{+}\text{(aq) + OH}^{-}\text{(aq) }\rightarrow{}\text{ H}_{2}\text{O}
 $$
 
 The net result? There is no change, so there is no effect on the acidity or basicity of the solution from the Cl<sup>−</sup>(aq) ion. Because neither ion in NaCl affects the acidity or basicity of the solution, NaCl is an example of a **neutral salt** (*An ionic compound that does not affect the acidity of its aqueous solution.*).
@@ -178,7 +178,7 @@ The net result? There is no change, so there is no effect on the acidity or basi
 Things change, however, when we consider a salt like NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>. We already know that the Na<sup>+</sup> ion won’t affect the acidity of the solution. What about the acetate ion? If it hydrolyzes, it will take an H<sup>+</sup> from a water molecule:
 
 $$
-\text{C2H3O2}-\text{(aq) + H2O }\rightarrow{}\text{ HC2H3O2 + OH}-\text{(aq)}
+\text{C}_{2}\text{H}_{3}\text{O}_{2}^{-}\text{(aq) + H}_{2}\text{O }\rightarrow{}\text{ HC}_{2}\text{H}_{3}\text{O}_{2}\text{ + OH}^{-}\text{(aq)}
 $$
 
 Does this happen? Yes, it does. Why? *Because HC*<sub>*2*</sub>*H*<sub>*3*</sub>*O*<sub>*2*</sub> *is a weak acid.* Any chance a weak acid has to form, it will (the same with a weak base). As some C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup> ions hydrolyze with H<sub>2</sub>O to make the molecular weak acid, OH<sup>−</sup> ions are produced. OH<sup>−</sup> ions make solutions basic. Thus NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> solutions are slightly basic, so such a salt is called a **basic salt** (*An ionic compound whose aqueous solution is slightly basic.*).
@@ -186,7 +186,7 @@ Does this happen? Yes, it does. Why? *Because HC*<sub>*2*</sub>*H*<sub>*3*</sub>
 There are also salts whose aqueous solutions are slightly acidic. NH<sub>4</sub>Cl is an example. When NH<sub>4</sub>Cl is dissolved in H<sub>2</sub>O, it separates into NH<sub>4</sub><sup>+</sup> ions and Cl<sup>−</sup> ions. We have already seen that the Cl<sup>−</sup> ion does not hydrolyze. However, the NH<sub>4</sub><sup>+</sup> ion will:
 
 $$
-\text{NH4+(aq) + H2O }\rightarrow{}\text{ NH3(aq) + H3O+(aq)}
+\text{NH}_{4}^{+}\text{(aq) + H}_{2}\text{O }\rightarrow{}\text{ NH}_{3}\text{(aq) + H}_{3}\text{O}^{+}\text{(aq)}
 $$
 
 Recall from {ref}`Section 12.1 "Arrhenius Acids and Bases" <sec:ch12:s01>` that H<sub>3</sub>O<sup>+</sup> ion is the hydronium ion, the more chemically proper way to represent the H<sup>+</sup> ion. This is the classic acid species in solution, so a solution of NH<sub>4</sub><sup>+</sup>(aq) ions is slightly acidic. NH<sub>4</sub>Cl is an example of an **acid salt** (*An ionic compound whose aqueous solution is slightly acidic.*). The molecule NH<sub>3</sub> is a weak base, and it will form when it can, just like a weak acid will form when it can.

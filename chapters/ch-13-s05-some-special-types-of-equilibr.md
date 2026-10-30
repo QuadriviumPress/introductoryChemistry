@@ -131,7 +131,7 @@ $$
 
 Here is where a useful approximation comes in: at 1.8 × 10<sup>−5</sup>, HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> will not ionize very much, so we expect that the value of *x* will be small. It should be so small that in the denominator of the fraction, the term (1.00 − *x*) will likely be very close to 1.00. As such, we would introduce very little error if we simply neglect the *x* in that term, making it equal to 1.00:
 
-$\text{(1.00 }-\text{ x) }\approx{}\text{ 1.00 for small values of x}$
+$\text{(1.00 }-\text{ }x\text{) }\approx{}\text{ 1.00 for small values of }x$
 
 This simplifies the mathematical expression we need to solve:
 
@@ -141,19 +141,19 @@ $$
 
 This is much easier to solve than a more complete quadratic equation. The new equation to solve becomes
 
-$\text{x2 = 1.8 }\times{}\text{ 10}-\text{5}$
+$x^{2}\text{ = 1.8 }\times{}\text{ 10}^{-5}$
 
 Taking the square root of both sides,
 
-$\text{x = 4.2 }\times{}\text{ 10}-\text{3}$
+$x\text{ = 4.2 }\times{}\text{ 10}^{-3}$
 
 Because *x* is the equilibrium concentrations of H<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup>, we thus have
 
-$\text{[H+] = 4.2 }\times{}\text{ 10}-\text{3 M}$
+$\text{[H}^{+}\text{] = 4.2 }\times{}\text{ 10}^{-3}\text{ M}$
 
 Notice that we are justified by neglecting the *x* in the denominator; it truly is small compared to 1.00. Now we can determine the pH of the solution:
 
-$\text{pH = }-\text{log[H+] = }-\text{log(4.2 }\times{}\text{ 10}-\text{3) = 2.38}$
+$\text{pH = }-\text{log[H}^{+}\text{] = }-\text{log(4.2 }\times{}\text{ 10}^{-3}\text{) = 2.38}$
 ```
 
 ```{exercise}
@@ -174,7 +174,7 @@ What is the pH of a 0.500 M solution of HCN? The *K*<sub>a</sub> of HCN is 6.2 �
 Weak bases also have dissociation constants, labeled *K*<sub>b</sub> (the *b* subscript stands for base). However, values of *K*<sub>b</sub> are rarely tabulated because there is a simple relationship between the *K*<sub>b</sub> of a base and the *K*<sub>a</sub> of its conjugate acid:
 
 $$
-\text{Ka }\times{}\text{ Kb = 1.0 }\times{}\text{ 10}-\text{14}
+K_{\text{a}}\text{ }\times{}\text{ }K_{\text{b}}\text{ = 1.0 }\times{}\text{ 10}^{-14}
 $$
 
 Thus it is simple to calculate the *K*<sub>b</sub> of a base from the *K*<sub>a</sub> of its conjugate acid.
@@ -193,7 +193,7 @@ What is the value of *K*<sub>b</sub> for C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>
 
 To determine the *K*<sub>b</sub> for C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup>, we need to know the *K*<sub>a</sub> of its conjugate acid. The conjugate acid of C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup> is HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>. The *K*<sub>a</sub> for HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> is in {ref}`Table 13.1 "Acid Dissociation Constants for Some Weak Acids" <tbl:ch13:s05:s01:t01>` and is 1.8 × 10<sup>−5</sup>. Using the mathematical relationship between *K*<sub>a</sub> and *K*<sub>b</sub>:
 
-$\text{(1.8 }\times{}\text{ 10}-\text{5)Kb = 1.0 }\times{}\text{ 10}-\text{14}$
+$\text{(1.8 }\times{}\text{ 10}^{-5}\text{)}K_{\text{b}}\text{ = 1.0 }\times{}\text{ 10}^{-14}$
 
 Solving,
 
@@ -230,13 +230,13 @@ $$
 The equilibrium constant includes [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>−</sup>] but not [H<sub>2</sub>O(ℓ)] because it is a pure liquid. Hence the expression *does not have any terms in its denominator*:
 
 $$
-\text{K = [H3O+][OH}-\text{] }\equiv{}\text{ Kw = 1.0 }\times{}\text{ 10}-\text{14}
+K\text{ = [H}_{3}\text{O}^{+}\text{][OH}^{-}\text{] }\equiv{}\text{ }K_{\text{w}}\text{ = 1.0 }\times{}\text{ 10}^{-14}
 $$
 
 This is the same *K*<sub>w</sub> that was introduced in {ref}`Chapter 12 "Acids and Bases" <ch:ch12>` and the same 1.0 × 10<sup>−14</sup> that appears in the relationship between the *K*<sub>a</sub> and the *K*<sub>b</sub> of a conjugate acid-base pair. In fact, we can rewrite this relationship as follows:
 
 $$
-\text{Ka }\times{}\text{ Kb = Kw}
+K_{\text{a}}\text{ }\times{}\text{ }K_{\text{b}}\text{ = }K_{\text{w}}
 $$
 
 (sec:ch13:s05:s03)=
@@ -294,7 +294,7 @@ $$
 
 Hence the *K*<sub>sp</sub> expression is
 
-$\text{Ksp = [Ca2+]3[PO43}-\text{]2}$
+$K_{\text{sp}}\text{ = [Ca}^{2+}\text{]}^{3}\text{[PO}_{4}^{3-}\text{]}^{2}$
 ```
 
 ```{exercise}
@@ -334,7 +334,7 @@ $$
 
 The *K*<sub>sp</sub> expression is as follows:
 
-$\text{Ksp = [Ag+][Cl}-\text{]}$
+$K_{\text{sp}}\text{ = [Ag}^{+}\text{][Cl}^{-}\text{]}$
 
 So the ICE chart for the equilibrium is as follows:
 
@@ -346,13 +346,13 @@ So the ICE chart for the equilibrium is as follows:
 
 Notice that we have little in the column under AgCl except the stoichiometry of the change; we do not need to know its initial or equilibrium concentrations because its concentration does not appear in the *K*<sub>sp</sub> expression. Substituting the equilibrium values into the expression:
 
-$\text{(x)(x) = 1.8 }\times{}\text{ 10}-\text{10}$
+$\text{(}x\text{)(}x\text{) = 1.8 }\times{}\text{ 10}^{-10}$
 
 Solving,
 
-$\text{x2 = 1.8 }\times{}\text{ 10}-\text{10}$
+$x^{2}\text{ = 1.8 }\times{}\text{ 10}^{-10}$
 
-$\text{x = 1.3 }\times{}\text{ 10}-\text{5}$
+$x\text{ = 1.3 }\times{}\text{ 10}^{-5}$
 
 Thus [Ag<sup>+</sup>] and [Cl<sup>−</sup>] are both 1.3 × 10<sup>−5</sup> M.
 ```
@@ -394,35 +394,35 @@ This is similar to Example 14, but the ICE chart is much different because of th
 
 For every unit of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> that dissolves, three Ca<sup>2+</sup> ions and two PO<sub>4</sub><sup>3−</sup> ions are formed. The expression for the *K*<sub>sp</sub> is also different:
 
-$\text{Ksp = [Ca2+]3[PO43}-\text{]2 = 2.1 }\times{}\text{ 10}-\text{33}$
+$K_{\text{sp}}\text{ = [Ca}^{2+}\text{]}^{3}\text{[PO}_{4}^{3-}\text{]}^{2}\text{ = 2.1 }\times{}\text{ 10}^{-33}$
 
 Now when we substitute the unknown concentrations into the expression, we get
 
-$\text{(3x)3(2x)2 = 2.1 }\times{}\text{ 10}-\text{33}$
+$\text{(3}x\text{)}^{3}\text{(2}x\text{)}^{2}\text{ = 2.1 }\times{}\text{ 10}^{-33}$
 
 When we raise each expression inside parentheses to the proper power, remember that the power affects everything inside the parentheses, including the number. So
 
-$\text{(27x3)(4x2) = 2.1 }\times{}\text{ 10}-\text{33}$
+$\text{(27}x^{3}\text{)(4}x^{2}\text{) = 2.1 }\times{}\text{ 10}^{-33}$
 
 Simplifying,
 
-$\text{108x5 = 2.1 }\times{}\text{ 10}-\text{33}$
+$\text{108}x^{5}\text{ = 2.1 }\times{}\text{ 10}^{-33}$
 
 Dividing both sides of the equation by 108, we get
 
-$\text{x5 = 1.9 }\times{}\text{ 10}-\text{35}$
+$x^{5}\text{ = 1.9 }\times{}\text{ 10}^{-35}$
 
 Now we take the fifth root of both sides of the equation (be sure you know how to do this on your calculator):
 
-$\text{x = 1.1 }\times{}\text{ 10}-\text{7}$
+$x\text{ = 1.1 }\times{}\text{ 10}^{-7}$
 
 We are not done yet. We still need to determine the concentrations of the ions. According to the ICE chart, [Ca<sup>2+</sup>] is 3*x*, not *x*. So
 
-$\text{[Ca2+] = 3x = 3 }\times{}\text{ 1.1 }\times{}\text{ 10}-\text{7 = 3.3 }\times{}\text{ 10}-\text{7 M}$
+$\text{[Ca}^{2+}\text{] = 3}x\text{ = 3 }\times{}\text{ 1.1 }\times{}\text{ 10}^{-7}\text{ = 3.3 }\times{}\text{ 10}^{-7}\text{ M}$
 
 [PO<sub>4</sub><sup>3−</sup>] is 2*x*, so
 
-$\text{[PO43}-\text{] = 2x = 2 }\times{}\text{ 1.1 }\times{}\text{ 10}-\text{7 = 2.2 }\times{}\text{ 10}-\text{7 M}$
+$\text{[PO}_{4}^{3-}\text{] = 2}x\text{ = 2 }\times{}\text{ 1.1 }\times{}\text{ 10}^{-7}\text{ = 2.2 }\times{}\text{ 10}^{-7}\text{ M}$
 ```
 
 ```{exercise}

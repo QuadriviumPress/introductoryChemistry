@@ -82,7 +82,7 @@ Acids have some properties in common. They turn litmus, a plant extract, red. Th
 Acids and bases have another property: they react with each other to make water and an ionic compound called a salt. A **salt** (*Any ionic compound that is formed from a reaction between an acid and a base.*), in chemistry, is any ionic compound made by combining an acid with a base. A reaction between an acid and a base is called a **neutralization reaction** (*The reaction of an acid and a base to produce water and a salt.*) and can be represented as follows:
 
 $$
-\text{acid + base }\rightarrow{}\text{ H2O + salt}
+\text{acid + base }\rightarrow{}\text{ H}_{2}\text{O + salt}
 $$
 
 The stoichiometry of the balanced chemical equation depends on the number of H<sup>+</sup> ions in the acid and the number of OH<sup>−</sup> ions in the base.
@@ -101,11 +101,11 @@ Write the balanced chemical equation for the neutralization reaction between H<s
 
 The general reaction is as follows:
 
-$\text{H2SO4 + KOH }\rightarrow{}\text{ H2O + salt}$
+$\text{H}_{2}\text{SO}_{4}\text{ + KOH }\rightarrow{}\text{ H}_{2}\text{O + salt}$
 
 Because the acid has two H<sup>+</sup> ions in its formula, we need two OH<sup>−</sup> ions to react with it, making two H<sub>2</sub>O molecules as product. The remaining ions, K<sup>+</sup> and SO<sub>4</sub><sup>2−</sup>, make the salt potassium sulfate (K<sub>2</sub>SO<sub>4</sub>). The balanced chemical reaction is as follows:
 
-$\text{H2SO4 + 2KOH }\rightarrow{}\text{ 2H2O + K2SO4}$
+$\text{H}_{2}\text{SO}_{4}\text{ + 2KOH }\rightarrow{}\text{ 2H}_{2}\text{O + K}_{2}\text{SO}_{4}$
 ```
 
 ```{exercise}

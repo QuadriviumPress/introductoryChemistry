@@ -206,7 +206,7 @@ On the surface of Mars, the atmospheric pressure is 4.50 torr, and the temperatu
 
 HNO<sub>3</sub> reacts with iron metal according to
 
-$\text{Fe(s) + 2HNO3(aq) }\rightarrow{}\text{ Fe(NO3)2(aq) + H2(g)}$
+$\text{Fe(s) + 2HNO}_{3}\text{(aq) }\rightarrow{}\text{ Fe(NO}_{3}\text{)}_{2}\text{(aq) + H}_{2}\text{(g)}$
 
 In a reaction vessel, 23.8 g of Fe are reacted but only 446 mL of H<sub>2</sub> are collected over water at 25°C and a pressure of 733 torr. What is the percent yield of the reaction?
 ```
@@ -225,7 +225,7 @@ In a reaction vessel, 23.8 g of Fe are reacted but only 446 mL of H<sub>2</sub> 
 
 NaHCO<sub>3</sub> is decomposed by heat according to
 
-$\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + H2O(}\ell{}\text{) + CO2(g)}$
+$\text{2NaHCO}_{3}\text{(s) }\rightarrow{}\text{ Na}_{2}\text{CO}_{3}\text{(s) + H}_{2}\text{O(}\ell{}\text{) + CO}_{2}\text{(g)}$
 
 If you start with 100.0 g of NaHCO<sub>3</sub> and collect 10.06 L of CO<sub>2</sub> over water at 20°C and 0.977 atm, what is the percent yield of the decomposition reaction?
 ```

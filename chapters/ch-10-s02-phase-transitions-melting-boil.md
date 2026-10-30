@@ -136,7 +136,7 @@ Liquids and Gases. In (a), the particles are a liquid; the particles are in cont
 Under some circumstances, the solid phase can transition directly to the gas phase without going through a liquid phase, and a gas can directly become a solid. The solid-to-gas change is called **sublimation** (*The process of a solid becoming a gas.*), while the reverse process is called **deposition** (*The process of a gas becoming a solid.*). Sublimation is isothermal, like the other phase changes. There is a measurable energy change during sublimation; this energy change is called the **enthalpy of sublimation** (*The amount of energy needed to change from a solid to a gas or from a gas to a solid.*), represented as Δ*H*<sub>sub</sub>. The relationship between the Δ*H*<sub>sub</sub> and the other enthalpy changes is as follows:
 
 $$
-\Delta{}\text{Hsub = }\Delta{}\text{Hfus + }\Delta{}\text{Hvap}
+\Delta{}H_{\text{sub}}\text{ = }\Delta{}H_{\text{fus}}\text{ + }\Delta{}H_{\text{vap}}
 $$
 
 As such, Δ*H*<sub>sub</sub> is not always tabulated because it can be simply calculated from Δ*H*<sub>fus</sub> and Δ*H*<sub>vap</sub>.
@@ -146,7 +146,7 @@ There are several common examples of sublimation. A well-known product—dry ice
 Chemical equations can be used to represent a phase change. In such cases, it is crucial to use phase labels on the substances. For example, the chemical equation for the melting of ice to make liquid water is as follows:
 
 $$
-\text{H2O(s) }\rightarrow{}\text{ H2O(}\ell{}\text{)}
+\text{H}_{2}\text{O(s) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 No chemical change is taking place; however, a physical change is taking place.

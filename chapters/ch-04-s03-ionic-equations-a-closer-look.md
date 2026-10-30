@@ -61,7 +61,7 @@ Write the chemical equation that represents the dissociation of each ionic compo
 1. KBr(s) → K<sup>+</sup>(aq) + Br<sup>−</sup>(aq)
 2. Not only do the two sodium ions go their own way, but the sulfate ion stays together as the sulfate ion. The dissolving equation is
 
-   $\text{Na2SO4(s) }\rightarrow{}\text{ 2Na+(aq) + SO42}-\text{(aq)}$
+   $\text{Na}_{2}\text{SO}_{4}\text{(s) }\rightarrow{}\text{ 2Na}^{+}\text{(aq) + SO}_{4}^{2-}\text{(aq)}$
 ```
 
 ```{exercise}
@@ -82,7 +82,7 @@ Write the chemical equation that represents the dissociation of (NH<sub>4</sub>)
 When chemicals in solution react, the proper way of writing the chemical formulas of the dissolved ionic compounds is in terms of the dissociated ions, not the complete ionic formula. A **complete ionic equation** (*A chemical equation in which the dissolved ionic compounds are written as separated ions.*) is a chemical equation in which the dissolved ionic compounds are written as separated ions. Solubility rules are very useful in determining which ionic compounds are dissolved and which are not. For example, when NaCl(aq) reacts with AgNO<sub>3</sub>(aq) in a double-replacement reaction to precipitate AgCl(s) and form NaNO<sub>3</sub>(aq), the complete ionic equation includes NaCl, AgNO<sub>3</sub>, and NaNO<sub>3</sub> written as separated ions:
 
 $$
-\text{Na+(aq) + Cl}-\text{(aq) + Ag+(aq) + NO3}-\text{(aq) }\rightarrow{}\text{ AgCl(s) + Na+(aq) + NO3}-\text{(aq)}
+\text{Na}^{+}\text{(aq) + Cl}^{-}\text{(aq) + Ag}^{+}\text{(aq) + NO}_{3}^{-}\text{(aq) }\rightarrow{}\text{ AgCl(s) + Na}^{+}\text{(aq) + NO}_{3}^{-}\text{(aq)}
 $$
 
 This is more representative of what is occurring in the solution.
@@ -106,10 +106,10 @@ For any ionic compound that is aqueous, we will write the compound as separated 
 
 1. The complete ionic equation is
 
-   $\text{K+(aq) + Br}-\text{(aq) + Ag+(aq) + C2H3O2}-\text{(aq) }\rightarrow{}\text{ K+(aq) + C2H3O2}-\text{(aq) + AgBr(s)}$
+   $\text{K}^{+}\text{(aq) + Br}^{-}\text{(aq) + Ag}^{+}\text{(aq) + C}_{2}\text{H}_{3}\text{O}_{2}^{-}\text{(aq) }\rightarrow{}\text{ K}^{+}\text{(aq) + C}_{2}\text{H}_{3}\text{O}_{2}^{-}\text{(aq) + AgBr(s)}$
 2. The complete ionic equation is
 
-   $\text{Mg2+(aq) + SO42}-\text{(aq) + Ba2+(aq) + 2NO3}-\text{(aq) }\rightarrow{}\text{ Mg2+(aq) + 2NO3}-\text{(aq) + BaSO4(s)}$
+   $\text{Mg}^{2+}\text{(aq) + SO}_{4}^{2-}\text{(aq) + Ba}^{2+}\text{(aq) + 2NO}_{3}^{-}\text{(aq) }\rightarrow{}\text{ Mg}^{2+}\text{(aq) + 2NO}_{3}^{-}\text{(aq) + BaSO}_{4}\text{(s)}$
 ```
 
 ```{exercise}
@@ -119,7 +119,7 @@ For any ionic compound that is aqueous, we will write the compound as separated 
 
 Write the complete ionic equation for
 
-$\text{CaCl2(aq) + Pb(NO3)2(aq) }\rightarrow{}\text{ Ca(NO3)2(aq) + PbCl2(s)}$
+$\text{CaCl}_{2}\text{(aq) + Pb(NO}_{3}\text{)}_{2}\text{(aq) }\rightarrow{}\text{ Ca(NO}_{3}\text{)}_{2}\text{(aq) + PbCl}_{2}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch04-s03-n03-ty2
@@ -132,7 +132,7 @@ Ca<sup>2+</sup>(aq) + 2Cl<sup>−</sup>(aq) + Pb<sup>2+</sup>(aq) + 2NO<sub>3</s
 You may notice that in a complete ionic equation, some ions do not change their chemical form; they stay exactly the same on the reactant and product sides of the equation. For example, in
 
 $$
-\text{Na+(aq) + Cl}-\text{(aq) + Ag+(aq) + NO3}-\text{(aq) }\rightarrow{}\text{ AgCl(s) + Na+(aq) + NO3}-\text{(aq)}
+\text{Na}^{+}\text{(aq) + Cl}^{-}\text{(aq) + Ag}^{+}\text{(aq) + NO}_{3}^{-}\text{(aq) }\rightarrow{}\text{ AgCl(s) + Na}^{+}\text{(aq) + NO}_{3}^{-}\text{(aq)}
 $$
 
 the Ag<sup>+</sup>(aq) and Cl<sup>−</sup>(aq) ions become AgCl(s), but the Na<sup>+</sup>(aq) ions and the NO<sub>3</sub><sup>−</sup>(aq) ions stay as Na<sup>+</sup>(aq) ions and NO<sub>3</sub><sup>−</sup>(aq) ions. These two ions are examples of **spectator ions** (*An ion that does nothing in the overall course of a chemical reaction.*), ions that do nothing in the overall course of a chemical reaction. They are present, but they do not participate in the overall chemistry. It is common to cancel spectator ions (something also done with algebraic quantities) on the opposite sides of a chemical equation:
@@ -144,7 +144,7 @@ $$
 What remains when the spectator ions are removed is called the **net ionic equation** (*A chemical equation with the spectator ions removed.*), which represents the actual chemical change occurring between the ionic compounds:
 
 $$
-\text{Cl}-\text{(aq) + Ag+(aq) }\rightarrow{}\text{ AgCl(s)}
+\text{Cl}^{-}\text{(aq) + Ag}^{+}\text{(aq) }\rightarrow{}\text{ AgCl(s)}
 $$
 
 It is important to reiterate that the spectator ions are still present in solution, but they don’t experience any net chemical change, so they are not written in a net ionic equation.
@@ -172,7 +172,7 @@ Write the net ionic equation for each chemical reaction.
 
    The net ionic equation is
 
-   $\text{Br}-\text{(aq) + Ag+(aq) }\rightarrow{}\text{ AgBr(s)}$
+   $\text{Br}^{-}\text{(aq) + Ag}^{+}\text{(aq) }\rightarrow{}\text{ AgBr(s)}$
 2. In the second equation, the Mg<sup>2+</sup>(aq) and NO<sub>3</sub><sup>−</sup>(aq) ions are spectator ions, so they are canceled:
 
    $$
@@ -181,7 +181,7 @@ Write the net ionic equation for each chemical reaction.
 
    The net ionic equation is
 
-   $\text{SO42}-\text{(aq) + Ba2+(aq) }\rightarrow{}\text{ BaSO4(s)}$
+   $\text{SO}_{4}^{2-}\text{(aq) + Ba}^{2+}\text{(aq) }\rightarrow{}\text{ BaSO}_{4}\text{(s)}$
 ```
 
 ```{exercise}
@@ -191,7 +191,7 @@ Write the net ionic equation for each chemical reaction.
 
 Write the net ionic equation for
 
-$\text{CaCl2(aq) + Pb(NO3)2(aq) }\rightarrow{}\text{ Ca(NO3)2(aq) + PbCl2(s)}$
+$\text{CaCl}_{2}\text{(aq) + Pb(NO}_{3}\text{)}_{2}\text{(aq) }\rightarrow{}\text{ Ca(NO}_{3}\text{)}_{2}\text{(aq) + PbCl}_{2}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch04-s03-n04-ty2

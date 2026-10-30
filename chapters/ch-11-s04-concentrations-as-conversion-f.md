@@ -94,7 +94,7 @@ What mass of solute is present in 1.08 L of 0.0578 M H<sub>2</sub>SO<sub>4</sub>
 More complex stoichiometry problems using balanced chemical reactions can also use concentrations as conversion factors. For example, suppose the following equation represents a chemical reaction:
 
 $$
-\text{2AgNO3(aq) + CaCl2(aq) }\rightarrow{}\text{ 2AgCl(s) + Ca(NO3)2(aq)}
+\text{2AgNO}_{3}\text{(aq) + CaCl}_{2}\text{(aq) }\rightarrow{}\text{ 2AgCl(s) + Ca(NO}_{3}\text{)}_{2}\text{(aq)}
 $$
 
 If we wanted to know what volume of 0.555 M CaCl<sub>2</sub> would react with 1.25 mol of AgNO<sub>3</sub>, we first use the balanced chemical equation to determine the number of moles of CaCl<sub>2</sub> that would react and then use concentration to convert to liters of solution:
@@ -112,7 +112,7 @@ This can be extended by starting with the mass of one reactant, instead of moles
 
 What volume of 0.0995 M Al(NO<sub>3</sub>)<sub>3</sub> will react with 3.66 g of Ag according to the following chemical equation?
 
-$\text{3Ag(s) + Al(NO3)3(aq) }\rightarrow{}\text{ 3AgNO3 + Al(s)}$
+$\text{3Ag(s) + Al(NO}_{3}\text{)}_{3}\text{(aq) }\rightarrow{}\text{ 3AgNO}_{3}\text{ + Al(s)}$
 ```
 
 ```{solution} ex:ball-ch11-s04-n04
@@ -135,7 +135,7 @@ The strikeouts show how the units cancel.
 
 What volume of 0.512 M NaOH will react with 17.9 g of H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(s) according to the following chemical equation?
 
-$\text{H2C2O4(s) + 2NaOH(aq) }\rightarrow{}\text{ Na2C2O4(aq) + 2H2O(}\ell{}\text{)}$
+$\text{H}_{2}\text{C}_{2}\text{O}_{4}\text{(s) + 2NaOH(aq) }\rightarrow{}\text{ Na}_{2}\text{C}_{2}\text{O}_{4}\text{(aq) + 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{solution} ex:ball-ch11-s04-n04-ty2
@@ -154,7 +154,7 @@ We can extend our skills even further by recognizing that we can relate quantiti
 
 A student takes a precisely measured sample, called an *aliquot*, of 10.00 mL of a solution of FeCl<sub>3</sub>. The student carefully adds 0.1074 M Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> until all the Fe<sup>3+</sup>(aq) has precipitated as Fe<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>(s). Using a precisely measured tube called a burette, the student finds that 9.04 mL of the Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> solution was added to completely precipitate the Fe<sup>3+</sup>(aq). What was the concentration of the FeCl<sub>3</sub> in the original solution? (A precisely measured experiment like this, which is meant to determine the amount of a substance in a sample, is called a *titration*.) The balanced chemical equation is as follows:
 
-$\text{2FeCl3(aq) + 3Na2C2O4(aq) }\rightarrow{}\text{ Fe2(C2O4)3(s) + 6NaCl(aq)}$
+$\text{2FeCl}_{3}\text{(aq) + 3Na}_{2}\text{C}_{2}\text{O}_{4}\text{(aq) }\rightarrow{}\text{ Fe}_{2}\text{(C}_{2}\text{O}_{4}\text{)}_{3}\text{(s) + 6NaCl(aq)}$
 ```
 
 ```{solution} ex:ball-ch11-s04-n05
@@ -187,7 +187,7 @@ $$
 
 A student titrates 25.00 mL of H<sub>3</sub>PO<sub>4</sub> with 0.0987 M KOH. She uses 54.06 mL to complete the chemical reaction. What is the concentration of H<sub>3</sub>PO<sub>4</sub>?
 
-$\text{H3PO4(aq) + 3KOH(aq) }\rightarrow{}\text{ K3PO4(aq) + 3H2O}$
+$\text{H}_{3}\text{PO}_{4}\text{(aq) + 3KOH(aq) }\rightarrow{}\text{ K}_{3}\text{PO}_{4}\text{(aq) + 3H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch11-s04-n05-ty2
@@ -206,7 +206,7 @@ We have used molarity exclusively as the concentration of interest, but that wil
 
 H<sub>2</sub>O<sub>2</sub> is used to determine the amount of Mn according to this balanced chemical equation:
 
-$\text{2MnO4}-\text{(aq) + 5H2O2(aq) + 6H+(aq) }\rightarrow{}\text{ 2Mn2+(aq) + 5O2(g) + 8H2O(}\ell{}\text{)}$
+$\text{2MnO}_{4}^{-}\text{(aq) + 5H}_{2}\text{O}_{2}\text{(aq) + 6H}^{+}\text{(aq) }\rightarrow{}\text{ 2Mn}^{2+}\text{(aq) + 5O}_{2}\text{(g) + 8H}_{2}\text{O(}\ell{}\text{)}$
 
 What mass of 3.00% m/m H<sub>2</sub>O<sub>2</sub> solution is needed to react with 0.355 mol of MnO<sub>4</sub><sup>−</sup>(aq)?
 ```
@@ -345,7 +345,7 @@ What volume of solution is needed to provide 0.229 g of CH<sub>2</sub>O from a 0
 
 What volume of 3.44 M HCl will react with 5.33 mol of CaCO<sub>3</sub>?
 
-$\text{2HCl + CaCO3 }\rightarrow{}\text{ CaCl2 + H2O + CO2}$
+$\text{2HCl + CaCO}_{3}\text{ }\rightarrow{}\text{ CaCl}_{2}\text{ + H}_{2}\text{O + CO}_{2}$
 ```
 
 ```{solution} ex:ball-ch11-s04-qs01-qd01-qa09
@@ -362,7 +362,7 @@ $\text{2HCl + CaCO3 }\rightarrow{}\text{ CaCl2 + H2O + CO2}$
 
 What volume of 0.779 M NaCl will react with 40.8 mol of Pb(NO<sub>3</sub>)<sub>2</sub>?
 
-$\text{Pb(NO3)2 + 2NaCl }\rightarrow{}\text{ PbCl2 + 2NaNO3}$
+$\text{Pb(NO}_{3}\text{)}_{2}\text{ + 2NaCl }\rightarrow{}\text{ PbCl}_{2}\text{ + 2NaNO}_{3}$
 ```
 
 ```{exercise}
@@ -372,7 +372,7 @@ $\text{Pb(NO3)2 + 2NaCl }\rightarrow{}\text{ PbCl2 + 2NaNO3}$
 
 What volume of 0.905 M H<sub>2</sub>SO<sub>4</sub> will react with 26.7 mL of 0.554 M NaOH?
 
-$\text{H2SO4 + 2NaOH }\rightarrow{}\text{ Na2SO4 + 2H2O}$
+$\text{H}_{2}\text{SO}_{4}\text{ + 2NaOH }\rightarrow{}\text{ Na}_{2}\text{SO}_{4}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch11-s04-qs01-qd01-qa11
@@ -389,7 +389,7 @@ $\text{H2SO4 + 2NaOH }\rightarrow{}\text{ Na2SO4 + 2H2O}$
 
 What volume of 1.000 M Na<sub>2</sub>CO<sub>3</sub> will react with 342 mL of 0.733 M H<sub>3</sub>PO<sub>4</sub>?
 
-$\text{3Na2CO3 + 2H3PO4 }\rightarrow{}\text{ 2Na3PO4 + 3H2O + 3CO2}$
+$\text{3Na}_{2}\text{CO}_{3}\text{ + 2H}_{3}\text{PO}_{4}\text{ }\rightarrow{}\text{ 2Na}_{3}\text{PO}_{4}\text{ + 3H}_{2}\text{O + 3CO}_{2}$
 ```
 
 ```{exercise}
@@ -422,7 +422,7 @@ It takes 97.62 mL of 0.0546 M NaOH to titrate a 25.00 mL sample of H<sub>2</sub>
 
 It takes 4.667 mL of 0.0997 M HNO<sub>3</sub> to dissolve some solid Cu. What mass of Cu can be dissolved?
 
-$\text{Cu + 4HNO3(aq) }\rightarrow{}\text{ Cu(NO3)2(aq) + 2NO2 + 2H2O}$
+$\text{Cu + 4HNO}_{3}\text{(aq) }\rightarrow{}\text{ Cu(NO}_{3}\text{)}_{2}\text{(aq) + 2NO}_{2}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch11-s04-qs01-qd01-qa15
@@ -439,7 +439,7 @@ $\text{Cu + 4HNO3(aq) }\rightarrow{}\text{ Cu(NO3)2(aq) + 2NO2 + 2H2O}$
 
 It takes 49.08 mL of 0.877 M NH<sub>3</sub> to dissolve some solid AgCl. What mass of AgCl can be dissolved?
 
-$\text{AgCl(s) + 4NH3(aq) }\rightarrow{}\text{ Ag(NH3)4Cl(aq)}$
+$\text{AgCl(s) + 4NH}_{3}\text{(aq) }\rightarrow{}\text{ Ag(NH}_{3}\text{)}_{4}\text{Cl(aq)}$
 ```
 
 ```{exercise}
@@ -449,7 +449,7 @@ $\text{AgCl(s) + 4NH3(aq) }\rightarrow{}\text{ Ag(NH3)4Cl(aq)}$
 
 What mass of 3.00% H<sub>2</sub>O<sub>2</sub> is needed to produce 66.3 g of O<sub>2</sub>(g)?
 
-$\text{2H2O2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + O2(g)}$
+$\text{2H}_{2}\text{O}_{2}\text{(aq) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{) + O}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch11-s04-qs01-qd01-qa17
@@ -466,5 +466,5 @@ $\text{2H2O2(aq) }\rightarrow{}\text{ 2H2O(}\ell{}\text{) + O2(g)}$
 
 A 0.75% solution of Na<sub>2</sub>CO<sub>3</sub> is used to precipitate Ca<sup>2+</sup> ions from solution. What mass of solution is needed to precipitate 40.7 L of solution with a concentration of 0.0225 M Ca<sup>2+</sup>(aq)?
 
-$\text{Na2CO3(aq) + Ca2+(aq) }\rightarrow{}\text{ CaCO3(s) + 2Na+(aq)}$
+$\text{Na}_{2}\text{CO}_{3}\text{(aq) + Ca}^{2+}\text{(aq) }\rightarrow{}\text{ CaCO}_{3}\text{(s) + 2Na}^{+}\text{(aq)}$
 ```

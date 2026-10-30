@@ -18,7 +18,7 @@ Mole-mole calculations are not the only type of calculations that can be perform
 For example, suppose we have the balanced chemical equation
 
 $$
-\text{2Al + 3Cl2 }\rightarrow{}\text{ 2AlCl3}
+\text{2Al + 3Cl}_{2}\text{ }\rightarrow{}\text{ 2AlCl}_{3}
 $$
 
 Suppose we know we have 123.2 g of Cl<sub>2</sub>. How can we determine how many moles of AlCl<sub>3</sub> we will get when the reaction is complete? First and foremost, *chemical equations are not balanced in terms of grams; they are balanced in terms of moles*. So to use the balanced chemical equation to relate an amount of Cl<sub>2</sub> to an amount of AlCl<sub>3</sub>, we need to convert the given amount of Cl<sub>2</sub> into moles. We know how to do this by simply using the molar mass of Cl<sub>2</sub> as a conversion factor. The molar mass of Cl<sub>2</sub> (which we get from the atomic mass of Cl from the periodic table) is 70.90 g/mol. We must invert this fraction so that the units cancel properly:
@@ -56,7 +56,7 @@ The units still cancel appropriately, and we get the same numerical answer in th
 
 How many moles of HCl will be produced when 249 g of AlCl<sub>3</sub> are reacted according to this chemical equation?
 
-$\text{2AlCl3 + 3H2O(}\ell{}\text{) }\rightarrow{}\text{ Al2O3 + 6HCl(g)}$
+$\text{2AlCl}_{3}\text{ + 3H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ Al}_{2}\text{O}_{3}\text{ + 6HCl(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n02
@@ -97,7 +97,7 @@ The last digit in our final answer is slightly different because of rounding dif
 
 How many moles of Al<sub>2</sub>O<sub>3</sub> will be produced when 23.9 g of H<sub>2</sub>O are reacted according to this chemical equation?
 
-$\text{2AlCl3 + 3H2O(}\ell{}\text{) }\rightarrow{}\text{ Al2O3 + 6HCl(g)}$
+$\text{2AlCl}_{3}\text{ + 3H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ Al}_{2}\text{O}_{3}\text{ + 6HCl(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n02-ty2
@@ -116,7 +116,7 @@ A variation of the mole-mass calculation is to start with an amount in moles and
 
 How many grams of NH<sub>3</sub> will be produced when 33.9 mol of H<sub>2</sub> are reacted according to this chemical equation?
 
-$\text{N2(g) + 3H2(g) }\rightarrow{}\text{ 2NH3(g)}$
+$\text{N}_{2}\text{(g) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2NH}_{3}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n03
@@ -143,7 +143,7 @@ $$
 
 How many grams of N<sub>2</sub> are needed to produce 2.17 mol of NH<sub>3</sub> when reacted according to this chemical equation?
 
-$\text{N2(g) + 3H2(g) }\rightarrow{}\text{ 2NH3(g)}$
+$\text{N}_{2}\text{(g) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2NH}_{3}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n03-ty2
@@ -158,7 +158,7 @@ It should be a trivial task now to extend the calculations to **mass-mass calcul
 For example, let us determine the number of grams of SO<sub>3</sub> that can be produced by the reaction of 45.3 g of SO<sub>2</sub> and O<sub>2</sub>:
 
 $$
-\text{2SO2(g) + O2(g) }\rightarrow{}\text{ 2SO3(g)}
+\text{2SO}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2SO}_{3}\text{(g)}
 $$
 
 First, we convert the given amount, 45.3 g of SO<sub>2</sub>, to moles of SO<sub>2</sub> using its molar mass (64.06 g/mol):
@@ -194,7 +194,7 @@ We get the same answer. Note how the initial and all the intermediate units canc
 
 What mass of Mg will be produced when 86.4 g of K are reacted?
 
-$\text{MgCl2(s) + 2K(s) }\rightarrow{}\text{ Mg(s) + 2KCl(s)}$
+$\text{MgCl}_{2}\text{(s) + 2K(s) }\rightarrow{}\text{ Mg(s) + 2KCl(s)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n04
@@ -219,7 +219,7 @@ $$
 
 What mass of H<sub>2</sub> will be produced when 122 g of Zn are reacted?
 
-$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl2(aq) + H2(g)}$
+$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl}_{2}\text{(aq) + H}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-n04-ty2
@@ -245,7 +245,7 @@ $\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl2(aq) + H2(g)}$
 
 What mass of CO<sub>2</sub> is produced by the combustion of 1.00 mol of CH<sub>4</sub>?
 
-$\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{)}$
+$\text{CH}_{4}\text{(g) + 2O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g) + 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa01
@@ -262,7 +262,7 @@ $\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{)}$
 
 What mass of H<sub>2</sub>O is produced by the combustion of 1.00 mol of CH<sub>4</sub>?
 
-$\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{)}$
+$\text{CH}_{4}\text{(g) + 2O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g) + 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}
@@ -272,7 +272,7 @@ $\text{CH4(g) + 2O2(g) }\rightarrow{}\text{ CO2(g) + 2H2O(}\ell{}\text{)}$
 
 What mass of HgO is required to produce 0.692 mol of O<sub>2</sub>?
 
-$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O2(g)}$
+$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa03
@@ -289,7 +289,7 @@ $\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O2(g)}$
 
 What mass of NaHCO<sub>3</sub> is needed to produce 2.659 mol of CO<sub>2</sub>?
 
-$\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + H2O(}\ell{}\text{) + CO2(g)}$
+$\text{2NaHCO}_{3}\text{(s) }\rightarrow{}\text{ Na}_{2}\text{CO}_{3}\text{(s) + H}_{2}\text{O(}\ell{}\text{) + CO}_{2}\text{(g)}$
 ```
 
 ```{exercise}
@@ -299,7 +299,7 @@ $\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + H2O(}\ell{}\text{) + CO2(g)}$
 
 How many moles of Al can be produced from 10.87 g of Ag?
 
-$\text{Al(NO3) 3(s) + 3Ag }\rightarrow{}\text{ Al + 3AgNO3}$
+$\text{Al(NO}_{3}\text{) }_{3}\text{(s) + 3Ag }\rightarrow{}\text{ Al + 3AgNO}_{3}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa05
@@ -316,7 +316,7 @@ $\text{Al(NO3) 3(s) + 3Ag }\rightarrow{}\text{ Al + 3AgNO3}$
 
 How many moles of HCl can be produced from 0.226 g of SOCl<sub>2</sub>?
 
-$\text{SOCl2(}\ell{}\text{) + H2O(}\ell{}\text{) }\rightarrow{}\text{ SO2(g) + 2HCl(g)}$
+$\text{SOCl}_{2}\text{(}\ell{}\text{) + H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ SO}_{2}\text{(g) + 2HCl(g)}$
 ```
 
 ```{exercise}
@@ -326,7 +326,7 @@ $\text{SOCl2(}\ell{}\text{) + H2O(}\ell{}\text{) }\rightarrow{}\text{ SO2(g) + 2
 
 How many moles of O<sub>2</sub> are needed to prepare 1.00 g of Ca(NO<sub>3</sub>)<sub>2</sub>?
 
-$\text{Ca(s) + N2(g) + 3O2(g) }\rightarrow{}\text{ Ca(NO3) 2(s)}$
+$\text{Ca(s) + N}_{2}\text{(g) + 3O}_{2}\text{(g) }\rightarrow{}\text{ Ca(NO}_{3}\text{) }_{2}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa07
@@ -343,7 +343,7 @@ $\text{Ca(s) + N2(g) + 3O2(g) }\rightarrow{}\text{ Ca(NO3) 2(s)}$
 
 How many moles of C<sub>2</sub>H<sub>5</sub>OH are needed to generate 106.7 g of H<sub>2</sub>O?
 
-$\text{C2H5OH(}\ell{}\text{) + 3O2(g) }\rightarrow{}\text{ 2CO2(g) + 3H2O(}\ell{}\text{)}$
+$\text{C}_{2}\text{H}_{5}\text{OH(}\ell{}\text{) + 3O}_{2}\text{(g) }\rightarrow{}\text{ 2CO}_{2}\text{(g) + 3H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}
@@ -353,7 +353,7 @@ $\text{C2H5OH(}\ell{}\text{) + 3O2(g) }\rightarrow{}\text{ 2CO2(g) + 3H2O(}\ell{
 
 What mass of O<sub>2</sub> can be generated by the decomposition of 100.0 g of NaClO<sub>3</sub>?
 
-$\text{2NaClO3 }\rightarrow{}\text{ 2NaCl(s) + 3O2(g)}$
+$\text{2NaClO}_{3}\text{ }\rightarrow{}\text{ 2NaCl(s) + 3O}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa09
@@ -370,7 +370,7 @@ $\text{2NaClO3 }\rightarrow{}\text{ 2NaCl(s) + 3O2(g)}$
 
 What mass of Li<sub>2</sub>O is needed to react with 1,060 g of CO<sub>2</sub>?
 
-$\text{Li2O(aq) + CO2(g) }\rightarrow{}\text{ Li2CO3(aq)}$
+$\text{Li}_{2}\text{O(aq) + CO}_{2}\text{(g) }\rightarrow{}\text{ Li}_{2}\text{CO}_{3}\text{(aq)}$
 ```
 
 ```{exercise}
@@ -380,7 +380,7 @@ $\text{Li2O(aq) + CO2(g) }\rightarrow{}\text{ Li2CO3(aq)}$
 
 What mass of Fe<sub>2</sub>O<sub>3</sub> must be reacted to generate 324 g of Al<sub>2</sub>O<sub>3</sub>?
 
-$\text{Fe2O3(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al2O3(s)}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al}_{2}\text{O}_{3}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa11
@@ -397,7 +397,7 @@ $\text{Fe2O3(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al2O3(s)}$
 
 What mass of Fe is generated when 100.0 g of Al are reacted?
 
-$\text{Fe2O3(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al2O3(s)}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al}_{2}\text{O}_{3}\text{(s)}$
 ```
 
 ```{exercise}
@@ -407,7 +407,7 @@ $\text{Fe2O3(s) + 2Al(s) }\rightarrow{}\text{ 2Fe(s) + Al2O3(s)}$
 
 What mass of MnO<sub>2</sub> is produced when 445 g of H<sub>2</sub>O are reacted?
 
-$\text{H2O(}\ell{}\text{) + 2MnO4}-\text{(aq) + Br}-\text{(aq) }\rightarrow{}\text{ BrO3}-\text{(aq) + 2MnO2(s) + 2OH}-\text{(aq)}$
+$\text{H}_{2}\text{O(}\ell{}\text{) + 2MnO}_{4}^{-}\text{(aq) + Br}^{-}\text{(aq) }\rightarrow{}\text{ BrO}_{3}^{-}\text{(aq) + 2MnO}_{2}\text{(s) + 2OH}^{-}\text{(aq)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa13
@@ -424,7 +424,7 @@ $\text{H2O(}\ell{}\text{) + 2MnO4}-\text{(aq) + Br}-\text{(aq) }\rightarrow{}\te
 
 What mass of PbSO<sub>4</sub> is produced when 29.6 g of H<sub>2</sub>SO<sub>4</sub> are reacted?
 
-$\text{Pb(s) + PbO2(s) + 2H2SO4(aq) }\rightarrow{}\text{ 2PbSO4(s) + 2H2O(}\ell{}\text{)}$
+$\text{Pb(s) + PbO}_{2}\text{(s) + 2H}_{2}\text{SO}_{4}\text{(aq) }\rightarrow{}\text{ 2PbSO}_{4}\text{(s) + 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}
@@ -434,7 +434,7 @@ $\text{Pb(s) + PbO2(s) + 2H2SO4(aq) }\rightarrow{}\text{ 2PbSO4(s) + 2H2O(}\ell{
 
 If 83.9 g of ZnO are formed, what mass of Mn<sub>2</sub>O<sub>3</sub> is formed with it?
 
-$\text{Zn(s) + 2MnO2(s) }\rightarrow{}\text{ ZnO(s) + Mn2O3(s)}$
+$\text{Zn(s) + 2MnO}_{2}\text{(s) }\rightarrow{}\text{ ZnO(s) + Mn}_{2}\text{O}_{3}\text{(s)}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa15
@@ -451,7 +451,7 @@ $\text{Zn(s) + 2MnO2(s) }\rightarrow{}\text{ ZnO(s) + Mn2O3(s)}$
 
 If 14.7 g of NO<sub>2</sub> are reacted, what mass of H<sub>2</sub>O is reacted with it?
 
-$\text{3NO2(g) + H2O(}\ell{}\text{) }\rightarrow{}\text{ 2HNO3(aq) + NO(g)}$
+$\text{3NO}_{2}\text{(g) + H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ 2HNO}_{3}\text{(aq) + NO(g)}$
 ```
 
 ```{exercise}
@@ -461,7 +461,7 @@ $\text{3NO2(g) + H2O(}\ell{}\text{) }\rightarrow{}\text{ 2HNO3(aq) + NO(g)}$
 
 If 88.4 g of CH<sub>2</sub>S are reacted, what mass of HF is produced?
 
-$\text{CH2S + 6F2 }\rightarrow{}\text{ CF4 + 2HF + SF6}$
+$\text{CH}_{2}\text{S + 6F}_{2}\text{ }\rightarrow{}\text{ CF}_{4}\text{ + 2HF + SF}_{6}$
 ```
 
 ```{solution} ex:ball-ch05-s04-qs01-qd01-qa17
@@ -478,5 +478,5 @@ $\text{CH2S + 6F2 }\rightarrow{}\text{ CF4 + 2HF + SF6}$
 
 If 100.0 g of Cl<sub>2</sub> are needed, what mass of NaOCl must be reacted?
 
-$\text{NaOCl + HCl }\rightarrow{}\text{ NaOH + Cl2}$
+$\text{NaOCl + HCl }\rightarrow{}\text{ NaOH + Cl}_{2}$
 ```

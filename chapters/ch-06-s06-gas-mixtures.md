@@ -37,7 +37,7 @@ A mixture of H<sub>2</sub> at 2.33 atm and N<sub>2</sub> at 0.77 atm is in a con
 
 Dalton’s law of partial pressures states that the total pressure is equal to the sum of the partial pressures. We simply add the two pressures together:
 
-$\text{Ptot = 2.33 atm + 0.77 atm = 3.10 atm}$
+$P_{\text{tot}}\text{ = 2.33 atm + 0.77 atm = 3.10 atm}$
 ```
 
 ```{exercise}
@@ -69,21 +69,21 @@ A 2.00 L container with 2.50 atm of H<sub>2</sub> is connected to a 5.00 L conta
 
 Because gases act independently of each other, we can determine the resulting final pressures using Boyle’s law and then add the two resulting pressures together to get the final pressure. The total final volume is 2.00 L + 5.00 L = 7.00 L. First, we use Boyle’s law to determine the final pressure of H<sub>2</sub>:
 
-$\text{(2.50 atm)(2.00 L) = P2(7.00 L)}$
+$\text{(2.50 atm)(2.00 L) = }P_{2}\text{(7.00 L)}$
 
 Solving for *P*<sub>2</sub>, we get
 
-$\text{P2 = 0.714 atm = partial pressure of H2}$
+$P_{2}\text{ = 0.714 atm = partial pressure of H}_{2}$
 
 Now we do that same thing for the O<sub>2</sub>:
 
-$\text{(1.90 atm)(5.00 L) = P2(7.00 L)}$
+$\text{(1.90 atm)(5.00 L) = }P_{2}\text{(7.00 L)}$
 
-$\text{P2 = 1.36 atm = partial pressure of O2}$
+$P_{2}\text{ = 1.36 atm = partial pressure of O}_{2}$
 
 The total pressure is the sum of the two resulting partial pressures:
 
-$\text{Ptot = 0.714 atm + 1.36 atm = 2.07 atm}$
+$P_{\text{tot}}\text{ = 0.714 atm + 1.36 atm = 2.07 atm}$
 ```
 
 ```{exercise}
@@ -153,7 +153,7 @@ $$
 
 All the units cancel except for mol, which is what we are looking for. So
 
-$\text{n = 0.0775 mol H2 collected}$
+$n\text{ = 0.0775 mol H}_{2}\text{ collected}$
 ```
 
 ```{exercise}
@@ -222,7 +222,7 @@ A container has a mixture of He at 0.80 atm and Ne at 0.60 atm. What are the mol
 
 According to Dalton’s law, the total pressure is the sum of the partial pressures:
 
-$\text{Ptot = 0.80 atm + 0.60 atm = 1.40 atm}$
+$P_{\text{tot}}\text{ = 0.80 atm + 0.60 atm = 1.40 atm}$
 
 The mole fractions are the ratios of the partial pressure of each component and the total pressure:
 
@@ -259,7 +259,7 @@ All carbonated beverages are made in one of two ways. First, the flat beverage i
 
 The second way a beverage can become carbonated is by the ingestion of sugar by yeast, which then generates CO<sub>2</sub> as a digestion product. This process is called *fermentation*. The overall reaction is
 
-$\text{C6H12O6(aq) }\rightarrow{}\text{ 2C2H5OH(aq) + 2CO2(aq)}$
+$\text{C}_{6}\text{H}_{12}\text{O}_{6}\text{(aq) }\rightarrow{}\text{ 2C}_{2}\text{H}_{5}\text{OH(aq) + 2CO}_{2}\text{(aq)}$
 
 When this process occurs in a closed container, the CO<sub>2</sub> produced dissolves in the liquid, only to be released from solution when the container is opened. Most fine sparkling wines and champagnes are turned into carbonated beverages this way. Less-expensive sparkling wines are made like sodas and beer, with exposure to high pressures of CO<sub>2</sub> gas.
 ```

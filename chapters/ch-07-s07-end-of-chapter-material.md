@@ -145,7 +145,7 @@ The basic reaction in the refining of aluminum is to take Al<sub>2</sub>O<sub>3<
 
 Is the enthalpy change of the reaction
 
-$\text{H2O(}\ell{}\text{) }\rightarrow{}\text{ H2O(g)}$
+$\text{H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ H}_{2}\text{O(g)}$
 
 zero or nonzero? Use data in {ref}`Table 7.2 "Enthalpies of Formation for Various Substances" <tbl:ch07:s06:t01>` to determine the answer.
 ```
@@ -180,7 +180,7 @@ What mass of H<sub>2</sub>O can be heated from 22°C to 80°C in the combustion 
 
 What is the enthalpy change for the unknown reaction?
 
-$\text{Pb(s) + Cl2(g) }\rightarrow{}\text{ PbCl2(s) }\Delta{}\text{H = }-\text{359 kJ}$ $\text{PbCl2(s) + Cl2(g) }\rightarrow{}\text{ PbCl4(}\ell{}\text{) }\Delta{}\text{H = ?}$ $\text{Pb(s) + 2Cl2(g) }\rightarrow{}\text{ PbCl4(}\ell{}\text{) }\Delta{}\text{H = }-\text{329 kJ}$
+$\text{Pb(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ PbCl}_{2}\text{(s) }\Delta{}H\text{ = }-\text{359 kJ}$ $\text{PbCl}_{2}\text{(s) + Cl}_{2}\text{(g) }\rightarrow{}\text{ PbCl}_{4}\text{(}\ell{}\text{) }\Delta{}H\text{ = ?}$ $\text{Pb(s) + 2Cl}_{2}\text{(g) }\rightarrow{}\text{ PbCl}_{4}\text{(}\ell{}\text{) }\Delta{}H\text{ = }-\text{329 kJ}$
 ```
 
 ```{solution} ex:ball-ch07-s07-qs01-qd01-qa15
@@ -197,7 +197,7 @@ $\text{Pb(s) + Cl2(g) }\rightarrow{}\text{ PbCl2(s) }\Delta{}\text{H = }-\text{3
 
 What is the enthalpy change for the unknown reaction?
 
-$\text{P(s) + 3/2Br2(}\ell{}\text{) }\rightarrow{}\text{ PBr3(}\ell{}\text{) }\Delta{}\text{H = }-\text{185 kJ}$ $\text{PI3(s) }\rightarrow{}\text{ P(s) + 3/2I2(s) }\Delta{}\text{H = ?}$ $\text{PI3(s) + 3/2Br2(}\ell{}\text{) }\rightarrow{}\text{ PBr3(}\ell{}\text{) + 3/2I2(s) }\Delta{}\text{H = }-\text{139 kJ}$
+$\text{P(s) + 3/2Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ PBr}_{3}\text{(}\ell{}\text{) }\Delta{}H\text{ = }-\text{185 kJ}$ $\text{PI}_{3}\text{(s) }\rightarrow{}\text{ P(s) + 3/2I}_{2}\text{(s) }\Delta{}H\text{ = ?}$ $\text{PI}_{3}\text{(s) + 3/2Br}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ PBr}_{3}\text{(}\ell{}\text{) + 3/2I}_{2}\text{(s) }\Delta{}H\text{ = }-\text{139 kJ}$
 ```
 
 ```{exercise}
@@ -224,5 +224,5 @@ $\text{C(s, gra) }\rightarrow{}\text{ C(s, dia)}$
 
 Without consulting any tables, determine the Δ*H* for this reaction. Explain your answer.
 
-$\text{H2O(}\ell{}\text{, 25}^{\circ}\text{C) }\rightarrow{}\text{ H2O(}\ell{}\text{, 25}^{\circ}\text{C)}$
+$\text{H}_{2}\text{O(}\ell{}\text{, 25}^{\circ}\text{C) }\rightarrow{}\text{ H}_{2}\text{O(}\ell{}\text{, 25}^{\circ}\text{C)}$
 ```

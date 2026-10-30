@@ -19,7 +19,7 @@ $$
 {_{6}^{12}}\text{C}
 $$
 
-The element in this example, represented by the symbol C, is carbon. Its atomic number, 6, is the subscript next to the symbol and is the number of protons in the atom. The mass number, the superscript next to the symbol, is the sum of the number of protons and neutrons in the nucleus of this particular isotope. In this case, the mass number is 12, which means that the number of neutrons in the atom is 12 − 6 = 6 (that is, the mass number of the atom minus the number of protons in the nucleus equals the number of neurons). Occasionally, the atomic number is omitted in this notation because the symbol of the element itself conveys its characteristic atomic number. The two isotopes of hydrogen—<sup>2</sup>H and <sup>3</sup>H—are given their own names and symbols: deuterium (D) and tritium (T), respectively.
+The element in this example, represented by the symbol C, is carbon. Its atomic number, 6, is the subscript next to the symbol and is the number of protons in the atom. The mass number, the superscript next to the symbol, is the sum of the number of protons and neutrons in the nucleus of this particular isotope. In this case, the mass number is 12, which means that the number of neutrons in the atom is 12 − 6 = 6 (that is, the mass number of the atom minus the number of protons in the nucleus equals the number of neutrons). Occasionally, the atomic number is omitted in this notation because the symbol of the element itself conveys its characteristic atomic number. The two isotopes of hydrogen—<sup>2</sup>H and <sup>3</sup>H—are given their own names and symbols: deuterium (D) and tritium (T), respectively.
 
 Atomic theory in the nineteenth century presumed that nuclei had fixed compositions. But in 1896, the French scientist Henri Becquerel found that a uranium compound placed near a photographic plate made an image on the plate, even if the compound was wrapped in black cloth. He reasoned that the uranium compound was emitting some kind of radiation that passed through the cloth to expose the photographic plate. Further investigations showed that the radiation was a combination of particles and electromagnetic rays, with its ultimate source being the atomic nucleus. These emanations were ultimately called, collectively, **radioactivity** (*Emanations of particles and radiation from atomic nuclei.*).
 
@@ -141,7 +141,7 @@ $$
 {_{92}^{235}}\text{U}\rightarrow{}{_{\text{56}}^{\text{139}}}\text{B}\text{a}+{_{\text{36}}^{\text{94}}}\text{K}\text{r}+\text{2}{_{\text{0}}^{\text{1}}}\text{n}
 $$
 
-where ${_{\text{0}}^{\text{1}}}\text{n}$ is a neutron. As with any nuclear process, the sums of the atomic numbers and mass numbers must be the same on both sides of the equation. Spontaneous fission is found only in large nuclei. The smallest nucleus that exhibits spontaneous fission is lead-208. (Fission is the radioactive process used in nuclear power plants and one type of nuclear bomb.)
+where ${_{\text{0}}^{\text{1}}}\text{n}$ is a neutron. As with any nuclear process, the sums of the atomic numbers and mass numbers must be the same on both sides of the equation. Spontaneous fission is found only in large nuclei. Lead-208 is stable and does not fission spontaneously; measurable spontaneous fission occurs in much heavier nuclei, such as isotopes of uranium. (The fission used in nuclear power plants and in one type of nuclear bomb is induced by a neutron, rather than spontaneous.)
 
 ```{important} Key Takeaways
 

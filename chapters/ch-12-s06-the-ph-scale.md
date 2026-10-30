@@ -17,7 +17,7 @@ As we have seen, [H<sup>+</sup>] and [OH<sup>−</sup>] values can be markedly d
 **pH** (*The negative logarithm of the hydrogen ion concentration.*) is a logarithmic function of [H<sup>+</sup>]:
 
 $$
-\text{pH = }-\text{log[H+]}
+\text{pH = }-\text{log[H}^{+}\text{]}
 $$
 
 pH is usually (but not always) between 0 and 14. Knowing the dependence of pH on [H<sup>+</sup>], we can summarize as follows:
@@ -99,7 +99,7 @@ pH is a *logarithmic* scale. A solution that has a pH of 1.0 has 10 times the [H
 Using the definition of pH, it is also possible to calculate [H<sup>+</sup>] (and [OH<sup>−</sup>]) from pH and vice versa. The general formula for determining [H<sup>+</sup>] from pH is as follows:
 
 $$
-\text{[H+] = 10}-\text{pH}
+\text{[H}^{+}\text{] = 10}^{-\text{pH}}
 $$
 
 You need to determine how to evaluate the above expression on your calculator. Ask your instructor if you have any questions. The other issue that concerns us here is significant figures. Because the number(s) before the decimal point in a logarithm relate to the power on 10, the number of digits *after* the decimal point is what determines the number of significant figures in the final answer:
@@ -122,11 +122,11 @@ What are [H<sup>+</sup>] and [OH<sup>−</sup>] for an aqueous solution whose pH
 
 We need to evaluate the expression
 
-$\text{[H+] = 10}-\text{4.88}$
+$\text{[H}^{+}\text{] = 10}^{-4.88}$
 
 Depending on the calculator you use, the method for solving this problem will vary. In some cases, the “−4.88” is entered and a “10<sup>x</sup>” key is pressed; for other calculators, the sequence of keystrokes is reversed. In any case, the correct numerical answer is as follows:
 
-$\text{[H+] = 1.3 }\times{}\text{ 10}-\text{5 M}$
+$\text{[H}^{+}\text{] = 1.3 }\times{}\text{ 10}^{-5}\text{ M}$
 
 Because 4.88 has two digits after the decimal point, [H<sup>+</sup>] is limited to two significant figures. From this, [OH<sup>−</sup>] can be determined:
 
@@ -153,13 +153,13 @@ What are [H<sup>+</sup>] and [OH<sup>−</sup>] for an aqueous solution whose pH
 There is an easier way to relate [H<sup>+</sup>] and [OH<sup>−</sup>]. We can also define **pOH** (*The negative logarithm of the hydroxide ion concentration.*) similar to pH:
 
 $$
-\text{pOH = }-\text{log[OH}-\text{]}
+\text{pOH = }-\text{log[OH}^{-}\text{]}
 $$
 
 (In fact, p“anything” is defined as the negative logarithm of that anything.) This also implies that
 
 $$
-\text{[OH}-\text{] = 10}-\text{pOH}
+\text{[OH}^{-}\text{] = 10}^{-\text{pOH}}
 $$
 
 A simple and useful relationship is that for any aqueous solution,
@@ -192,15 +192,15 @@ $\text{pOH = 5.78}$
 
 Now we evaluate the following two expressions:
 
-$\text{[H+] = 10}-\text{8.22}$
+$\text{[H}^{+}\text{] = 10}^{-8.22}$
 
-$\text{[OH}-\text{] = 10}-\text{5.78}$
+$\text{[OH}^{-}\text{] = 10}^{-5.78}$
 
 So
 
-$\text{[H+] = 6.0 }\times{}\text{ 10}-\text{9 M}$
+$\text{[H}^{+}\text{] = 6.0 }\times{}\text{ 10}^{-9}\text{ M}$
 
-$\text{[OH}-\text{] = 1.7 }\times{}\text{ 10}-\text{6 M}$
+$\text{[OH}^{-}\text{] = 1.7 }\times{}\text{ 10}^{-6}\text{ M}$
 ```
 
 ```{exercise}

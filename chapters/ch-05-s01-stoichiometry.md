@@ -17,7 +17,7 @@ Consider a classic recipe for pound cake: 1 pound of eggs, 1 pound of butter, 1 
 Now suppose you have 1.00 g H<sub>2</sub>. If the chemical reaction follows the balanced chemical equation
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 then what mass of oxygen do you need to make water?
@@ -65,13 +65,13 @@ A balanced chemical equation is nothing more than *a recipe for a chemical react
 For example, consider the following chemical equation:
 
 $$
-\text{2H2(g) + O2(g) }\rightarrow{}\text{ 2H2O(}\ell{}\text{)}
+\text{2H}_{2}\text{(g) + O}_{2}\text{(g) }\rightarrow{}\text{ 2H}_{2}\text{O(}\ell{}\text{)}
 $$
 
 We can interpret this as, literally, “two hydrogen molecules react with one oxygen molecule to make two water molecules.” That interpretation leads us directly to some equivalences, just as our pancake recipe did:
 
 $$
-\text{2H2 molecules }\Leftrightarrow{}\text{ 1O2 molecule }\Leftrightarrow{}\text{ 2H2O molecules}
+\text{2H}_{2}\text{ molecules }\Leftrightarrow{}\text{ 1O}_{2}\text{ molecule }\Leftrightarrow{}\text{ 2H}_{2}\text{O molecules}
 $$
 
 These equivalences allow us to construct conversion factors:
@@ -97,7 +97,7 @@ Note how the unit *molecules H*<sub>*2*</sub> cancels algebraically, just as any
 
 How many molecules of SO<sub>3</sub> are needed to react with 144 molecules of Fe<sub>2</sub>O<sub>3</sub> given this balanced chemical equation?
 
-$\text{Fe2O3(s) + 3SO3(g) }\rightarrow{}\text{ Fe2(SO4)3}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}$
 ```
 
 ```{solution} ex:ball-ch05-s01-n02
@@ -238,7 +238,7 @@ What are all the conversion factors that can be constructed from the balanced ch
 
 Given the chemical equation
 
-$\text{Na(s) + H2O(}\ell{}\text{) }\rightarrow{}\text{ NaOH(aq) + H2(g)}$
+$\text{Na(s) + H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ NaOH(aq) + H}_{2}\text{(g)}$
 
 a. Balance the equation.
 b. How many molecules of H<sub>2</sub> are produced when 332 atoms of Na react?
@@ -259,7 +259,7 @@ b. 166 molecules
 
 Given the chemical equation
 
-$\text{S(s) + O2(g) }\rightarrow{}\text{ SO3(g)}$
+$\text{S(s) + O}_{2}\text{(g) }\rightarrow{}\text{ SO}_{3}\text{(g)}$
 
 a. Balance the equation.
 b. How many molecules of O<sub>2</sub> are needed when 38 atoms of S react?
@@ -272,7 +272,7 @@ b. How many molecules of O<sub>2</sub> are needed when 38 atoms of S react?
 
 For the balanced chemical equation
 
-$\text{6H+(aq) + 2MnO4}-\text{(aq) + 5H2O2(}\ell{}\text{) }\rightarrow{}\text{ 2Mn2+(aq) + 5O2(g) + 8H2O(}\ell{}\text{)}$
+$\text{6H}^{+}\text{(aq) + 2MnO}_{4}^{-}\text{(aq) + 5H}_{2}\text{O}_{2}\text{(}\ell{}\text{) }\rightarrow{}\text{ 2Mn}^{2+}\text{(aq) + 5O}_{2}\text{(g) + 8H}_{2}\text{O(}\ell{}\text{)}$
 
 how many molecules of H<sub>2</sub>O are produced when 75 molecules of H<sub>2</sub>O<sub>2</sub> react?
 ```
@@ -291,7 +291,7 @@ how many molecules of H<sub>2</sub>O are produced when 75 molecules of H<sub>2</
 
 For the balanced chemical reaction
 
-$\text{2C6H6(}\ell{}\text{) + 15O2(g) }\rightarrow{}\text{ 12CO2(g) + 6H2O(}\ell{}\text{)}$
+$\text{2C}_{6}\text{H}_{6}\text{(}\ell{}\text{) + 15O}_{2}\text{(g) }\rightarrow{}\text{ 12CO}_{2}\text{(g) + 6H}_{2}\text{O(}\ell{}\text{)}$
 
 how many molecules of CO<sub>2</sub> are produced when 56 molecules of C<sub>6</sub>H<sub>6</sub> react?
 ```
@@ -303,7 +303,7 @@ how many molecules of CO<sub>2</sub> are produced when 56 molecules of C<sub>6</
 
 Given the balanced chemical equation
 
-$\text{Fe2O3(s) + 3SO3(g) }\rightarrow{}\text{ Fe2(SO4)3}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}$
 
 how many molecules of Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> are produced if 321 atoms of S are reacted?
 ```
@@ -322,7 +322,7 @@ how many molecules of Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> are produced if
 
 For the balanced chemical equation
 
-$\text{CuO(s) + H2S(g) }\rightarrow{}\text{ CuS + H2O(}\ell{}\text{)}$
+$\text{CuO(s) + H}_{2}\text{S(g) }\rightarrow{}\text{ CuS + H}_{2}\text{O(}\ell{}\text{)}$
 
 how many molecules of CuS are formed if 9,044 atoms of H react?
 ```
@@ -334,7 +334,7 @@ how many molecules of CuS are formed if 9,044 atoms of H react?
 
 For the balanced chemical equation
 
-$\text{Fe2O3(s) + 3SO3(g) }\rightarrow{}\text{ Fe2(SO4)3}$
+$\text{Fe}_{2}\text{O}_{3}\text{(s) + 3SO}_{3}\text{(g) }\rightarrow{}\text{ Fe}_{2}\text{(SO}_{4}\text{)}_{3}$
 
 suppose we need to make 145,000 molecules of Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. How many molecules of SO<sub>3</sub> do we need?
 ```
@@ -353,7 +353,7 @@ suppose we need to make 145,000 molecules of Fe<sub>2</sub>(SO<sub>4</sub>)<sub>
 
 One way to make sulfur hexafluoride is to react thioformaldehyde, CH<sub>2</sub>S, with elemental fluorine:
 
-$\text{CH2S + 6F2 }\rightarrow{}\text{ CF4 + 2HF + SF6}$
+$\text{CH}_{2}\text{S + 6F}_{2}\text{ }\rightarrow{}\text{ CF}_{4}\text{ + 2HF + SF}_{6}$
 
 If 45,750 molecules of SF<sub>6</sub> are needed, how many molecules of F<sub>2</sub> are required?
 ```

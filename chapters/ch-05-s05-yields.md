@@ -32,7 +32,7 @@ It does not matter whether the actual and theoretical yields are expressed in mo
 
 A worker reacts 30.5 g of Zn with nitric acid and evaporates the remaining water to obtain 65.2 g of Zn(NO<sub>3</sub>)<sub>2</sub>. What are the theoretical yield, the actual yield, and the percent yield?
 
-$\text{Zn(s) + 2HNO3(aq) }\rightarrow{}\text{ Zn(NO3)2(aq) + H2(g)}$
+$\text{Zn(s) + 2HNO}_{3}\text{(aq) }\rightarrow{}\text{ Zn(NO}_{3}\text{)}_{2}\text{(aq) + H}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s05-n02
@@ -61,7 +61,7 @@ The worker achieved almost three-fourths of the possible yield.
 
 A synthesis produced 2.05 g of NH<sub>3</sub> from 16.5 g of N<sub>2</sub>. What is the theoretical yield and the percent yield?
 
-$\text{N2(g) + 3H2(g) }\rightarrow{}\text{ 2NH3(g)}$
+$\text{N}_{2}\text{(g) + 3H}_{2}\text{(g) }\rightarrow{}\text{ 2NH}_{3}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s05-n02-ty2
@@ -127,7 +127,7 @@ What is the difference between the actual yield and the percent yield?
 
 A worker isolates 2.675 g of SiF<sub>4</sub> after reacting 2.339 g of SiO<sub>2</sub> with HF. What are the theoretical yield and the actual yield?
 
-$\text{SiO2(s) + 4HF(g) }\rightarrow{}\text{ SiF4(g) + 2H2O(}\ell{}\text{)}$
+$\text{SiO}_{2}\text{(s) + 4HF(g) }\rightarrow{}\text{ SiF}_{4}\text{(g) + 2H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{solution} ex:ball-ch05-s05-qs01-qd01-qa03
@@ -144,7 +144,7 @@ theoretical yield = 4.052 g; actual yield = 2.675 g
 
 A worker synthesizes aspirin, C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>, according to this chemical equation. If 12.66 g of C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> are reacted and 12.03 g of aspirin are isolated, what are the theoretical yield and the actual yield?
 
-$\text{C7H6O3 + C4H6O3 }\rightarrow{}\text{ C9H8O4 + HC2H3O2}$
+$\text{C}_{7}\text{H}_{6}\text{O}_{3}\text{ + C}_{4}\text{H}_{6}\text{O}_{3}\text{ }\rightarrow{}\text{ C}_{9}\text{H}_{8}\text{O}_{4}\text{ + HC}_{2}\text{H}_{3}\text{O}_{2}$
 ```
 
 ```{exercise}
@@ -154,7 +154,7 @@ $\text{C7H6O3 + C4H6O3 }\rightarrow{}\text{ C9H8O4 + HC2H3O2}$
 
 A chemist decomposes 1.006 g of NaHCO<sub>3</sub> and obtains 0.0334 g of Na<sub>2</sub>CO<sub>3</sub>. What are the theoretical yield and the actual yield?
 
-$\text{2NaHCO3(s) }\rightarrow{}\text{ Na2CO3(s) + H2O(}\ell{}\text{) + CO2(g)}$
+$\text{2NaHCO}_{3}\text{(s) }\rightarrow{}\text{ Na}_{2}\text{CO}_{3}\text{(s) + H}_{2}\text{O(}\ell{}\text{) + CO}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch05-s05-qs01-qd01-qa05
@@ -171,7 +171,7 @@ theoretical yield = 0.635 g; actual yield = 0.0334 g
 
 A chemist combusts a 3.009 g sample of C<sub>5</sub>H<sub>12</sub> and obtains 3.774 g of H<sub>2</sub>O. What are the theoretical yield and the actual yield?
 
-$\text{C5H12(}\ell{}\text{) + 8O2(g) }\rightarrow{}\text{ 5CO2 + 6H2O(}\ell{}\text{)}$
+$\text{C}_{5}\text{H}_{12}\text{(}\ell{}\text{) + 8O}_{2}\text{(g) }\rightarrow{}\text{ 5CO}_{2}\text{ + 6H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}

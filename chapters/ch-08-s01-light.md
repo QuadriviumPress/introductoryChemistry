@@ -101,11 +101,11 @@ What is the energy of light if its frequency is 1.55 × 10<sup>10</sup> s<sup>�
 
 Using the formula for the energy of light, we have
 
-$\text{E = (6.626 }\times{}\text{ 10}-\text{34 J}\cdot{}\text{s)(1.55 }\times{}\text{ 1010 s}-\text{1)}$
+$E\text{ = (6.626 }\times{}\text{ 10}^{-34}\text{ J}\cdot{}\text{s)(1.55 }\times{}\text{ 10}^{10}\text{ s}^{-1}\text{)}$
 
 Seconds are in the numerator and the denominator, so they cancel, leaving us with joules, the unit of energy. So
 
-$\text{E = 1.03 }\times{}\text{ 10}-\text{23 J}$
+$E\text{ = 1.03 }\times{}\text{ 10}^{-23}\text{ J}$
 
 This is an extremely small amount of energy—but this is for only one light wave.
 ```

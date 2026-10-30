@@ -104,15 +104,15 @@ Ionization Energy on the Periodic Table. Values are in kJ/mol.
 IE also shows an interesting trend within a given atom. This is because more than one IE can be defined by removing successive electrons (if the atom has them to begin with):
 
 $$
-\text{A(g) }\rightarrow{}\text{ A+(g) + e}-\text{     IE1}
+\text{A(g) }\rightarrow{}\text{ A}^{+}\text{(g) + e}^{-}\text{     IE}_{1}
 $$
 
 $$
-\text{A+(g) }\rightarrow{}\text{ A2+(g) + e}-\text{     IE2}
+\text{A}^{+}\text{(g) }\rightarrow{}\text{ A}^{2+}\text{(g) + e}^{-}\text{     IE}_{2}
 $$
 
 $$
-\text{A2+(g) }\rightarrow{}\text{ A3+(g) + e}-\text{     IE3}
+\text{A}^{2+}\text{(g) }\rightarrow{}\text{ A}^{3+}\text{(g) + e}^{-}\text{     IE}_{3}
 $$
 
 and so forth.
@@ -120,15 +120,15 @@ and so forth.
 Each successive IE is larger than the previous because an electron is being removed from an atom with a progressively larger positive charge. However, IE takes a large jump when a successive ionization goes down into a new shell. For example, the following are the first three IEs for Mg, whose electron configuration is 1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>:
 
 $$
-\text{Mg(g) }\rightarrow{}\text{ Mg+(g) + e}-\text{     IE1 = 738 kJ/mol}
+\text{Mg(g) }\rightarrow{}\text{ Mg}^{+}\text{(g) + e}^{-}\text{     IE}_{1}\text{ = 738 kJ/mol}
 $$
 
 $$
-\text{Mg+(g) }\rightarrow{}\text{ Mg2+(g) + e}-\text{     IE2 = 1,450 kJ/mol}
+\text{Mg}^{+}\text{(g) }\rightarrow{}\text{ Mg}^{2+}\text{(g) + e}^{-}\text{     IE}_{2}\text{ = 1,450 kJ/mol}
 $$
 
 $$
-\text{Mg2+(g) }\rightarrow{}\text{ Mg3+(g) + e}-\text{     IE3 = 7,734 kJ/mol}
+\text{Mg}^{2+}\text{(g) }\rightarrow{}\text{ Mg}^{3+}\text{(g) + e}^{-}\text{     IE}_{3}\text{ = 7,734 kJ/mol}
 $$
 
 The second IE is twice the first, which is not a surprise: the first IE involves removing an electron from a neutral atom, while the second one involves removing an electron from a positive ion. The third IE, however, is over *five times* the previous one. Why is it so much larger? Because the first two electrons are removed from the 3*s* subshell, but the third electron has to be removed from the *n* = 2 shell (specifically, the 2*p* subshell, which is lower in energy than the *n* = 3 shell). Thus, it takes much more energy than just overcoming a larger ionic charge would suggest. It is trends like this that demonstrate that electrons are organized in atoms in groups.

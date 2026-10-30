@@ -16,31 +16,31 @@ title: "5.3 The Mole in Chemical Reactions"
 Consider this balanced chemical equation:
 
 $$
-\text{2H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{2H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 We interpret this as “two molecules of hydrogen react with one molecule of oxygen to make two molecules of water.” The chemical equation is balanced as long as the coefficients are in the ratio 2:1:2. For instance, this chemical equation is also balanced:
 
 $$
-\text{100H2 + 50O2 }\rightarrow{}\text{ 100H2O}
+\text{100H}_{2}\text{ + 50O}_{2}\text{ }\rightarrow{}\text{ 100H}_{2}\text{O}
 $$
 
 This equation is not conventional—because convention says that we use the lowest ratio of coefficients—but it is balanced. So is this chemical equation:
 
 $$
-\text{5,000H2 + 2,500O2 }\rightarrow{}\text{ 5,000H2O}
+\text{5,000H}_{2}\text{ + 2,500O}_{2}\text{ }\rightarrow{}\text{ 5,000H}_{2}\text{O}
 $$
 
 Again, this is not conventional, but it is still balanced. Suppose we use a much larger number:
 
 $$
-\text{12.044 }\times{}\text{ 1023 H2 + 6.022 }\times{}\text{ 1023 O2 }\rightarrow{}\text{ 12.044 }\times{}\text{ 1023 H2O}
+\text{12.044 }\times{}\text{ 10}^{23}\text{ H}_{2}\text{ + 6.022 }\times{}\text{ 10}^{23}\text{ O}_{2}\text{ }\rightarrow{}\text{ 12.044 }\times{}\text{ 10}^{23}\text{ H}_{2}\text{O}
 $$
 
 These coefficients are also in the ratio of 2:1:2. But these numbers are related to the number of things in a mole: the first and last numbers are two times Avogadro’s number, while the second number is Avogadro’s number. That means that the first and last numbers represent 2 mol, while the middle number is just 1 mol. Well, why not just use the number of moles in balancing the chemical equation?
 
 $$
-\text{2H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{2H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 is the same balanced chemical equation we started with! What this means is that chemical equations are not just balanced in terms of molecules; *they are also balanced in terms of moles*. We can just as easily read this chemical equation as “two moles of hydrogen react with one mole of oxygen to make two moles of water.” All balanced chemical reactions are balanced in terms of moles.
@@ -52,7 +52,7 @@ is the same balanced chemical equation we started with! What this means is that 
 
 Interpret this balanced chemical equation in terms of moles.
 
-$\text{P4 + 5O2 }\rightarrow{}\text{ P4O10}$
+$\text{P}_{4}\text{ + 5O}_{2}\text{ }\rightarrow{}\text{ P}_{4}\text{O}_{10}$
 ```
 
 ```{solution} ex:ball-ch05-s03-n02
@@ -69,7 +69,7 @@ The coefficients represent the number of moles that react, not just molecules. W
 
 Interpret this balanced chemical equation in terms of moles.
 
-$\text{N2 + 3H2 }\rightarrow{}\text{ 2NH3}$
+$\text{N}_{2}\text{ + 3H}_{2}\text{ }\rightarrow{}\text{ 2NH}_{3}$
 ```
 
 ```{solution} ex:ball-ch05-s03-n02-ty2
@@ -82,13 +82,13 @@ One mole of elemental nitrogen reacts with three moles of elemental hydrogen to 
 In {ref}`Chapter 4 "Chemical Reactions and Equations" <ch:ch04>`, {ref}`Section 4.1 "The Chemical Equation" <sec:ch04:s01>`, we stated that a chemical equation is simply a recipe for a chemical reaction. As such, chemical equations also give us equivalences—equivalences between the reactants and the products. However, now we understand that *these equivalences are expressed in terms of moles*. Consider the chemical equation
 
 $$
-\text{2H2 + O2 }\rightarrow{}\text{ 2H2O}
+\text{2H}_{2}\text{ + O}_{2}\text{ }\rightarrow{}\text{ 2H}_{2}\text{O}
 $$
 
 This chemical reaction gives us the following equivalences:
 
 $$
-\text{2 mol H2 }\Leftrightarrow{}\text{ 1 mol O2 }\Leftrightarrow{}\text{ 2 mol H2O}
+\text{2 mol H}_{2}\text{ }\Leftrightarrow{}\text{ 1 mol O}_{2}\text{ }\Leftrightarrow{}\text{ 2 mol H}_{2}\text{O}
 $$
 
 Any two of these quantities can be used to construct a conversion factor that lets us relate the number of moles of one substance to an equivalent number of moles of another substance. If, for example, we want to know how many moles of oxygen will react with 17.6 mol of hydrogen, we construct a conversion factor between 2 mol of H<sub>2</sub> and 1 mol of O<sub>2</sub> and use it to convert from moles of one substance to moles of another:
@@ -106,7 +106,7 @@ Note how the mol H<sub>2</sub> unit cancels, and mol O<sub>2</sub> is the new un
 
 For the balanced chemical equation
 
-$\text{2C4H10(g) + 13O2 }\rightarrow{}\text{ 8CO2(g) + 10H2O(}\ell{}\text{)}$
+$\text{2C}_{4}\text{H}_{10}\text{(g) + 13O}_{2}\text{ }\rightarrow{}\text{ 8CO}_{2}\text{(g) + 10H}_{2}\text{O(}\ell{}\text{)}$
 
 if 154 mol of O<sub>2</sub> are reacted, how many moles of CO<sub>2</sub> are produced?
 ```
@@ -117,7 +117,7 @@ if 154 mol of O<sub>2</sub> are reacted, how many moles of CO<sub>2</sub> are pr
 
 We are relating an amount of oxygen to an amount of carbon dioxide, so we need the equivalence between these two substances. According to the balanced chemical equation, the equivalence is
 
-$\text{13 mol O2 }\Leftrightarrow{}\text{ 8 mol CO2}$
+$\text{13 mol O}_{2}\text{ }\Leftrightarrow{}\text{ 8 mol CO}_{2}$
 
 We can use this equivalence to construct the proper conversion factor. We start with what we are given and apply the conversion factor:
 
@@ -160,7 +160,7 @@ It is important to reiterate that balanced chemical equations are balanced in te
 
 Express in mole terms what this chemical equation means.
 
-$\text{CH4 + 2O2 }\rightarrow{}\text{ CO2 + 2H2O}$
+$\text{CH}_{4}\text{ + 2O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch05-s03-qs01-qd01-qa01
@@ -177,7 +177,7 @@ One mole of CH<sub>4</sub> reacts with 2 mol of O<sub>2</sub> to make 1 mol of C
 
 Express in mole terms what this chemical equation means.
 
-$\text{Na2CO3 + 2HCl }\rightarrow{}\text{ 2NaCl + H2O + CO2}$
+$\text{Na}_{2}\text{CO}_{3}\text{ + 2HCl }\rightarrow{}\text{ 2NaCl + H}_{2}\text{O + CO}_{2}$
 ```
 
 ```{exercise}
@@ -210,7 +210,7 @@ How many molecules of each substance are involved in the equation in Exercise 2 
 
 For the chemical equation
 
-$\text{2C2H6 + 7O2 }\rightarrow{}\text{ 4CO2 + 6H2O}$
+$\text{2C}_{2}\text{H}_{6}\text{ + 7O}_{2}\text{ }\rightarrow{}\text{ 4CO}_{2}\text{ + 6H}_{2}\text{O}$
 
 what equivalences can you write in terms of moles? Use the ⇔ sign.
 ```
@@ -229,7 +229,7 @@ what equivalences can you write in terms of moles? Use the ⇔ sign.
 
 For the chemical equation
 
-$\text{2Al + 3Cl2 }\rightarrow{}\text{ 2AlCl3}$
+$\text{2Al + 3Cl}_{2}\text{ }\rightarrow{}\text{ 2AlCl}_{3}$
 
 what equivalences can you write in terms of moles? Use the ⇔ sign.
 ```
@@ -264,7 +264,7 @@ Write the balanced chemical reaction for the formation of Fe<sub>2</sub>(SO<sub>
 
 For the balanced chemical equation
 
-$\text{3Cu(s) + 2NO3}-\text{(aq) + 8H+(aq) }\rightarrow{}\text{ 3Cu2+(aq) + 4H2O(}\ell{}\text{) + 2NO(g)}$
+$\text{3Cu(s) + 2NO}_{3}^{-}\text{(aq) + 8H}^{+}\text{(aq) }\rightarrow{}\text{ 3Cu}^{2+}\text{(aq) + 4H}_{2}\text{O(}\ell{}\text{) + 2NO(g)}$
 
 how many moles of Cu<sup>2+</sup> are formed when 55.7 mol of H<sup>+</sup> are reacted?
 ```
@@ -283,7 +283,7 @@ how many moles of Cu<sup>2+</sup> are formed when 55.7 mol of H<sup>+</sup> are 
 
 For the balanced chemical equation
 
-$\text{Al(s) + 3Ag+(aq) }\rightarrow{}\text{ Al3+(aq) + 3Ag(s)}$
+$\text{Al(s) + 3Ag}^{+}\text{(aq) }\rightarrow{}\text{ Al}^{3+}\text{(aq) + 3Ag(s)}$
 
 how many moles of Ag are produced when 0.661 mol of Al are reacted?
 ```
@@ -295,7 +295,7 @@ how many moles of Ag are produced when 0.661 mol of Al are reacted?
 
 For the balanced chemical reaction
 
-$\text{4NH3(g) + 5O2(g) }\rightarrow{}\text{ 4NO(g) + 6H2O(}\ell{}\text{)}$
+$\text{4NH}_{3}\text{(g) + 5O}_{2}\text{(g) }\rightarrow{}\text{ 4NO(g) + 6H}_{2}\text{O(}\ell{}\text{)}$
 
 how many moles of H<sub>2</sub>O are produced when 0.669 mol of NH<sub>3</sub> react?
 ```
@@ -314,7 +314,7 @@ how many moles of H<sub>2</sub>O are produced when 0.669 mol of NH<sub>3</sub> r
 
 For the balanced chemical reaction
 
-$\text{4NaOH(aq) + 2S(s) + 3O2(g) }\rightarrow{}\text{ 2Na2SO4(aq) + 2H2O(}\ell{}\text{)}$
+$\text{4NaOH(aq) + 2S(s) + 3O}_{2}\text{(g) }\rightarrow{}\text{ 2Na}_{2}\text{SO}_{4}\text{(aq) + 2H}_{2}\text{O(}\ell{}\text{)}$
 
 how many moles of Na<sub>2</sub>SO<sub>4</sub> are formed when 1.22 mol of O<sub>2</sub> react?
 ```
@@ -326,7 +326,7 @@ how many moles of Na<sub>2</sub>SO<sub>4</sub> are formed when 1.22 mol of O<sub
 
 For the balanced chemical reaction
 
-$\text{4KO2(s) + 2CO2(g) }\rightarrow{}\text{ 2K2CO3(s) + 3O2(g)}$
+$\text{4KO}_{2}\text{(s) + 2CO}_{2}\text{(g) }\rightarrow{}\text{ 2K}_{2}\text{CO}_{3}\text{(s) + 3O}_{2}\text{(g)}$
 
 determine the number of moles of both products formed when 6.88 mol of KO<sub>2</sub> react.
 ```
@@ -345,7 +345,7 @@ determine the number of moles of both products formed when 6.88 mol of KO<sub>2<
 
 For the balanced chemical reaction
 
-$\text{2AlCl3 + 3H2O(}\ell{}\text{) }\rightarrow{}\text{ Al2O3 + 6HCl(g)}$
+$\text{2AlCl}_{3}\text{ + 3H}_{2}\text{O(}\ell{}\text{) }\rightarrow{}\text{ Al}_{2}\text{O}_{3}\text{ + 6HCl(g)}$
 
 determine the number of moles of both products formed when 0.0552 mol of AlCl<sub>3</sub> react.
 ```

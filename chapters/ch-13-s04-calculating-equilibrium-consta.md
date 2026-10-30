@@ -66,11 +66,11 @@ $$
 Now we have to remind ourselves what *x* is—the amount of H<sub>2</sub> and Cl<sub>2</sub> that reacted—and 2*x* is the equilibrium [HCl]. To determine the equilibrium concentrations, we need to go back and evaluate the expressions 1 − *x* and 2*x* to get the equilibrium concentrations of our species:
 
 $$
-\text{1.0 }-\text{ x = 1.0 }-\text{ 0.50 = 0.50 M = [H2] = [Cl2]}
+\text{1.0 }-\text{ }x\text{ = 1.0 }-\text{ 0.50 = 0.50 M = [H}_{2}\text{] = [Cl}_{2}\text{]}
 $$
 
 $$
-\text{2x = 2(0.50) = 1.0 M = [HCl]}
+\text{2}x\text{ = 2(0.50) = 1.0 M = [HCl]}
 $$
 
 The units are assumed to be molarity. To check, we simply substitute these concentrations and verify that we get the numerical value of the *K*<sub>eq</sub>, in this case 4.0:
@@ -171,9 +171,9 @@ $$
 
 We rearrange this into a quadratic equation that equals 0:
 
-$\text{0.000484 }-\text{ 0.00088x = x2}$
+$\text{0.000484 }-\text{ 0.00088}x\text{ = }x^{2}$
 
-$\text{x2 + 0.00088x }-\text{ 0.000484 = 0}$
+$x^{2}\text{ + 0.00088}x\text{ }-\text{ 0.000484 = 0}$
 
 Now we use the quadratic equation to solve for the two possible values of *x*:
 
@@ -183,17 +183,17 @@ $$
 
 Evaluate for both signs in the numerator—first the + sign and then the − sign:
 
-$\text{x = 0.0216 or x = }-\text{0.0224}$
+$x\text{ = 0.0216 or }x\text{ = }-\text{0.0224}$
 
 Because *x* is the final concentration of both CO and I<sub>2</sub>, it cannot be negative, so we discount the second numerical answer as impossible. Thus *x* = 0.0216.
 
 Going back to determine the final concentrations using the expressions in the E row of our ICE chart, we have
 
-$\text{[COI2] = 0.55 }-\text{ x = 0.55 }-\text{ 0.0216 = 0.53 M}$
+$\text{[COI}_{2}\text{] = 0.55 }-\text{ }x\text{ = 0.55 }-\text{ 0.0216 = 0.53 M}$
 
-$\text{[CO] = x = 0.0216 M}$
+$\text{[CO] = }x\text{ = 0.0216 M}$
 
-$\text{[I2] = x = 0.0216 M}$
+$\text{[I}_{2}\text{] = }x\text{ = 0.0216 M}$
 
 You can verify that these numbers are correct by substituting them into the *K*<sub>eq</sub> expression and evaluating and comparing to the known *K*<sub>eq</sub> value.
 ```

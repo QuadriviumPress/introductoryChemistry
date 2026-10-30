@@ -15,41 +15,41 @@ title: "12.5 Autoionization of Water"
 We have already seen that H<sub>2</sub>O can act as an acid or a base:
 
 $$
-\text{NH3 + H2O }\rightarrow{}\text{ NH4+ + OH}-\text{ (H2O acts as an acid)}
+\text{NH}_{3}\text{ + H}_{2}\text{O }\rightarrow{}\text{ NH}_{4}^{+}\text{ + OH}^{-}\text{ (H}_{2}\text{O acts as an acid)}
 $$
 
 $$
-\text{HCl + H2O }\rightarrow{}\text{ H3O+ + Cl}-\text{ (H2O acts as a base)}
+\text{HCl + H}_{2}\text{O }\rightarrow{}\text{ H}_{3}\text{O}^{+}\text{ + Cl}^{-}\text{ (H}_{2}\text{O acts as a base)}
 $$
 
 It may not surprise you to learn, then, that within any given sample of water, some H<sub>2</sub>O molecules are acting as acids, and other H<sub>2</sub>O molecules are acting as bases. The chemical equation is as follows:
 
 $$
-\text{H2O + H2O }\rightarrow{}\text{ H3O+ + OH}-
+\text{H}_{2}\text{O + H}_{2}\text{O }\rightarrow{}\text{ H}_{3}\text{O}^{+}\text{ + OH}^{-}
 $$
 
 This occurs only to a very small degree: only about 6 in 10<sup>8</sup> H<sub>2</sub>O molecules are participating in this process, which is called the **autoionization of water** (*Water molecules act as acids (proton donors) and bases (proton acceptors) with each other to a tiny extent in all aqueous solutions.*). At this level, the concentration of both H<sup>+</sup>(aq) and OH<sup>−</sup>(aq) in a sample of pure H<sub>2</sub>O is about 1.0 × 10<sup>−7</sup> M. If we use square brackets—[ ]—around a dissolved species to imply the molar concentration of that species, we have
 
 $$
-\text{[H+] = [OH}-\text{] = 1.0 }\times{}\text{ 10}-\text{7 M}
+\text{[H}^{+}\text{] = [OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-7}\text{ M}
 $$
 
 for *any* sample of pure water because H<sub>2</sub>O can act as both an acid and a base. The product of these two concentrations is 1.0 × 10<sup>−14</sup>:
 
 $$
-\text{[H+] }\times{}\text{ [OH}-\text{] = (1.0 }\times{}\text{ 10}-\text{7)(1.0 }\times{}\text{ 10}-\text{7) = 1.0 }\times{}\text{ 10}-\text{14}
+\text{[H}^{+}\text{] }\times{}\text{ [OH}^{-}\text{] = (1.0 }\times{}\text{ 10}^{-7}\text{)(1.0 }\times{}\text{ 10}^{-7}\text{) = 1.0 }\times{}\text{ 10}^{-14}
 $$
 
 In acids, the concentration of H<sup>+</sup>(aq)—[H<sup>+</sup>]—is greater than 1.0 × 10<sup>−7</sup> M, while for bases the concentration of OH<sup>−</sup>(aq)—[OH<sup>−</sup>]—is greater than 1.0 × 10<sup>−7</sup> M. However, the *product* of the two concentrations—[H<sup>+</sup>][OH<sup>−</sup>]—is *always* equal to 1.0 × 10<sup>−14</sup>, no matter whether the aqueous solution is an acid, a base, or neutral:
 
 $$
-\text{[H+][OH}-\text{] = 1.0 }\times{}\text{ 10}-\text{14}
+\text{[H}^{+}\text{][OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-14}
 $$
 
 This value of the product of concentrations is so important for aqueous solutions that it is called the **autoionization constant of water** (*The product of the hydrogen ion and hydroxide ion concentrations.*) and is denoted *K*<sub>w</sub>:
 
 $$
-\text{Kw = [H+][OH}-\text{] = 1.0 }\times{}\text{ 10}-\text{14}
+K_{\text{w}}\text{ = [H}^{+}\text{][OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-14}
 $$
 
 This means that if you know [H<sup>+</sup>] for a solution, you can calculate what [OH<sup>−</sup>] has to be for the product to equal 1.0 × 10<sup>−14</sup>, or if you know [OH<sup>−</sup>], you can calculate [H<sup>+</sup>]. This also implies that as one concentration goes up, the other must go down to compensate so that their product always equals the value of *K*<sub>w</sub>.
@@ -68,7 +68,7 @@ What is [OH<sup>−</sup>] of an aqueous solution if [H<sup>+</sup>] is 1.0 × 1
 
 Using the expression and known value for *K*<sub>w</sub>,
 
-$\text{Kw = [H+][OH}-\text{] = 1.0 }\times{}\text{ 10}-\text{14 = (1.0 }\times{}\text{ 10}-\text{4)[OH}-\text{]}$
+$K_{\text{w}}\text{ = [H}^{+}\text{][OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-14}\text{ = (1.0 }\times{}\text{ 10}^{-4}\text{)[OH}^{-}\text{]}$
 
 We solve by dividing both sides of the equation by 1.0 × 10<sup>−4</sup>:
 
@@ -110,7 +110,7 @@ What is [H<sup>+</sup>] in a 0.0044 M solution of Ca(OH)<sub>2</sub>?
 
 We begin by determining [OH<sup>−</sup>]. The concentration of the solute is 0.0044 M, but because Ca(OH)<sub>2</sub> is a strong base, there are two OH<sup>−</sup> ions in solution for every formula unit dissolved, so the actual [OH<sup>−</sup>] is two times this, or 2 × 0.0044 M = 0.0088 M. Now we can use the *K*<sub>w</sub> expression:
 
-$\text{[H+][OH}-\text{] = 1.0 }\times{}\text{ 10}-\text{14 = [H+](0.0088 M)}$
+$\text{[H}^{+}\text{][OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-14}\text{ = [H}^{+}\text{](0.0088 M)}$
 
 Dividing both sides by 0.0088:
 
@@ -152,7 +152,7 @@ A 0.0788 M solution of HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> is 3.0% ionized 
 
 Because the acid is only 3.0% ionized, we can determine [H<sup>+</sup>] from the concentration of the acid. Recall that 3.0% is 0.030 in decimal form:
 
-$\text{[H+] = 0.030 }\times{}\text{ 0.0788 = 0.00236 M}$
+$\text{[H}^{+}\text{] = 0.030 }\times{}\text{ 0.0788 = 0.00236 M}$
 
 With this [H<sup>+</sup>], then [OH<sup>−</sup>] can be calculated as follows:
 

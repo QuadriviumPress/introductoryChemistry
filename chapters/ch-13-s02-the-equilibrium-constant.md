@@ -92,7 +92,7 @@ $$
 
 Solving,
 
-$\text{[I2] = 7.0 M}$
+$\text{[I}_{2}\text{] = 7.0 M}$
 
 The concentration unit is assumed to be molarity. This value for [I<sub>2</sub>] can be easily verified by substituting 0.75, 0.20, and 7.0 into the expression for *K*<sub>eq</sub> and evaluating: you should get 0.40, the numerical value of *K*<sub>eq</sub> (and you do).
 ```
@@ -158,7 +158,7 @@ $$
 
 To solve for [H<sub>2</sub>], we need to take the cube root of the equation. Performing this operation, we get
 
-$\text{[H2] = 1.15 M}$
+$\text{[H}_{2}\text{] = 1.15 M}$
 
 You should verify that this is correct using your own calculator to confirm that you know how to do a cube root correctly.
 ```
@@ -272,19 +272,19 @@ $$
 
 Before we use the relevant equation, we need to do two things: convert the temperature to kelvins and determine Δ*n*. Converting the temperature is easy:
 
-$\text{T = 25 + 273 = 298 K}$
+$T\text{ = 25 + 273 = 298 K}$
 
 To determine the change in the number of moles of gas, take the number of moles of gaseous products and subtract the number of moles of gaseous reactants. There are 2 mol of gas as product and 4 mol of gas of reactant:
 
-$\Delta{}\text{n = 2 }-\text{ 4 = }-\text{2 mol}$
+$\Delta{}n\text{ = 2 }-\text{ 4 = }-\text{2 mol}$
 
 Note that Δ*n* is negative. Now we can substitute into our equation, using *R* = 0.08205 L·atm/mol·K. The units are omitted for clarity:
 
-$\text{KP = (4.2 }\times{}\text{ 10}-\text{2)(0.08205)(298)}-\text{2}$
+$K_{\text{P}}\text{ = (4.2 }\times{}\text{ 10}^{-2}\text{)[(0.08205)(298)]}^{-2}$
 
 Solving,
 
-$\text{KP = 7.0 }\times{}\text{ 10}-\text{5}$
+$K_{\text{P}}\text{ = 7.0 }\times{}\text{ 10}^{-5}$
 ```
 
 ```{exercise}

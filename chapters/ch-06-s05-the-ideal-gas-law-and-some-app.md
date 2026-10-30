@@ -30,7 +30,7 @@ $$
 which is usually rearranged as
 
 $$
-\text{PV = nRT}
+\mathit{PV}\text{ = }\mathit{nRT}
 $$
 
 This equation is called the **ideal gas law** (*A gas law that relates all four independent physical properties of a gas under any conditions.*). It relates the four independent properties of a gas at any time. The constant *R* is called the ideal gas law constant. Its value depends on the units used to express pressure and volume. {ref}`Table 6.1 "Values of the Ideal Gas Law Constant " <tbl:ch06:s05:t01>` lists the numerical values of *R*.
@@ -77,7 +77,7 @@ $$
 
 Then solving for volume, we get
 
-$\text{V = 87.9 L}$
+$V\text{ = 87.9 L}$
 ```
 
 ```{exercise}
@@ -127,7 +127,7 @@ $$
 
 Then solving for K, we get
 
-$\text{T = 1,404 K}$
+$T\text{ = 1,404 K}$
 ```
 
 ```{exercise}
@@ -154,7 +154,7 @@ The ideal gas law can also be used in stoichiometry problems.
 
 What volume of H<sub>2</sub> is produced at 299 K and 1.07 atm when 55.8 g of Zn metal react with excess HCl?
 
-$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl2(aq) + H2(g)}$
+$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl}_{2}\text{(aq) + H}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch06-s05-n04
@@ -175,7 +175,7 @@ $$
 
 All the units cancel except for L, for volume, which means
 
-$\text{V = 19.6 L}$
+$V\text{ = 19.6 L}$
 ```
 
 ```{exercise}
@@ -185,7 +185,7 @@ $\text{V = 19.6 L}$
 
 What pressure of HCl is generated if 3.44 g of Cl<sub>2</sub> are reacted in 4.55 L at 455 K?
 
-$\text{H2(g) + Cl2(g) }\rightarrow{}\text{ 2HCl(g)}$
+$\text{H}_{2}\text{(g) + Cl}_{2}\text{(g) }\rightarrow{}\text{ 2HCl(g)}$
 ```
 
 ```{solution} ex:ball-ch06-s05-n04-ty2
@@ -206,7 +206,7 @@ $$
 All the units cancel except for L, the unit of volume. So
 
 $$
-\text{V = 22.4 L}
+V\text{ = 22.4 L}
 $$
 
 Note that we have not specified the identity of the gas; we have specified only that the pressure is 1 atm and the temperature is 273 K. This makes for a very useful approximation: *any gas at STP has a volume of 22.4 L per mole of gas*; that is, the molar volume at STP is 22.4 L/mol ({ref}`Figure 6.4 "Molar Volume" <fig:ch06:s05:f01>`). This molar volume makes a useful conversion factor in stoichiometry problems if the conditions are at STP. If the conditions are not at STP, a molar volume of 22.4 L/mol is not applicable. However, if the conditions are not at STP, the combined gas law can be used to calculate what the volume of the gas would be if at STP; then the 22.4 L/mol molar volume can be used.
@@ -261,7 +261,7 @@ What volume does 4.87 mol of Kr have at STP?
 
 What volume of H<sub>2</sub> is produced at STP when 55.8 g of Zn metal react with excess HCl?
 
-$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl2(aq) + H2(g)}$
+$\text{Zn(s) + 2HCl(aq) }\rightarrow{}\text{ ZnCl}_{2}\text{(aq) + H}_{2}\text{(g)}$
 ```
 
 ```{solution} ex:ball-ch06-s05-n06
@@ -290,7 +290,7 @@ Alternatively, we could have applied the molar volume as a third conversion fact
 
 What volume of HCl is generated if 3.44 g of Cl<sub>2</sub> are reacted at STP?
 
-$\text{H2(g) + Cl2(g) }\rightarrow{}\text{ 2HCl(g)}$
+$\text{H}_{2}\text{(g) + Cl}_{2}\text{(g) }\rightarrow{}\text{ 2HCl(g)}$
 ```
 
 ```{solution} ex:ball-ch06-s05-n06-ty2
@@ -336,7 +336,7 @@ $$
 
 All the units cancel except for L, the unit of volume. So
 
-$\text{V = 25.6 L}$
+$V\text{ = 25.6 L}$
 
 Knowing the molar mass and the molar volume, we can determine the density of N<sub>2</sub> under these conditions:
 
@@ -380,7 +380,7 @@ $$
 
 Solving for the number of moles, we get
 
-$\text{n = 0.021 mol air}$
+$n\text{ = 0.021 mol air}$
 
 This ends up being about 0.6 g of air per breath—not much but enough to keep us alive.
 ```
@@ -518,7 +518,7 @@ A mercury lamp contains 0.0055 g of Hg vapor in a volume of 15.0 mL. If the oper
 
 Oxygen is a product of the decomposition of mercury(II) oxide:
 
-$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O2(g)}$
+$\text{2HgO(s) }\rightarrow{}\text{ 2Hg(}\ell{}\text{) + O}_{2}\text{(g)}$
 
 What volume of O<sub>2</sub> is formed from the decomposition of 3.009 g of HgO if the gas has a pressure of 744 torr and a temperature of 122°C?
 ```
@@ -537,7 +537,7 @@ What volume of O<sub>2</sub> is formed from the decomposition of 3.009 g of HgO 
 
 Lithium oxide is used to absorb carbon dioxide:
 
-$\text{Li2O(s) + CO2(g) }\rightarrow{}\text{ Li2CO3(s)}$
+$\text{Li}_{2}\text{O(s) + CO}_{2}\text{(g) }\rightarrow{}\text{ Li}_{2}\text{CO}_{3}\text{(s)}$
 
 What volume of CO<sub>2</sub> can 6.77 g of Li<sub>2</sub>O absorb if the CO<sub>2</sub> pressure is 3.5 × 10<sup>−4</sup> atm and the temperature is 295 K?
 ```
@@ -572,7 +572,7 @@ How many moles are present in 334 L of H<sub>2</sub> at STP?
 
 How many liters, at STP, of CO<sub>2</sub> are produced from 100.0 g of C<sub>8</sub>H<sub>18</sub>, the approximate formula of gasoline?
 
-$\text{2C8H18(}\ell{}\text{) + 25O2(g) }\rightarrow{}\text{ 16CO2(g) + 18H2O(}\ell{}\text{)}$
+$\text{2C}_{8}\text{H}_{18}\text{(}\ell{}\text{) + 25O}_{2}\text{(g) }\rightarrow{}\text{ 16CO}_{2}\text{(g) + 18H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{solution} ex:ball-ch06-s05-qs01-qd01-qa15
@@ -589,7 +589,7 @@ $\text{2C8H18(}\ell{}\text{) + 25O2(g) }\rightarrow{}\text{ 16CO2(g) + 18H2O(}\e
 
 How many liters, at STP, of O<sub>2</sub> are required to burn 3.77 g of butane from a disposable lighter?
 
-$\text{2C4H10(g) + 13O2(g) }\rightarrow{}\text{ 8CO2(g) + 10H2O(}\ell{}\text{)}$
+$\text{2C}_{4}\text{H}_{10}\text{(g) + 13O}_{2}\text{(g) }\rightarrow{}\text{ 8CO}_{2}\text{(g) + 10H}_{2}\text{O(}\ell{}\text{)}$
 ```
 
 ```{exercise}

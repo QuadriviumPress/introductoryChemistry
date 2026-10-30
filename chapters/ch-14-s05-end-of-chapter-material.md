@@ -15,7 +15,7 @@ title: "14.5 End-of-Chapter Material"
 
 Oxidation was once defined as chemically adding oxygen to a substance. Use this reaction to argue that this definition is consistent with the modern definition of oxidation.
 
-$\text{2Mg + O2 }\rightarrow{}\text{ 2MgO}$
+$\text{2Mg + O}_{2}\text{ }\rightarrow{}\text{ 2MgO}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa01
@@ -32,7 +32,7 @@ As oxygen is added to magnesium, it is being oxidized. In modern terms, the Mg a
 
 Reduction was once defined as chemically adding hydrogen to a substance. Use this reaction to argue that this definition is consistent with the modern definition of reduction.
 
-$\text{C2H2 + 2H2 }\rightarrow{}\text{ C2H6}$
+$\text{C}_{2}\text{H}_{2}\text{ + 2H}_{2}\text{ }\rightarrow{}\text{ C}_{2}\text{H}_{6}$
 ```
 
 ```{exercise}
@@ -116,7 +116,7 @@ e. CrCl<sub>2</sub>
 
 Balance this redox reaction by inspection.
 
-$\text{S8 + O2 }\rightarrow{}\text{ SO2}$
+$\text{S}_{8}\text{ + O}_{2}\text{ }\rightarrow{}\text{ SO}_{2}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa07
@@ -133,7 +133,7 @@ S<sub>8</sub> + 8O<sub>2</sub> → 8SO<sub>2</sub>
 
 Balance this redox reaction by inspection.
 
-$\text{C18H38 + O2 }\rightarrow{}\text{ CO2 + H2O}$
+$\text{C}_{18}\text{H}_{38}\text{ + O}_{2}\text{ }\rightarrow{}\text{ CO}_{2}\text{ + H}_{2}\text{O}$
 ```
 
 ```{exercise}
@@ -143,7 +143,7 @@ $\text{C18H38 + O2 }\rightarrow{}\text{ CO2 + H2O}$
 
 Balance this redox reaction by the half reaction method by assuming an acidic solution.
 
-$\text{Cr2O72}-\text{ + Fe }\rightarrow{}\text{ Cr3+ + Fe3+}$
+$\text{Cr}_{2}\text{O}_{7}^{2-}\text{ + Fe }\rightarrow{}\text{ Cr}^{3+}\text{ + Fe}^{3+}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa09
@@ -168,7 +168,7 @@ Balance the redox reaction in Exercise 9 by the half reaction method by assuming
 
 The uranyl ion (UO<sub>2</sub><sup>2+</sup>) is a fairly stable ion of uranium that requires strong reducers to reduce the oxidation number of uranium further. Balance this redox reaction using the half reaction method by assuming an acidic solution.
 
-$\text{UO22+ + HN3 }\rightarrow{}\text{ U + N2}$
+$\text{UO}_{2}^{2+}\text{ + HN}_{3}\text{ }\rightarrow{}\text{ U + N}_{2}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa11
@@ -193,7 +193,7 @@ Balance the redox reaction in Exercise 11 by the half reaction method by assumin
 
 Zinc metal can be dissolved by acid, which contains H<sup>+</sup> ions. Demonstrate that this is consistent with the fact that this reaction has a spontaneous voltage:
 
-$\text{Zn + 2H+ }\rightarrow{}\text{ Zn2+ + H2}$
+$\text{Zn + 2H}^{+}\text{ }\rightarrow{}\text{ Zn}^{2+}\text{ + H}_{2}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa13
@@ -210,7 +210,7 @@ The voltage of the reaction is +0.76 V, which implies a spontaneous reaction.
 
 Copper metal cannot be dissolved by acid, which contains H<sup>+</sup> ions. Demonstrate that this is consistent with the fact that this reaction has a nonspontaneous voltage:
 
-$\text{Cu + 2H+ }\rightarrow{}\text{ Cu2+ + H2}$
+$\text{Cu + 2H}^{+}\text{ }\rightarrow{}\text{ Cu}^{2+}\text{ + H}_{2}$
 ```
 
 ```{exercise}
@@ -220,7 +220,7 @@ $\text{Cu + 2H+ }\rightarrow{}\text{ Cu2+ + H2}$
 
 A disproportionation reaction occurs when a single reactant is both oxidized and reduced. Balance and determine the voltage of this disproportionation reaction. Use the data in {ref}`Table 14.1 "Standard Reduction Potentials of Half Reactions" <tbl:ch14:s03:t01>`.
 
-$\text{Cr2+ }\rightarrow{}\text{ Cr + Cr3+}$
+$\text{Cr}^{2+}\text{ }\rightarrow{}\text{ Cr + Cr}^{3+}$
 ```
 
 ```{solution} ex:ball-ch14-s05-qs01-qd01-qa15
@@ -237,7 +237,7 @@ $\text{Cr2+ }\rightarrow{}\text{ Cr + Cr3+}$
 
 A disproportionation reaction occurs when a single reactant is both oxidized and reduced. Balance and determine the voltage of this disproportionation reaction. Use the data in {ref}`Table 14.1 "Standard Reduction Potentials of Half Reactions" <tbl:ch14:s03:t01>`.
 
-$\text{Fe2+ }\rightarrow{}\text{ Fe + Fe3+}$
+$\text{Fe}^{2+}\text{ }\rightarrow{}\text{ Fe + Fe}^{3+}$
 ```
 
 ```{exercise}

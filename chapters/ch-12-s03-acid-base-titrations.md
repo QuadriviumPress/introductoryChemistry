@@ -35,7 +35,7 @@ $$
 We also have the balanced chemical reaction between HCl and NaOH:
 
 $$
-\text{HCl + NaOH }\rightarrow{}\text{ NaCl + H2O}
+\text{HCl + NaOH }\rightarrow{}\text{ NaCl + H}_{2}\text{O}
 $$
 
 So we can construct a conversion factor to convert to number of moles of NaOH reacted:
@@ -59,7 +59,7 @@ This is type of calculation is performed as part of a titration.
 
 What mass of Ca(OH)<sub>2</sub> is present in a sample if it is titrated to its equivalence point with 44.02 mL of 0.0885 M HNO<sub>3</sub>? The balanced chemical equation is as follows:
 
-$\text{2HNO3 + Ca(OH)2 }\rightarrow{}\text{ Ca(NO3)2 + 2H2O}$
+$\text{2HNO}_{3}\text{ + Ca(OH)}_{2}\text{ }\rightarrow{}\text{ Ca(NO}_{3}\text{)}_{2}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch12-s03-n02
@@ -68,7 +68,7 @@ $\text{2HNO3 + Ca(OH)2 }\rightarrow{}\text{ Ca(NO3)2 + 2H2O}$
 
 In liters, the volume is 0.04402 L. We calculate the number of moles of titrant:
 
-$\text{\# moles HNO3 = (0.04402 L)(0.0885 M) = 0.00390 mol HNO3}$
+$\text{\# moles HNO}_{3}\text{ = (0.04402 L)(0.0885 M) = 0.00390 mol HNO}_{3}$
 
 Using the balanced chemical equation, we can determine the number of moles of Ca(OH)<sub>2</sub> present in the analyte:
 
@@ -90,7 +90,7 @@ $$
 
 What mass of H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> is present in a sample if it is titrated to its equivalence point with 18.09 mL of 0.2235 M NaOH? The balanced chemical reaction is as follows:
 
-$\text{H2C2O4 + 2NaOH }\rightarrow{}\text{ Na2C2O4 + 2H2O}$
+$\text{H}_{2}\text{C}_{2}\text{O}_{4}\text{ + 2NaOH }\rightarrow{}\text{ Na}_{2}\text{C}_{2}\text{O}_{4}\text{ + 2H}_{2}\text{O}$
 ```
 
 ```{solution} ex:ball-ch12-s03-n02-ty2

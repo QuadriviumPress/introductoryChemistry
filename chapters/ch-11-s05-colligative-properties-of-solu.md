@@ -121,7 +121,7 @@ $$
 
 (The mole fraction of C<sub>10</sub>H<sub>8</sub> calculated in Example 15 plus the mole fraction of C<sub>6</sub>H<sub>6</sub> equals 1, which is mathematically required by the definition of mole fraction.) Now we can use Raoult’s law to determine the vapor pressure in equilibrium with the solution:
 
-$\text{Psoln = (0.860)(95.3 torr) = 82.0 torr}$
+$P_{\text{soln}}\text{ = (0.860)(95.3 torr) = 82.0 torr}$
 
 The solution has a lower vapor pressure than the pure solvent.
 ```
@@ -152,7 +152,7 @@ Because the vapor pressure of a solution with a nonvolatile solute is depressed 
 The change in boiling point (Δ*T*<sub>b</sub>) is easily calculated:
 
 $$
-\Delta{}\text{Tb = mKb}
+\Delta{}T_{\text{b}}\text{ = }\mathit{mK}_{\text{b}}
 $$
 
 where *m* is the molality of the solution and *K*<sub>b</sub> is called the **boiling point elevation constant** (*The constant that relates the molality concentration of a solution and its boiling point change.*), which is a characteristic of the solvent. Several boiling point elevation constants (as well as boiling point temperatures) are listed in {ref}`Table 11.3 "Boiling Point Data for Various Liquids" <tbl:ch11:s05:t01>`.
@@ -184,11 +184,11 @@ What is the boiling point of a 2.50 *m* solution of C<sub>6</sub>H<sub>4</sub>Cl
 
 Using the equation for the boiling point elevation,
 
-$\Delta{}\text{Tb = (2.50 m)(4.95}^{\circ}\text{C/m) = 12.4}^{\circ}\text{C}$
+$\Delta{}T_{\text{b}}\text{ = (2.50 }m\text{)(4.95}^{\circ}\text{C/}m\text{) = 12.4}^{\circ}\text{C}$
 
 Note how the molality units have canceled. However, we are not finished. We have calculated the change in the boiling point temperature, not the final boiling point temperature. If the boiling point goes up by 12.4°C, we need to add this to the normal boiling point of CCl<sub>4</sub> to get the new boiling point of the solution:
 
-$\text{TBP = 76.8}^{\circ}\text{C + 12.4}^{\circ}\text{C = 89.2}^{\circ}\text{C}$
+$T_{\text{BP}}\text{ = 76.8}^{\circ}\text{C + 12.4}^{\circ}\text{C = 89.2}^{\circ}\text{C}$
 
 The boiling point of the solution is predicted to be 89.2°C.
 ```
@@ -213,7 +213,7 @@ The boiling point of a solution is higher than the boiling point of the pure sol
 The equation to calculate the change in the freezing point for a solution is similar to the equation for the boiling point elevation:
 
 $$
-\Delta{}\text{Tf = mKf}
+\Delta{}T_{\text{f}}\text{ = }\mathit{mK}_{\text{f}}
 $$
 
 where *m* is the molality of the solution and *K*<sub>f</sub> is called the **freezing point depression constant** (*The constant that relates the molality concentration of a solution and its freezing point change.*), which is also a characteristic of the solvent. Several freezing point depression constants (as well as freezing point temperatures) are listed in {ref}`Table 11.4 "Freezing Point Data for Various Liquids" <tbl:ch11:s05:t02>`.
@@ -246,7 +246,7 @@ What is the freezing point of a 1.77 *m* solution of CBr<sub>4</sub> in C<sub>6<
 
 We use the equation to calculate the change in the freezing point and then subtract this number from the normal freezing point of C<sub>6</sub>H<sub>6</sub> to get the freezing point of the solution:
 
-$\Delta{}\text{Tf = (1.77 m)(4.90}^{\circ}\text{C/m) = 8.67}^{\circ}\text{C}$
+$\Delta{}T_{\text{f}}\text{ = (1.77 }m\text{)(4.90}^{\circ}\text{C/}m\text{) = 8.67}^{\circ}\text{C}$
 
 Now we subtract this number from the normal freezing point of C<sub>6</sub>H<sub>6</sub>, which is 5.51°C:
 
@@ -288,7 +288,7 @@ Osmosis. (a) Two solutions of differing concentrations are placed on either side
 The osmotic pressure of a solution is easy to calculate:
 
 $$
-\Pi{}\text{ = MRT}
+\Pi{}\text{ = }\mathit{MRT}
 $$
 
 where Π is the osmotic pressure of a solution, *M* is the molarity of the solution, *R* is the ideal gas law constant, and *T* is the absolute temperature. This equation is reminiscent of the ideal gas law we considered in {ref}`Chapter 6 "Gases" <ch:ch06>`.
@@ -307,7 +307,7 @@ What is the osmotic pressure of a 0.333 M solution of C<sub>6</sub>H<sub>12</sub
 
 First we need to convert our temperature to kelvins:
 
-$\text{T = 25 + 273 = 298 K}$
+$T\text{ = 25 + 273 = 298 K}$
 
 Now we can substitute into the equation for osmotic pressure, recalling the value for *R*:
 
