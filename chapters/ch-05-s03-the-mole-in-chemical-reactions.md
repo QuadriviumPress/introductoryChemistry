@@ -97,7 +97,7 @@ $$
 \text{17}\text{.6}{\text{ mol H}}_{2}\,\times{}\,\frac{{\text{1 mol O}}_{2}}{2{\text{ mol H}}_{2}}=8.80{\text{ mol O}}_{2}
 $$
 
-Note how the mol H<sub>2</sub> unit cancels, and mol O<sub>2</sub> is the new unit introduced. This is an example of a **mole-mole calculation** (*A stoichiometry calculation when one starts with moles of one substance and convert to moles of another substance using the balanced chemical equation.*), when you start with moles of one substance and convert to moles of another substance by using the balanced chemical equation. The example may seem simple because the numbers are small, but numbers won’t always be so simple!
+Note how the mol H<sub>2</sub> unit cancels, and mol O<sub>2</sub> is the new unit introduced. This is an example of a **mole-mole calculation** (*A stoichiometry calculation when one starts with moles of one substance and converts to moles of another substance using the balanced chemical equation.*), when you start with moles of one substance and convert to moles of another substance by using the balanced chemical equation. The example may seem simple because the numbers are small, but numbers won’t always be so simple!
 
 ```{exercise}
 :label: ex:ball-ch05-s03-n03

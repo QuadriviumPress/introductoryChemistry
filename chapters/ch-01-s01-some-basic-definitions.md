@@ -70,7 +70,7 @@ To understand matter and how it changes, we need to be able to describe matter. 
 
 ![A kettle emitting a visible cloud of condensed water droplets.](../images/restored/fig-1-1c.jpg)
 
-Credits: [Ice cubes on water — Cleiton Andrade Andrade from Alfenas, Brasil](https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en); [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [Steaming Kettle - Boston, MA — Daderot](https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+Credits: [Ice cubes on water — Cleiton Andrade from Alfenas, Brasil](https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en); [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [Steaming Kettle - Boston, MA — Daderot](https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
 ```
 
 **Chemical properties** (*A characteristic that describes how matter changes form in the presence of other matter.*) are characteristics of matter that describe how matter changes form in the presence of other matter. Does a sample of matter burn? Burning is a chemical property. Does it behave violently when put in water? This reaction is a chemical property as well ({ref}`Figure 1.2 "Chemical Properties" <fig:ch01:s01:f02>`). In the following chapters, we will see how descriptions of physical and chemical properties are important aspects of chemistry.
@@ -170,7 +170,7 @@ Credits: [Studentenfutter 01 — Thogru](https://commons.wikimedia.org/wiki/File
 
 **Example 3**
 
-Identify the following combinations as heterogeneous mixtures or homogenous mixtures.
+Identify the following combinations as heterogeneous mixtures or homogeneous mixtures.
 
 1. soda water (Carbon dioxide is dissolved in water.)
 2. a mixture of iron metal filings and sulfur powder (Both iron and sulfur are elements.)

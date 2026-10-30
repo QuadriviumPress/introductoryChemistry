@@ -20,7 +20,7 @@ $$
 \text{1 mol = 6.02214179 }\times{}\text{ 10}^{23}\text{ things}
 $$
 
-Understand that a mole means a number of things, just like a dozen means a certain number of things—twelve, in the case of a dozen. But a mole is a much larger number of things. These things can be atoms, or molecules, or eggs; however, in chemistry, we usually use the mole to refer to the amounts of atoms or molecules. Although the number of things in a mole is known to eight decimal places, it is usually fine to use only two or three decimal places in calculations. The numerical value of things in a mole is often called *Avogadro’s number* (*N*<sub>A</sub>), which is also known as the *Avogadro constant*, after Amadeo Avogadro, an Italian chemist who first proposed its importance.
+Understand that a mole means a number of things, just like a dozen means a certain number of things—twelve, in the case of a dozen. But a mole is a much larger number of things. These things can be atoms, or molecules, or eggs; however, in chemistry, we usually use the mole to refer to the amounts of atoms or molecules. Although the number of things in a mole is known to eight decimal places, it is usually fine to use only two or three decimal places in calculations. The numerical value of things in a mole is often called *Avogadro’s number* (*N*<sub>A</sub>), which is also known as the *Avogadro constant*, after Amedeo Avogadro, an Italian chemist who first proposed its importance.
 
 ```{exercise}
 :label: ex:ball-ch05-s02-n02

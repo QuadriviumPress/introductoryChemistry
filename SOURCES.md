@@ -34,7 +34,7 @@ The audit decoded and visually reviewed all 419 legacy image files and compared 
 
 | Figure | Replacement file | Work and creator | License |
 | --- | --- | --- | --- |
-| 1.1 — The Phases of Matter | `fig-1-1a.jpg` | [Ice cubes on water — Cleiton Andrade Andrade from Alfenas, Brasil](https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+| 1.1 — The Phases of Matter | `fig-1-1a.jpg` | [Ice cubes on water — Cleiton Andrade from Alfenas, Brasil](https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | 1.1 — The Phases of Matter | `fig-1-1b.jpg` | [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | 1.1 — The Phases of Matter | `fig-1-1c.jpg` | [Steaming Kettle - Boston, MA — Daderot](https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | 1.2 — Chemical Properties | `fig-1-2.jpg` | [Burning matchstick 2010 — Maja Dumat from Deutschland (Germany)](https://commons.wikimedia.org/wiki/File:Burning_matchstick_2010.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
