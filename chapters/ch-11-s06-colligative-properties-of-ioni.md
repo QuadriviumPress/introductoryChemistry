@@ -150,6 +150,18 @@ This is just over 1 lb of salt and is equivalent to nearly 1 cup in the kitchen.
 So why do people add some salt to boiling water? There are several possible reasons, the most obvious of which is taste: adding salt adds a little bit of salt flavor to the pasta. It cannot be much because most of the salt remains in the water, not in the cooked pasta. However, it may be enough to detect with our taste buds. The other obvious reason is habit; recipes tell us to add salt, so we do, even if there is little scientific or culinary reason to do so.
 ```
 
+```{figure} ../images/restored/pasta.jpg
+:label: fig:ch11:pasta-water
+:enumerated: false
+:alt: Pasta cooking in boiling water in a pot on a stove.
+:align: center
+:width: 70%
+
+**Salting Pasta Water.** Pasta cooks in boiling water. Adding a small amount of salt changes the flavor much more noticeably than it changes the boiling temperature.
+
+Credits: [Pasta boiling — MarkTraceur](https://commons.wikimedia.org/wiki/File:Pasta_boiling.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - For ionic solutes, the calculation of colligative properties must include the fact that the solutes separate into multiple particles when they dissolve.

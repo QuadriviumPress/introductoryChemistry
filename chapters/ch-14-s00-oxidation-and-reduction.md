@@ -17,4 +17,16 @@ Having said that, it has been estimated that as much as 5% of expenditures in th
 Corrosion is an example of the type of chemical reaction discussed in this chapter. Although we usually think of corrosion as bad, the reaction it typifies can actually be put to good use.
 ```
 
+```{figure} ../images/restored/rusted-bridge.jpg
+:label: fig:ch14:rusted-bridge
+:enumerated: false
+:alt: A railway bridge with rust-colored steel girders above a road.
+:align: center
+:width: 70%
+
+**Corrosion of Steel.** A railway bridge with rust-colored steel girders. Corrosion can weaken metal structures and makes inspection and maintenance important.
+
+Credits: [Rusting railway bridge, Blaenavon - geograph.org.uk - 2129405 — Jaggery](https://commons.wikimedia.org/wiki/File:Rusting_railway_bridge,_Blaenavon_-_geograph.org.uk_-_2129405.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Images resized for the web.
+```
+
 One important type of chemical reaction is the oxidation-reduction reaction, also known as the redox reaction. Although we introduced redox reactions in {ref}`Chapter 4 "Chemical Reactions and Equations" <ch:ch04>`, {ref}`Section 4.6 "Oxidation-Reduction Reactions" <sec:ch04:s06>`, it is worth reviewing some basic concepts.

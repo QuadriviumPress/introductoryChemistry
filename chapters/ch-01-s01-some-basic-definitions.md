@@ -158,11 +158,11 @@ Elements and compounds are not the only ways in which matter can be present. We 
 :align: center
 :width: 70%
 
-**Types of Mixtures.** The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In contrast, salt dissolved in water forms a uniform solution. Such a solution looks like the glass of water shown below; the dissolved salt would not be visible.
+**Types of Mixtures.** The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In the saline solution shown below, sodium chloride is dissolved uniformly in water. Its dissolved ions cannot be distinguished by looking at the liquid.
 
-![A glass of water illustrating the uniform appearance of a solution.](../images/restored/fig-1-1b.jpg)
+![A bottle labeled NaCl 0.9 percent containing a clear saline solution.](../images/restored/saline-solution.jpg)
 
-Credits: [Studentenfutter 01 — Thogru](https://commons.wikimedia.org/wiki/File:Studentenfutter_01.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+Credits: [Studentenfutter 01 — Thogru](https://commons.wikimedia.org/wiki/File:Studentenfutter_01.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [Saline solution — Pythones](https://commons.wikimedia.org/wiki/File:Saline_solution.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
 ```
 
 ```{exercise}
@@ -239,6 +239,22 @@ Most people have a morning ritual, a process that they go through every morning 
 - If you drive or take the bus to school or work, you are using a vehicle that probably burns gasoline, a material that burns fairly easily and provides energy to power the vehicle. Recall that burning is a chemical change.
 
 These are just a few examples of how chemistry impacts your everyday life. And we haven’t even made it to lunch yet!
+```
+
+```{figure} ../images/restored/shampoo.jpg
+:label: fig:ch01:s01:f07
+:enumerator: 1.7
+:alt: A green shampoo bottle with a pump dispenser.
+:align: center
+:width: 70%
+
+**Chemistry in Real Life.** Hygiene products, cooked food, and motor vehicles illustrate chemistry in everyday life. Cleaning, cooking, and fuel combustion involve the properties and transformations of matter.
+
+![A cooked breakfast including eggs, beans, toast, and sausages.](../images/restored/breakfast.jpg)
+
+![Cars queued on a highway.](../images/restored/traffic.jpg)
+
+Credits: [Green shampoo bottle — Mezoneni](https://commons.wikimedia.org/wiki/File:Green_shampoo_bottle.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [English breakfast from the Blue Lion Pub — RandomKatze](https://commons.wikimedia.org/wiki/File:English_breakfast_from_the_Blue_Lion_Pub.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en); [Malaysia Federal Highway Traffic Jam — Countryball mys123](https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Images resized for the web.
 ```
 
 ```{important} Key Takeaways

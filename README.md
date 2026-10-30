@@ -39,7 +39,8 @@ npm run convert -- /path/to/text_introductory-chemistry
 | `myst.yml` | Title, license, authors, and table of contents |
 | `chapters/` | One section per file, `ch-NN-sMM-slug.md` |
 | `images/figures/` | Figures copied from the Saylor HTML edition |
-| `images/restored/` | Openly licensed replacements for 22 source figure omissions; provenance in `manifest.json` |
+| `images/restored/` | Openly licensed replacements for 26 numbered omissions, 25 unnumbered image groups, and updated figures; provenance in `manifest.json` |
+| `FIGURE-AUDIT.md` | Figure-by-figure audit against the original PDF |
 | `license.md` | License statement from the source edition |
 | `SOURCES.md` | Provenance for the text and figures |
 | `scripts/html_to_myst.py` | HTML to MyST conversion |

@@ -139,11 +139,27 @@ What is the molecular mass of each substance?
 
 ```{tip} Chemistry Is Everywhere: Sulfur Hexafluoride
 
-On March 20, 1995, the Japanese terrorist group Aum Shinrikyo (Sanskrit for “Supreme Truth”) released some sarin gas in the Tokyo subway system; twelve people were killed, and thousands were injured (part (a) in the accompanying figure). Sarin (molecular formula C<sub>4</sub>H<sub>10</sub>FPO<sub>2</sub>) is a nerve toxin that was first synthesized in 1938. It is regarded as one of the most deadly toxins known, estimated to be about 500 times more potent than cyanide. Scientists and engineers who study the spread of chemical weapons such as sarin (yes, there are such scientists) would like to have a less dangerous chemical, indeed one that is nontoxic, so they are not at risk themselves.
+On March 20, 1995, the Japanese terrorist group Aum Shinrikyo (Sanskrit for “Supreme Truth”) released some sarin gas in the Tokyo subway system; twelve people were killed, and thousands were injured. The training scene in part (a) of {ref}`Figure 3.4 "Sarin and Sulfur Hexafluoride" <fig:ch03:s03:f01>` illustrates preparation for hazardous exposures. Sarin (molecular formula C<sub>4</sub>H<sub>10</sub>FPO<sub>2</sub>) is a nerve toxin that was first synthesized in 1938. It is regarded as one of the most deadly toxins known, estimated to be about 500 times more potent than cyanide. Scientists and engineers who study the spread of chemical weapons such as sarin (yes, there are such scientists) would like to have a less dangerous chemical, indeed one that is nontoxic, so they are not at risk themselves.
 
-Sulfur hexafluoride is used as a model compound for sarin. SF<sub>6</sub> (a molecular model of which is shown in part (b) in the accompanying figure) has a similar molecular mass (about 146 u) as sarin (about 140 u), so it has similar physical properties in the vapor phase. Sulfur hexafluoride is also very easy to accurately detect, even at low levels, and it is not a normal part of the atmosphere, so there is little potential for contamination from natural sources. Consequently, SF<sub>6</sub> is also used as an aerial tracer for ventilation systems in buildings. It is nontoxic and very chemically inert, so workers do not have to take special precautions other than watching for asphyxiation.
+Sulfur hexafluoride is used as a model compound for sarin. SF<sub>6</sub> (a molecular model of which is shown in part (b) of {ref}`Figure 3.4 "Sarin and Sulfur Hexafluoride" <fig:ch03:s03:f01>`) has a similar molecular mass (about 146 u) as sarin (about 140 u), so it has similar physical properties in the vapor phase. Sulfur hexafluoride is also very easy to accurately detect, even at low levels, and it is not a normal part of the atmosphere, so there is little potential for contamination from natural sources. Consequently, SF<sub>6</sub> is also used as an aerial tracer for ventilation systems in buildings. It is nontoxic and very chemically inert, so workers do not have to take special precautions other than watching for asphyxiation.
 
-Sulfur hexafluoride also has another interesting use: a spark suppressant in high-voltage electrical equipment. High-pressure SF<sub>6</sub> gas is used in place of older oils that may have contaminants that are environmentally unfriendly (part (c) in the accompanying figure).
+Sulfur hexafluoride also has another interesting use: a spark suppressant in high-voltage electrical equipment. High-pressure SF<sub>6</sub> gas is used in place of older oils that may have contaminants that are environmentally unfriendly (part (c) of {ref}`Figure 3.4 "Sarin and Sulfur Hexafluoride" <fig:ch03:s03:f01>`).
+```
+
+```{figure} ../images/restored/hazmat.jpg
+:label: fig:ch03:s03:f01
+:enumerator: 3.4
+:alt: Soldiers participating in a medical decontamination training exercise.
+:align: center
+:width: 70%
+
+**Sarin and Sulfur Hexafluoride.** (a) A medical decontamination training exercise. (b) A molecular model of SF₆. (c) A cutaway of an SF₆ circuit breaker. The training photograph illustrates preparation for hazardous exposures.
+
+![A ball-and-stick model of sulfur hexafluoride with six fluorine atoms around a central sulfur atom.](../images/restored/sf6.png)
+
+![A cutaway display of a sulfur hexafluoride circuit breaker showing its internal contacts.](../images/restored/switchgear.jpg)
+
+Credits: [Medical decontamination exercise (8856731) — U.S. Army National Guard photo by Spc. Israel Fernandez](https://commons.wikimedia.org/wiki/File:Medical_decontamination_exercise_(8856731).jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [Sulfur-hexafluoride-3D-balls — Ben Mills (Benjah-bmm27)](https://commons.wikimedia.org/wiki/File:Sulfur-hexafluoride-3D-balls.png), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [SF6 Schaltanlage Schnittmodel Leistungsschalter — Photograph: wdwd](https://commons.wikimedia.org/wiki/File:SF6_Schaltanlage_Schnittmodel_Leistungsschalter.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
 ```
 
 ```{important} Key Takeaways

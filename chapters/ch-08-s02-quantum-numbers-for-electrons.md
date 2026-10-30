@@ -170,6 +170,18 @@ A neon light is basically an electrified tube with a small amount of gas in it. 
 Although we know now that a gas discharge gives off only certain colors of light, without a prism or other component to separate the individual light colors, we see a composite of all the colors emitted. It is not unusual for a certain color to predominate. True neon lights, with neon gas in them, have a reddish-orange light due to the large amount of red-, orange-, and yellow-colored light emitted. However, if you use krypton instead of neon, you get a whitish light, while using argon yields a blue-purple light. A light filled with nitrogen gas glows purple, as does a helium lamp. Other gases—and mixtures of gases—emit other colors of light. Ironically, despite its importance in the development of modern electronic theory, hydrogen lamps emit little visible light and are rarely used for illumination purposes.
 ```
 
+```{figure} ../images/restored/neon-sign.jpg
+:label: fig:ch08:neon-sign
+:enumerated: false
+:alt: A red-orange illuminated neon sign at the Boulevard Hotel.
+:align: center
+:width: 70%
+
+**Gas Discharge Lighting.** An illuminated neon sign. Excited atoms emit characteristic wavelengths of light; neon is associated with red-orange emission, while other gases and phosphors can produce different colors.
+
+Credits: [Boulevard Hotel (Neon sign), Miami Beach — Photograph: Radomianin](https://commons.wikimedia.org/wiki/File:Boulevard_Hotel_(Neon_sign),_Miami_Beach.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Electrons in atoms have quantized energies.

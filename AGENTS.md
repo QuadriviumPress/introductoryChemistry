@@ -23,7 +23,7 @@ npm run convert -- /path/to/text_introductory-chemistry
 - One Markdown file per source section, `chapters/ch-NN-sMM-slug.md`, because the chapters are too long to review as single files.
 - `convert` runs `python3 scripts/html_to_myst.py`. It uses Pillow, when installed, to turn CMYK JPEGs into RGB and to shrink figures over 1 MB so the HTML build can encode them.
 - `verify` checks MyST metadata, that every TOC page exists, that local images exist, and that cross-references and solution targets resolve.
-- Openly licensed replacements for 22 upstream figure omissions live in `images/restored/`, with credits, licenses, alt text, and SHA-256 hashes in `manifest.json`. `verify` checks these records and their figure blocks. `convert` runs `scripts/restore_figures.py` after conversion to preserve the replacements and their license notice.
+- Openly licensed replacements for numbered and unnumbered upstream figure omissions live in `images/restored/`, with credits, licenses, alt text, and SHA-256 hashes in `manifest.json`. `verify` checks these records, their figure blocks, and displayed attribution. `convert` runs `scripts/restore_figures.py` after conversion to preserve the replacements, the updated appendix element names, and the license notice. `FIGURE-AUDIT.md` records the comparison with the original PDF.
 
 ## Presentation gap
 

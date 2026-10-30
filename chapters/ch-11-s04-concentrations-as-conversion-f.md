@@ -157,6 +157,18 @@ A student takes a precisely measured sample, called an *aliquot*, of 10.00 mL of
 $\text{2FeCl}_{3}\text{(aq) + 3Na}_{2}\text{C}_{2}\text{O}_{4}\text{(aq) }\rightarrow{}\text{ Fe}_{2}\text{(C}_{2}\text{O}_{4}\text{)}_{3}\text{(s) + 6NaCl(aq)}$
 ```
 
+```{figure} ../images/restored/titration.jpg
+:label: fig:ch11:titration
+:enumerated: false
+:alt: A laboratory titration using a burette and a flask.
+:align: center
+:width: 70%
+
+**Measuring a Titration.** A burette delivers a measured volume of solution during a titration. Combining the delivered volume with a known concentration allows the amount of reacting solute to be calculated.
+
+Credits: [Acid and Base Titration — Kengksn](https://commons.wikimedia.org/wiki/File:Acid_and_Base_Titration.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 ```{solution} ex:ball-ch11-s04-n05
 :label: sol:ball-ch11-s04-n05
 :class: dropdown

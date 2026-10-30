@@ -1104,6 +1104,15 @@ def correct_electronegativity_figure(dest: Path) -> None:
 def apply_content_corrections(text: str) -> str:
     """Corrections to the Saylor HTML that the conversion would otherwise preserve."""
     replacements = {
+        # Preserve copyedits already present in this edition when regenerating.
+        "heterogeneous mixtures or homogenous mixtures": "heterogeneous mixtures or homogeneous mixtures",
+        "Amadeo Avogadro": "Amedeo Avogadro",
+        "one starts with moles of one substance and convert to moles": "one starts with moles of one substance and converts to moles",
+        "needed to bread a covalent bond": "needed to break a covalent bond",
+        "The behavior of a liquid in narrow surfaces": "The behavior of a liquid in narrow tubes",
+        "the maximum amount of solute is dissolved in a given amount of solute": "the maximum amount of solute is dissolved in a given amount of solvent",
+        "A unstable solution": "An unstable solution",
+        "plants indispensible": "plants indispensable",
         r"e^{-0.693}^{t}^{\text{/(1,600 y)}}": r"e^{-0.693t/(1{,}600\text{ y})}",
         "the number of neurons": "the number of neutrons",
         "a given number half-lives": "a given number of half-lives",
@@ -1433,7 +1442,7 @@ def main() -> None:
         print(f"wrote {rel}")
     write_myst(toc)
     restored = restore_figures()
-    restored_ids = {figure["source_id"] for figure in json.loads(MANIFEST.read_text(encoding="utf-8"))}
+    restored_ids = {figure["source_id"] for figure in json.loads(MANIFEST.read_text(encoding="utf-8")) if figure.get("source_id")}
     missing = sorted(set(missing) - restored_ids)
     print(f"restored {restored} licensed replacement figures")
     print(f"pages {written}; labels {len(labels)}; images {len(ctx.copied)}; unresolved refs {len(missing)}")

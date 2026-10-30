@@ -277,6 +277,18 @@ At the other end is pressure cooking. A pressure cooker is a closed vessel that 
 Other countries use the Celsius scale for everyday purposes. Therefore, oven dials in their kitchens are marked in degrees Celsius. It can be confusing for US cooks to use ovens abroad—a 425°F oven in the United States is equivalent to a 220°C oven in other countries. These days, many oven thermometers are marked with both temperature scales.
 ```
 
+```{figure} ../images/restored/oven-thermometer.jpg
+:label: fig:ch02:oven-thermometer
+:enumerated: false
+:alt: An oven thermometer with Fahrenheit and Celsius scales.
+:align: center
+:width: 70%
+
+**Cooking Temperatures.** This oven thermometer includes Fahrenheit and Celsius scales. The same temperature can be expressed by different numerical values on the two scales.
+
+Credits: [Oven thermometer 1 2017-07-24 — F ASTILY](https://commons.wikimedia.org/wiki/File:Oven_thermometer_1_2017-07-24.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Chemistry uses the Celsius and Kelvin scales to express temperatures.

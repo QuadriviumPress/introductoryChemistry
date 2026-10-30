@@ -125,6 +125,18 @@ Complete and balance each combustion equation.
    $\text{4NH}_{3}\text{ + 3O}_{2}\text{ }\rightarrow{}\text{ 2N}_{2}\text{ + 6H}_{2}\text{O}$
 ```
 
+```{figure} ../images/restored/propane.jpg
+:label: fig:ch04:propane-tank
+:enumerated: false
+:alt: A horizontal propane storage tank beside a house.
+:align: center
+:width: 70%
+
+**Stored Fuel.** A propane tank stores fuel near a house. When propane burns completely in oxygen, it produces carbon dioxide and water and releases heat.
+
+Credits: [Propane tank in a coastal scene - geograph.org.uk - 3058337 — C Michael Hogan](https://commons.wikimedia.org/wiki/File:Propane_tank_in_a_coastal_scene_-_geograph.org.uk_-_3058337.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Images resized for the web.
+```
+
 ```{exercise}
 :label: ex:ball-ch04-s04-n03-ty2
 

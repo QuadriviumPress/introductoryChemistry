@@ -96,6 +96,18 @@ Of course, the addition of the stock solution affects the total volume of the di
 Medical and pharmaceutical personnel are constantly dealing with dosages that require concentration measurements and dilutions. It is an important responsibility: calculating the *wrong* dose can be useless, harmful, or even fatal!
 ```
 
+```{figure} ../images/restored/iv-preparation.jpg
+:label: fig:ch11:iv-preparation
+:enumerated: false
+:alt: A pharmacist preparing an intravenous solution in a protective cabinet aboard a hospital ship.
+:align: center
+:width: 70%
+
+**Preparing an IV Solution.** A pharmacist prepares an intravenous solution aboard the hospital ship USNS Mercy. Preparing solutions requires control of concentration as well as appropriate sterile technique.
+
+Credits: [Intravenous solution preparation aboard USNS Mercy — U.S. Navy / Laurie Dexter](https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_pharmacy_department_fills_an_intravenous_bag..jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
+
 ```{important} Key Takeaway
 
 - Calculate the new concentration or volume for a dilution or concentration of a solution.

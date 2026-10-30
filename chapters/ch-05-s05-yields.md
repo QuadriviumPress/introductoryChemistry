@@ -88,6 +88,20 @@ Even purifications of complex molecules into drug-quality purity are subject to 
 That is, only about *one-fourteenth* of the original material was turned into the purified drug. This gives you one reason why some drugs are so expensive; a lot of material is lost in making a high-purity pharmaceutical.
 ```
 
+```{figure} ../images/restored/albuterol-inhaler.jpg
+:label: fig:ch05:albuterol
+:enumerated: false
+:alt: An albuterol inhaler and its removable medicine canister.
+:align: center
+:width: 70%
+
+**Albuterol and Drug Purification.** An albuterol inhaler and a structural formula of albuterol. Drug manufacture and purification often require several steps, so the overall yield depends on the yield of each step.
+
+![A skeletal structural formula of albuterol showing its alcohol and amine groups.](../images/restored/albuterol-structure.png)
+
+Credits: [Albuterol Inhaler — ParentingPatch](https://commons.wikimedia.org/wiki/File:Albuterol_Inhaler.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [Salbutamol-2D-skeletal — Ben Mills (Benjah-bmm27)](https://commons.wikimedia.org/wiki/File:Salbutamol-2D-skeletal.png), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Theoretical yield is what you calculate the yield will be using the balanced chemical reaction.

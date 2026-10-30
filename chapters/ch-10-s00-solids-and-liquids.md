@@ -15,6 +15,18 @@ Liquids flow when a small force is placed on them, even if only very slowly. Sol
 Glass is a solid at room temperature. Don’t let anyone tell you otherwise!
 ```
 
+```{figure} ../images/restored/window-cleaner.jpg
+:label: fig:ch10:window-glass
+:enumerated: false
+:alt: A worker using ropes while cleaning glass windows on a building.
+:align: center
+:width: 70%
+
+**Glass Is a Solid.** A worker cleans the glass windows of a building. Glass is an amorphous solid at room temperature, even though it lacks the long-range order of a crystalline solid.
+
+Credits: [Window Cleaner 22 — Gillfoto](https://commons.wikimedia.org/wiki/File:Window_Cleaner_22.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 In {ref}`Chapter 6 "Gases" <ch:ch06>`, we discussed the properties of gases. Here, we consider some properties of liquids and solids. As a review, {ref}`Table 10.1 "Properties of the Three Phases of Matter" <tbl:ch10:t01>` lists some general properties of the three phases of matter.
 
 ```{table} Properties of the Three Phases of Matter

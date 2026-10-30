@@ -17,4 +17,18 @@ In fact, bases are more potentially dangerous than acids because it is much easi
 So a note to all the villains out there: get your chemistry right if you want to be successful!
 ```
 
+```{figure} ../images/restored/vinegar.jpg
+:label: fig:ch12:acid-base-products
+:enumerated: false
+:alt: A bottle of white wine vinegar.
+:align: center
+:width: 70%
+
+**Examples of Acids and Bases.** Vinegar contains acetic acid, while aqueous ammonia is basic. The ammonia shown is a concentrated laboratory reagent, rather than a household cleaner. Chemical hazards depend on concentration and the properties of the particular substance.
+
+![A laboratory bottle labeled as an aqueous ammonia solution.](../images/restored/ammonia.jpg)
+
+Credits: [White wine vinegar — Susan Slater](https://commons.wikimedia.org/wiki/File:White_wine_vinegar.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [Ammonia solution (25-28%) — Leiem](https://commons.wikimedia.org/wiki/File:Ammonia_solution_(25-28%25).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 Acids and bases are important classes of chemical compounds. They are part of the foods and beverages we ingest, they are present in medicines and other consumer products, and they are prevalent in the world around us. In this chapter, we will focus on acids and bases and their chemistry.

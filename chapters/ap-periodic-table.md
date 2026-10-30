@@ -8,17 +8,21 @@ title: "Chapter 17 Appendix: Periodic Table of the Elements"
 
 In this chapter, we present some data on the chemical elements. The periodic table, introduced in {ref}`Chapter 3 "Atoms, Molecules, and Ions" <ch:ch03>`, lists all the known chemical elements, arranged by atomic number (that is, the number of protons in the nucleus). The periodic table is arguably the best tool in all of science; no other branch of science can summarize its fundamental constituents in such a concise and useful way. Many of the physical and chemical properties of the elements are either known or understood based on their positions on the periodic table. Periodic tables are available with a variety of chemical and physical properties listed in each element’s box. What follows here is a more complex version of the periodic table than what was presented in {ref}`Chapter 3 "Atoms, Molecules, and Ions" <ch:ch03>`. The Internet is a great place to find periodic tables that contain additional information.
 
-One item on most periodic tables is the atomic mass of each element. For many applications, only one or two decimal places are necessary for the atomic mass. However, some applications (especially nuclear chemistry; see {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`) require more decimal places. The atomic masses in {ref}`Table 17.1 "The Basics of the Elements of the Periodic Table" <tbl:ch17:t01>` represent the number of decimal places recognized by the International Union of Pure and Applied Chemistry, the worldwide body that develops standards for chemistry. The atomic masses of some elements are known very precisely, to a large number of decimal places. The atomic masses of other elements, especially radioactive elements, are not known as precisely. Some elements, such as lithium, can have varying atomic masses depending on how their isotopes are isolated.
+One item on most periodic tables is the atomic mass of each element. For many applications, only one or two decimal places are necessary for the atomic mass. However, some applications (especially nuclear chemistry; see {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`) require more decimal places. The atomic masses in {ref}`Table 17.1 "The Basics of the Elements of the Periodic Table" <tbl:ch17:t01>` are retained from the source edition, with element names and symbols updated to their modern forms. For current standard atomic weights, consult the [Commission on Isotopic Abundances and Atomic Weights](https://ciaaw.org/atomic-weights.htm). The atomic masses of some elements are known very precisely, to a large number of decimal places. The atomic masses of other elements, especially radioactive elements, are not known as precisely. Some elements, such as lithium, can have varying atomic masses depending on how their isotopes are isolated.
 
 The web offers many interactive periodic table resources. For example, see [http://www.ptable.com](http://www.ptable.com).
 
-![Chapter 17 Appendix: Periodic Table of the Elements](../images/figures/999992a1a87b3d301b2407777ee5f950.jpg)
+```{figure} ../images/restored/periodic-table.svg
+:label: fig:ch17:periodic-table
+:enumerated: false
+:alt: A periodic table of all 118 elements with modern names, atomic numbers, atomic weights, and electron configurations.
+:align: center
+:width: 100%
 
-*Chapter 17 Appendix: Periodic Table of the Elements*
+**Periodic Table of the Elements.** A complete periodic table with the modern names and symbols of all 118 elements. The diagram also includes atomic weights, electron configurations, ionization energies, and electronegativities.
 
-![Chapter 17 Appendix: Periodic Table of the Elements](../images/figures/ae1d9db8c6cef79a4db550933c8c02cd.jpg)
-
-*Chapter 17 Appendix: Periodic Table of the Elements*
+Credits: [Periodic table large — Robert Campion (2012rc), with updates by Wikimedia Commons contributors](https://commons.wikimedia.org/wiki/File:Periodic_table_large.svg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Images resized for the web. White background added for legibility.
+```
 
 ```{table} The Basics of the Elements of the Periodic Table
 :label: tbl:ch17:t01
@@ -58,6 +62,7 @@ The web offers many interactive periodic table resources. For example, see [http
 | erbium | Er | 68 | 167.259(3) | g |
 | europium | Eu | 63 | 151.964(1) | g |
 | fermium\* | Fm | 100 |   |   |
+| flerovium\* | Fl | 114 |   |   |
 | fluorine | F | 9 | 18.9984032(5) |   |
 | francium\* | Fr | 87 |   |   |
 | gadolinium | Gd | 64 | 157.25(3) | g |
@@ -78,6 +83,7 @@ The web offers many interactive periodic table resources. For example, see [http
 | lawrencium\* | Lr | 103 |   |   |
 | lead | Pb | 82 | 207.2(1) | g, r |
 | lithium | Li | 3 | [6.941(2)]† | g, m, r |
+| livermorium\* | Lv | 116 |   |   |
 | lutetium | Lu | 71 | 174.967(1) | g |
 | magnesium | Mg | 12 | 24.3050(6) |   |
 | manganese | Mn | 25 | 54.938045(5) |   |
@@ -85,13 +91,16 @@ The web offers many interactive periodic table resources. For example, see [http
 | mendelevium\* | Md | 101 |   |   |
 | mercury | Hg | 80 | 200.59(2) |   |
 | molybdenum | Mo | 42 | 95.94(2) | g |
+| moscovium\* | Mc | 115 |   |   |
 | neodymium | Nd | 60 | 144.242(3) | g |
 | neon | Ne | 10 | 20.1797(6) | g, m |
 | neptunium\* | Np | 93 |   |   |
 | nickel | Ni | 28 | 58.6934(2) |   |
+| nihonium\* | Nh | 113 |   |   |
 | niobium | Nb | 41 | 92.90638(2) |   |
 | nitrogen | N | 7 | 14.0067(2) | g, r |
 | nobelium\* | No | 102 |   |   |
+| oganesson\* | Og | 118 |   |   |
 | osmium | Os | 76 | 190.23(3) | g |
 | oxygen | O | 8 | 15.9994(3) | g, r |
 | palladium | Pd | 46 | 106.42(1) | g |
@@ -105,9 +114,9 @@ The web offers many interactive periodic table resources. For example, see [http
 | protactinium\* | Pa | 91 | 231.03588(2) |   |
 | radium\* | Ra | 88 |   |   |
 | radon\* | Rn | 86 |   |   |
-| roentgenium\* | Rg | 111 |   |   |
 | rhenium | Re | 75 | 186.207(1) |   |
 | rhodium | Rh | 45 | 102.90550(2) |   |
+| roentgenium\* | Rg | 111 |   |   |
 | rubidium | Rb | 37 | 85.4678(3) | g |
 | ruthenium | Ru | 44 | 101.07(2) | g |
 | rutherfordium\* | Rf | 104 |   |   |
@@ -123,6 +132,7 @@ The web offers many interactive periodic table resources. For example, see [http
 | tantalum | Ta | 73 | 180.94788(2) |   |
 | technetium\* | Tc | 43 |   |   |
 | tellurium | Te | 52 | 127.60(3) | g |
+| tennessine\* | Ts | 117 |   |   |
 | terbium | Tb | 65 | 158.92535(2) |   |
 | thallium | Tl | 81 | 204.3833(2) |   |
 | thorium\* | Th | 90 | 232.03806(2) | g |
@@ -130,11 +140,6 @@ The web offers many interactive periodic table resources. For example, see [http
 | tin | Sn | 50 | 118.710(7) | g |
 | titanium | Ti | 22 | 47.867(1) |   |
 | tungsten | W | 74 | 183.84(1) |   |
-| ununhexium\* | Uuh | 116 |   |   |
-| ununoctium\* | Uuo | 118 |   |   |
-| ununpentium\* | Uup | 115 |   |   |
-| ununquadium\* | Uuq | 114 |   |   |
-| ununtrium\* | Uut | 113 |   |   |
 | uranium\* | U | 92 | 238.02891(3) | g, m |
 | vanadium | V | 23 | 50.9415(1) |   |
 | xenon | Xe | 54 | 131.293(6) | g, m |

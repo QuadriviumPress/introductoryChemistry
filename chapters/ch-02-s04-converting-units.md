@@ -229,6 +229,18 @@ Convert 0.203 m/min to meters/second.
 0.00338 m/s or 3.38 × 10<sup>−3</sup> m/s
 ```
 
+```{figure} ../images/restored/snail.jpg
+:label: fig:ch02:s04:f01
+:enumerator: 2.8
+:alt: A garden snail with a brown spiral shell on the ground.
+:align: center
+:width: 70%
+
+**How Fast Is Fast?.** A garden snail provides a familiar comparison for slow motion. A representative speed of 0.2 m/min is about 0.003 m/s, or 3 mm/s. The photograph does not measure the speed of this particular snail.
+
+Credits: [Cornu aspersum - December 2022 - Sarah Stierch — Missvain](https://commons.wikimedia.org/wiki/File:Cornu_aspersum_-_December_2022_-_Sarah_Stierch.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Images resized for the web.
+```
+
 Sometimes there will be a need to convert from one unit with one numerical prefix to another unit with a different numerical prefix. How do we handle those conversions? Well, you could memorize the conversion factors that interrelate all numerical prefixes. Or you can go the easier route: first convert the quantity to the base unit, the unit with no numerical prefix, using the definition of the original prefix. Then convert the quantity in the base unit to the desired unit using the definition of the second prefix. You can do the conversion in two separate steps or as one long algebraic step. For example, to convert 2.77 kg to milligrams:
 
 $$

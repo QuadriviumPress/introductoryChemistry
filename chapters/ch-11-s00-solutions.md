@@ -34,4 +34,16 @@ Most ions are more abundant in seawater than they are in blood, with some notabl
 Gold is present in seawater—but only a tiny amount. A current estimate of the amount of gold is about 1 part per every 1 × 10<sup>13</sup> parts of seawater, which makes the extraction of gold from seawater unfeasible. However, it does mean that there are about 1.4 × 10<sup>11</sup> g of gold in the world’s oceans!
 ```
 
+```{figure} ../images/restored/ocean.jpg
+:label: fig:ch11:seawater
+:enumerated: false
+:alt: Ocean waves breaking on a beach near San Francisco.
+:align: center
+:width: 70%
+
+**Seawater as a Solution.** The ocean contains dissolved salts and many other substances. Sodium and chloride are major ions in seawater.
+
+Credits: [Pacific Ocean Beach-San Francisco — Yair Haklai](https://commons.wikimedia.org/wiki/File:Pacific_Ocean_Beach-San_Francisco.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Images resized for the web.
+```
+
 A solution is a *homogeneous mixture*—a mixture of two or more substances that are so intimately mixed that the mixture behaves in many ways like a single substance. Many chemical reactions occur when the reactants are dissolved in solution. In this chapter, we will introduce concepts that are applicable to solutions and the chemical reactions that occur in them.

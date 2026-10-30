@@ -155,6 +155,18 @@ When you open a container of soda or beer, you hear a distinctive *hiss* as the 
 Some sparkling wines are made in the same way—by forcing carbon dioxide into regular wine. Some sparkling wines (including champagne) are made by sealing a bottle of wine with some yeast in it. The yeast *ferments*, a process by which the yeast converts sugars into energy and excess carbon dioxide. The carbon dioxide produced by the yeast dissolves in the wine. Then, when the champagne bottle is opened, the increased pressure of carbon dioxide is released, and the drink bubbles just like an expensive glass of soda.
 ```
 
+```{figure} ../images/restored/carbonated-water.jpg
+:label: fig:ch01:carbonated-beverages
+:enumerated: false
+:alt: Bubbles in carbonated water viewed from above through a blue glass.
+:align: center
+:width: 70%
+
+**Carbonated Beverages.** Bubbles emerge as dissolved carbon dioxide leaves a carbonated drink. Carbonation is a familiar example of a gas dissolved in a liquid.
+
+Credits: [Blue glass with carbonated water — W.carter](https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Science is a process of knowing about the natural universe through observation and experiment.

@@ -63,7 +63,18 @@ const restored = JSON.parse(fs.readFileSync(path.join(root, 'images/restored/man
 const openLicenses = /^(CC BY(?:-SA)? [234]\.0|CC BY-SA 2\.5|CC0|Public domain)$/;
 for (const figure of restored) {
   const page = fs.readFileSync(path.join(root, figure.page), 'utf8');
-  if (!page.includes(`:label: ${figure.label}\n`)) errors.push(`Missing restored Figure ${figure.number} in ${figure.page}`);
+  const marker = `:label: ${figure.label}\n`;
+  const position = page.indexOf(marker);
+  if (position < 0) {
+    errors.push(`Missing restored figure ${figure.label} in ${figure.page}`);
+    continue;
+  }
+  if (page.indexOf(marker, position + marker.length) >= 0) errors.push(`Duplicate restored figure: ${figure.label}`);
+  const start = page.lastIndexOf('```{figure}', position);
+  const end = page.indexOf('\n```', position);
+  const block = start < 0 || end < 0 ? '' : page.slice(start, end);
+  const numbering = figure.number ? `:enumerator: ${figure.number}\n` : ':enumerated: false\n';
+  if (!block.includes(numbering)) errors.push(`Incorrect numbering for ${figure.label} in ${figure.page}`);
   for (const asset of figure.assets) {
     const filename = path.join(root, 'images/restored', asset.file);
     if (!fs.existsSync(filename)) {
@@ -75,7 +86,10 @@ for (const figure of restored) {
     }
     const digest = createHash('sha256').update(fs.readFileSync(filename)).digest('hex');
     if (digest !== asset.sha256) errors.push(`Restored asset differs from its provenance record: ${asset.file}`);
-    if (!page.includes(`../images/restored/${asset.file}`)) errors.push(`Restored asset is not displayed: ${asset.file}`);
+    if (!block.includes(`../images/restored/${asset.file}`)) errors.push(`Restored asset is not displayed: ${asset.file}`);
+    if (!block.includes(asset.source) || !block.includes(asset.license_url) || !block.includes(asset.credit)) {
+      errors.push(`Missing displayed attribution: ${asset.file}`);
+    }
   }
 }
 if (errors.length) throw new Error(errors.join('\n'));

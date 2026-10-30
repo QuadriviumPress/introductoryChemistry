@@ -119,6 +119,18 @@ The other two rocks we eat are related: sodium bicarbonate (NaHCO<sub>3</sub>) a
 NaHCO<sub>3</sub> is also known as baking soda, which is used in many baked goods. Na<sub>2</sub>CO<sub>3</sub> is used in foods to regulate the acid balance. It is also used in laundry (where it is called washing soda) to interact with other ions in water that tend to reduce detergent efficiency.
 ```
 
+```{figure} ../images/restored/salt-ponds.jpg
+:label: fig:ch10:salt-production
+:enumerated: false
+:alt: Salt evaporation ponds near Swakopmund, Namibia.
+:align: center
+:width: 70%
+
+**Producing Salt.** Evaporation ponds near Swakopmund, Namibia, concentrate brine so that salt can crystallize and be harvested.
+
+Credits: [Salt evaporation ponds, Swakopmund — Olga Ernst](https://commons.wikimedia.org/wiki/File:Salt_evaporation_ponds,_Swakopmund.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Solids can be divided into amorphous solids and crystalline solids.

@@ -210,6 +210,30 @@ One place where solubility is important is in the tank-type water heater found i
 Another place where solubility versus insolubility is an issue is the Grand Canyon. We usually think of rock as insoluble. But it is actually ever so slightly soluble. This means that over a period of about two billion years, the Colorado River carved rock from the surface by slowly dissolving it, eventually generating a spectacular series of gorges and canyons. And all because of solubility!
 ```
 
+```{figure} ../images/restored/water-heater.jpg
+:label: fig:ch04:water-heater
+:enumerated: false
+:alt: A cylindrical domestic water-heater tank installed in a utility closet.
+:align: center
+:width: 70%
+
+**Mineral Deposits in Water Heaters.** A domestic storage water heater. Dissolved mineral compounds can form scale on heated surfaces, affecting the operation of the heater.
+
+Credits: [Domestic water heater in Oak Hill, Virginia — Famartin](https://commons.wikimedia.org/wiki/File:2022-05-22_13_31_45_The_water_heater_closet_in_a_house_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
+```{figure} ../images/restored/grand-canyon.jpg
+:label: fig:ch04:grand-canyon
+:enumerated: false
+:alt: The Colorado River winding among the rock layers of the Grand Canyon.
+:align: center
+:width: 70%
+
+**Water and Rock.** The Colorado River flows through the Grand Canyon. Dissolution is one of the processes through which water interacts with rock; mechanical erosion also plays a major role in shaping a canyon.
+
+Credits: [Grand Canyon view from Pima Point 2010 — Chensiyuan](https://commons.wikimedia.org/wiki/File:Grand_Canyon_view_from_Pima_Point_2010.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - Ionic compounds that dissolve separate into individual ions.

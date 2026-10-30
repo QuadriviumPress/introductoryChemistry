@@ -168,11 +168,23 @@ A **catalyst** (*A substance that increases the speed of a reaction.*) is a subs
 
 ```{tip} Chemistry Is Everywhere: Equilibria in the Garden
 
-Hydrangeas are common flowering plants around the world. Although many hydrangeas are white, there is one common species (*Hydrangea macrophylla*) whose flowers can be either red or blue, as shown in the accompanying figure. How is it that a plant can have different colored flowers like this?
+Hydrangeas are common flowering plants around the world. Although many hydrangeas are white, there is one common species (*Hydrangea macrophylla*) whose flowers can be either red or blue, as shown in {ref}`Figure 13.1 "Garden Equilibria" <fig:ch13:s03:f01>`. How is it that a plant can have different colored flowers like this?
 
 Interestingly, the color of the flowers is due to the acidity of the soil that the hydrangea is planted in. An astute gardener can adjust the pH of the soil and actually change the color of the flowers. However, it is not the H<sup>+</sup> or OH<sup>−</sup> ions that affect the color of the flowers. Rather, it is the presence of aluminum that causes the color change.
 
 The solubility of aluminum in soil—and thus the ability of plants to absorb it—is dependent on the acidity of the soil. If the soil is relatively acidic, the aluminum is more soluble, and plants can absorb it more easily. Under these conditions, hydrangea flowers are blue as Al ions interact with anthocyanin pigments in the plant. In more basic soils, aluminum is less soluble, and under these conditions the hydrangea flowers are red. Gardeners who change the pH of their soils to change the color of their hydrangea flowers are therefore employing Le Chatelier’s principle: the amount of acid in the soil changes the equilibrium of aluminum solubility, which in turn affects the color of the flowers.
+```
+
+```{figure} ../images/restored/hydrangea.jpg
+:label: fig:ch13:s03:f01
+:enumerator: 13.1
+:alt: Pink and blue hydrangea flowers growing beside one another.
+:align: center
+:width: 70%
+
+**Garden Equilibria.** Hydrangea macrophylla can produce pink or blue flowers. Soil conditions affect the availability of aluminum to the plant, which influences the flower color.
+
+Credits: [Hydrangea macrophylla pink and blue — Gustamons](https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_pink_and_blue.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
 ```
 
 ```{important} Key Takeaways

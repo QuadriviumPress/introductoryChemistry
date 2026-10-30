@@ -264,6 +264,18 @@ $\text{C}_{6}\text{H}_{12}\text{O}_{6}\text{(aq) }\rightarrow{}\text{ 2C}_{2}\te
 When this process occurs in a closed container, the CO<sub>2</sub> produced dissolves in the liquid, only to be released from solution when the container is opened. Most fine sparkling wines and champagnes are turned into carbonated beverages this way. Less-expensive sparkling wines are made like sodas and beer, with exposure to high pressures of CO<sub>2</sub> gas.
 ```
 
+```{figure} ../images/restored/soda-fountain.jpg
+:label: fig:ch06:carbon-dioxide-release
+:enumerated: false
+:alt: Foam spraying upward from a bottle of Diet Coke after Mentos are added.
+:align: center
+:width: 70%
+
+**Rapid Release of Dissolved Gas.** Adding Mentos to a carbonated drink provides sites where bubbles can form rapidly. The resulting fountain illustrates how quickly dissolved carbon dioxide can leave a liquid.
+
+Credits: [Diet Coke Mentos — Michael Murphy](https://commons.wikimedia.org/wiki/File:Diet_Coke_Mentos.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Images resized for the web.
+```
+
 ```{important} Key Takeaways
 
 - The pressure of a gas in a gas mixture is termed the *partial pressure*.

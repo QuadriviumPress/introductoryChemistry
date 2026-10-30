@@ -129,15 +129,25 @@ The strength of ionic bonding depends on two major characteristics: the magnitud
 
 The element sodium (part [a] in the accompanying figure) is a very reactive metal; given the opportunity, it will react with the sweat on your hands and form sodium hydroxide, which is a very corrosive substance. The element chlorine (part [b] in the accompanying figure) is a pale yellow, corrosive gas that should not be inhaled due to its poisonous nature. Bring these two hazardous substances together, however, and they react to make the ionic compound sodium chloride (part [c] in the accompanying figure), known simply as salt.
 
-(fig:ch09:s02:f01)=
-
-![Sodium + Chlorine = Sodium Chloride. (a) Sodium is a very reactive metal. (b) Chlorine is a pale yellow, noxious gas. (c) Together, sodium and chlorine make sodium chloride—salt—which is necessary for our survival.](../images/figures/fb6c351b45249445fe550abfbb3896b1.jpg)
-
-*Sodium + Chlorine = Sodium Chloride. (a) Sodium is a very reactive metal. (b) Chlorine is a pale yellow, noxious gas. (c) Together, sodium and chlorine make sodium chloride—salt—which is necessary for our survival.*
-
 Salt is necessary for life. Na<sup>+</sup> ions are one of the main ions in the human body and are necessary to regulate the fluid balance in the body. Cl<sup>−</sup> ions are necessary for proper nerve function and respiration. Both of these ions are supplied by salt. The taste of salt is one of the fundamental tastes; salt is probably the most ancient flavoring known, and one of the few rocks we eat.
 
 The health effects of too much salt are still under debate, although a 2010 report by the US Department of Agriculture concluded that “excessive sodium intake…raises blood pressure, a well-accepted and extraordinarily common risk factor for stroke, coronary heart disease, and kidney disease.”[^fwk-ball-fn09001] It is clear that most people ingest more salt than their bodies need, and most nutritionists recommend curbing salt intake. Curiously, people who suffer from low salt (called *hyponatria*) do so not because they ingest too little salt but because they drink too much water. Endurance athletes and others involved in extended strenuous exercise need to watch their water intake so their body’s salt content is not diluted to dangerous levels.
+```
+
+```{figure} ../images/restored/sodium.jpg
+:label: fig:ch09:s02:f01
+:enumerator: 9.1
+:alt: Pieces of sodium metal stored under protective liquid in a sealed container.
+:align: center
+:width: 70%
+
+**Sodium + Chlorine = Sodium Chloride.** (a) Sodium metal stored under a protective liquid. (b) Chlorine gas in a sealed vessel. (c) A sodium chloride crystal. The properties of the ionic compound differ greatly from those of its constituent elements.
+
+![Yellow-green chlorine gas in a sealed glass vessel.](../images/restored/chlorine.jpg)
+
+![A magnified sodium chloride crystal with angular surface features.](../images/restored/fig-3-5.jpg)
+
+Credits: [Sodium — Greenhorn1](https://commons.wikimedia.org/wiki/File:Sodium.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [Chlorine-sample — Ben Mills (Benjah-bmm27)](https://commons.wikimedia.org/wiki/File:Chlorine-sample.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [Table Salt (NaCl) Crystal — JJ Harrison ( https://www.jjharrison.com.au/ )](https://commons.wikimedia.org/wiki/File:Table_Salt_(NaCl)_Crystal.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Images resized for the web.
 ```
 
 ```{important} Key Takeaways

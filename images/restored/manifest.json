@@ -49,7 +49,11 @@
         "sha256": "b3bcbf4d88992518a0378fff92b55c6b74593e50434aef439d3e7803cc8f3a85"
       }
     ],
-    "source_id": "ball-ch01_s01_f01"
+    "source_id": "ball-ch01_s01_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      18
+    ]
   },
   {
     "number": "1.2",
@@ -73,7 +77,11 @@
         "sha256": "4726b14c985fcfcb2f13ce852eb4b253fba31af45b647716e284cf861de28e9c"
       }
     ],
-    "source_id": "ball-ch01_s01_f02"
+    "source_id": "ball-ch01_s01_f02",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      19
+    ]
   },
   {
     "number": "1.3",
@@ -97,14 +105,18 @@
         "sha256": "680aceeeff91382bd3c4166dd223844578ee5377f162cd64b6acd4a53e06a819"
       }
     ],
-    "source_id": "ball-ch01_s01_f03"
+    "source_id": "ball-ch01_s01_f03",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      20
+    ]
   },
   {
     "number": "1.4",
     "title": "Types of Mixtures",
     "label": "fig:ch01:s01:f04",
     "page": "chapters/ch-01-s01-some-basic-definitions.md",
-    "caption": "The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In contrast, salt dissolved in water forms a uniform solution. Such a solution looks like the glass of water shown below; the dissolved salt would not be visible.",
+    "caption": "The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In the saline solution shown below, sodium chloride is dissolved uniformly in water. Its dissolved ions cannot be distinguished by looking at the liquid.",
     "assets": [
       {
         "file": "fig-1-4a.jpg",
@@ -121,21 +133,25 @@
         "sha256": "ad955b97cd50296e32adc7b34184f992e8f33061c73eba228eb863515e42ec72"
       },
       {
-        "file": "fig-1-1b.jpg",
-        "commons_title": "File:Glass of water.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg",
-        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Glass_of_water.jpg",
-        "credit": "deavmi",
+        "file": "saline-solution.jpg",
+        "title": "Saline solution",
+        "commons_title": "File:Saline solution.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Saline_solution.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Saline_solution.jpg",
+        "credit": "Pythones",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "retrieved": "2026-10-30",
-        "alt": "A glass of water illustrating the uniform appearance of a solution.",
-        "title": "Glass of water",
-        "changes": "Resized and optimized for the web; no content changes.",
-        "sha256": "e697b05dd5d3f9f929258e2855f1776035b476f5f438c82f4951b87feadab458"
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A bottle labeled NaCl 0.9 percent containing a clear saline solution.",
+        "sha256": "146925bd3de02d91887ca6fb5ca10b090e224f4b2f2b8dbec74045d028fdb0fe"
       }
     ],
-    "source_id": "ball-ch01_s01_f04"
+    "source_id": "ball-ch01_s01_f04",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      23
+    ]
   },
   {
     "number": "1.5",
@@ -159,7 +175,11 @@
         "sha256": "66944a78a77c0250a98e07d5721cb59b230cad4664fb71f9d39b5520d41378c6"
       }
     ],
-    "source_id": "ball-ch01_s01_f05"
+    "source_id": "ball-ch01_s01_f05",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      25
+    ]
   },
   {
     "number": "1.8",
@@ -183,7 +203,11 @@
         "sha256": "d003caa623e432c3aafda16fb71048b0330b48c2044fba4869bce6052ff3d5a8"
       }
     ],
-    "source_id": "ball-ch01_s02_f01"
+    "source_id": "ball-ch01_s02_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      34
+    ]
   },
   {
     "number": "2.1",
@@ -207,7 +231,12 @@
         "sha256": "a1e3165aa9cc4229e95326bee4781460c9188fbd72a42ec32b48fd468750ac1b"
       }
     ],
-    "source_id": "ball-ch02_s01_f01"
+    "source_id": "ball-ch02_s01_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      45,
+      46
+    ]
   },
   {
     "number": "2.2",
@@ -231,7 +260,12 @@
         "sha256": "a133d93d57a68acb3dc202cbde632f4f1467ab4854948d85b1f9538ff3853096"
       }
     ],
-    "source_id": "ball-ch02_s01_f02"
+    "source_id": "ball-ch02_s01_f02",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      47,
+      48
+    ]
   },
   {
     "number": "2.7",
@@ -255,7 +289,11 @@
         "sha256": "cbe2903d0f4d5e1f4d049706f81ba2213d7f7df5e4f81453754f10fe45bfb1c5"
       }
     ],
-    "source_id": "ball-ch02_s03_f05"
+    "source_id": "ball-ch02_s03_f05",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      67
+    ]
   },
   {
     "number": "3.5",
@@ -279,7 +317,11 @@
         "sha256": "dcaf605fc41a14b6b6a2f37eacf1906be10223cea06ff6e3ba5e2d30c6bf425d"
       }
     ],
-    "source_id": "ball-ch03_s04_f01"
+    "source_id": "ball-ch03_s04_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      148
+    ]
   },
   {
     "number": "7.1",
@@ -303,7 +345,11 @@
         "sha256": "2017b122972bdf558556ac6db78c39439a2693a65a4900b030ccc59e5ddc0a62"
       }
     ],
-    "source_id": "ball-ch07_s01_f01"
+    "source_id": "ball-ch07_s01_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      358
+    ]
   },
   {
     "number": "10.3",
@@ -327,7 +373,11 @@
         "sha256": "734bcfb5476fc8aeaf53538b5bc87c978ea3a418c29fa73d8e5c74d6b17af1a7"
       }
     ],
-    "source_id": "ball-ch10_s02_f01"
+    "source_id": "ball-ch10_s02_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      550
+    ]
   },
   {
     "number": "10.10",
@@ -351,7 +401,11 @@
         "sha256": "683ae7778204336fa14b1bb0f3b15e408c2f73dc8ebb956ddb35525ff47c5257"
       }
     ],
-    "source_id": "ball-ch10_s03_f06"
+    "source_id": "ball-ch10_s03_f06",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      562
+    ]
   },
   {
     "number": "10.11",
@@ -375,7 +429,11 @@
         "sha256": "33da736dbd38f6a9352f42087b29346b571263a77eb59824b952f98dd79d3e73"
       }
     ],
-    "source_id": "ball-ch10_s03_f07"
+    "source_id": "ball-ch10_s03_f07",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      562
+    ]
   },
   {
     "number": "11.1",
@@ -399,7 +457,11 @@
         "sha256": "c9902ba2300c3c0b5a242abbd58c957604efa8bf5dbd15c28e82fe8753807b9a"
       }
     ],
-    "source_id": "ball-ch11_s02_f01"
+    "source_id": "ball-ch11_s02_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      595
+    ]
   },
   {
     "number": "11.2",
@@ -423,7 +485,11 @@
         "sha256": "b81d2aa1c1b8c28bc9b78a995ce722b9a7aed88671b2cf2e26501d8a31538a9e"
       }
     ],
-    "source_id": "ball-ch11_s05_f01"
+    "source_id": "ball-ch11_s05_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      624
+    ]
   },
   {
     "number": "14.3",
@@ -447,7 +513,11 @@
         "sha256": "0c051c1f05df3fcfa7707e32368ad73c60445da3baeef3e49f4a4592b9772819"
       }
     ],
-    "source_id": "ball-ch14_s03_f03"
+    "source_id": "ball-ch14_s03_f03",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      795
+    ]
   },
   {
     "number": "14.4",
@@ -471,7 +541,11 @@
         "sha256": "cb0f16d6dbadb861e09f600526f0c46c3b5c83727b128f0fbf95c7296a956781"
       }
     ],
-    "source_id": "ball-ch14_s03_f04"
+    "source_id": "ball-ch14_s03_f04",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      796
+    ]
   },
   {
     "number": "15.2",
@@ -495,7 +569,11 @@
         "sha256": "6879a255e3f90c0401e69eeca269539f79ae05eac344f04aadf0468055fe8043"
       }
     ],
-    "source_id": "ball-ch15_s03_f01"
+    "source_id": "ball-ch15_s03_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      838
+    ]
   },
   {
     "number": "16.1",
@@ -519,7 +597,11 @@
         "sha256": "527e8c13f04a02cfafdeae22415b0c760352e8337fee1ed3c358326059449903"
       }
     ],
-    "source_id": "ball-ch16_s01_f01"
+    "source_id": "ball-ch16_s01_f01",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      869
+    ]
   },
   {
     "number": "16.2",
@@ -543,7 +625,11 @@
         "sha256": "320e9905f59d6399d1d25e09958219bfa6ccbf834ed1b0062007dbafb0a27c57"
       }
     ],
-    "source_id": "ball-ch16_s01_f02"
+    "source_id": "ball-ch16_s01_f02",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      875
+    ]
   },
   {
     "number": "16.6",
@@ -567,6 +653,1048 @@
         "sha256": "a5d81373ebd86b48cfac27639f23d7e7e207b6e30315a954e6dcd306ca3fa885"
       }
     ],
-    "source_id": "ball-ch16_s06_f02"
+    "source_id": "ball-ch16_s06_f02",
+    "kind": "missing-numbered",
+    "audit_pdf_pages": [
+      944
+    ]
+  },
+  {
+    "number": "1.7",
+    "title": "Chemistry in Real Life",
+    "label": "fig:ch01:s01:f07",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "Hygiene products, cooked food, and motor vehicles illustrate chemistry in everyday life. Cleaning, cooking, and fuel combustion involve the properties and transformations of matter.",
+    "assets": [
+      {
+        "file": "shampoo.jpg",
+        "title": "Green shampoo bottle",
+        "commons_title": "File:Green shampoo bottle.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Green_shampoo_bottle.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Green_shampoo_bottle.jpg",
+        "credit": "Mezoneni",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A green shampoo bottle with a pump dispenser.",
+        "sha256": "5e33a2081d529956bb22fec0439eb9ef2f4604fbd8069e421842a1fe3ea312d1"
+      },
+      {
+        "file": "breakfast.jpg",
+        "title": "English breakfast from the Blue Lion Pub",
+        "commons_title": "File:English breakfast from the Blue Lion Pub.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:English_breakfast_from_the_Blue_Lion_Pub.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/English_breakfast_from_the_Blue_Lion_Pub.jpg",
+        "credit": "RandomKatze",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A cooked breakfast including eggs, beans, toast, and sausages.",
+        "sha256": "1858721e7277760922e87fb7194136e5032e00069caa70d6c135800bebe8f357"
+      },
+      {
+        "file": "traffic.jpg",
+        "title": "Malaysia Federal Highway Traffic Jam",
+        "commons_title": "File:Malaysia Federal Highway Traffic Jam.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Malaysia_Federal_Highway_Traffic_Jam.jpg",
+        "credit": "Countryball mys123",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Cars queued on a highway.",
+        "sha256": "ee52f7e2b62acc222890aad9c54c6d3ef00c4dec8eb63e6801d868bcac885c37"
+      }
+    ],
+    "anchor": "These are just a few examples of how chemistry impacts your everyday life.",
+    "audit_pdf_pages": [
+      28
+    ],
+    "kind": "missing-numbered",
+    "source_id": "ball-ch01_s01_f07"
+  },
+  {
+    "number": "2.8",
+    "title": "How Fast Is Fast?",
+    "label": "fig:ch02:s04:f01",
+    "page": "chapters/ch-02-s04-converting-units.md",
+    "caption": "A garden snail provides a familiar comparison for slow motion. A representative speed of 0.2 m/min is about 0.003 m/s, or 3 mm/s. The photograph does not measure the speed of this particular snail.",
+    "assets": [
+      {
+        "file": "snail.jpg",
+        "title": "Cornu aspersum - December 2022 - Sarah Stierch",
+        "commons_title": "File:Cornu aspersum - December 2022 - Sarah Stierch.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cornu_aspersum_-_December_2022_-_Sarah_Stierch.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Cornu_aspersum_-_December_2022_-_Sarah_Stierch.jpg",
+        "credit": "Missvain",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A garden snail with a brown spiral shell on the ground.",
+        "sha256": "75e1c58c3b73fe34cc6ce08eaeda151cf5c4c2bfd00fb902688dd99a7a370bdb"
+      }
+    ],
+    "anchor": "0.00338 m/s or 3.38 × 10<sup>−3</sup> m/s",
+    "audit_pdf_pages": [
+      83,
+      84
+    ],
+    "kind": "missing-numbered",
+    "source_id": "ball-ch02_s04_f01"
+  },
+  {
+    "number": "3.4",
+    "title": "Sarin and Sulfur Hexafluoride",
+    "label": "fig:ch03:s03:f01",
+    "page": "chapters/ch-03-s03-masses-of-atoms-and-molecules.md",
+    "caption": "(a) A medical decontamination training exercise. (b) A molecular model of SF₆. (c) A cutaway of an SF₆ circuit breaker. The training photograph illustrates preparation for hazardous exposures.",
+    "assets": [
+      {
+        "file": "hazmat.jpg",
+        "title": "Medical decontamination exercise (8856731)",
+        "commons_title": "File:Medical decontamination exercise (8856731).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Medical_decontamination_exercise_(8856731).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Medical_decontamination_exercise_%288856731%29.jpg",
+        "credit": "U.S. Army National Guard photo by Spc. Israel Fernandez",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Soldiers participating in a medical decontamination training exercise.",
+        "sha256": "f0fbba9ab61c0ccbbde97e24f34feb64273a8928e9c782d0f47553c4e2cbe7b8"
+      },
+      {
+        "file": "sf6.png",
+        "title": "Sulfur-hexafluoride-3D-balls",
+        "commons_title": "File:Sulfur-hexafluoride-3D-balls.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Sulfur-hexafluoride-3D-balls.png",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sulfur-hexafluoride-3D-balls.png",
+        "credit": "Ben Mills (Benjah-bmm27)",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A ball-and-stick model of sulfur hexafluoride with six fluorine atoms around a central sulfur atom.",
+        "sha256": "0198e68d52400bf3aceb012158666dfc3bd6706f5dd1c5373bfdcc4957a351d5"
+      },
+      {
+        "file": "switchgear.jpg",
+        "title": "SF6 Schaltanlage Schnittmodel Leistungsschalter",
+        "commons_title": "File:SF6 Schaltanlage Schnittmodel Leistungsschalter.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SF6_Schaltanlage_Schnittmodel_Leistungsschalter.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/SF6_Schaltanlage_Schnittmodel_Leistungsschalter.jpg",
+        "credit": "Photograph: wdwd",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A cutaway display of a sulfur hexafluoride circuit breaker showing its internal contacts.",
+        "sha256": "029c5183d22f77fde0fb08e6bd70405f18c44e76406177620895a5dae1909a25"
+      }
+    ],
+    "anchor": "Sulfur hexafluoride also has another interesting use:",
+    "audit_pdf_pages": [
+      139
+    ],
+    "kind": "missing-numbered",
+    "source_id": "ball-ch03_s03_f01",
+    "text_replacements": {
+      "and thousands were injured (part (a) in the accompanying figure).": "and thousands were injured. The training scene in part (a) of {ref}`Figure 3.4 \"Sarin and Sulfur Hexafluoride\" <fig:ch03:s03:f01>` illustrates preparation for hazardous exposures.",
+      "(a molecular model of which is shown in part (b) in the accompanying figure)": "(a molecular model of which is shown in part (b) of {ref}`Figure 3.4 \"Sarin and Sulfur Hexafluoride\" <fig:ch03:s03:f01>`)",
+      "(part (c) in the accompanying figure)": "(part (c) of {ref}`Figure 3.4 \"Sarin and Sulfur Hexafluoride\" <fig:ch03:s03:f01>`)"
+    }
+  },
+  {
+    "number": "13.1",
+    "title": "Garden Equilibria",
+    "label": "fig:ch13:s03:f01",
+    "page": "chapters/ch-13-s03-shifting-equilibria-le-chateli.md",
+    "caption": "Hydrangea macrophylla can produce pink or blue flowers. Soil conditions affect the availability of aluminum to the plant, which influences the flower color.",
+    "assets": [
+      {
+        "file": "hydrangea.jpg",
+        "title": "Hydrangea macrophylla pink and blue",
+        "commons_title": "File:Hydrangea macrophylla pink and blue.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_pink_and_blue.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hydrangea_macrophylla_pink_and_blue.jpg",
+        "credit": "Gustamons",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Pink and blue hydrangea flowers growing beside one another.",
+        "sha256": "7789ffe93e53abcb9e4567f4a4a0aa63410729d6edb1d6a48813e136511e6f4c"
+      }
+    ],
+    "anchor": "Hydrangeas are common flowering plants around the world.",
+    "audit_pdf_pages": [
+      724
+    ],
+    "kind": "missing-numbered",
+    "source_id": "ball-ch13_s03_f01",
+    "text_replacements": {
+      "whose flowers can be either red or blue, as shown in the accompanying figure.": "whose flowers can be either red or blue, as shown in {ref}`Figure 13.1 \"Garden Equilibria\" <fig:ch13:s03:f01>`."
+    }
+  },
+  {
+    "number": null,
+    "title": "Chemistry in the Natural World",
+    "label": "fig:ch01:opening-photo",
+    "page": "chapters/ch-01-s00-what-is-chemistry.md",
+    "caption": "Hot lava illustrates matter and energy in the natural world. Chemistry examines the properties of materials and the ways they change.",
+    "assets": [
+      {
+        "file": "volcano.jpg",
+        "title": "Lava fountain at Kīlauea",
+        "commons_title": "File:Lava fountain from Kīlauea's ongoing summit eruption (96758).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Lava_fountain_from_K%C4%ABlauea%27s_ongoing_summit_eruption_(96758).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lava_fountain_from_K%C4%ABlauea%27s_ongoing_summit_eruption_%2896758%29.jpg",
+        "credit": "USGS Hawaiian Volcano Observatory",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "An orange lava fountain erupting at Kīlauea.",
+        "sha256": "782a0f39ece568d84f3e2f6a4b7b7ce597aea95b3bef551c89a7023937e2471c"
+      }
+    ],
+    "anchor": "If you are reading these words,",
+    "audit_pdf_pages": [
+      15
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Carbonated Beverages",
+    "label": "fig:ch01:carbonated-beverages",
+    "page": "chapters/ch-01-s02-chemistry-as-a-science.md",
+    "caption": "Bubbles emerge as dissolved carbon dioxide leaves a carbonated drink. Carbonation is a familiar example of a gas dissolved in a liquid.",
+    "assets": [
+      {
+        "file": "carbonated-water.jpg",
+        "title": "Blue glass with carbonated water",
+        "commons_title": "File:Blue glass with carbonated water.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Blue_glass_with_carbonated_water.jpg",
+        "credit": "W.carter",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Bubbles in carbonated water viewed from above through a blue glass.",
+        "sha256": "90fae12ac2b1051003944b9e81bf0cf14f1aea524ec8f0fb5edd0634ca60a03c"
+      }
+    ],
+    "anchor": "Some of the simple chemical principles discussed in this chapter",
+    "audit_pdf_pages": [
+      39
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Cooking Temperatures",
+    "label": "fig:ch02:oven-thermometer",
+    "page": "chapters/ch-02-s05-other-units-temperature-and-de.md",
+    "caption": "This oven thermometer includes Fahrenheit and Celsius scales. The same temperature can be expressed by different numerical values on the two scales.",
+    "assets": [
+      {
+        "file": "oven-thermometer.jpg",
+        "title": "Oven thermometer 1 2017-07-24",
+        "commons_title": "File:Oven thermometer 1 2017-07-24.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Oven_thermometer_1_2017-07-24.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Oven_thermometer_1_2017-07-24.jpg",
+        "credit": "F ASTILY",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "An oven thermometer with Fahrenheit and Celsius scales.",
+        "sha256": "ff567228c5b88260778368cb62aad0e4aa1d263895431b17a450e7c7afd90b31"
+      }
+    ],
+    "anchor": "These days, many oven thermometers are marked with both temperature scales.",
+    "audit_pdf_pages": [
+      102
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Chemical Energy at Launch",
+    "label": "fig:ch04:shuttle-launch",
+    "page": "chapters/ch-04-s00-chemical-reactions-and-equatio.md",
+    "caption": "Space Shuttle Atlantis launches on mission STS-135. Chemical reactions in the engines and boosters release energy and produce the gases that provide thrust.",
+    "assets": [
+      {
+        "file": "shuttle.jpg",
+        "title": "Final mission of Space Shuttle launches",
+        "commons_title": "File:Final mission of Space Shuttle launches.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Final_mission_of_Space_Shuttle_launches.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Final_mission_of_Space_Shuttle_launches.jpg",
+        "credit": "Bill Ingalls",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Space Shuttle Atlantis rising above its launch pad with bright exhaust plumes.",
+        "sha256": "b2fa2cfa2428f6dad25f4b2d0c77d9059d3d766c78afaac72ba56166fddba1c4"
+      }
+    ],
+    "anchor": "The space shuttle—and any other rocket-based system—",
+    "audit_pdf_pages": [
+      172
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Mineral Deposits in Water Heaters",
+    "label": "fig:ch04:water-heater",
+    "page": "chapters/ch-04-s03-ionic-equations-a-closer-look.md",
+    "caption": "A domestic storage water heater. Dissolved mineral compounds can form scale on heated surfaces, affecting the operation of the heater.",
+    "assets": [
+      {
+        "file": "water-heater.jpg",
+        "title": "Domestic water heater in Oak Hill, Virginia",
+        "commons_title": "File:2022-05-22 13 31 45 The water heater closet in a house along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:2022-05-22_13_31_45_The_water_heater_closet_in_a_house_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/2022-05-22_13_31_45_The_water_heater_closet_in_a_house_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
+        "credit": "Famartin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A cylindrical domestic water-heater tank installed in a utility closet.",
+        "sha256": "389917f543b2d27a15a39f45324bed7ab2e2d76263cffb825d560dabf164e031"
+      }
+    ],
+    "anchor": "One place where solubility is important is in the tank-type water heater",
+    "audit_pdf_pages": [
+      198
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Water and Rock",
+    "label": "fig:ch04:grand-canyon",
+    "page": "chapters/ch-04-s03-ionic-equations-a-closer-look.md",
+    "caption": "The Colorado River flows through the Grand Canyon. Dissolution is one of the processes through which water interacts with rock; mechanical erosion also plays a major role in shaping a canyon.",
+    "assets": [
+      {
+        "file": "grand-canyon.jpg",
+        "title": "Grand Canyon view from Pima Point 2010",
+        "commons_title": "File:Grand Canyon view from Pima Point 2010.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_view_from_Pima_Point_2010.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Grand_Canyon_view_from_Pima_Point_2010.jpg",
+        "credit": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "The Colorado River winding among the rock layers of the Grand Canyon.",
+        "sha256": "5d329ecbf4989da253ef1ebe27c383d10979a24c3d8581d868ddbfec7662aa5b"
+      }
+    ],
+    "anchor": "Another place where solubility versus insolubility is an issue",
+    "audit_pdf_pages": [
+      199
+    ],
+    "kind": "missing-unnumbered",
+    "after_label": "fig:ch04:water-heater"
+  },
+  {
+    "number": null,
+    "title": "Stored Fuel",
+    "label": "fig:ch04:propane-tank",
+    "page": "chapters/ch-04-s04-composition-decomposition-and-.md",
+    "caption": "A propane tank stores fuel near a house. When propane burns completely in oxygen, it produces carbon dioxide and water and releases heat.",
+    "assets": [
+      {
+        "file": "propane.jpg",
+        "title": "Propane tank in a coastal scene - geograph.org.uk - 3058337",
+        "commons_title": "File:Propane tank in a coastal scene - geograph.org.uk - 3058337.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Propane_tank_in_a_coastal_scene_-_geograph.org.uk_-_3058337.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Propane_tank_in_a_coastal_scene_-_geograph.org.uk_-_3058337.jpg",
+        "credit": "C Michael Hogan",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A horizontal propane storage tank beside a house.",
+        "sha256": "93b227cc8a69e0838e55fd4a4b42d5fa6739149c886b82a7aaec6a650af297f3"
+      }
+    ],
+    "anchor": "\\text{C}_{3}\\text{H}_{8}\\text{ + 5O}_{2}",
+    "audit_pdf_pages": [
+      207
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Albuterol and Drug Purification",
+    "label": "fig:ch05:albuterol",
+    "page": "chapters/ch-05-s05-yields.md",
+    "caption": "An albuterol inhaler and a structural formula of albuterol. Drug manufacture and purification often require several steps, so the overall yield depends on the yield of each step.",
+    "assets": [
+      {
+        "file": "albuterol-inhaler.jpg",
+        "title": "Albuterol Inhaler",
+        "commons_title": "File:Albuterol Inhaler.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Albuterol_Inhaler.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Albuterol_Inhaler.JPG",
+        "credit": "ParentingPatch",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "An albuterol inhaler and its removable medicine canister.",
+        "sha256": "1d76170e60e6d63cdc03e22bc567c84ae53e3be28988a8f84c915282eecef38a"
+      },
+      {
+        "file": "albuterol-structure.png",
+        "title": "Salbutamol-2D-skeletal",
+        "commons_title": "File:Salbutamol-2D-skeletal.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Salbutamol-2D-skeletal.png",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Salbutamol-2D-skeletal.png",
+        "credit": "Ben Mills (Benjah-bmm27)",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A skeletal structural formula of albuterol showing its alcohol and amine groups.",
+        "sha256": "0d9d9a1ff8815458fd6d16d718a92987f1f1cafea9b607340d917605325ac712"
+      }
+    ],
+    "anchor": "Even purifications of complex molecules into drug-quality purity",
+    "audit_pdf_pages": [
+      277
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Hydrogen and the Hindenburg",
+    "label": "fig:ch06:hindenburg",
+    "page": "chapters/ch-06-s00-gases.md",
+    "caption": "The Hindenburg at Lakehurst and during the 1937 disaster. Hydrogen provided lift but also burned readily in air. Modern airships generally use nonflammable helium.",
+    "assets": [
+      {
+        "file": "hindenburg-flight.jpg",
+        "title": "Hindenburg at Lakehurst",
+        "commons_title": "File:Hindenburg at lakehurst.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hindenburg_at_lakehurst.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hindenburg_at_lakehurst.jpg",
+        "credit": "U.S. Navy, Bureau of Aeronautics",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "The Hindenburg airship at Lakehurst before the disaster.",
+        "sha256": "ebf409792ef1738bbf8834ffe040e47cf17af0bb0ffe3bc101c8e594c242ef63"
+      },
+      {
+        "file": "hindenburg-fire.jpg",
+        "title": "Hindenburg disaster",
+        "commons_title": "File:Hindenburg disaster.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hindenburg_disaster.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hindenburg_disaster.jpg",
+        "credit": "Sam Shere",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "The Hindenburg airship engulfed in flames beside its mooring mast.",
+        "sha256": "d04b9e9e2609f8c211823de2d019f5263d2737c34b2dab6bb27968f88116d93e"
+      }
+    ],
+    "anchor": "Helium gas is also lighter than air",
+    "audit_pdf_pages": [
+      292
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Rapid Release of Dissolved Gas",
+    "label": "fig:ch06:carbon-dioxide-release",
+    "page": "chapters/ch-06-s06-gas-mixtures.md",
+    "caption": "Adding Mentos to a carbonated drink provides sites where bubbles can form rapidly. The resulting fountain illustrates how quickly dissolved carbon dioxide can leave a liquid.",
+    "assets": [
+      {
+        "file": "soda-fountain.jpg",
+        "title": "Diet Coke Mentos",
+        "commons_title": "File:Diet Coke Mentos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Diet_Coke_Mentos.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Diet_Coke_Mentos.jpg",
+        "credit": "Michael Murphy",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Foam spraying upward from a bottle of Diet Coke after Mentos are added.",
+        "sha256": "4ee1f16ae22d03c3bc45add2bab70d5d0172077b73ce1fb0f3cc0b7da7385c45"
+      }
+    ],
+    "anchor": "All carbonated beverages are made in one of two ways.",
+    "audit_pdf_pages": [
+      345
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Energy for Spaceflight",
+    "label": "fig:ch07:saturn-v",
+    "page": "chapters/ch-07-s00-energy-and-chemistry.md",
+    "caption": "A Saturn V launches Apollo 11. Rocket engines transform chemical energy into heat and the kinetic energy of exhaust gases.",
+    "assets": [
+      {
+        "file": "saturn-v.jpg",
+        "title": "Apollo 11 Launch - GPN-2000-000630",
+        "commons_title": "File:Apollo 11 Launch - GPN-2000-000630.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A Saturn V rocket launching Apollo 11 with flame and exhaust beneath its engines.",
+        "sha256": "1c862e21182774ffa6093764314da66a3a86a995bc62c6533611f6b061539bf7"
+      }
+    ],
+    "anchor": "The most powerful engines designed to lift rockets into space",
+    "audit_pdf_pages": [
+      355
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Seeing Smaller Structures",
+    "label": "fig:ch08:microscopes",
+    "page": "chapters/ch-08-s00-electronic-structure.md",
+    "caption": "(a) An optical microscope. (b) A scanning electron microscope. (c) Influenza A virus particles imaged with a transmission electron microscope. Electron microscopes can resolve structures too small to distinguish with an ordinary light microscope.",
+    "assets": [
+      {
+        "file": "light-microscope.jpg",
+        "title": "Optical microscope nikon alphaphot",
+        "commons_title": "File:Optical microscope nikon alphaphot.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Optical_microscope_nikon_alphaphot.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Optical_microscope_nikon_alphaphot.jpg",
+        "credit": "GcG(jawp)",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "An optical microscope with numbered components.",
+        "sha256": "0af04ac382bbac201872a32a30fd134df6f3de066ed2dec79b83afb5c64d7167"
+      },
+      {
+        "file": "electron-microscope.jpg",
+        "title": "Scanning electron microscope - UFCH JH (2020) 01",
+        "commons_title": "File:Scanning electron microscope - UFCH JH (2020) 01.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Scanning_electron_microscope_-_UFCH_JH_(2020)_01.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Scanning_electron_microscope_-_UFCH_JH_%282020%29_01.jpg",
+        "credit": "Tadeáš Bednarz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A scanning electron microscope with its control computer.",
+        "sha256": "76b0c6df9c4a5e45599d5afc915d3ffdc1009786f2f21cc87de22c799f0dc899"
+      },
+      {
+        "file": "influenza.jpg",
+        "title": "Influenza A virus - negative stain image TEM",
+        "commons_title": "File:Influenza A virus - negative stain image TEM.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Influenza_A_virus_-_negative_stain_image_TEM.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Influenza_A_virus_-_negative_stain_image_TEM.JPG",
+        "credit": "CDC / F. A. Murphy",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A transmission electron micrograph showing several influenza A virus particles.",
+        "sha256": "8910f83fdcb5da9cc1af14c1fd04546641e4c1168267f1a99b14b4a2b0afc3d8"
+      }
+    ],
+    "anchor": "Normal light microscopes can magnify objects",
+    "audit_pdf_pages": [
+      412
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Gas Discharge Lighting",
+    "label": "fig:ch08:neon-sign",
+    "page": "chapters/ch-08-s02-quantum-numbers-for-electrons.md",
+    "caption": "An illuminated neon sign. Excited atoms emit characteristic wavelengths of light; neon is associated with red-orange emission, while other gases and phosphors can produce different colors.",
+    "assets": [
+      {
+        "file": "neon-sign.jpg",
+        "title": "Boulevard Hotel (Neon sign), Miami Beach",
+        "commons_title": "File:Boulevard Hotel (Neon sign), Miami Beach.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Boulevard_Hotel_(Neon_sign),_Miami_Beach.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Boulevard_Hotel_%28Neon_sign%29%2C_Miami_Beach.jpg",
+        "credit": "Photograph: Radomianin",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A red-orange illuminated neon sign at the Boulevard Hotel.",
+        "sha256": "d4536fb082cde61a1c3caadfcb6a03ba3abbff41650829f596a89d2444a9fdbf"
+      }
+    ],
+    "anchor": "A neon light is basically an electrified tube",
+    "audit_pdf_pages": [
+      427
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Carbon in Diamond",
+    "label": "fig:ch09:diamond",
+    "page": "chapters/ch-09-s00-chemical-bonds.md",
+    "caption": "Faceted diamonds illustrate a crystalline form of carbon. Their hardness is related to the network of covalent bonds extending through the solid.",
+    "assets": [
+      {
+        "file": "diamond.jpg",
+        "title": "Brillanten",
+        "commons_title": "File:Brillanten.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Brillanten.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brillanten.jpg",
+        "credit": "Mario Sarto",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Several transparent, faceted diamonds.",
+        "sha256": "dbe0869a4d5edd4f7ad9f831d5716bdf3b1a1ad18ecf12f9acc00eb407021d6a"
+      }
+    ],
+    "anchor": "Diamond is the hardest natural material",
+    "audit_pdf_pages": [
+      471
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Glass Is a Solid",
+    "label": "fig:ch10:window-glass",
+    "page": "chapters/ch-10-s00-solids-and-liquids.md",
+    "caption": "A worker cleans the glass windows of a building. Glass is an amorphous solid at room temperature, even though it lacks the long-range order of a crystalline solid.",
+    "assets": [
+      {
+        "file": "window-cleaner.jpg",
+        "title": "Window Cleaner 22",
+        "commons_title": "File:Window Cleaner 22.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Window_Cleaner_22.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Window_Cleaner_22.jpg",
+        "credit": "Gillfoto",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A worker using ropes while cleaning glass windows on a building.",
+        "sha256": "8e1ef96bfddecc4f465b9c02ff76ef247e5ccf610410c17a929232c11cb5b7ce"
+      }
+    ],
+    "anchor": "Glass is a solid at room temperature.",
+    "audit_pdf_pages": [
+      539
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Water Beading on a Car",
+    "label": "fig:ch10:car-droplets",
+    "page": "chapters/ch-10-s03-properties-of-liquids.md",
+    "caption": "Water forms droplets on a car. Their shape depends on surface tension and on the balance between cohesion within the water and adhesion to the surface. Wax coatings can encourage water to bead up.",
+    "assets": [
+      {
+        "file": "car-droplets.jpg",
+        "title": "Water beads on a car",
+        "commons_title": "File:Water beads cover the surface of a black car parked outside as rain falls steadily.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Water_beads_cover_the_surface_of_a_black_car_parked_outside_as_rain_falls_steadily.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Water_beads_cover_the_surface_of_a_black_car_parked_outside_as_rain_falls_steadily.jpg",
+        "credit": "Shixart1985",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Water droplets beading on the roof and windows of a black car.",
+        "sha256": "246a48eaca11fd073bddfafc916e8d6da2816701b94c61e3acde7b09b3b3cc88"
+      }
+    ],
+    "anchor": "The fact that small droplets of water bead up on surfaces",
+    "audit_pdf_pages": [
+      565
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Producing Salt",
+    "label": "fig:ch10:salt-production",
+    "page": "chapters/ch-10-s04-solids.md",
+    "caption": "Evaporation ponds near Swakopmund, Namibia, concentrate brine so that salt can crystallize and be harvested.",
+    "assets": [
+      {
+        "file": "salt-ponds.jpg",
+        "title": "Salt evaporation ponds, Swakopmund",
+        "commons_title": "File:Salt evaporation ponds, Swakopmund.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Salt_evaporation_ponds,_Swakopmund.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salt_evaporation_ponds%2C_Swakopmund.jpg",
+        "credit": "Olga Ernst",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Salt evaporation ponds near Swakopmund, Namibia.",
+        "sha256": "349303a06c17e64e4c44f1f09c6912e59646cd23503a15d8fe17704b67ad0ff9"
+      }
+    ],
+    "anchor": "Salt is the only solid that we ingest that is actually mined as a rock",
+    "audit_pdf_pages": [
+      575
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Seawater as a Solution",
+    "label": "fig:ch11:seawater",
+    "page": "chapters/ch-11-s00-solutions.md",
+    "caption": "The ocean contains dissolved salts and many other substances. Sodium and chloride are major ions in seawater.",
+    "assets": [
+      {
+        "file": "ocean.jpg",
+        "title": "Pacific Ocean Beach-San Francisco",
+        "commons_title": "File:Pacific Ocean Beach-San Francisco.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pacific_Ocean_Beach-San_Francisco.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Pacific_Ocean_Beach-San_Francisco.jpg",
+        "credit": "Yair Haklai",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Ocean waves breaking on a beach near San Francisco.",
+        "sha256": "ea562927b524ebc42a6ddcf1478710acbab826a9ad54bb45bab25ec911bc708e"
+      }
+    ],
+    "anchor": "Gold is present in seawater—but only a tiny amount.",
+    "audit_pdf_pages": [
+      583
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Preparing an IV Solution",
+    "label": "fig:ch11:iv-preparation",
+    "page": "chapters/ch-11-s03-dilutions-and-concentrations.md",
+    "caption": "A pharmacist prepares an intravenous solution aboard the hospital ship USNS Mercy. Preparing solutions requires control of concentration as well as appropriate sterile technique.",
+    "assets": [
+      {
+        "file": "iv-preparation.jpg",
+        "title": "Intravenous solution preparation aboard USNS Mercy",
+        "commons_title": "File:Flickr - Official U.S. Navy Imagery - The pharmacy department fills an intravenous bag..jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_pharmacy_department_fills_an_intravenous_bag..jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flickr_-_Official_U.S._Navy_Imagery_-_The_pharmacy_department_fills_an_intravenous_bag..jpg",
+        "credit": "U.S. Navy / Laurie Dexter",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A pharmacist preparing an intravenous solution in a protective cabinet aboard a hospital ship.",
+        "sha256": "b57da2858a89c4e5f0db3527ac1cfd81e756ba960cc1534d6567345182290433"
+      }
+    ],
+    "anchor": "Thus the aide must perform a dilution calculation.",
+    "audit_pdf_pages": [
+      604
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Measuring a Titration",
+    "label": "fig:ch11:titration",
+    "page": "chapters/ch-11-s04-concentrations-as-conversion-f.md",
+    "caption": "A burette delivers a measured volume of solution during a titration. Combining the delivered volume with a known concentration allows the amount of reacting solute to be calculated.",
+    "assets": [
+      {
+        "file": "titration.jpg",
+        "title": "Acid and Base Titration",
+        "commons_title": "File:Acid and Base Titration.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Acid_and_Base_Titration.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Acid_and_Base_Titration.jpg",
+        "credit": "Kengksn",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A laboratory titration using a burette and a flask.",
+        "sha256": "708474bcf0bb84df60d8a763544b848f467816ace7c08f4530d0dc6278ccd1dd"
+      }
+    ],
+    "anchor": "A student takes a precisely measured sample, called an *aliquot*",
+    "audit_pdf_pages": [
+      612
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Salting Pasta Water",
+    "label": "fig:ch11:pasta-water",
+    "page": "chapters/ch-11-s06-colligative-properties-of-ioni.md",
+    "caption": "Pasta cooks in boiling water. Adding a small amount of salt changes the flavor much more noticeably than it changes the boiling temperature.",
+    "assets": [
+      {
+        "file": "pasta.jpg",
+        "title": "Pasta boiling",
+        "commons_title": "File:Pasta boiling.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pasta_boiling.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pasta_boiling.jpg",
+        "credit": "MarkTraceur",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Pasta cooking in boiling water in a pot on a stove.",
+        "sha256": "c3c3c5c2a19d76bfc26e597e18b5e9c54c1bd3a82086fcb9f2ab6ade2f28ec9f"
+      }
+    ],
+    "anchor": "When cooking dried pasta, many recipes call for salting the water",
+    "audit_pdf_pages": [
+      634
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Examples of Acids and Bases",
+    "label": "fig:ch12:acid-base-products",
+    "page": "chapters/ch-12-s00-acids-and-bases.md",
+    "caption": "Vinegar contains acetic acid, while aqueous ammonia is basic. The ammonia shown is a concentrated laboratory reagent, rather than a household cleaner. Chemical hazards depend on concentration and the properties of the particular substance.",
+    "assets": [
+      {
+        "file": "vinegar.jpg",
+        "title": "White wine vinegar",
+        "commons_title": "File:White wine vinegar.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:White_wine_vinegar.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/White_wine_vinegar.jpg",
+        "credit": "Susan Slater",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A bottle of white wine vinegar.",
+        "sha256": "37c3c8224836158db1fc7b105d190065dd37433d6de74770b1c1de40df221e69"
+      },
+      {
+        "file": "ammonia.jpg",
+        "title": "Ammonia solution (25-28%)",
+        "commons_title": "File:Ammonia solution (25-28%).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ammonia_solution_(25-28%25).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ammonia_solution_%2825-28%25%29.jpg",
+        "credit": "Leiem",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A laboratory bottle labeled as an aqueous ammonia solution.",
+        "sha256": "d191e08fe0b1f8bdd3ef6e613f39e2940febbbf62dd9d7d98b8c8de81223452e"
+      }
+    ],
+    "anchor": "So a note to all the villains out there:",
+    "audit_pdf_pages": [
+      643
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Corrosion of Steel",
+    "label": "fig:ch14:rusted-bridge",
+    "page": "chapters/ch-14-s00-oxidation-and-reduction.md",
+    "caption": "A railway bridge with rust-colored steel girders. Corrosion can weaken metal structures and makes inspection and maintenance important.",
+    "assets": [
+      {
+        "file": "rusted-bridge.jpg",
+        "title": "Rusting railway bridge, Blaenavon - geograph.org.uk - 2129405",
+        "commons_title": "File:Rusting railway bridge, Blaenavon - geograph.org.uk - 2129405.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Rusting_railway_bridge,_Blaenavon_-_geograph.org.uk_-_2129405.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rusting_railway_bridge%2C_Blaenavon_-_geograph.org.uk_-_2129405.jpg",
+        "credit": "Jaggery",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A railway bridge with rust-colored steel girders above a road.",
+        "sha256": "27a3bcc8be425084b027269f805d85dfb1a8c5be47fd8e106c9a55e8264adcc1"
+      }
+    ],
+    "anchor": "Most of us are familiar with rusty iron:",
+    "audit_pdf_pages": [
+      761
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "A Smoke Alarm",
+    "label": "fig:ch15:smoke-alarm",
+    "page": "chapters/ch-15-s00-nuclear-chemistry.md",
+    "caption": "An ionization smoke alarm contains a small radioactive source that helps establish a current in its sensing chamber. Smoke changes that current and triggers the alarm. The image shows the interior of this type of alarm.",
+    "assets": [
+      {
+        "file": "smoke-alarm.jpg",
+        "title": "Smokealarm",
+        "commons_title": "File:Smokealarm.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Smokealarm.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Smokealarm.JPG",
+        "credit": "Hiya111",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "The interior of an ionization smoke alarm showing its circuit board and battery.",
+        "sha256": "f35b153edfb95ec027263b8b502bcb330c9d5ddef8d925dd67546a5a14f9a0fc"
+      }
+    ],
+    "anchor": "This device is a smoke detector.",
+    "audit_pdf_pages": [
+      814
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": null,
+    "title": "Photosynthesis and Organic Matter",
+    "label": "fig:ch16:wheat-field",
+    "page": "chapters/ch-16-s00-organic-chemistry.md",
+    "caption": "Growing wheat uses sunlight, water, and carbon dioxide to produce organic compounds. Photosynthesis supplies the chemical building blocks of plant material.",
+    "assets": [
+      {
+        "file": "wheat-field.jpg",
+        "title": "Wheat crop in an arable field - geograph.org.uk - 5044039",
+        "commons_title": "File:Wheat crop in an arable field - geograph.org.uk - 5044039.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Wheat_crop_in_an_arable_field_-_geograph.org.uk_-_5044039.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wheat_crop_in_an_arable_field_-_geograph.org.uk_-_5044039.jpg",
+        "credit": "Graham Robson",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "A field of green wheat growing beneath a cloudy sky.",
+        "sha256": "7afb8222193a3dde7fd6ee8e3bad28a16f3a4fae6a96750cf4ba08da268db118"
+      }
+    ],
+    "anchor": "All life on Earth is ultimately based on photosynthesis",
+    "audit_pdf_pages": [
+      866
+    ],
+    "kind": "missing-unnumbered"
+  },
+  {
+    "number": "9.1",
+    "title": "Sodium + Chlorine = Sodium Chloride",
+    "label": "fig:ch09:s02:f01",
+    "page": "chapters/ch-09-s02-electron-transfer-ionic-bonds.md",
+    "caption": "(a) Sodium metal stored under a protective liquid. (b) Chlorine gas in a sealed vessel. (c) A sodium chloride crystal. The properties of the ionic compound differ greatly from those of its constituent elements.",
+    "assets": [
+      {
+        "file": "sodium.jpg",
+        "title": "Sodium",
+        "commons_title": "File:Sodium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sodium.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sodium.jpg",
+        "credit": "Greenhorn1",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Pieces of sodium metal stored under protective liquid in a sealed container.",
+        "sha256": "994fe0957f7d7b1c32c147dcf1c37d31a75111bde6a13140f67ea2248dfb7dac"
+      },
+      {
+        "file": "chlorine.jpg",
+        "title": "Chlorine-sample",
+        "commons_title": "File:Chlorine-sample.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chlorine-sample.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chlorine-sample.jpg",
+        "credit": "Ben Mills (Benjah-bmm27)",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "changes": "Web-sized Wikimedia rendition, optimized without content changes.",
+        "alt": "Yellow-green chlorine gas in a sealed glass vessel.",
+        "sha256": "458d9f7da0a82d2a29ab4cae31b4a1ca1940a75d6a521a6062cef23534d7b452"
+      },
+      {
+        "file": "fig-3-5.jpg",
+        "commons_title": "File:Table Salt (NaCl) Crystal.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Table_Salt_(NaCl)_Crystal.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Table_Salt_%28NaCl%29_Crystal.jpg",
+        "credit": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "alt": "A magnified sodium chloride crystal with angular surface features.",
+        "title": "Table Salt (NaCl) Crystal",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "dcaf605fc41a14b6b6a2f37eacf1906be10223cea06ff6e3ba5e2d30c6bf425d"
+      }
+    ],
+    "anchor": "The element sodium (part [a] in the accompanying figure)",
+    "audit_pdf_pages": [
+      488
+    ],
+    "kind": "partial",
+    "source_id": "ball-ch09_s02_f01",
+    "remove_legacy": "\\(fig:ch09:s02:f01\\)=\\n\\n!\\[[^\\n]*\\]\\(\\.\\./images/figures/fb6c351b45249445fe550abfbb3896b1\\.jpg\\)\\n\\n\\*[^\\n]*\\*\\n\\n"
+  },
+  {
+    "number": null,
+    "title": "Periodic Table of the Elements",
+    "label": "fig:ch17:periodic-table",
+    "page": "chapters/ap-periodic-table.md",
+    "caption": "A complete periodic table with the modern names and symbols of all 118 elements. The diagram also includes atomic weights, electron configurations, ionization energies, and electronegativities.",
+    "assets": [
+      {
+        "file": "periodic-table.svg",
+        "title": "Periodic table large",
+        "commons_title": "File:Periodic table large.svg",
+        "source": "https://commons.wikimedia.org/wiki/File:Periodic_table_large.svg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Periodic_table_large.svg",
+        "credit": "Robert Campion (2012rc), with updates by Wikimedia Commons contributors",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "retrieved": "2026-10-30",
+        "changes": "White background added to the Wikimedia SVG for legibility; scientific labels and data unchanged.",
+        "alt": "A periodic table of all 118 elements with modern names, atomic numbers, atomic weights, and electron configurations.",
+        "sha256": "90867802515067f939556e23c03be01d68ce0ab5e914a42f4d235b2b1ac26fb1"
+      }
+    ],
+    "anchor": "The web offers many interactive periodic table resources.",
+    "audit_pdf_pages": [],
+    "kind": "update",
+    "width": "100%",
+    "remove_legacy": "!\\[[^\\n]*\\]\\(\\.\\./images/figures/999992a1a87b3d301b2407777ee5f950\\.jpg\\)\\n\\n\\*[^\\n]*\\*\\n\\n!\\[[^\\n]*\\]\\(\\.\\./images/figures/ae1d9db8c6cef79a4db550933c8c02cd\\.jpg\\)\\n\\n\\*[^\\n]*\\*"
   }
 ]
