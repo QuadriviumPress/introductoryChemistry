@@ -45,3 +45,5 @@ npm run convert -- /path/to/text_introductory-chemistry
 | `SOURCES.md` | Provenance for the text and figures |
 | `scripts/html_to_myst.py` | HTML to MyST conversion |
 | `scripts/restore_figures.py` | Reapply replacement figures after conversion |
+| `scripts/reference_updates.json` | Reviewed reference and definition updates, including dependent answers |
+| `scripts/update_references.py` | Reapply editorial updates after figure restoration |

@@ -14,13 +14,13 @@ title: "5.2 The Mole"
 
 So far, we have been talking about chemical substances in terms of individual atoms and molecules. Yet we don’t typically deal with substances an atom or a molecule at a time; we work with millions, billions, and trillions of atoms and molecules at a time. What we need is a way to deal with macroscopic, rather than microscopic, amounts of matter. We need a unit of amount that relates quantities of substances on a scale that we can interact with.
 
-Chemistry uses a unit called mole. A **mole** (*The number of things equal to the number of atoms in exactly 12 g of carbon-12; equals $6.022\times{}{10}^{23}$ things.*) (mol) is a number of things equal to the number of atoms in exactly 12 g of carbon-12. Experimental measurements have determined that this number is very large:
+Chemistry uses a unit called the **mole** (*The SI unit of amount of substance; one mole contains exactly $6.02214076\times{}10^{23}$ specified elementary entities.*) (mol). Since the 2019 revision of SI, the mole has been defined by fixing the numerical value of the Avogadro constant. One mole contains exactly the following number of specified entities, such as atoms, molecules, ions, or electrons:
 
 $$
-\text{1 mol = 6.02214179 }\times{}\text{ 10}^{23}\text{ things}
+N_{\mathrm{A}} = 6.02214076\times{}10^{23}\ \mathrm{mol}^{-1}\quad\text{(exactly)}
 $$
 
-Understand that a mole means a number of things, just like a dozen means a certain number of things—twelve, in the case of a dozen. But a mole is a much larger number of things. These things can be atoms, or molecules, or eggs; however, in chemistry, we usually use the mole to refer to the amounts of atoms or molecules. Although the number of things in a mole is known to eight decimal places, it is usually fine to use only two or three decimal places in calculations. The numerical value of things in a mole is often called *Avogadro’s number* (*N*<sub>A</sub>), which is also known as the *Avogadro constant*, after Amedeo Avogadro, an Italian chemist who first proposed its importance.
+A mole specifies a number of entities, just as a dozen specifies twelve. The number of entities in a mole is called *Avogadro’s number*, after the Italian scientist Amedeo Avogadro; the *Avogadro constant*, $N_{\mathrm{A}}$, has this numerical value and units of mol<sup>−1</sup>. Its value is exact by definition. For most calculations in this book, use the rounded value $6.022\times{}10^{23}$ entities per mole. See the [BIPM definition of the mole](https://www.bipm.org/en/si-base-units/mole).
 
 ```{exercise}
 :label: ex:ball-ch05-s02-n02
@@ -62,25 +62,25 @@ How many molecules are present in 4.61 × 10<sup>−2</sup> mol of O<sub>2</sub>
 2.78 × 10<sup>22</sup> molecules
 ```
 
-How big is a mole? It is very large. Suppose you had a mole of dollar bills that need to be counted. If everyone on earth (about 6 billion people) counted one bill per second, it would take about 3.2 million years to count all the bills. A mole of sand would fill a cube about 32 km on a side. A mole of pennies stacked on top of each other would have about the same diameter as our galaxy, the Milky Way. A mole is a lot of things—but atoms and molecules are very tiny. One mole of carbon atoms would make a cube that is 1.74 cm on a side, small enough to carry in your pocket.
+How big is a mole? It is very large. Suppose you had a mole of dollar bills that need to be counted. If a hypothetical group of 8.0 billion people each counted one bill per second, it would take about 2.4 million years to count all the bills. A mole of sand would fill a cube about 32 km on a side. A mole of pennies stacked on top of each other would have about the same diameter as our galaxy, the Milky Way. A mole is a lot of things—but atoms and molecules are very tiny. One mole of carbon atoms would make a cube that is 1.74 cm on a side, small enough to carry in your pocket.
 
-Why is the mole unit so important? It represents the link between the microscopic and the macroscopic, especially in terms of mass. *A mole of a substance has the same mass in grams as one unit (atom or molecules) has in atomic mass units*. The mole unit allows us to express amounts of atoms and molecules in visible amounts that we can understand.
+Why is the mole unit so important? It represents the link between the microscopic and the macroscopic, especially in terms of mass. *To the precision needed in this book, a substance’s molar mass in grams per mole has the same numerical value as the mass of one atom, molecule, or formula unit in atomic mass units*. The mole unit allows us to express amounts of atoms and molecules in visible amounts that we can understand.
 
-For example, we already know that, by definition, a mole of carbon has a mass of exactly 12 g. This means that exactly 12 g of C has 6.022 × 10<sup>23</sup> atoms:
+For example, one mole of pure carbon-12 has a mass of approximately 12 g. Under the SI definition introduced in 2019, this mass is no longer exact by definition. For calculations at the precision used here, we can use the following approximate relationship for carbon-12:
 
 $$
-\text{12 g C = 6.022 }\times{}\text{ 10}^{23}\text{ atoms C}
+\text{12 g carbon-12}\ \approx\ 6.022\times{}10^{23}\text{ atoms of carbon-12}
 $$
 
-We can use this equality as a conversion factor between the number of atoms of carbon and the number of grams of carbon. How many grams are there, say, in 1.50 × 10<sup>25</sup> atoms of carbon? This is a one-step conversion:
+We can use this approximate relationship to construct a conversion factor between the number of carbon-12 atoms and their mass. How many grams are there in 1.50 × 10<sup>25</sup> atoms of carbon-12? This is a one-step conversion:
 
 $$
 1.50\,\times{}\,{10}^{25}\text{ atoms C}\,\times{}\,\frac{12.0000\text{ g C}}{6.022\,\times{}\,{10}^{23}\text{ atoms C}}=299\text{ g C}
 $$
 
-But it also goes beyond carbon. Previously we defined atomic and molecular masses as the number of atomic mass units per atom or molecule. Now we can do so in terms of grams. The atomic mass of an element is the number of grams in 1 mol of atoms of that element, while the molecular mass of a compound is the number of grams in 1 mol of molecules of that compound. Sometimes these masses are called **molar masses** (*The mass of 1 mol of a substance in grams.*) to emphasize the fact that they are the mass for 1 mol of things. (The term *molar* is the adjective form of mole and has nothing to do with teeth.)
+But it also goes beyond carbon. Previously we defined atomic and molecular masses as the number of atomic mass units per atom or molecule. Now we can do so in terms of grams. Atomic and molecular masses describe individual particles, usually in atomic mass units (u). A **molar mass** (*The mass per mole of a substance, commonly expressed in grams per mole.*) describes a macroscopic amount. At the precision used here, the numerical value of a particle’s mass in u is the same as the numerical value of its molar mass in g/mol. (The term *molar* is the adjective form of mole and has nothing to do with teeth.)
 
-Here are some examples. The mass of a hydrogen atom is 1.0079 u; the mass of 1 mol of hydrogen atoms is 1.0079 g. Elemental hydrogen exists as a diatomic molecule, H<sub>2</sub>. One molecule has a mass of 1.0079 + 1.0079 = 2.0158 u, while 1 mol H<sub>2</sub> has a mass of 2.0158 g. A molecule of H<sub>2</sub>O has a mass of about 18.01 u; 1 mol H<sub>2</sub>O has a mass of 18.01 g. A single unit of NaCl has a mass of 58.45 u; NaCl has a molar mass of 58.45 g. In each of these moles of substances, there are 6.022 × 10<sup>23</sup> units: 6.022 × 10<sup>23</sup> atoms of H, 6.022 × 10<sup>23</sup> molecules of H<sub>2</sub> and H<sub>2</sub>O, 6.022 × 10<sup>23</sup> units of NaCl ions. These relationships give us plenty of opportunities to construct conversion factors for simple calculations.
+Here are some examples. The mass of a hydrogen atom is 1.0079 u; the mass of 1 mol of hydrogen atoms is 1.0079 g. Elemental hydrogen exists as a diatomic molecule, H<sub>2</sub>. One molecule has a mass of 1.0079 + 1.0079 = 2.0158 u, while 1 mol H<sub>2</sub> has a mass of 2.0158 g. A molecule of H<sub>2</sub>O has a mass of about 18.01 u; 1 mol H<sub>2</sub>O has a mass of 18.01 g. A single unit of NaCl has a mass of 58.45 u; NaCl has a molar mass of 58.45 g/mol. In each of these moles of substances, there are 6.022 × 10<sup>23</sup> units: 6.022 × 10<sup>23</sup> atoms of H, 6.022 × 10<sup>23</sup> molecules of H<sub>2</sub> and H<sub>2</sub>O, 6.022 × 10<sup>23</sup> units of NaCl ions. These relationships give us plenty of opportunities to construct conversion factors for simple calculations.
 
 ```{exercise}
 :label: ex:ball-ch05-s02-n03

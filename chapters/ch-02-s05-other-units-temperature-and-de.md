@@ -121,7 +121,7 @@ What is 98.6°F on the Kelvin scale?
 310.2 K
 ```
 
-{ref}`Figure 2.9 "Fahrenheit, Celsius, and Kelvin Temperatures" <fig:ch02:s05:f01>` compares the three temperature scales. Note that science uses the Celsius and Kelvin scales almost exclusively; virtually no practicing chemist expresses laboratory-measured temperatures with the Fahrenheit scale. (In fact, the United States is one of the few countries in the world that still uses the Fahrenheit scale on a daily basis. The other two countries are Liberia and Myanmar [formerly Burma]. People driving near the borders of Canada or Mexico may pick up local radio stations on the other side of the border that express the daily weather in degrees Celsius, so don’t get confused by their weather reports.)
+{ref}`Figure 2.9 "Fahrenheit, Celsius, and Kelvin Temperatures" <fig:ch02:s05:f01>` compares the three temperature scales. Note that science uses the Celsius and Kelvin scales almost exclusively; virtually no practicing chemist expresses laboratory-measured temperatures with the Fahrenheit scale. (The Fahrenheit scale remains common in everyday weather reports in the United States, while many countries use degrees Celsius.)
 
 ```{figure} ../images/figures/c97725114932d2ab691995032a916885.jpg
 :label: fig:ch02:s05:f01
@@ -400,14 +400,14 @@ Convert 0 K to degrees Fahrenheit. What is the significance of the temperature i
 
 **Exercise 7.**
 
-The hottest temperature ever recorded on the surface of the earth was 136°F in Libya in 1922. What is the temperature in degrees Celsius and in kelvins?
+The [World Meteorological Organization lists a near-surface air temperature of 134.0°F at Furnace Creek, Death Valley, California, on July 10, 1913](https://wmo.int/sites/default/files/2023-11/Table_Records_6Nov2023.pdf). The formerly accepted 1922 Libya record was invalidated after review. Convert 134.0°F to degrees Celsius and kelvins.
 ```
 
 ```{solution} ex:ball-ch02-s05-qs01-qd01-qa07
 :label: sol:ball-ch02-s05-qs01-qd01-qa07
 :class: dropdown
 
-57.8°C; 331 K
+56.7°C; 329.8 K. Using the conversion formulas, $(134.0 - 32) / 1.8 = 56.666\ldots{}$°C, and $56.666\ldots{} + 273.15 = 329.816\ldots{}$ K.
 ```
 
 ```{exercise}
@@ -415,7 +415,7 @@ The hottest temperature ever recorded on the surface of the earth was 136°F in 
 
 **Exercise 8.**
 
-The coldest temperature ever recorded on the surface of the earth was −128.6°F in Vostok, Antarctica, in 1983. What is the temperature in degrees Celsius and in kelvins?
+A near-surface air temperature of −128.6°F was recorded at Vostok, Antarctica, on July 21, 1983. What is the temperature in degrees Celsius and in kelvins?
 ```
 
 ```{exercise}

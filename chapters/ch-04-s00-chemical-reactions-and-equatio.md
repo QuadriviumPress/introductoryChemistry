@@ -8,8 +8,7 @@ title: "Chapter 4 Chemical Reactions and Equations"
 
 ```{note} Opening Essay
 
-The space shuttle—and any other rocket-based system—uses chemical reactions to propel itself into space and maneuver itself when it gets into orbit. The rockets that lift the orbiter are of two different types. The three main engines are powered by reacting liquid hydrogen with liquid oxygen to generate water. Then there are the two solid rocket boosters, which use a solid fuel mixture that contains mainly ammonium perchlorate and powdered aluminum. The chemical reaction between these substances produces aluminum oxide, water, nitrogen gas, and hydrogen chloride. Although the solid rocket boosters each have a significantly lower mass than the liquid oxygen and liquid hydrogen tanks, they provide over 80% of the lift needed to put the shuttle into orbit—all because of chemical reactions.
-```
+NASA’s Space Shuttle, which [flew from 1981 to 2011](https://www.nasa.gov/space-shuttle/), used chemical reactions to propel itself into space and maneuver in orbit. Its launch propulsion combined two types of engines. The three main engines reacted liquid hydrogen with liquid oxygen to generate water. Two solid rocket boosters used a mixture containing mainly ammonium perchlorate and powdered aluminum. The reaction of these substances produced aluminum oxide, water, nitrogen gas, and hydrogen chloride. The solid rocket boosters provided most of the thrust at liftoff. The shuttle illustrates how chemical reactions release energy and generate the gases that propel a rocket.
 
 ```{figure} ../images/restored/shuttle.jpg
 :label: fig:ch04:shuttle-launch

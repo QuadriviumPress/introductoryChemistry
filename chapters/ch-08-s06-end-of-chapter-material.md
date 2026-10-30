@@ -160,7 +160,7 @@ b. From a source of actual electron configurations, determine how many exception
 
 **Exercise 13.**
 
-Recently, Russian chemists reported experimental evidence of element 117. Use the periodic table to predict its valence shell electron configuration.
+Element 117 is tennessine (Ts), whose [name and symbol were approved by IUPAC in 2016](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/). Use the periodic table to predict its valence shell electron configuration.
 ```
 
 ```{solution} ex:ball-ch08-s06-qs01-qd01-qa13

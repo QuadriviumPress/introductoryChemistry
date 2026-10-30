@@ -157,8 +157,8 @@ b. 0.045 cm<sup>3</sup> of water
 
 Identify the unit in each quantity.
 
-a. 9.58 s (the current world record in the 100 m dash)
-b. 6.14 m (the current world record in the pole vault)
+a. 9.58 s ([Usain Bolt’s 100 m time in Berlin in 2009](https://worldathletics.org/athletes/jamaica/usain-bolt-14201847))
+b. 6.14 m ([Sergey Bubka’s outdoor pole vault record set in 1994](https://worldathletics.org/records/all-time-toplists/jumps/pole-vault/outdoor/men/senior?regionType=world&bestResultsOnly=true))
 ```
 
 ```{solution} ex:ball-ch02-s02-qs01-qd01-qa03

@@ -18,6 +18,29 @@ Share-alike applies. Adaptations of this edition, including this MyST text, stay
 
 The wording, examples, exercises, and tables are the Saylor HTML text, converted to MyST Markdown, with documented corrections in the converter. Worked examples and end-of-section problems are `{exercise}` blocks. Answers that were present in the student HTML open in `{solution}` dropdowns. Even-numbered answers were empty in the source (marked instructor-only) and are still absent. Learning objectives, key takeaways, “Chemistry Is Everywhere,” and “Food and Drink App” notes use MyST callouts. Comparison with the original PDF identified 26 numbered figure omissions and 25 unnumbered image groups absent from the HTML edition. This edition supplies openly licensed alternatives for all of them, with new descriptive captions and resolved cross-references. Figure 9.1 now includes its missing salt panel. The appendix uses an updated periodic table, and the adjacent data table uses modern element names; its atomic-mass values remain those of the source edition. The original 38-Calorie exercise is phrased as a hypothetical because the replacement FDA label shows 230 Calories.
 
+## Reference and definition review (2026-10-30)
+
+This edition also updates dated definitions, references, and examples. The
+file-scoped changes and their previous wording are recorded in
+[`scripts/reference_updates.json`](scripts/reference_updates.json). Conversion
+reapplies them after restoring figures and reports an error if the source text
+no longer matches. Historical examples remain historical, and numerical
+exercises and available answers are updated together.
+
+| Topic | Editorial change and source |
+| --- | --- |
+| Elements (§§1.1–1.2, 8.6) | Use 118 recognized elements and the name tennessine; see [IUPAC’s periodic table](https://iupac.org/what-we-do/periodic-table-of-elements/) and [2016 naming announcement](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/). Remove moving discovery ages and unnecessary compound counts. |
+| Mole (§5.2) | Use the exact Avogadro constant and the 2019 SI definition; distinguish pure carbon-12 from ordinary carbon and approximate molar-mass relationships from exact definitions. Source: [BIPM](https://www.bipm.org/en/si-base-units/mole). The counting analogy assumes 8.0 billion people and gives a recalculated 2.4 million years. |
+| Measurements (§§2.2, 2.5) | Date Bolt’s and Bubka’s performances, replace the invalidated Libya temperature with the [WMO’s listed Death Valley observation](https://wmo.int/sites/default/files/2023-11/Table_Records_6Nov2023.pdf), recalculate the answer, and describe the Vostok observation as air temperature. Remove the inaccurate list of countries using Fahrenheit. |
+| Shuttle (Chapter 4) | Describe the retired program in past tense and link to [NASA’s history](https://www.nasa.gov/space-shuttle/). |
+| Food dyes (§8.4) | Present dyes as examples with distinct permitted uses, correct FD&C Red No. 3, and explain the [FDA’s 2025 revocation order and 2027/2028 deadlines](https://www.fda.gov/food/food-ingredients-packaging/fda-encourages-food-manufacturers-accelerate-phasing-out-use-fdc-red-no-3-foods-2027-deadline). |
+| Sodium (§9.2) | Replace the 2010 USDA citation with [WHO’s sodium reference](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction). Correct the definition and range of causes of hyponatremia using [MedlinePlus](https://medlineplus.gov/lab-tests/sodium-blood-test/). |
+| Radiation (§15.3) | Distinguish activity, absorbed dose, equivalent dose, and effective dose using [FDA](https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiation-quantities-and-units) and [OSHA](https://www.osha.gov/ionizing-radiation/background). Replace the unsourced 358 mrem table with the [NRC’s explicitly dated US benchmark](https://www.nrc.gov/facilities-safety/radiation-protection/radiation-all-around-us/doses-in-our-daily-lives) (2006 exposure data, reported in 2009), and discuss the [2016 medical exposure update](https://pubs.rsna.org/doi/10.1148/radiol.2020192256) separately. These are dated population estimates, not claims of a current universal dose. Update the acute-effects table from [CDC](https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html) and revise the dependent questions and answers. |
+| Wine and fusion (§§15.4–15.5) | Use the calendar date of atmospheric testing rather than a moving wine-age cutoff. Explain [laboratory fusion ignition in December 2022](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition), distinguishing laser energy delivered to the target from the facility’s total energy consumption and from electricity production. |
+
+The review also removes an unnecessary 2009 soda sales statistic and uses HTTPS
+for the appendix’s Ptable link. New source links were reviewed on 2026-10-30.
+
 ## Figures and external resources
 
 Legacy figures are the JPEG and PNG files shipped in `saylordotorg/text_introductory-chemistry`, copied here under `images/figures/` without redrawing, apart from the converter's documented electronegativity and ionization-energy corrections. They follow the same CC BY-NC-SA 3.0 terms as the text. Their captions are the source captions. No embedded simulations or third-party interactive media are added in this conversion.

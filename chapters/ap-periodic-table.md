@@ -10,7 +10,7 @@ In this chapter, we present some data on the chemical elements. The periodic tab
 
 One item on most periodic tables is the atomic mass of each element. For many applications, only one or two decimal places are necessary for the atomic mass. However, some applications (especially nuclear chemistry; see {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`) require more decimal places. The atomic masses in {ref}`Table 17.1 "The Basics of the Elements of the Periodic Table" <tbl:ch17:t01>` are retained from the source edition, with element names and symbols updated to their modern forms. For current standard atomic weights, consult the [Commission on Isotopic Abundances and Atomic Weights](https://ciaaw.org/atomic-weights.htm). The atomic masses of some elements are known very precisely, to a large number of decimal places. The atomic masses of other elements, especially radioactive elements, are not known as precisely. Some elements, such as lithium, can have varying atomic masses depending on how their isotopes are isolated.
 
-The web offers many interactive periodic table resources. For example, see [http://www.ptable.com](http://www.ptable.com).
+The web offers many interactive periodic table resources. For example, see [Ptable](https://ptable.com/).
 
 ```{figure} ../images/restored/periodic-table.svg
 :label: fig:ch17:periodic-table

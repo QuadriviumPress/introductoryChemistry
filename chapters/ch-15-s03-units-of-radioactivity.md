@@ -11,7 +11,7 @@ title: "15.3 Units of Radioactivity"
 1. Express amounts of radioactivity in a variety of units.
 ```
 
-In {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`, {ref}`Section 15.2 "Half-Life" <sec:ch15:s02>`, we used mass to indicate the amount of radioactive substance present. This is only one of several units used to express amounts of radiation. Some units describe the number of radioactive events occurring per unit time, while others express the amount of a person’s exposure to radiation.
+In {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`, {ref}`Section 15.2 "Half-Life" <sec:ch15:s02>`, we used mass to indicate the amount of radioactive substance present. Its *activity* is the number of nuclear decays per unit time. Radiation *dose* describes energy deposited in matter and, with appropriate weighting, its effects on tissue. Activity and dose measure different quantities.
 
 Perhaps the direct way of reporting radioactivity is the number of radioactive decays per second. One decay per second is called one **becquerel (Bq)** (*A unit of radioactivity equal to 1 decay per second.*). Even in a small mass of radioactive material, however, there are thousands upon thousands of decays or disintegrations per second. The unit **curie (Ci)** (*A unit of radioactivity equal to $3.7\times{}{10}^{10}$ decays/s.*), now defined as 3.7 × 10<sup>10</sup> decays/s, was originally defined as the number of decays per second in 1 g of radium. Many radioactive samples have activities that are on the order of microcuries (µCi) or more. Both the becquerel and the curie can be used in place of grams to describe quantities of radioactive material. As an example, the amount of americium in an average smoke detector has an activity of 0.9 µCi. (The curie is named after Polish scientist Marie Curie, who performed some of the initial investigations into radioactive phenomena in the early 1900s; the becquerel is named after Henri Becquerel, who discovered radioactivity in 1896.)
 
@@ -103,65 +103,54 @@ A sample of radon has an activity of 60,000 Bq. If the half-life of radon is 15 
 38.8 h
 ```
 
-Other measures of radioactivity are based on the effects it has on living tissue. Radioactivity can transfer energy to tissues in two ways: through the kinetic energy of the particles hitting the tissue and through the electromagnetic energy of the gamma rays being absorbed by the tissue. Either way, the transferred energy—like the thermal energy from boiling water—can damage the tissue.
-
-The **rad** (*A unit of radioactive exposure equal to 0.01 J/kg of tissue.*) (an acronym for radiation absorbed dose) is a unit equivalent to 1 kg of tissue absorbing 0.01 J:
+Radiation can transfer energy to tissue through moving particles and through the absorption of electromagnetic radiation such as gamma rays. The energy deposited per unit mass is called *absorbed dose*. Its SI unit is the **gray (Gy)** (*An absorbed dose of 1 joule per kilogram.*). The older unit **rad** (*An absorbed dose of 0.01 joule per kilogram.*) is still encountered, especially in US sources:
 
 $$
-\text{1 rad = 0.01 J/kg}
+1\ \mathrm{Gy} = 1\ \mathrm{J/kg} = 100\ \mathrm{rad}
 $$
 
-Another unit of radiation absorption is the gray (Gy):
+The gray is the SI unit used in scientific reporting. Absorbing 1 rad in a 70 kg body deposits only 0.7 J, but ionizing radiation can damage molecules and cells even when its overall heating effect is very small.
+
+Radiation types differ in their biological effects. For a tissue exposed to one type of radiation, the *equivalent dose* is its mean absorbed dose multiplied by a radiation weighting factor:
 
 $$
-\text{1 Gy = 100 rad}
+\text{equivalent dose (Sv)} = \text{absorbed dose (Gy)} \times \text{radiation weighting factor}
 $$
 
-The rad is more common. To get an idea of the amount of energy this represents, consider that the absorption of 1 rad by 70,000 g of water (approximately the same mass as a 150 lb person) would increase the temperature of the water by only about 2 × 10<sup>−6</sup>°C. This may not seem like a lot, but it is enough energy to break about 1 × 10<sup>18</sup> molecular C–C bonds in a person’s body. That amount of damage would not be desirable.
+The **sievert (Sv)** (*The SI unit of equivalent dose and effective dose.*) is related to the older **rem** (*A unit of equivalent dose or effective dose equal to 0.01 sievert.*) by 1 Sv = 100 rem. The weighting factor is 1 for photons and beta particles and 20 for alpha particles. *Effective dose* additionally weights the equivalent doses to different organs and tissues to account for differences in their sensitivity. These quantities are explained in the [FDA’s radiation units guide](https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/radiation-quantities-and-units) and [OSHA’s radiation background reference](https://www.osha.gov/ionizing-radiation/background).
 
-Predicting the effects of radiation is complicated by the fact that different types of emissions affect various tissues differently. To quantify these effects, the unit **rem** (*A unit of radioactive exposure that includes a factor to account for the type of radioactivity.*) (an acronym for röntgen equivalent man) is defined as
-
-$$
-\text{rem = rad }\times{}\text{ factor}
-$$
-
-where factor is a number greater than or equal to 1 that takes into account the type of radioactive emission and sometimes the type of tissue being exposed. For beta particles, the factor equals 1. For alpha particles striking most tissues, the factor is 10, but for eye tissue the factor is 30. Most radioactive emissions that people are exposed to are on the order of a few dozen millirems (mrem) or less; a medical X-ray is about 20 mrem. A sievert (Sv) is a related unit and is defined as 100 rem.
-
-What is a person’s annual exposure to radioactivity and radiation? {ref}`Table 15.3 "Average Annual Radiation Exposure (Approximate)" <tbl:ch15:s03:t01>` lists the sources and annual amounts of radiation exposure. It may surprise you to learn that fully 82% of the radioactivity and radiation exposure we receive is from natural sources—sources we cannot avoid. Fully 10% of the exposure comes from our own bodies—largely from carbon-14 and potassium-40.
+Annual effective dose depends on location, housing, medical procedures, and other circumstances. {ref}`Table 15.3 "Average Annual Radiation Exposure (Approximate)" <tbl:ch15:s03:t01>` gives a dated US population benchmark summarized by the Nuclear Regulatory Commission. It represents 2006 exposure data reported by NCRP in 2009. Roughly half came from natural background and half from human activities, mainly medicine. Natural background includes radon, cosmic radiation, terrestrial radiation, and radioactive isotopes in the body, including potassium-40 and carbon-14.
 
 ```{table} Average Annual Radiation Exposure (Approximate)
 :label: tbl:ch15:s03:t01
 
-| Source | Amount (mrem) |
-| --- | --- |
-| radon gas | 200 |
-| medical sources | 53 |
-| radioactive atoms in the body naturally | 39 |
-| terrestrial sources | 28 |
-| cosmic sources | 28\* |
-| consumer products | 10 |
-| nuclear energy | 0.05 |
-| **Total** | 358 |
+| Source (US population, 2006 benchmark) | Effective dose (mSv/year) | Effective dose (mrem/year) |
+| --- | --- | --- |
+| natural background | 3.1 | 310 |
+| human activities, mainly medical procedures | 3.1 | 310 |
+| **Total** | **6.2** | **620** |
 
-\*Flying from New York City to San Francisco adds 5 mrem to your overall radiation exposure because the plane flies above much of the atmosphere, which protects us from cosmic radiation.
+Source: [NRC, Doses in Our Daily Lives](https://www.nrc.gov/facilities-safety/radiation-protection/radiation-all-around-us/doses-in-our-daily-lives), summarizing NCRP Report No. 160 (2009). Values are rounded population averages, not an individual’s dose or a universal annual value.
 ```
 
-The actual effects of radioactivity and radiation exposure on a person’s health depend on the type of radioactivity, the length of exposure, and the tissues exposed. {ref}`Table 15.4 "Effects of Short-Term Exposure to Radioactivity and Radiation" <tbl:ch15:s03:t02>` lists the potential threats to health at various amounts of exposure over short periods of time (hours or days).
+Exposure patterns change. An [updated study using 2016 US medical exposure data](https://pubs.rsna.org/doi/10.1148/radiol.2020192256) estimated the medical contribution at about 2.3 mSv per person per year, compared with about 2.9 mSv in 2006 using comparable methods. This medical-only estimate does not replace the total in Table 15.3. Also, “natural” does not mean “unavoidable”: testing homes for radon and reducing elevated levels can lower exposure. See the [EPA’s radon guide](https://www.epa.gov/radon).
+
+Health effects depend on absorbed dose, radiation type, the tissues exposed, and how quickly the dose is delivered. {ref}`Table 15.4 "Effects of Short-Term Exposure to Radioactivity and Radiation" <tbl:ch15:s03:t02>` summarizes approximate acute effects of penetrating radiation delivered to most of the body in a short time. These dose ranges overlap and do not predict an individual outcome. Effective dose in sieverts is used for radiation protection comparisons; absorbed dose in grays is used here to describe acute injury.
 
 ```{table} Effects of Short-Term Exposure to Radioactivity and Radiation
 :label: tbl:ch15:s03:t02
 
-| Exposure (rem) | Effect |
+| Absorbed dose (Gy) | Possible acute effects |
 | --- | --- |
-| 1 (over a full year) | no detectable effect |
-| ∼20 | increased risk of some cancers |
-| ∼100 | damage to bone marrow and other tissues; possible internal bleeding; decrease in white blood cell count |
-| 200–300 | visible “burns” in skin, nausea, vomiting, fatigue |
-| >300 | loss of white blood cells; hair loss |
-| ∼600 | death |
+| about 0.3 and above | mild symptoms of radiation sickness may occur |
+| about 0.7–10 | bone marrow injury; risk of infection and bleeding increases as dose rises |
+| about 6 and above | gastrointestinal symptoms may occur |
+| above about 10 | severe gastrointestinal syndrome; survival is extremely unlikely |
+
+Source: [CDC, Acute Radiation Syndrome: Information for Clinicians](https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html). Outcomes also depend on treatment, dose distribution, and dose rate. This table describes acute injury; it does not establish a threshold below which long-term cancer risk is absent.
 ```
 
-One of the simplest ways of detecting radioactivity is by using a piece of photographic film embedded in a badge or a pen. On a regular basis, the film is developed and checked for exposure. Comparing the exposure level of the film with a set of standard exposures indicates the amount of radiation a person was exposed to.
+A personal dosimeter measures radiation received by its wearer. Film badges provide a historical example: radiation darkens the film, and comparison with calibrated exposures allows dose to be estimated. Thermoluminescent, optically stimulated luminescent, and electronic dosimeters are also used. A dose estimate requires calibration appropriate to the radiation and measurement conditions.
 
 Another means of detecting radioactivity is an electrical device called a **Geiger counter** (*An electrical device that detects radioactivity.*) ({ref}`Figure 15.2 "Detecting Radioactivity" <fig:ch15:s03:f01>`). It contains a gas-filled chamber with a thin membrane on one end that allows radiation emitted from radioactive nuclei to enter the chamber and knock electrons off atoms of gas (usually argon). The presence of electrons and positively charged ions causes a small current, which is detected by the Geiger counter and converted to a signal on a meter or, commonly, an audio circuit to produce an audible “click.”
 
@@ -179,7 +168,7 @@ Credits: [Geiger counter 2 — TimVickers](https://commons.wikimedia.org/wiki/Fi
 
 ```{important} Key Takeaway
 
-- Radioactivity can be expressed in a variety of units, including rems, rads, and curies.
+- Activity is measured in becquerels (or curies), absorbed dose in grays (or rads), and equivalent or effective dose in sieverts (or rems).
 ```
 
 ## Exercises
@@ -196,7 +185,7 @@ Define *rad*.
 :label: sol:ball-ch15-s03-qs01-qd01-qa01
 :class: dropdown
 
-a unit of radioactive exposure equal to 0.01 J of energy per kilogram of tissue
+a unit of absorbed dose equal to 0.01 J of energy per kilogram of matter
 ```
 
 ```{exercise}
@@ -327,14 +316,14 @@ Technetium-99 is used in medicine as a source of radiation. A typical dose is 25
 
 **Exercise 13.**
 
-Describe how a radiation exposure in rems is determined.
+How is equivalent dose in rems calculated from absorbed dose in rads for one type of radiation?
 ```
 
 ```{solution} ex:ball-ch15-s03-qs01-qd01-qa13
 :label: sol:ball-ch15-s03-qs01-qd01-qa13
 :class: dropdown
 
-by using a film badge, which is exposed by the radiation, or a Geiger counter
+Multiply the absorbed dose in rads by the radiation weighting factor. For example, 1 rad of beta radiation corresponds to 1 rem, while 1 rad of alpha radiation corresponds to 20 rem of equivalent dose to the exposed tissue.
 ```
 
 ```{exercise}
@@ -350,14 +339,14 @@ Which contributes more to the rems of exposure—alpha or beta particles? Why?
 
 **Exercise 15.**
 
-Use {ref}`Table 15.4 "Effects of Short-Term Exposure to Radioactivity and Radiation" <tbl:ch15:s03:t02>` to determine which sources of radiation exposure are inescapable and which can be avoided. What percentage of radiation is unavoidable?
+Use {ref}`Table 15.3 "Average Annual Radiation Exposure (Approximate)" <tbl:ch15:s03:t01>` to calculate the percentage of the benchmark dose that came from natural background. Explain why this percentage does not describe an individual’s unavoidable exposure.
 ```
 
 ```{solution} ex:ball-ch15-s03-qs01-qd01-qa15
 :label: sol:ball-ch15-s03-qs01-qd01-qa15
 :class: dropdown
 
-Radioactive atoms in the body, most terrestrial sources, cosmic sources, and nuclear energy sources are likely unavoidable, which is about 27% of the total exposure. If exposure to radon gas is added, the total unavoidable exposure increases to 82%.
+Natural background contributed approximately $310/620 \times 100\% = 50\%$ of the benchmark dose. The values are US population averages for a specified reference year. Individual exposures vary, and some natural exposure, especially from indoor radon, can be reduced.
 ```
 
 ```{exercise}

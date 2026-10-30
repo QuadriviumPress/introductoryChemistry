@@ -192,17 +192,17 @@ Many foods, such as tomatoes, are highly colored; in fact, the common statement 
 
 Many processed foods have food colorings added to them. There are two types of food colorings: natural and artificial. Natural food colorings include caramelized sugar for brown; annatto, turmeric, and saffron for various shades of orange or yellow; betanin from beets for purple; and even carmine, a deep red dye that is extracted from the cochineal, a small insect that is a parasite on cacti in Central and South America. (That’s right: you may be eating bug juice!)
 
-Some colorings are artificial. In the United States, the Food and Drug Administration currently approves only seven compounds as artificial colorings in food, beverages, and cosmetics:
+Some colorings are synthetic. The following dyes illustrate compounds that have been used as food colorings in the United States. Permitted uses differ by product category and can change over time:
 
 1. FD&C Blue #1: Brilliant Blue FCF
 2. FD&C Blue #2: Indigotine
 3. FD&C Green #3: Fast Green FCF
-4. RD&C Red #3: Erythrosine
+4. FD&C Red #3: Erythrosine (subject to the phaseout described below)
 5. FD&C Red #40: Allura Red AC
 6. FD&C Yellow #5: Tartrazine
 7. FD&C Yellow #6: Sunset Yellow FCF
 
-Lower-numbered colors are no longer on the market or have been removed for various reasons. Typically, these artificial colorings are large molecules that absorb certain colors of light very strongly, making them useful even at very low concentrations in foods and cosmetics. Even at such low amounts, some critics claim that a small portion of the population (especially children) is sensitive to artificial colorings and urge that their use be curtailed or halted. However, formal studies of artificial colorings and their effects on behavior have been inconclusive or contradictory. Despite this, most people continue to enjoy processed foods with artificial coloring (like those shown in the accompanying figure).
+These dyes are large molecules that strongly absorb certain wavelengths of visible light, making them useful at low concentrations. Their chemical properties and their regulatory status are separate questions. In January 2025, the [FDA issued an order revoking authorization for FD&C Red No. 3 in foods and ingested drugs](https://www.fda.gov/food/food-ingredients-packaging/fda-encourages-food-manufacturers-accelerate-phasing-out-use-fdc-red-no-3-foods-2027-deadline), with reformulation deadlines of January 15, 2027, for foods and January 18, 2028, for ingested drugs. Red No. 3 was already excluded from cosmetics and externally applied drugs. The [FDA’s discussion of color additive safety](https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives) also describes evidence that some children may be sensitive to certain color additives. The examples below illustrate how dyes are used in products.
 
 (fig:ch08:s04:f12)=
 

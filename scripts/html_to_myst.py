@@ -21,6 +21,7 @@ from urllib.parse import unquote, urlparse
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 from restore_figures import MANIFEST, restore_figures
+from update_references import update_references
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = ROOT / "chapters"
@@ -1442,9 +1443,11 @@ def main() -> None:
         print(f"wrote {rel}")
     write_myst(toc)
     restored = restore_figures()
+    updated = update_references(ROOT)
     restored_ids = {figure["source_id"] for figure in json.loads(MANIFEST.read_text(encoding="utf-8")) if figure.get("source_id")}
     missing = sorted(set(missing) - restored_ids)
     print(f"restored {restored} licensed replacement figures")
+    print(f"applied {updated} reference updates")
     print(f"pages {written}; labels {len(labels)}; images {len(ctx.copied)}; unresolved refs {len(missing)}")
     if missing:
         print("unresolved:", ", ".join(missing[:30]))

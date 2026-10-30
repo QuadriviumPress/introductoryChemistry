@@ -131,8 +131,7 @@ The element sodium (part [a] in the accompanying figure) is a very reactive meta
 
 Salt is necessary for life. Na<sup>+</sup> ions are one of the main ions in the human body and are necessary to regulate the fluid balance in the body. Cl<sup>−</sup> ions are necessary for proper nerve function and respiration. Both of these ions are supplied by salt. The taste of salt is one of the fundamental tastes; salt is probably the most ancient flavoring known, and one of the few rocks we eat.
 
-The health effects of too much salt are still under debate, although a 2010 report by the US Department of Agriculture concluded that “excessive sodium intake…raises blood pressure, a well-accepted and extraordinarily common risk factor for stroke, coronary heart disease, and kidney disease.”[^fwk-ball-fn09001] It is clear that most people ingest more salt than their bodies need, and most nutritionists recommend curbing salt intake. Curiously, people who suffer from low salt (called *hyponatria*) do so not because they ingest too little salt but because they drink too much water. Endurance athletes and others involved in extended strenuous exercise need to watch their water intake so their body’s salt content is not diluted to dangerous levels.
-```
+Excess sodium intake raises blood pressure and increases the risk of cardiovascular disease. The World Health Organization recommends reducing sodium intake and gives an adult population guideline of less than 2,000 mg of sodium per day, equivalent to less than 5 g of salt.[^fwk-ball-fn09001] This distinction matters: sodium and sodium chloride have different masses. Low blood sodium, called *hyponatremia*, is a disorder of sodium and water balance with several possible causes, including some illnesses, medications, and excessive water intake. It cannot be explained simply by how much salt someone eats. See [MedlinePlus: sodium blood test](https://medlineplus.gov/lab-tests/sodium-blood-test/).
 
 ```{figure} ../images/restored/sodium.jpg
 :label: fig:ch09:s02:f01
@@ -324,4 +323,4 @@ MgO because the ions are smaller
 Which ionic compound has the higher lattice energy—NaCl or NaI? Why?
 ```
 
-[^fwk-ball-fn09001]: US Department of Agriculture Committee for Nutrition Policy and Promotion, “Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for Americans,” accessed January 5, 2010, [http://www.cnpp.usda.gov/DGAs2010-DGACReport.htm](http://www.cnpp.usda.gov/DGAs2010-DGACReport.htm).
+[^fwk-ball-fn09001]: World Health Organization, [“Sodium reduction”](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction), accessed October 30, 2026.

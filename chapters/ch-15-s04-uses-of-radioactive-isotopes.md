@@ -77,7 +77,7 @@ In addition to the direct application of radioactive isotopes to diseased tissue
 
 ```{tip} Food and Drink App: Radioactivity in Wines
 
-Wine lovers put some stock in *vintages*, or the years in which the wine grapes were grown before they were turned into wine. Wine can differ in quality depending on the vintage. Some wine lovers willingly pay much more for a bottle of wine with a certain vintage. But how does one verify that a bottle of wine was in fact part of a certain vintage? Is the label a fake? Is that stash of wine found in the basement of a French chateau really from the 1940s, or was it made in 2009?
+Wine lovers put some stock in *vintages*, or the years in which the wine grapes were grown before they were turned into wine. Wine can differ in quality depending on the vintage. Some wine lovers willingly pay much more for a bottle of wine with a certain vintage. But how does one verify that a bottle of wine was in fact part of a certain vintage? Is the label a fake? Is that stash of wine found in the basement of a French chateau really from the 1940s, or was it made decades later?
 
 ![This wine label from a bottle of wine claims a vintage of 1991. Is the wine really from this vintage, or is it a fake? Radioactivity can help determine the answer.](../images/figures/67dc5a55857a29d502ca8afd5865befb.jpg)
 
@@ -87,7 +87,7 @@ Cesium-137 is a radioactive isotope that has a half-life of 30.1 y. It was intro
 
 The verification of a wine’s vintage requires the measurement of the activity of cesium-137 in the wine. By measuring the current activity of cesium-137 in a sample of wine (the gamma rays from the radioactive decay pass through glass wine bottles easily, so there’s no need to open the bottle), comparing it to the known amount of cesium-137 from the vintage, and taking into account the passage of time, researchers can collect evidence for or against a claimed wine vintage.
 
-Before about 1950, the amount of cesium-137 in the environment was negligible, so if a wine dated before 1950 shows any measurable cesium-137 activity, it is almost surely a fake, so don’t shell out lots of money for it! It may be a good wine, but it is almost definitely not over 60 years old.
+Before widespread atmospheric nuclear weapons testing in the 1950s, environmental cesium-137 was negligible. Detecting it in a wine claimed to predate that testing can therefore provide evidence against the claimed vintage. Interpretation requires care because contamination, detection limits, and the wine’s origin can affect the result; the calendar date of the testing is more useful than a changing age cutoff.
 ```
 
 ```{important} Key Takeaway
