@@ -116,18 +116,18 @@ $$
 Pressure is given in units of millimeters of mercury. We can either convert this to atmospheres or use the value of the ideal gas constant that includes the mmHg unit. We will take the second option. Substituting into the ideal gas law,
 
 $$
-\text{(0}\text{.00332 mmHg)(435 L) = (1}\text{.65}\,\times{}\,{\text{10}}^{-\text{5}}\text{ mol)}(\text{62}\text{.36 }\frac{\text{L}\cdot{}\text{mmHg}}{\text{mol}\cdot{}\text{K}})T
+\text{(0}\text{.00120 mmHg)(435 L) = (1}\text{.65}\,\times{}\,{\text{10}}^{-\text{5}}\text{ mol)}(\text{62}\text{.36 }\frac{\text{L}\cdot{}\text{mmHg}}{\text{mol}\cdot{}\text{K}})T
 $$
 
 The mmHg, L, and mol units cancel, leaving the K unit, the unit of temperature. Isolating *T* all by itself on one side, we get
 
 $$
-T=\frac{\text{(0}\text{.00332)(435)}}{\text{(1}\text{.65}\times{}{\text{10}}^{-\text{5}}\text{)(62}\text{.36)}}\text{ K}
+T=\frac{\text{(0}\text{.00120)(435)}}{\text{(1}\text{.65}\times{}{\text{10}}^{-\text{5}}\text{)(62}\text{.36)}}\text{ K}
 $$
 
 Then solving for K, we get
 
-$T\text{ = 1,404 K}$
+$T\text{ = 507 K}$
 ```
 
 ```{exercise}

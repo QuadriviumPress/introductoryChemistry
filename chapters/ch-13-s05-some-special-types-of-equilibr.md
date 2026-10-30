@@ -683,7 +683,7 @@ Write the balanced chemical equation and the *K*<sub>sp</sub> expression for the
 :label: sol:ball-ch13-s05-qs01-qd01-qa19
 :class: dropdown
 
-${\text{MgOH}}_{\text{2}}\text{(s)}\rightleftarrows{}{\text{Mg}}^{\text{2+}}{\text{(aq) + 2OH}}^{-}\text{(aq);}$ *K*<sub>sp</sub> = [Mg<sup>2+</sup>][OH<sup>−</sup>]<sup>2</sup>
+${\text{Mg(OH)}}_{\text{2}}\text{(s)}\rightleftarrows{}{\text{Mg}}^{\text{2+}}{\text{(aq) + 2OH}}^{-}\text{(aq);}$ *K*<sub>sp</sub> = [Mg<sup>2+</sup>][OH<sup>−</sup>]<sup>2</sup>
 ```
 
 ```{exercise}

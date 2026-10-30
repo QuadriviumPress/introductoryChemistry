@@ -216,7 +216,7 @@ What is the freezing point of a solution made by dissolving 345 g of CaCl<sub>2<
 :label: sol:ball-ch11-s06-qs01-qd01-qa05
 :class: dropdown
 
-−7.5°C
+−11.2°C
 ```
 
 ```{exercise}

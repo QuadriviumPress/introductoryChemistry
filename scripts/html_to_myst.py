@@ -470,6 +470,8 @@ def copy_image(ctx: Ctx, src: str) -> str:
         normalize_image(dest)
         if name == "86495288d4baa241709baaed0454b93a.jpg":
             correct_electronegativity_figure(dest)
+        if name == "e1287901f5021ca67a87677efadabcf6.jpg":
+            correct_ionization_energy_figure(dest)
         ctx.copied.add(name)
     rel = os.path.relpath(dest, ctx.out_file.parent)
     return Path(rel).as_posix()
@@ -1050,6 +1052,29 @@ def render_paragraph(el: Tag, ctx: Ctx) -> str:
     return target_line(ctx, el.get("id")) + "\n\n".join(parts)
 
 
+def correct_ionization_energy_figure(dest: Path) -> None:
+    """Figure 8.20 labels Be, Mg, and Ca with atomic radii (111, 160, 197 pm).
+
+    Those cells are ionization energies in kJ/mol: 899, 738, and 590.
+    Runs on the freshly copied source image.
+    """
+    from PIL import Image, ImageDraw, ImageFont
+
+    image = Image.open(dest).convert("RGB")
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 16)
+    background = (178, 210, 235)
+    jobs = [
+        ((348, 372, 418, 400), "899", (381, 386)),
+        ((348, 606, 418, 632), "738", (381, 619)),
+        ((348, 890, 418, 918), "590", (381, 904)),
+    ]
+    for box, text, center in jobs:
+        draw.rectangle(box, fill=background)
+        draw.text(center, text, font=font, fill=(0, 0, 0), anchor="mm")
+    image.save(dest, "JPEG", quality=90, optimize=True)
+
+
 def correct_electronegativity_figure(dest: Path) -> None:
     """Figure 9.2 gives boron as 1.5 and sulfur as 3.5. Pauling values here are 2.0 and 2.5.
 
@@ -1096,6 +1121,115 @@ def apply_content_corrections(text: str) -> str:
         "Lead-208 does not spontaneously fission. Use this hypothetical equation to practice the mass-energy calculation:",
         "In the spontaneous fission of radium-226, the following reaction occurs:":
         "Radium-226 decays by alpha emission, not by the split below. Use the equation to practice the mass-energy calculation:",
+        "positive if you move the decimal point to the right and negative if you move the decimal point to the left":
+        "positive if you move the decimal point to the left and negative if you move the decimal point to the right",
+        "One Fahrenheit degree is nine-fifths the size of a Celsius degree.":
+        "One Fahrenheit degree is five-ninths the size of a Celsius degree.",
+        "about one in a million": "about one in 6,400",
+        """```{solution} ex:ball-ch04-s01-qs01-qd01-qa13
+:label: sol:ball-ch04-s01-qs01-qd01-qa13
+:class: dropdown
+
+N<sub>2</sub>(g) + 3H<sub>2</sub>(g) → 2NH<sub>3</sub>(g)
+```""":
+        """```{solution} ex:ball-ch04-s01-qs01-qd01-qa13
+:label: sol:ball-ch04-s01-qs01-qd01-qa13
+:class: dropdown
+
+N<sub>2</sub>(g) + 2H<sub>2</sub>(g) → N<sub>2</sub>H<sub>4</sub>(g)
+```""",
+        "Compounds of SO<sub>4</sub><sup>2</sup>": "Compounds of SO<sub>4</sub><sup>2−</sup>",
+        "HI(aq) + KOH(aq) → KCl(aq) + H<sub>2</sub>O(ℓ)":
+        "HI(aq) + KOH(aq) → KI(aq) + H<sub>2</sub>O(ℓ)",
+        r"{\text{4H}}_{\text{3}}{\text{PO}}_{\text{4}}": r"{\text{4H}}_{\text{3}}{\text{PO}}_{\text{3}}",
+        """```{solution} ex:ball-ch05-s07-qs01-qd01-qa01
+:label: sol:ball-ch05-s07-qs01-qd01-qa01
+:class: dropdown
+
+1.2044 × 10<sup>24</sup> molecules
+```""":
+        """```{solution} ex:ball-ch05-s07-qs01-qd01-qa01
+:label: sol:ball-ch05-s07-qs01-qd01-qa01
+:class: dropdown
+
+3.011 × 10<sup>23</sup> molecules
+```""",
+        r"\text{(0}\text{.00332 mmHg)": r"\text{(0}\text{.00120 mmHg)",
+        r"\frac{\text{(0}\text{.00332)(435)}": r"\frac{\text{(0}\text{.00120)(435)}",
+        r"$T\text{ = 1,404 K}$": r"$T\text{ = 507 K}$",
+        "at 0.26 atm and −26°C": "at 0.33 atm and −26°C",
+        r"\text{2C(s) + O}_{2}\text{(g) }\rightarrow{}\text{ 2CO}_{2}\text{(g)     }\Delta{}H\text{ = }-\text{393.5 kJ}":
+        r"\text{C(s) + O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g)     }\Delta{}H\text{ = }-\text{393.5 kJ}",
+        "4.69 L": "2.85 L",
+        "Na<sub>2</sub>SO<sub>4</sub>(s) | −331.64": "Na<sub>2</sub>SO<sub>4</sub>(s) | −1,387.1",
+        "PH<sub>3</sub>(g) | 22.89": "PH<sub>3</sub>(g) | 5.4",
+        "NaCl(s) | −385.9": "NaCl(s) | −411.2",
+        "1.99 × 10<sup>−22</sup> J": "1.99 × 10<sup>−25</sup> J",
+        "233 K (−60°C)": "213 K (−60°C)",
+        "| Bromine (59.5°C) | 15.4 |": "| Bromine (59.5°C) | 30.0 |",
+        "The Δ*H*<sub>vap</sub> of Br<sub>2</sub> is 15.4 kJ/mol.":
+        "The Δ*H*<sub>vap</sub> of Br<sub>2</sub> is 30.0 kJ/mol.",
+        r"\frac{15.4\text{ kJ}}{\text{ mol}}=6.43\text{ kJ}":
+        r"\frac{30.0\text{ kJ}}{\text{ mol}}=12.5\text{ kJ}",
+        "Δ*H* = −6.43 kJ.": "Δ*H* = −12.5 kJ.",
+        "10.7 kJ": "20.8 kJ",
+        "The normal vapor pressure, then, is the temperature":
+        "The normal boiling point, then, is the temperature",
+        "Atmospheric pressure varies significantly with altitude.":
+        "Atmospheric pressure varies significantly with altitude. At the summit of Mount Everest the pressure is about 250 torr, so water boils near 70°C.",
+        "at 500 torr, which is the approximate atmospheric pressure at the top of Mount Everest.":
+        "at 500 torr.",
+        "while others, such as diamond, are very hard":
+        "while some solids, such as diamond, are very hard",
+        """```{solution} ex:ball-ch10-s04-qs01-qd01-qa15
+:label: sol:ball-ch10-s04-qs01-qd01-qa15
+:class: dropdown
+
+a. molecular solid
+b. molecular solid
+c. ionic crystal
+```""":
+        """```{solution} ex:ball-ch10-s04-qs01-qd01-qa15
+:label: sol:ball-ch10-s04-qs01-qd01-qa15
+:class: dropdown
+
+a. molecular solid
+b. covalent network solid
+c. ionic crystal
+```""",
+        "about 1.4 × 10<sup>14</sup> g of gold": "about 1.4 × 10<sup>11</sup> g of gold",
+        "NaCl can dissolve up to 31.6 g per 100 g": "NaCl can dissolve up to 36.1 g per 100 g",
+        "C<sub>6</sub>H<sub>12</sub>C<sub>6</sub>": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+        "−7.5°C": "−11.2°C",
+        "only about 6 in 10<sup>8</sup> H<sub>2</sub>O molecules":
+        "only about 2 in 10<sup>9</sup> H<sub>2</sub>O molecules",
+        r"\frac{{(6.22)}^{2}}{(1.88)(13.7)}=1.502112129":
+        r"\frac{{(6.62)}^{2}}{(1.88)(13.7)}=1.702",
+        r"$\text{[H}_{2}\text{] = 1.15 M}$": r"$\text{[H}_{2}\text{] = 1.19 M}$",
+        r"{\text{CoCl}}_{\text{2}}": r"{\text{COCl}}_{\text{2}}",
+        r"${\text{MgOH}}_{\text{2}}": r"${\text{Mg(OH)}}_{\text{2}}",
+        "| Ba<sup>2+</sup> + 2e<sup>−</sup> → Ba | −1.57 |\n| Al<sup>3+</sup>+ 3e<sup>−</sup> → Al | −1.66 |\n| Mg<sup>2+</sup> + 2e<sup>−</sup> → Mg | −2.37 |\n| Na<sup>+</sup> + e<sup>−</sup> → Na | −2.714 |\n| Li<sup>+</sup> + e<sup>−</sup> → Li | −3.045 |":
+        "| Al<sup>3+</sup>+ 3e<sup>−</sup> → Al | −1.66 |\n| Mg<sup>2+</sup> + 2e<sup>−</sup> → Mg | −2.37 |\n| Na<sup>+</sup> + e<sup>−</sup> → Na | −2.714 |\n| Ba<sup>2+</sup> + 2e<sup>−</sup> → Ba | −2.91 |\n| Li<sup>+</sup> + e<sup>−</sup> → Li | −3.045 |",
+        r"\text{ + SO}_{4}^{2-}\text{ }\rightarrow{}\text{ 2PbSO}_{4}":
+        r"\text{ + 2SO}_{4}^{2-}\text{ }\rightarrow{}\text{ 2PbSO}_{4}",
+        "a tiny amount (∼0.0002 g) of the radioactive element americium":
+        "a tiny amount (∼2.6 × 10<sup>−7</sup> g) of the radioactive element americium",
+        "The half-live of americium-241 is 432 y. If 0.0002 g of americium-241":
+        "The half-life of americium-241 is 432 y. If 2.6 × 10<sup>−7</sup> g of americium-241",
+        "0.000170 g; 0.0000402 g": "2.2 × 10<sup>−7</sup> g; 5.2 × 10<sup>−8</sup> g",
+        "equal to 0.01 J/g of tissue": "equal to 0.01 J/kg of tissue",
+        "1 g of tissue absorbing 0.01 J": "1 kg of tissue absorbing 0.01 J",
+        r"\text{1 rad = 0.01 J/g}": r"\text{1 rad = 0.01 J/kg}",
+        "by only 0.002°C. This may not seem like a lot, but it is enough energy to break about 1 × 10<sup>21</sup> molecular C–C bonds":
+        "by only about 2 × 10<sup>−6</sup>°C. This may not seem like a lot, but it is enough energy to break about 1 × 10<sup>18</sup> molecular C–C bonds",
+        "0.01 J of energy per gram of tissue": "0.01 J of energy per kilogram of tissue",
+        "If the half-life of radon is 1,500 y": "If the half-life of radon is 3.823 d",
+        "6.0 × 10<sup>3</sup> y": "15.29 d",
+        "or about 4.5 × 10<sup>9</sup> y. Many analyses": "or about 7.0 × 10<sup>8</sup> y. Many analyses",
+        "(The half-life of carbon-14 is 5,370 y.)": "(The half-life of carbon-14 is 5,730 y.)",
+        "per mole of reactant is only one-tenth of the amount given off by the fission of 1 mol of uranium-235. On a mass (per gram) basis, however, hydrogen fusion gives off 10 times more energy than fission does. In addition, the product of fission is helium gas, not a wide range of isotopes (some of which are also radioactive) produced by fission.":
+        "per mole of this reaction is about one-sixth of the amount given off by the fission of 1 mol of uranium-235. On a mass (per gram) basis, however, hydrogen fusion gives off 10 times more energy than fission does. The product of fusion is helium gas. Fission produces a wide range of isotopes, some of which are also radioactive.",
+        "about 0.25 mg of americium-241": "about 2.6 × 10<sup>−7</sup> g of americium-241",
     }
     for old, new in replacements.items():
         text = text.replace(old, new)

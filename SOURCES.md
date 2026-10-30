@@ -20,7 +20,7 @@ The wording, examples, exercises, and tables are the Saylor HTML text, converted
 
 ## Figures and external resources
 
-Legacy figures are the JPEG and PNG files shipped in `saylordotorg/text_introductory-chemistry`, copied here under `images/figures/` without redrawing, apart from the converter's documented electronegativity correction. They follow the same CC BY-NC-SA 3.0 terms as the text. Their captions are the source captions. No embedded simulations or third-party interactive media are added in this conversion.
+Legacy figures are the JPEG and PNG files shipped in `saylordotorg/text_introductory-chemistry`, copied here under `images/figures/` without redrawing, apart from the converter's documented electronegativity and ionization-energy corrections. They follow the same CC BY-NC-SA 3.0 terms as the text. Their captions are the source captions. No embedded simulations or third-party interactive media are added in this conversion.
 
 Replacement assets in `images/restored/` retain their individual CC BY, CC BY-SA, CC0, or public-domain terms, listed below and in their figure captions. They are separately licensed works included in this collection; the textbook's noncommercial license does not replace or restrict their licenses. Each source page records the original work and its license. All files were retrieved on 2026-10-30, resized or re-encoded for web display without content changes; the nucleotide diagram is Wikimedia's PNG rendering of an SVG. Share-alike image adaptations retain the indicated image license.
 

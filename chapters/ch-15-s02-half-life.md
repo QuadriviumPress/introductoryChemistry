@@ -242,14 +242,14 @@ It took 49.2 s for 3.000 g of a radioactive isotope to decay to 0.1875 g. What i
 
 **Exercise 7.**
 
-The half-live of americium-241 is 432 y. If 0.0002 g of americium-241 is present in a smoke detector at the date of manufacture, what mass of americium-241 is present after 100.0 y? After 1,000.0 y?
+The half-life of americium-241 is 432 y. If 2.6 × 10<sup>−7</sup> g of americium-241 is present in a smoke detector at the date of manufacture, what mass of americium-241 is present after 100.0 y? After 1,000.0 y?
 ```
 
 ```{solution} ex:ball-ch15-s02-qs01-qd01-qa07
 :label: sol:ball-ch15-s02-qs01-qd01-qa07
 :class: dropdown
 
-0.000170 g; 0.0000402 g
+2.2 × 10<sup>−7</sup> g; 5.2 × 10<sup>−8</sup> g
 ```
 
 ```{exercise}

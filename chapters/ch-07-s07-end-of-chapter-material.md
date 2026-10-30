@@ -43,7 +43,7 @@ A 3.77 L volume of gas is exposed to an external pressure of 1.67 atm. As the ga
 :label: sol:ball-ch07-s07-qs01-qd01-qa03
 :class: dropdown
 
-4.69 L
+2.85 L
 ```
 
 ```{exercise}

@@ -38,7 +38,7 @@ Equilibrium. At some point, the number of particles entering the vapor phase wil
 
 Understand that the liquid has not stopped evaporating. The reverse process—condensation—is occurring as fast as evaporation is, so there is no net change in the amount of vapor in the system. The term **dynamic equilibrium** (*A situation in which a process still occurs but the opposite process also occurs at the same rate so that there is no net change in the system.*) represents a situation in which a process still occurs, but the opposite process also occurs at the same rate so that there is no net change in the system.
 
-The vapor pressure for a substance is dependent on the temperature of the substance; as the temperature increases, so does the vapor pressure. {ref}`Figure 10.7 "Plots of Vapor Pressure versus Temperature for Several Liquids" <fig:ch10:s03:f03>` is a plot of vapor pressure versus temperature for several liquids. Having defined vapor pressure, we can also redefine the *boiling point* of a liquid: the temperature at which the vapor pressure of a liquid equals the surrounding environmental pressure. The normal vapor pressure, then, is the temperature at which the vapor pressure is 760 torr, or exactly 1 atm. Thus boiling points vary with surrounding pressure, a fact that can have large implications on cooking foods at lower- or higher-than-normal elevations. Atmospheric pressure varies significantly with altitude.
+The vapor pressure for a substance is dependent on the temperature of the substance; as the temperature increases, so does the vapor pressure. {ref}`Figure 10.7 "Plots of Vapor Pressure versus Temperature for Several Liquids" <fig:ch10:s03:f03>` is a plot of vapor pressure versus temperature for several liquids. Having defined vapor pressure, we can also redefine the *boiling point* of a liquid: the temperature at which the vapor pressure of a liquid equals the surrounding environmental pressure. The normal boiling point, then, is the temperature at which the vapor pressure is 760 torr, or exactly 1 atm. Thus boiling points vary with surrounding pressure, a fact that can have large implications on cooking foods at lower- or higher-than-normal elevations. Atmospheric pressure varies significantly with altitude. At the summit of Mount Everest the pressure is about 250 torr, so water boils near 70°C.
 
 ```{figure} ../images/figures/6d3ad33c9ac18fe42b14713873328f50.jpg
 :label: fig:ch10:s03:f03
@@ -54,7 +54,7 @@ Plots of Vapor Pressure versus Temperature for Several Liquids. The vapor pressu
 
 **Example 4**
 
-Use {ref}`Figure 10.7 "Plots of Vapor Pressure versus Temperature for Several Liquids" <fig:ch10:s03:f03>` to estimate the boiling point of water at 500 torr, which is the approximate atmospheric pressure at the top of Mount Everest.
+Use {ref}`Figure 10.7 "Plots of Vapor Pressure versus Temperature for Several Liquids" <fig:ch10:s03:f03>` to estimate the boiling point of water at 500 torr.
 ```
 
 ```{solution} ex:ball-ch10-s03-n02

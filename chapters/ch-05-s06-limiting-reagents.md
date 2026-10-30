@@ -227,7 +227,7 @@ What is the limiting reagent? How much of the other reactant is in excess?
 Given the initial amounts listed, what is the limiting reagent, and how much of the other reactant is in excess?
 
 $$
-\,\underset{\text{35}.\text{6 g}}{{\text{P}}_{\text{4}}{\text{O}}_{\text{6}}\text{(s) }}+\underset{\text{4}.\text{77 g}}{{\text{6H}}_{\text{2}}\text{O(}\ell{}\text{)}}\rightarrow{}{\text{4H}}_{\text{3}}{\text{PO}}_{\text{4}}
+\,\underset{\text{35}.\text{6 g}}{{\text{P}}_{\text{4}}{\text{O}}_{\text{6}}\text{(s) }}+\underset{\text{4}.\text{77 g}}{{\text{6H}}_{\text{2}}\text{O(}\ell{}\text{)}}\rightarrow{}{\text{4H}}_{\text{3}}{\text{PO}}_{\text{3}}
 $$
 ```
 

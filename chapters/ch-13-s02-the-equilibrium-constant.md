@@ -153,12 +153,12 @@ $$
 Rearranging algebraically and then evaluating the numerical expression, we get
 
 $$
-{[{\text{H}}_{2}]}^{3}=\frac{{(6.22)}^{2}}{(1.88)(13.7)}=1.502112129
+{[{\text{H}}_{2}]}^{3}=\frac{{(6.62)}^{2}}{(1.88)(13.7)}=1.702
 $$
 
 To solve for [H<sub>2</sub>], we need to take the cube root of the equation. Performing this operation, we get
 
-$\text{[H}_{2}\text{] = 1.15 M}$
+$\text{[H}_{2}\text{] = 1.19 M}$
 
 You should verify that this is correct using your own calculator to confirm that you know how to do a cube root correctly.
 ```
@@ -443,7 +443,7 @@ The equilibrium [Br<sub>2</sub>] and [PBr<sub>5</sub>] are 2.05 M and 0.55 M, re
 The following reaction is at equilibrium:
 
 $$
-{\text{CO + Cl}}_{\text{2}}\rightleftarrows{}{\text{CoCl}}_{\text{2}}
+{\text{CO + Cl}}_{\text{2}}\rightleftarrows{}{\text{COCl}}_{\text{2}}
 $$
 
 The equilibrium [CO] and [Cl<sub>2</sub>] are 0.088 M and 0.103 M, respectively. If the *K*<sub>eq</sub> is 0.225, what is the equilibrium [COCl<sub>2</sub>]?

@@ -160,12 +160,12 @@ We must multiply the first reaction by 2 to get the correct overall balanced equ
 | AgBr(s) | −100.37 | CaCl<sub>2</sub>(s) | −795.80 | I<sub>2</sub>(s) | 0 | NaN<sub>3</sub>(s) | 21.71 |
 | AgCl(s) | −127.01 | CaCO<sub>3</sub>(s, arag) | −1,207.1 | K(s) | 0 | Na<sub>2</sub>CO<sub>3</sub>(s) | −1,130.77 |
 | Al(s) | 0 | CaCO<sub>3</sub>(s, calc) | −1,206.9 | KBr(s) | −393.8 | Na<sub>2</sub>O(s) | −417.98 |
-| Al<sub>2</sub>O<sub>3</sub>(s) | −1,675.7 | Cl<sub>2</sub>(g) | 0 | KCl(s) | −436.5 | Na<sub>2</sub>SO<sub>4</sub>(s) | −331.64 |
+| Al<sub>2</sub>O<sub>3</sub>(s) | −1,675.7 | Cl<sub>2</sub>(g) | 0 | KCl(s) | −436.5 | Na<sub>2</sub>SO<sub>4</sub>(s) | −1,387.1 |
 | Ar(g) | 0 | Cr(s) | 0 | KF(s) | −567.3 | Ne(g) | 0 |
 | Au(s) | 0 | Cr<sub>2</sub>O<sub>3</sub>(s) | −1,134.70 | KI(s) | −327.9 | Ni(s) | 0 |
 | BaSO<sub>4</sub>(s) | −1,473.19 | Cs(s) | 0 | Li(s) | 0 | O<sub>2</sub>(g) | 0 |
 | Br<sub>2</sub>(ℓ) | 0 | Cu(s) | 0 | LiBr(s) | −351.2 | O<sub>3</sub>(g) | 142.67 |
-| C(s, dia) | 1.897 | F<sub>2</sub>(g) | 0 | LiCl(s) | −408.27 | PH<sub>3</sub>(g) | 22.89 |
+| C(s, dia) | 1.897 | F<sub>2</sub>(g) | 0 | LiCl(s) | −408.27 | PH<sub>3</sub>(g) | 5.4 |
 | C(s, gra) | 0 | Fe(s) | 0 | LiF(s) | −616.0 | Pb(s) | 0 |
 | CCl<sub>4</sub>(ℓ) | −128.4 | Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) | −2,583.00 | LiI(s) | −270.4 | PbCl<sub>2</sub>(s) | −359.41 |
 | CH<sub>2</sub>O(g) | −115.90 | Fe<sub>2</sub>O<sub>3</sub>(s) | −825.5 | Mg(s) | 0 | PbO<sub>2</sub>(s) | −274.47 |
@@ -179,7 +179,7 @@ We must multiply the first reaction by 2 to get the correct overall balanced equ
 | C<sub>6</sub>H<sub>12</sub>(ℓ) | −157.7 | H<sub>2</sub>(g) | 0 | N<sub>2</sub>O<sub>5</sub>(g) | 11.30 | U(s) | 0 |
 | C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(s) | −1277 | H<sub>2</sub>O(g) | −241.8 | Na(s) | 0 | UF<sub>6</sub>(s) | −2,197.0 |
 | C<sub>6</sub>H<sub>14</sub>(ℓ) | −198.7 | H<sub>2</sub>O(ℓ) | −285.83 | NaBr(s) | −361.1 | UO<sub>2</sub>(s) | −1,085.0 |
-| C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>(ℓ) | 12.0 | H<sub>2</sub>O(s) | −292.72 | NaCl(s) | −385.9 | Xe(g) | 0 |
+| C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>(ℓ) | 12.0 | H<sub>2</sub>O(s) | −292.72 | NaCl(s) | −411.2 | Xe(g) | 0 |
 | C<sub>6</sub>H<sub>6</sub>(ℓ) | 48.95 | He(g) | 0 | NaF(s) | −576.6 | Zn(s) | 0 |
 | C<sub>10</sub>H<sub>8</sub>(s) | 77.0 | Hg(ℓ) | 0 | NaI(s) | −287.8 | ZnCl<sub>2</sub>(s) | −415.05 |
 | C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>(s) | −2,221.2 |   |   |   |   |   |   |

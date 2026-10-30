@@ -16,7 +16,7 @@ A solid is like a liquid in that particles are in contact with each other. Solid
 
 The solid phase has several characteristics. First, solids maintain their shape. They do not fill their entire containers like gases do, and they do not adopt the shape of their containers like liquids do. They cannot be easily compressed like gases can, and they have relatively high densities.
 
-Solids may also demonstrate a variety of properties. For example, many metals can be beaten into thin sheets or drawn into wires, while compounds such as NaCl will shatter if they are struck. Some metals, such as sodium and potassium, are rather soft, while others, such as diamond, are very hard and can easily scratch other substances. Appearances differ as well: most metals are shiny and silvery, but sulfur (a nonmetal) is yellow, and ionic compounds can take on a rainbow of colors. Solid metals conduct electricity and heat, while ionic solids do not. Many solids are opaque, but some are transparent. Some dissolve in water, but some do not. {ref}`Figure 10.13 "Properties of Solids" <fig:ch10:s04:f01>` shows two solids that exemplify the similar and dissimilar properties of solids.
+Solids may also demonstrate a variety of properties. For example, many metals can be beaten into thin sheets or drawn into wires, while compounds such as NaCl will shatter if they are struck. Some metals, such as sodium and potassium, are rather soft, while some solids, such as diamond, are very hard and can easily scratch other substances. Appearances differ as well: most metals are shiny and silvery, but sulfur (a nonmetal) is yellow, and ionic compounds can take on a rainbow of colors. Solid metals conduct electricity and heat, while ionic solids do not. Many solids are opaque, but some are transparent. Some dissolve in water, but some do not. {ref}`Figure 10.13 "Properties of Solids" <fig:ch10:s04:f01>` shows two solids that exemplify the similar and dissimilar properties of solids.
 
 ```{figure} ../images/figures/bcb1653087c7a917e9e7176e915d1461.jpg
 :label: fig:ch10:s04:f01
@@ -325,7 +325,7 @@ c. CsF
 :class: dropdown
 
 a. molecular solid
-b. molecular solid
+b. covalent network solid
 c. ionic crystal
 ```
 

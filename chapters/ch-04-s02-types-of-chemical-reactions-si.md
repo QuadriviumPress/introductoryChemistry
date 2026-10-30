@@ -203,7 +203,7 @@ To judge whether double-replacement reactions will occur, we need to know what k
 | All compounds of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Rb<sup>+</sup>, Cs<sup>+</sup>, and NH<sub>4</sub><sup>+</sup> | None |
 | All compounds of NO<sub>3</sub><sup>−</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>−</sup> | None |
 | Compounds of Cl<sup>−</sup>, Br<sup>−</sup>, I<sup>−</sup> | Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, Pb<sup>2+</sup> |
-| Compounds of SO<sub>4</sub><sup>2</sup> | Hg<sub>2</sub><sup>2+</sup>, Pb<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup> |
+| Compounds of SO<sub>4</sub><sup>2−</sup> | Hg<sub>2</sub><sup>2+</sup>, Pb<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup> |
 | **These compounds generally do not dissolve in water (are insoluble):** | **Exceptions:** |
 | Compounds of CO<sub>3</sub><sup>2−</sup> and PO<sub>4</sub><sup>3−</sup> | Compounds of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Rb<sup>+</sup>, Cs<sup>+</sup>, and NH<sub>4</sub><sup>+</sup> |
 | Compounds of OH<sup>−</sup> | Compounds of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Rb<sup>+</sup>, Cs<sup>+</sup>, NH<sub>4</sub><sup>+</sup>, Sr<sup>2+</sup>, and Ba<sup>2+</sup> |

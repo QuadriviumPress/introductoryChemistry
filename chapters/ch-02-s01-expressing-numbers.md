@@ -104,7 +104,7 @@ Express these numbers in scientific notation.
 2. 9.706 × 10<sup>−4</sup>
 ```
 
-Another way to determine the power of 10 in scientific notation is to count the number of places you need to move the decimal point to get a numerical value between 1 and 10. The number of places equals the power of 10. This number is positive if you move the decimal point to the right and negative if you move the decimal point to the left:
+Another way to determine the power of 10 in scientific notation is to count the number of places you need to move the decimal point to get a numerical value between 1 and 10. The number of places equals the power of 10. This number is positive if you move the decimal point to the left and negative if you move the decimal point to the right:
 
 $$
 \begin{aligned}

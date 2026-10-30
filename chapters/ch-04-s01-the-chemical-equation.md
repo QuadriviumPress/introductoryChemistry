@@ -272,7 +272,7 @@ How would you write the balanced chemical equation in Exercise 10 if all substan
 :label: sol:ball-ch04-s01-qs01-qd01-qa13
 :class: dropdown
 
-N<sub>2</sub>(g) + 3H<sub>2</sub>(g) → 2NH<sub>3</sub>(g)
+N<sub>2</sub>(g) + 2H<sub>2</sub>(g) → N<sub>2</sub>H<sub>4</sub>(g)
 ```
 
 ```{exercise}

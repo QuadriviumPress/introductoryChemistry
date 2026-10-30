@@ -20,7 +20,7 @@ $$
 In reality, this is extremely difficult to do; given the opportunity, carbon will react to make another compound, carbon dioxide:
 
 $$
-\text{2C(s) + O}_{2}\text{(g) }\rightarrow{}\text{ 2CO}_{2}\text{(g)     }\Delta{}H\text{ = }-\text{393.5 kJ}
+\text{C(s) + O}_{2}\text{(g) }\rightarrow{}\text{ CO}_{2}\text{(g)     }\Delta{}H\text{ = }-\text{393.5 kJ}
 $$
 
 Is there a way around this? Yes. It comes from the understanding that chemical equations can be treated like algebraic equations, with the arrow acting like the equals sign. Like algebraic equations, chemical equations can be combined, and if the same substance appears on both sides of the arrow, it can be canceled out (much like a spectator ion in ionic equations). For example, consider these two reactions:

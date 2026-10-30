@@ -467,7 +467,7 @@ A solution is made by mixing 12.0 g of C<sub>10</sub>H<sub>8</sub> in 45.0 g of 
 
 **Exercise 8.**
 
-A solution is made by mixing 43.9 g of C<sub>6</sub>H<sub>12</sub>C<sub>6</sub> in 100.0 g of H<sub>2</sub>O. If the vapor pressure of pure water is 26.5 torr at a particular temperature, what is the vapor pressure of the solution at the same temperature?
+A solution is made by mixing 43.9 g of C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> in 100.0 g of H<sub>2</sub>O. If the vapor pressure of pure water is 26.5 torr at a particular temperature, what is the vapor pressure of the solution at the same temperature?
 ```
 
 ```{exercise}

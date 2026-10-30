@@ -227,7 +227,7 @@ Use the formulas for converting degrees Fahrenheit into degrees Celsius to deter
 :label: sol:ball-ch02-s06-qs01-qd01-qa19
 :class: dropdown
 
-One Fahrenheit degree is nine-fifths the size of a Celsius degree.
+One Fahrenheit degree is five-ninths the size of a Celsius degree.
 ```
 
 ```{exercise}

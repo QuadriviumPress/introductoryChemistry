@@ -175,7 +175,7 @@ $$
 \text{4}^{1}\text{H }\rightarrow{}\text{ }^{4}\text{He + 2.58 }\times{}\text{ 10}^{12}\text{ J}
 $$
 
-Notice that the amount of energy given off per mole of reactant is only one-tenth of the amount given off by the fission of 1 mol of uranium-235. On a mass (per gram) basis, however, hydrogen fusion gives off 10 times more energy than fission does. In addition, the product of fission is helium gas, not a wide range of isotopes (some of which are also radioactive) produced by fission.
+Notice that the amount of energy given off per mole of this reaction is about one-sixth of the amount given off by the fission of 1 mol of uranium-235. On a mass (per gram) basis, however, hydrogen fusion gives off 10 times more energy than fission does. The product of fusion is helium gas. Fission produces a wide range of isotopes, some of which are also radioactive.
 
 Fusion occurs in nature: The sun and other stars use fusion as their ultimate energy source. Fusion is also the basis of very destructive weapons that have been developed by several countries around the world. However, one current goal is to develop a source of *controlled* fusion for use as an energy source. The practical problem is that to perform fusion, extremely high pressures and temperatures are necessary. Currently, the only known stable systems undergoing fusion are the interiors of stars. The conditions necessary for fusion can be created using an atomic bomb, but the resulting fusion is uncontrollable (and the basis for another type of bomb, a hydrogen bomb). Currently, researchers are looking for safe, controlled ways for producing useful energy using fusion.
 

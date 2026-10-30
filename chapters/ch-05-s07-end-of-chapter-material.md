@@ -20,7 +20,7 @@ How many molecules of O<sub>2</sub> will react with 6.022 × 10<sup>23</sup> mol
 :label: sol:ball-ch05-s07-qs01-qd01-qa01
 :class: dropdown
 
-1.2044 × 10<sup>24</sup> molecules
+3.011 × 10<sup>23</sup> molecules
 ```
 
 ```{exercise}

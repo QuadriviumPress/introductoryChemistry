@@ -274,7 +274,7 @@ b. H<sub>2</sub>SO<sub>4</sub>(aq) + Ba(OH)<sub>2</sub>(aq) → ?
 :label: sol:ball-ch04-s05-qs01-qd01-qa07
 :class: dropdown
 
-a. HI(aq) + KOH(aq) → KCl(aq) + H<sub>2</sub>O(ℓ)
+a. HI(aq) + KOH(aq) → KI(aq) + H<sub>2</sub>O(ℓ)
 b. H<sub>2</sub>SO<sub>4</sub>(aq) + Ba(OH)<sub>2</sub>(aq) → BaSO<sub>4</sub>(s) + 2H<sub>2</sub>O(ℓ)
 ```
 

@@ -43,7 +43,7 @@ What is the energy of a photon if its wavelength is 1.00 meter?
 :label: sol:ball-ch08-s06-qs01-qd01-qa03
 :class: dropdown
 
-1.99 × 10<sup>−22</sup> J
+1.99 × 10<sup>−25</sup> J
 ```
 
 ```{exercise}

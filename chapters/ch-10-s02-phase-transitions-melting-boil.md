@@ -90,7 +90,7 @@ Like the solid/liquid phase change, the liquid/gas phase change involves energy.
 | Substance (Normal Boiling Point) | Δ*H*<sub>vap</sub> (kJ/mol) |
 | --- | --- |
 | Water (100°C) | 40.68 |
-| Bromine (59.5°C) | 15.4 |
+| Bromine (59.5°C) | 30.0 |
 | Benzene (80.1°C) | 30.8 |
 | Ethanol (78.3°C) | 38.6 |
 | Mercury (357°C) | 59.23 |
@@ -108,13 +108,13 @@ What is the energy change when 66.7 g of Br<sub>2</sub>(g) condense to a liquid 
 :label: sol:ball-ch10-s02-n03
 :class: dropdown
 
-The Δ*H*<sub>vap</sub> of Br<sub>2</sub> is 15.4 kJ/mol. Even though this is a condensation process, we can still use the numerical value of Δ*H*<sub>vap</sub> as long as we realize that we must take energy out, so the Δ*H* value will be negative. To determine the magnitude of the energy change, we must first convert the amount of Br<sub>2</sub> to moles. Then we can use Δ*H*<sub>vap</sub> as a conversion factor.
+The Δ*H*<sub>vap</sub> of Br<sub>2</sub> is 30.0 kJ/mol. Even though this is a condensation process, we can still use the numerical value of Δ*H*<sub>vap</sub> as long as we realize that we must take energy out, so the Δ*H* value will be negative. To determine the magnitude of the energy change, we must first convert the amount of Br<sub>2</sub> to moles. Then we can use Δ*H*<sub>vap</sub> as a conversion factor.
 
 $$
-66.7{\text{ g Br}}_{2}\times{}\frac{1{\text{ mol Br}}_{2}}{159.8\text{ g}}\times{}\frac{15.4\text{ kJ}}{\text{ mol}}=6.43\text{ kJ}
+66.7{\text{ g Br}}_{2}\times{}\frac{1{\text{ mol Br}}_{2}}{159.8\text{ g}}\times{}\frac{30.0\text{ kJ}}{\text{ mol}}=12.5\text{ kJ}
 $$
 
-Because the process is exothermic, the actual value will be negative: Δ*H* = −6.43 kJ.
+Because the process is exothermic, the actual value will be negative: Δ*H* = −12.5 kJ.
 ```
 
 ```{exercise}
@@ -253,7 +253,7 @@ What is the energy change when 111 g of Br<sub>2</sub> boil at 59.5°C?
 :label: sol:ball-ch10-s02-qs01-qd01-qa07
 :class: dropdown
 
-10.7 kJ
+20.8 kJ
 ```
 
 ```{exercise}

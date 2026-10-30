@@ -28,7 +28,7 @@ $$
 \text{H}_{2}\text{O + H}_{2}\text{O }\rightarrow{}\text{ H}_{3}\text{O}^{+}\text{ + OH}^{-}
 $$
 
-This occurs only to a very small degree: only about 6 in 10<sup>8</sup> H<sub>2</sub>O molecules are participating in this process, which is called the **autoionization of water** (*Water molecules act as acids (proton donors) and bases (proton acceptors) with each other to a tiny extent in all aqueous solutions.*). At this level, the concentration of both H<sup>+</sup>(aq) and OH<sup>−</sup>(aq) in a sample of pure H<sub>2</sub>O is about 1.0 × 10<sup>−7</sup> M. If we use square brackets—[ ]—around a dissolved species to imply the molar concentration of that species, we have
+This occurs only to a very small degree: only about 2 in 10<sup>9</sup> H<sub>2</sub>O molecules are participating in this process, which is called the **autoionization of water** (*Water molecules act as acids (proton donors) and bases (proton acceptors) with each other to a tiny extent in all aqueous solutions.*). At this level, the concentration of both H<sup>+</sup>(aq) and OH<sup>−</sup>(aq) in a sample of pure H<sub>2</sub>O is about 1.0 × 10<sup>−7</sup> M. If we use square brackets—[ ]—around a dissolved species to imply the molar concentration of that species, we have
 
 $$
 \text{[H}^{+}\text{] = [OH}^{-}\text{] = 1.0 }\times{}\text{ 10}^{-7}\text{ M}

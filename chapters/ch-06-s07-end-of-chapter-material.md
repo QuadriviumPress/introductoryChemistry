@@ -173,7 +173,7 @@ Air, a mixture of mostly N<sub>2</sub> and O<sub>2</sub>, can be approximated as
 
 **Exercise 14.**
 
-Air, a mixture of mostly N<sub>2</sub> and O<sub>2</sub>, can be approximated as having a molar mass of 28.8 g/mol. What is the density of air at 0.26 atm and −26°C? (This is approximately the atmospheric condition at the summit of Mount Everest.)
+Air, a mixture of mostly N<sub>2</sub> and O<sub>2</sub>, can be approximated as having a molar mass of 28.8 g/mol. What is the density of air at 0.33 atm and −26°C? (This is approximately the atmospheric condition at the summit of Mount Everest.)
 ```
 
 ```{exercise}

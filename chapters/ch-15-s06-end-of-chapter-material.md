@@ -128,7 +128,7 @@ about 18 Bq
 
 **Exercise 10.**
 
-Smoke detectors typically contain about 0.25 mg of americium-241 as part of the smoke detection mechanism. If the activity of 1 g of americium-241 is 1.26 × 10<sup>11</sup> Bq, what is the activity of americium-241 in the smoke detector?
+Smoke detectors typically contain about 2.6 × 10<sup>−7</sup> g of americium-241 as part of the smoke detection mechanism. If the activity of 1 g of americium-241 is 1.26 × 10<sup>11</sup> Bq, what is the activity of americium-241 in the smoke detector?
 ```
 
 ```{exercise}

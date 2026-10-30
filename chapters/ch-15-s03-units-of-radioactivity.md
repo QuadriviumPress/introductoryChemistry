@@ -105,10 +105,10 @@ A sample of radon has an activity of 60,000 Bq. If the half-life of radon is 15 
 
 Other measures of radioactivity are based on the effects it has on living tissue. Radioactivity can transfer energy to tissues in two ways: through the kinetic energy of the particles hitting the tissue and through the electromagnetic energy of the gamma rays being absorbed by the tissue. Either way, the transferred energy—like the thermal energy from boiling water—can damage the tissue.
 
-The **rad** (*A unit of radioactive exposure equal to 0.01 J/g of tissue.*) (an acronym for radiation absorbed dose) is a unit equivalent to 1 g of tissue absorbing 0.01 J:
+The **rad** (*A unit of radioactive exposure equal to 0.01 J/kg of tissue.*) (an acronym for radiation absorbed dose) is a unit equivalent to 1 kg of tissue absorbing 0.01 J:
 
 $$
-\text{1 rad = 0.01 J/g}
+\text{1 rad = 0.01 J/kg}
 $$
 
 Another unit of radiation absorption is the gray (Gy):
@@ -117,7 +117,7 @@ $$
 \text{1 Gy = 100 rad}
 $$
 
-The rad is more common. To get an idea of the amount of energy this represents, consider that the absorption of 1 rad by 70,000 g of water (approximately the same mass as a 150 lb person) would increase the temperature of the water by only 0.002°C. This may not seem like a lot, but it is enough energy to break about 1 × 10<sup>21</sup> molecular C–C bonds in a person’s body. That amount of damage would not be desirable.
+The rad is more common. To get an idea of the amount of energy this represents, consider that the absorption of 1 rad by 70,000 g of water (approximately the same mass as a 150 lb person) would increase the temperature of the water by only about 2 × 10<sup>−6</sup>°C. This may not seem like a lot, but it is enough energy to break about 1 × 10<sup>18</sup> molecular C–C bonds in a person’s body. That amount of damage would not be desirable.
 
 Predicting the effects of radiation is complicated by the fact that different types of emissions affect various tissues differently. To quantify these effects, the unit **rem** (*A unit of radioactive exposure that includes a factor to account for the type of radioactivity.*) (an acronym for röntgen equivalent man) is defined as
 
@@ -196,7 +196,7 @@ Define *rad*.
 :label: sol:ball-ch15-s03-qs01-qd01-qa01
 :class: dropdown
 
-a unit of radioactive exposure equal to 0.01 J of energy per gram of tissue
+a unit of radioactive exposure equal to 0.01 J of energy per kilogram of tissue
 ```
 
 ```{exercise}
@@ -235,14 +235,14 @@ Define *curie*.
 
 **Exercise 5.**
 
-A sample of radon gas has an activity of 140.0 mCi. If the half-life of radon is 1,500 y, how long before the activity of the sample is 8.75 mCi?
+A sample of radon gas has an activity of 140.0 mCi. If the half-life of radon is 3.823 d, how long before the activity of the sample is 8.75 mCi?
 ```
 
 ```{solution} ex:ball-ch15-s03-qs01-qd01-qa05
 :label: sol:ball-ch15-s03-qs01-qd01-qa05
 :class: dropdown
 
-6.0 × 10<sup>3</sup> y
+15.29 d
 ```
 
 ```{exercise}

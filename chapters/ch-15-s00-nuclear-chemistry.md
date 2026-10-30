@@ -10,7 +10,7 @@ title: "Chapter 15 Nuclear Chemistry"
 
 Most of us have at least one device in our homes that guards our safety and, at the same time, depends on radioactivity to operate properly. This device is a smoke detector.
 
-A typical smoke detector contains an electric circuit that includes two metal plates about 1 cm apart. A battery in the circuit creates a voltage between the plates. Next to the plates is a small disk containing a tiny amount (∼0.0002 g) of the radioactive element americium. The radioactivity of americium ionizes the air between the plates, causing a tiny current to constantly flow between them. (This constant drain on the battery explains why the batteries in smoke detectors should be replaced regularly, whether the alarm has been triggered or not.)
+A typical smoke detector contains an electric circuit that includes two metal plates about 1 cm apart. A battery in the circuit creates a voltage between the plates. Next to the plates is a small disk containing a tiny amount (∼2.6 × 10<sup>−7</sup> g) of the radioactive element americium. The radioactivity of americium ionizes the air between the plates, causing a tiny current to constantly flow between them. (This constant drain on the battery explains why the batteries in smoke detectors should be replaced regularly, whether the alarm has been triggered or not.)
 
 When particles of smoke from a fire enter the smoke detector, they interfere with the ions between the metal plates, interrupting the flow of current. When the current drops beneath a set value, another circuit triggers a loud alarm, warning of the possible presence of fire.
 

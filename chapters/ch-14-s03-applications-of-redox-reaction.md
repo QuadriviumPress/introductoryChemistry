@@ -70,10 +70,10 @@ is assigned to be exactly 0.000 V under standard conditions of pressure and conc
 | Cr<sup>3+</sup> + 3e<sup>−</sup> → Cr | −0.74 |
 | Zn<sup>2+</sup> + 2e<sup>−</sup> → Zn | −0.76 |
 | Cr<sup>2+</sup> + 2e<sup>−</sup> → Cr | −0.91 |
-| Ba<sup>2+</sup> + 2e<sup>−</sup> → Ba | −1.57 |
 | Al<sup>3+</sup>+ 3e<sup>−</sup> → Al | −1.66 |
 | Mg<sup>2+</sup> + 2e<sup>−</sup> → Mg | −2.37 |
 | Na<sup>+</sup> + e<sup>−</sup> → Na | −2.714 |
+| Ba<sup>2+</sup> + 2e<sup>−</sup> → Ba | −2.91 |
 | Li<sup>+</sup> + e<sup>−</sup> → Li | −3.045 |
 ```
 
@@ -237,7 +237,7 @@ Credits: [Cutaway view of a 1953 automotive lead-acid battery — National Insti
 ```
 
 $$
-\text{Pb + PbO}_{2}\text{ + 4H}^{+}\text{ + SO}_{4}^{2-}\text{ }\rightarrow{}\text{ 2PbSO}_{4}\text{ + 2H}_{2}\text{O}
+\text{Pb + PbO}_{2}\text{ + 4H}^{+}\text{ + 2SO}_{4}^{2-}\text{ }\rightarrow{}\text{ 2PbSO}_{4}\text{ + 2H}_{2}\text{O}
 $$
 
 The redox reaction produces about 2 V, but it is typical to tie several individual batteries together to generate a larger voltage. The lead storage battery has the distinction that the product of both half reactions is PbSO<sub>4</sub>, which as a solid accumulates on the many plates within each cell ({ref}`Figure 14.4 "Lead Storage Batteries" <fig:ch14:s03:f04>`). The lead storage battery is a secondary battery, as it can be recharged and reused many times. Because it is based on lead, these batteries are rather heavy. They should also be recycled when replaced so that potentially dangerous lead does not escape into the environment. Because of their characteristics, lead storage batteries are used to start large engines in automobiles, boats, and airplanes.
