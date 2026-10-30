@@ -10,6 +10,7 @@ Usage:
 
 from __future__ import annotations
 
+import json
 import os
 import re
 import shutil
@@ -18,6 +19,8 @@ from pathlib import Path
 from urllib.parse import unquote, urlparse
 
 from bs4 import BeautifulSoup, NavigableString, Tag
+
+from restore_figures import MANIFEST, restore_figures
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = ROOT / "chapters"
@@ -1076,6 +1079,7 @@ def correct_electronegativity_figure(dest: Path) -> None:
 def apply_content_corrections(text: str) -> str:
     """Corrections to the Saylor HTML that the conversion would otherwise preserve."""
     replacements = {
+        r"e^{-0.693}^{t}^{\text{/(1,600 y)}}": r"e^{-0.693t/(1{,}600\text{ y})}",
         "the number of neurons": "the number of neutrons",
         "a given number half-lives": "a given number of half-lives",
         "The change is mass is determined": "The change in mass is determined",
@@ -1294,6 +1298,10 @@ def main() -> None:
         written += 1
         print(f"wrote {rel}")
     write_myst(toc)
+    restored = restore_figures()
+    restored_ids = {figure["source_id"] for figure in json.loads(MANIFEST.read_text(encoding="utf-8"))}
+    missing = sorted(set(missing) - restored_ids)
+    print(f"restored {restored} licensed replacement figures")
     print(f"pages {written}; labels {len(labels)}; images {len(ctx.copied)}; unresolved refs {len(missing)}")
     if missing:
         print("unresolved:", ", ".join(missing[:30]))

@@ -189,7 +189,19 @@ $$
 \%\text{ m/m}=\frac{\text{mass of solute}}{\text{mass of entire sample}}\times{}100\%
 $$
 
-It is not uncommon to see this unit used on commercial products (Figure 11.1 "Concentration in Commercial Applications").
+It is not uncommon to see this unit used on commercial products ({ref}`Figure 11.1 "Concentration in Commercial Applications" <fig:ch11:s02:f01>`).
+
+```{figure} ../images/restored/fig-11-1.jpg
+:label: fig:ch11:s02:f01
+:enumerator: 11.1
+:alt: A brown hydrogen peroxide bottle labeled solution 3%.
+:align: center
+:width: 70%
+
+**Concentration in Commercial Applications.** A commercial hydrogen peroxide bottle states a concentration of 3%. Concentration labels specify how much solute is present in a solution; the convention used for a percentage should always be checked.
+
+Credits: [Hydrogen Peroxide Bottle — ThatOneEli](https://commons.wikimedia.org/wiki/File:Hydrogen_Peroxide_Bottle.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
 
 ```{exercise}
 :label: ex:ball-ch11-s02-n05

@@ -22,7 +22,19 @@ The simplest alkanes have their C atoms bonded in a straight chain; these are ca
 
 *16.1 Hydrocarbons*
 
-To make four covalent bonds, the C atom bonds to four H atoms, making the molecular formula for methane CH<sub>4</sub>. The diagram for methane is misleading, however; the four covalent bonds that the C atom makes are oriented three dimensionally toward the corners of a tetrahedron. A better representation of the methane molecule is shown in Figure 16.1 "Three-Dimensional Representation of Methane".
+To make four covalent bonds, the C atom bonds to four H atoms, making the molecular formula for methane CH<sub>4</sub>. The diagram for methane is misleading, however; the four covalent bonds that the C atom makes are oriented three dimensionally toward the corners of a tetrahedron. A better representation of the methane molecule is shown in {ref}`Figure 16.1 "Three-Dimensional Representation of Methane" <fig:ch16:s01:f01>`.
+
+```{figure} ../images/restored/fig-16-1.png
+:label: fig:ch16:s01:f01
+:enumerator: 16.1
+:alt: A ball-and-stick model of methane with four hydrogen atoms arranged tetrahedrally around carbon.
+:align: center
+:width: 70%
+
+**Three-Dimensional Representation of Methane.** In methane, the carbon atom (dark sphere) bonds to four hydrogen atoms (light spheres). The bonds point toward the corners of a tetrahedron rather than lying in one plane.
+
+Credits: [Methane-3D-balls — Ben Mills (Benjah-bmm27)](https://commons.wikimedia.org/wiki/File:Methane-3D-balls.png), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 The next-largest alkane has two C atoms that are covalently bonded to each other. For each C atom to make four covalent bonds, each C atom must be bonded to three H atoms. The resulting molecule, whose formula is C<sub>2</sub>H<sub>6</sub>, is ethane:
 
@@ -172,7 +184,19 @@ $$
 {\text{CH}}_{\text{2}}{\text{=CH}}_{\text{2}}+{\text{H}}_{\text{2}}\xrightarrow{\text{metal catalyst}}{\text{ CH}}_{\text{3}}{\text{CH}}_{\text{3}}
 $$
 
-By far the most common reaction of hydrocarbons is combustion, which is the combination of a hydrocarbon with O<sub>2</sub> to make CO<sub>2</sub> and H<sub>2</sub>O. The combustion of hydrocarbons is accompanied by a release of energy and is a primary source of energy production in our society (Figure 16.2 "Combustion"). The combustion reaction for gasoline, for example, which can be represented by C<sub>8</sub>H<sub>18</sub>, is as follows:
+By far the most common reaction of hydrocarbons is combustion, which is the combination of a hydrocarbon with O<sub>2</sub> to make CO<sub>2</sub> and H<sub>2</sub>O. The combustion of hydrocarbons is accompanied by a release of energy and is a primary source of energy production in our society ({ref}`Figure 16.2 "Combustion" <fig:ch16:s01:f02>`). The combustion reaction for gasoline, for example, which can be represented by C<sub>8</sub>H<sub>18</sub>, is as follows:
+
+```{figure} ../images/restored/fig-16-2.jpg
+:label: fig:ch16:s01:f02
+:enumerator: 16.2
+:alt: Blue flames and a few yellow tips surrounding a gas-stove burner.
+:align: center
+:width: 70%
+
+**Combustion.** A gas stove burns hydrocarbon fuel in oxygen and releases heat. Complete combustion produces carbon dioxide and water.
+
+Credits: [Gas stove burner flame — Lisafern](https://commons.wikimedia.org/wiki/File:Gas_stove_burner_flame.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+```
 
 $$
 \text{2C}_{8}\text{H}_{18}\text{ + 25O}_{2}\text{ }\rightarrow{}\text{ 16CO}_{2}\text{ + 18H}_{2}\text{O + \textasciitilde{}5060 kJ}

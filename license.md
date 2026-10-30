@@ -14,3 +14,7 @@ How to cite this work:
 
 - Publisher: Saylor Academy
 - Year Published: 2012
+
+## Separately licensed replacement figures
+
+Replacement images added to fill omissions in the source edition retain their individual CC BY, CC BY-SA, CC0, or public-domain terms. Each caption links to the source and license. The textbook's CC BY-NC-SA license does not replace or restrict those image licenses. Full credits and the figure audit are in [Sources and attribution](https://github.com/QuadriviumPress/introductoryChemistry/blob/main/SOURCES.md).

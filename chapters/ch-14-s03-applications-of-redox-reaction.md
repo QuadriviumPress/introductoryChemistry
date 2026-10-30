@@ -196,7 +196,19 @@ $$
 
 Alkaline batteries have the advantage of being longer lasting and holding their voltage better—about 1.54 V—throughout their lifetime.
 
-A common type of battery, especially with the increased popularity of personal electronic devices, is the button battery (Figure 14.3 "Button Batteries"). A button battery is a small battery that can power small electronic devices; the batteries can be as small as 5 mm across. Two popular redox reactions used for button batteries are the alkaline dry-cell reaction and a silver oxide-based reaction:
+A common type of battery, especially with the increased popularity of personal electronic devices, is the button battery ({ref}`Figure 14.3 "Button Batteries" <fig:ch14:s03:f03>`). A button battery is a small battery that can power small electronic devices; the batteries can be as small as 5 mm across. Two popular redox reactions used for button batteries are the alkaline dry-cell reaction and a silver oxide-based reaction:
+
+```{figure} ../images/restored/fig-14-3.jpg
+:label: fig:ch14:s03:f03
+:enumerator: 14.3
+:alt: Several round button-cell batteries of different diameters.
+:align: center
+:width: 70%
+
+**Button Batteries.** Button cells supply electrical energy to small electronic devices. Their compact form comes in several sizes and chemistries.
+
+Credits: [Coin-cells — Gerhard H Wrodnigg](https://commons.wikimedia.org/wiki/File:Coin-cells.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Images resized for the web.
+```
 
 $$
 \text{Zn + Ag}_{2}\text{O }\rightarrow{}\text{ ZnO + 2Ag}
@@ -210,13 +222,25 @@ $$
 
 The actual redox reaction depends on the composition of the cathode and is variable depending on voltage. Lithium batteries can also be used for applications that require more energy, such as portable computers and electric vehicles. Some lithium-based batteries are rechargeable and can be used over and over again; such batteries are called **secondary batteries** (*A battery that can be recharged.*).
 
-An important secondary battery is the lead storage battery, shown in Figure 14.4 "Lead Storage Batteries". The lead storage battery is based on this redox reaction:
+An important secondary battery is the lead storage battery, shown in {ref}`Figure 14.4 "Lead Storage Batteries" <fig:ch14:s03:f04>`. The lead storage battery is based on this redox reaction:
+
+```{figure} ../images/restored/fig-14-4.jpg
+:label: fig:ch14:s03:f04
+:enumerator: 14.4
+:alt: A labeled cutaway of an automotive lead-acid battery showing plates, separators, and connections.
+:align: center
+:width: 70%
+
+**Lead Storage Batteries.** A cutaway view of an automotive lead-acid battery shows its positive and negative plates, separators, and connections. Multiple cells connected in series provide the voltage needed to start an engine.
+
+Credits: [Cutaway view of a 1953 automotive lead-acid battery — National Institute of Standards and Technology Digital Collections, Gaithersburg, MD 20899](https://commons.wikimedia.org/wiki/File:Cutaway_view_of_a_1953_automotive_lead-acid_battery.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 $$
 \text{Pb + PbO}_{2}\text{ + 4H}^{+}\text{ + SO}_{4}^{2-}\text{ }\rightarrow{}\text{ 2PbSO}_{4}\text{ + 2H}_{2}\text{O}
 $$
 
-The redox reaction produces about 2 V, but it is typical to tie several individual batteries together to generate a larger voltage. The lead storage battery has the distinction that the product of both half reactions is PbSO<sub>4</sub>, which as a solid accumulates on the many plates within each cell (Figure 14.4 "Lead Storage Batteries"). The lead storage battery is a secondary battery, as it can be recharged and reused many times. Because it is based on lead, these batteries are rather heavy. They should also be recycled when replaced so that potentially dangerous lead does not escape into the environment. Because of their characteristics, lead storage batteries are used to start large engines in automobiles, boats, and airplanes.
+The redox reaction produces about 2 V, but it is typical to tie several individual batteries together to generate a larger voltage. The lead storage battery has the distinction that the product of both half reactions is PbSO<sub>4</sub>, which as a solid accumulates on the many plates within each cell ({ref}`Figure 14.4 "Lead Storage Batteries" <fig:ch14:s03:f04>`). The lead storage battery is a secondary battery, as it can be recharged and reused many times. Because it is based on lead, these batteries are rather heavy. They should also be recycled when replaced so that potentially dangerous lead does not escape into the environment. Because of their characteristics, lead storage batteries are used to start large engines in automobiles, boats, and airplanes.
 
 ```{tip} Chemistry Is Everywhere: Fuel Cells
 

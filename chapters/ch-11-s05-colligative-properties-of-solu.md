@@ -270,7 +270,19 @@ What is the freezing point of a 3.05 *m* solution of CBr<sub>4</sub> in C<sub>10
 59.5°C
 ```
 
-Freezing point depression is one colligative property we use in everyday life. Many antifreezes used in automobile radiators use solutions that have a lower freezing point than normal so that automobile engines can operate at subfreezing temperatures. We also take advantage of freezing point depression when we sprinkle various compounds on ice to thaw it in the winter for safety (Figure 11.2 "Salt and Safety"). The compounds make solutions that have a lower freezing point, so rather than forming slippery ice, any ice is liquefied and runs off, leaving a safer pavement behind.
+Freezing point depression is one colligative property we use in everyday life. Many antifreezes used in automobile radiators use solutions that have a lower freezing point than normal so that automobile engines can operate at subfreezing temperatures. We also take advantage of freezing point depression when we sprinkle various compounds on ice to thaw it in the winter for safety ({ref}`Figure 11.2 "Salt and Safety" <fig:ch11:s05:f01>`). The compounds make solutions that have a lower freezing point, so rather than forming slippery ice, any ice is liquefied and runs off, leaving a safer pavement behind.
+
+```{figure} ../images/restored/fig-11-2.jpg
+:label: fig:ch11:s05:f01
+:enumerator: 11.2
+:alt: Road-salt trucks inside a storage building containing piles of salt.
+:align: center
+:width: 70%
+
+**Salt and Safety.** Trucks stand in a road-salt storage facility. Salt spread on icy roads dissolves in water and lowers the freezing point of the resulting solution.
+
+Credits: [RoadSaltTrucks — James LeWorm](https://commons.wikimedia.org/wiki/File:RoadSaltTrucks.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
 
 Before we introduce the final colligative property, we need to present a new concept. A **semipermeable membrane** (*A thin membrane that will pass certain small molecules but not others.*) is a thin membrane that will pass certain small molecules but not others. A thin sheet of cellophane, for example, acts as a semipermeable membrane.
 

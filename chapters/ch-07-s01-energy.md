@@ -39,14 +39,26 @@ $$
 \text{1 cal = 4.184 J}
 $$
 
-One area where the calorie is used is in nutrition. Energy contents of foods are often expressed in calories. However, the calorie unit used for foods is actually the kilocalorie (kcal). Most foods indicate this by spelling the word with a capital C—Calorie. Figure 7.1 "Calories on Food Labels" shows one example. So be careful counting calories when you eat!
+One area where the calorie is used is in nutrition. Energy contents of foods are often expressed in calories. However, the calorie unit used for foods is actually the kilocalorie (kcal). Most foods indicate this by spelling the word with a capital C—Calorie. {ref}`Figure 7.1 "Calories on Food Labels" <fig:ch07:s01:f01>` shows one example. So be careful counting calories when you eat!
+
+```{figure} ../images/restored/fig-7-1.png
+:label: fig:ch07:s01:f01
+:enumerator: 7.1
+:alt: An FDA Nutrition Facts label showing 230 Calories per serving.
+:align: center
+:width: 70%
+
+**Calories on Food Labels.** An FDA example nutrition label lists 230 Calories per serving. In food labeling, a Calorie is a kilocalorie: 1 Cal = 1 kcal = 4,184 J.
+
+Credits: [FDA Nutrition Facts Label 2016 — U.S. Food and Drug Administration](https://commons.wikimedia.org/wiki/File:FDA_Nutrition_Facts_Label_2016.png), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 ```{exercise}
 :label: ex:ball-ch07-s01-n02
 
 **Example 1**
 
-The label in Figure 7.1 "Calories on Food Labels" states that the serving has 38 Cal. How many joules is this?
+Suppose a food label like the one in {ref}`Figure 7.1 "Calories on Food Labels" <fig:ch07:s01:f01>` states that a serving has 38 Cal. How many joules is this?
 ```
 
 ```{solution} ex:ball-ch07-s01-n02

@@ -110,7 +110,19 @@ Name each species.
 
 Chemical formulas for ionic compounds are called **ionic formulas** (*The chemical formula for an ionic compound.*). A proper ionic formula has a cation and an anion in it; an ionic compound is never formed between two cations only or two anions only. The key to writing proper ionic formulas is simple: the total positive charge must balance the total negative charge. Because the charges on the ions are characteristic, sometimes we have to have more than one of a cation or an anion to balance the overall positive and negative charges. It is conventional to use the lowest ratio of ions that are needed to balance the charges.
 
-For example, consider the ionic compound between Na<sup>+</sup> and Cl<sup>−</sup>. Each ion has a single charge, one positive and one negative, so we need only one ion of each to balance the overall charge. When writing the ionic formula, we follow two additional conventions: (1) write the formula for the cation first and the formula for the anion next, but (2) do not write the charges on the ions. Thus, for the compound between Na<sup>+</sup> and Cl<sup>−</sup>, we have the ionic formula NaCl (Figure 3.5 "NaCl = Table Salt"). The formula Na<sub>2</sub>Cl<sub>2</sub> also has balanced charges, but the convention is to use the lowest ratio of ions, which would be one of each. (Remember from our conventions for writing formulas that we don’t write a 1 subscript if there is only one atom of a particular element present.) For the ionic compound between magnesium cations (Mg<sup>2+</sup>) and oxide anions (O<sup>2−</sup>), again we need only one of each ion to balance the charges. By convention, the formula is MgO.
+For example, consider the ionic compound between Na<sup>+</sup> and Cl<sup>−</sup>. Each ion has a single charge, one positive and one negative, so we need only one ion of each to balance the overall charge. When writing the ionic formula, we follow two additional conventions: (1) write the formula for the cation first and the formula for the anion next, but (2) do not write the charges on the ions. Thus, for the compound between Na<sup>+</sup> and Cl<sup>−</sup>, we have the ionic formula NaCl ({ref}`Figure 3.5 "NaCl = Table Salt" <fig:ch03:s04:f01>`). The formula Na<sub>2</sub>Cl<sub>2</sub> also has balanced charges, but the convention is to use the lowest ratio of ions, which would be one of each. (Remember from our conventions for writing formulas that we don’t write a 1 subscript if there is only one atom of a particular element present.) For the ionic compound between magnesium cations (Mg<sup>2+</sup>) and oxide anions (O<sup>2−</sup>), again we need only one of each ion to balance the charges. By convention, the formula is MgO.
+
+```{figure} ../images/restored/fig-3-5.jpg
+:label: fig:ch03:s04:f01
+:enumerator: 3.5
+:alt: A magnified sodium chloride crystal with angular surface features.
+:align: center
+:width: 70%
+
+**NaCl = Table Salt.** A close-up of a table-salt crystal. Sodium chloride is an ionic compound with equal numbers of sodium ions and chloride ions, represented by the formula NaCl.
+
+Credits: [Table Salt (NaCl) Crystal — JJ Harrison ( https://www.jjharrison.com.au/ )](https://commons.wikimedia.org/wiki/File:Table_Salt_(NaCl)_Crystal.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Images resized for the web.
+```
 
 For the ionic compound between Mg<sup>2+</sup> ions and Cl<sup>−</sup> ions, we now consider the fact that the charges have different magnitudes, 2+ on the magnesium ion and 1− on the chloride ion. To balance the charges with the lowest number of ions possible, we need to have two chloride ions to balance the charge on the one magnesium ion. Rather than write the formula MgClCl, we combine the two chloride ions and write it with a 2 subscript: MgCl<sub>2</sub>.
 

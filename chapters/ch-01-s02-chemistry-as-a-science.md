@@ -23,7 +23,19 @@ Why do we have to do experiments? Why do we have to test? Because the natural un
 
 When enough evidence has been collected to establish a general principle of how the natural universe works, the evidence is summarized in a theory. A **theory** (*A general statement that explains a large number of observations.*) is a general statement that explains a large number of observations. “All matter is composed of atoms” is a general statement, a theory, that explains many observations in chemistry. A theory is a very powerful statement in science. There are many statements referred to as “the theory of \_\_\_\_\_\_\_” or the “\_\_\_\_\_\_ theory” in science (where the blanks represent a word or concept). When written in this way, theories indicate that science has an overwhelming amount of evidence of its correctness. We will see several theories in the course of this text.
 
-A specific statement that is thought to be never violated by the entire natural universe is called a **law** (*A specific statement that is thought to be never violated by the entire natural universe.*). A scientific law is the highest understanding of the natural universe that science has and is thought to be inviolate. For example, the fact that all matter attracts all other matter—the law of gravitation—is one such law. Note that the terms *theory* and *law* used in science have slightly different meanings from those in common usage; theory is often used to mean hypothesis (“I have a theory…”), whereas a law is an arbitrary limitation that can be broken but with potential consequences (such as speed limits). Here again, science uses these terms differently, and it is important to apply their proper definitions when you use these words in science. (See Figure 1.8 "Defining a Law".)
+A specific statement that is thought to be never violated by the entire natural universe is called a **law** (*A specific statement that is thought to be never violated by the entire natural universe.*). A scientific law is the highest understanding of the natural universe that science has and is thought to be inviolate. For example, the fact that all matter attracts all other matter—the law of gravitation—is one such law. Note that the terms *theory* and *law* used in science have slightly different meanings from those in common usage; theory is often used to mean hypothesis (“I have a theory…”), whereas a law is an arbitrary limitation that can be broken but with potential consequences (such as speed limits). Here again, science uses these terms differently, and it is important to apply their proper definitions when you use these words in science. (See {ref}`Figure 1.8 "Defining a Law" <fig:ch01:s02:f01>`.)
+
+```{figure} ../images/restored/fig-1-8.jpg
+:label: fig:ch01:s02:f01
+:enumerator: 1.8
+:alt: A roadside sign specifying a speed limit of 20 miles per hour.
+:align: center
+:width: 70%
+
+**Defining a Law.** A speed limit is a rule made by people and can be broken. A scientific law instead describes a regularity observed in nature.
+
+Credits: [Speed Limit 20 sign on Commercial Drive, Southbridge, Massachusetts — Peter Cooper Jr.](https://commons.wikimedia.org/wiki/File:Speed_Limit_20_sign_on_Commercial_Drive,_Southbridge,_Massachusetts.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+```
 
 There is an additional phrase in our definition of science: “the natural universe.” Science is concerned *only* with the natural universe. What is the natural universe? It’s anything that occurs around us, well, naturally. Stars; planets; the appearance of life on earth; and how animals, plants, and other matter function are all part of the natural universe. Science is concerned with that—and *only* that.
 

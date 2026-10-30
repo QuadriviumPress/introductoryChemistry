@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import process from 'node:process';
 import YAML from 'yaml';
+import { createHash } from 'node:crypto';
 
 const root = process.cwd();
 const required = ['myst.yml', 'index.md', '.github/workflows/ci.yml', '.github/workflows/deploy.yml', 'pwa/service-worker.js'];
@@ -54,6 +55,28 @@ for (const [file, label] of refs) {
 }
 for (const [file, label] of solutionTargets) {
   if (!labels.has(label)) errors.push(`Solution without exercise ${label} in ${file}`);
+}
+
+// Source omissions had plain-text citations, so the local-image checks alone
+// could not detect them. Keep every restored figure and its license auditable.
+const restored = JSON.parse(fs.readFileSync(path.join(root, 'images/restored/manifest.json'), 'utf8'));
+const openLicenses = /^(CC BY(?:-SA)? [234]\.0|CC BY-SA 2\.5|CC0|Public domain)$/;
+for (const figure of restored) {
+  const page = fs.readFileSync(path.join(root, figure.page), 'utf8');
+  if (!page.includes(`:label: ${figure.label}\n`)) errors.push(`Missing restored Figure ${figure.number} in ${figure.page}`);
+  for (const asset of figure.assets) {
+    const filename = path.join(root, 'images/restored', asset.file);
+    if (!fs.existsSync(filename)) {
+      errors.push(`Missing restored asset: ${asset.file}`);
+      continue;
+    }
+    if (!openLicenses.test(asset.license) || !asset.credit || !asset.source || !asset.license_url || !asset.alt) {
+      errors.push(`Incomplete open-license attribution or alt text: ${asset.file}`);
+    }
+    const digest = createHash('sha256').update(fs.readFileSync(filename)).digest('hex');
+    if (digest !== asset.sha256) errors.push(`Restored asset differs from its provenance record: ${asset.file}`);
+    if (!page.includes(`../images/restored/${asset.file}`)) errors.push(`Restored asset is not displayed: ${asset.file}`);
+  }
 }
 if (errors.length) throw new Error(errors.join('\n'));
 

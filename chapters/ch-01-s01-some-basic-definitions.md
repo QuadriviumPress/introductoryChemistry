@@ -55,13 +55,53 @@ Which of the following is matter and not matter?
 2. The invention itself may be matter, but the idea for it is not.
 ```
 
-To understand matter and how it changes, we need to be able to describe matter. There are two basic ways to describe matter: physical properties and chemical properties. **Physical properties** (*A characteristic that describes matter as it exists.*) are characteristics that describe matter as it exists. Some of many physical characteristics of matter are shape, color, size, and temperature. An important physical property is the **phase** (or **state**) of matter. The three fundamental phases of matter are solid, liquid, and gas (see Figure 1.1 "The Phases of Matter").
+To understand matter and how it changes, we need to be able to describe matter. There are two basic ways to describe matter: physical properties and chemical properties. **Physical properties** (*A characteristic that describes matter as it exists.*) are characteristics that describe matter as it exists. Some of many physical characteristics of matter are shape, color, size, and temperature. An important physical property is the **phase** (or **state**) of matter. The three fundamental phases of matter are solid, liquid, and gas (see {ref}`Figure 1.1 "The Phases of Matter" <fig:ch01:s01:f01>`).
 
-**Chemical properties** (*A characteristic that describes how matter changes form in the presence of other matter.*) are characteristics of matter that describe how matter changes form in the presence of other matter. Does a sample of matter burn? Burning is a chemical property. Does it behave violently when put in water? This reaction is a chemical property as well (Figure 1.2 "Chemical Properties"). In the following chapters, we will see how descriptions of physical and chemical properties are important aspects of chemistry.
+```{figure} ../images/restored/fig-1-1a.jpg
+:label: fig:ch01:s01:f01
+:enumerator: 1.1
+:alt: Ice cubes floating in liquid water in drinking glasses.
+:align: center
+:width: 70%
 
-If matter always stayed the same, chemistry would be rather boring. Fortunately, a major part of chemistry involves change. A **physical change** (*A change that occurs when a sample of matter changes one or more of its physical properties.*) occurs when a sample of matter changes one or more of its physical properties. For example, a solid may melt (Figure 1.3 "Physical Changes"), or alcohol in a thermometer may change volume as the temperature changes. A physical change does not affect the chemical composition of matter.
+**The Phases of Matter.** Ice and liquid water in glasses, a glass of water, and a steaming kettle illustrate the solid, liquid, and gas phases of water. Water vapor itself is invisible; the visible mist near a kettle consists of tiny liquid droplets.
 
-A **chemical change** (*The process of demonstrating a chemical property.*) is the process of demonstrating a chemical property, such as the burning match in Figure 1.2 "Chemical Properties". As the matter in the match burns, its chemical composition changes, and new forms of matter with new physical properties are created. Note that chemical changes are frequently accompanied by physical changes, as the new matter will likely have different physical properties from the original matter.
+![A glass containing liquid water.](../images/restored/fig-1-1b.jpg)
+
+![A kettle emitting a visible cloud of condensed water droplets.](../images/restored/fig-1-1c.jpg)
+
+Credits: [Ice cubes on water — Cleiton Andrade Andrade from Alfenas, Brasil](https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en); [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [Steaming Kettle - Boston, MA — Daderot](https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+```
+
+**Chemical properties** (*A characteristic that describes how matter changes form in the presence of other matter.*) are characteristics of matter that describe how matter changes form in the presence of other matter. Does a sample of matter burn? Burning is a chemical property. Does it behave violently when put in water? This reaction is a chemical property as well ({ref}`Figure 1.2 "Chemical Properties" <fig:ch01:s01:f02>`). In the following chapters, we will see how descriptions of physical and chemical properties are important aspects of chemistry.
+
+```{figure} ../images/restored/fig-1-2.jpg
+:label: fig:ch01:s01:f02
+:enumerator: 1.2
+:alt: A wooden match burning with a bright flame.
+:align: center
+:width: 70%
+
+**Chemical Properties.** A burning match demonstrates a chemical property: the match material reacts with oxygen to form new substances.
+
+Credits: [Burning matchstick 2010 — Maja Dumat from Deutschland (Germany)](https://commons.wikimedia.org/wiki/File:Burning_matchstick_2010.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Images resized for the web.
+```
+
+If matter always stayed the same, chemistry would be rather boring. Fortunately, a major part of chemistry involves change. A **physical change** (*A change that occurs when a sample of matter changes one or more of its physical properties.*) occurs when a sample of matter changes one or more of its physical properties. For example, a solid may melt ({ref}`Figure 1.3 "Physical Changes" <fig:ch01:s01:f03>`), or alcohol in a thermometer may change volume as the temperature changes. A physical change does not affect the chemical composition of matter.
+
+```{figure} ../images/restored/fig-1-3.jpg
+:label: fig:ch01:s01:f03
+:enumerator: 1.3
+:alt: A small melting ice cube on a stone, with water running onto the pavement.
+:align: center
+:width: 70%
+
+**Physical Changes.** An ice cube melts on a sunlit stone. Melting changes water from a solid to a liquid without changing its chemical composition.
+
+Credits: [Eiswürfel auf Stein — ThoBel-0043](https://commons.wikimedia.org/wiki/File:Eisw%C3%BCrfel_auf_Stein.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Images resized for the web.
+```
+
+A **chemical change** (*The process of demonstrating a chemical property.*) is the process of demonstrating a chemical property, such as the burning match in {ref}`Figure 1.2 "Chemical Properties" <fig:ch01:s01:f02>`. As the matter in the match burns, its chemical composition changes, and new forms of matter with new physical properties are created. Note that chemical changes are frequently accompanied by physical changes, as the new matter will likely have different physical properties from the original matter.
 
 ```{exercise}
 :label: ex:ball-ch01-s01-n03
@@ -109,7 +149,21 @@ Chemistry recognizes two different types of substances: elements and compounds. 
 
 A **compound** (*A combination of more than one element.*) is a combination of more than one element. The physical and chemical properties of a compound are different from the physical and chemical properties of its constituent elements; that is, it behaves as a completely different substance. There are over 50 million compounds known, and more are being discovered daily. Examples of compounds include water, penicillin, and sodium chloride (the chemical name for common table salt).
 
-Elements and compounds are not the only ways in which matter can be present. We frequently encounter objects that are physical combinations of more than one element or compound. Physical combinations of more than one substance are called **mixtures** (*A physical combination of more than one substance.*). There are two types of mixtures. A **heterogeneous mixture** (*A mixture composed of two or more substances.*) is a mixture composed of two or more substances. It is easy to tell, sometimes by the naked eye, that more than one substance is present. A **homogeneous mixture** (*A combination of two or more substances that is so intimately mixed that the mixture behaves as a single substance.*) is a combination of two or more substances that is so intimately mixed that the mixture behaves as a single substance. Another word for a homogeneous mixture is **solution** (*Another name for a homogeneous mixture.*). Thus, a combination of salt and steel wool is a heterogeneous mixture because it is easy to see which particles of the matter are salt crystals and which are steel wool. On the other hand, if you take salt crystals and dissolve them in water, it is very difficult to tell that you have more than one substance present just by looking—even if you use a powerful microscope. The salt dissolved in water is a homogeneous mixture, or a solution (Figure 1.4 "Types of Mixtures").
+Elements and compounds are not the only ways in which matter can be present. We frequently encounter objects that are physical combinations of more than one element or compound. Physical combinations of more than one substance are called **mixtures** (*A physical combination of more than one substance.*). There are two types of mixtures. A **heterogeneous mixture** (*A mixture composed of two or more substances.*) is a mixture composed of two or more substances. It is easy to tell, sometimes by the naked eye, that more than one substance is present. A **homogeneous mixture** (*A combination of two or more substances that is so intimately mixed that the mixture behaves as a single substance.*) is a combination of two or more substances that is so intimately mixed that the mixture behaves as a single substance. Another word for a homogeneous mixture is **solution** (*Another name for a homogeneous mixture.*). Thus, a combination of salt and steel wool is a heterogeneous mixture because it is easy to see which particles of the matter are salt crystals and which are steel wool. On the other hand, if you take salt crystals and dissolve them in water, it is very difficult to tell that you have more than one substance present just by looking—even if you use a powerful microscope. The salt dissolved in water is a homogeneous mixture, or a solution ({ref}`Figure 1.4 "Types of Mixtures" <fig:ch01:s01:f04>`).
+
+```{figure} ../images/restored/fig-1-4a.jpg
+:label: fig:ch01:s01:f04
+:enumerator: 1.4
+:alt: A mixture of nuts and dried fruit with visibly different components.
+:align: center
+:width: 70%
+
+**Types of Mixtures.** The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In contrast, salt dissolved in water forms a uniform solution. Such a solution looks like the glass of water shown below; the dissolved salt would not be visible.
+
+![A glass of water illustrating the uniform appearance of a solution.](../images/restored/fig-1-1b.jpg)
+
+Credits: [Studentenfutter 01 — Thogru](https://commons.wikimedia.org/wiki/File:Studentenfutter_01.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [Glass of water — deavmi](https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
 
 ```{exercise}
 :label: ex:ball-ch01-s01-n04
@@ -149,7 +203,19 @@ Are the following combinations homogeneous mixtures or heterogeneous mixtures?
 2. homogeneous mixture
 ```
 
-There are other descriptors that we can use to describe matter, especially elements. We can usually divide elements into metals and nonmetals, and each set shares certain (but not always all) properties. A **metal** (*An element that conducts electricity and heat well and is shiny, silvery, solid, ductile, and malleable.*) is an element that is solid at room temperature (although mercury is a well-known exception), is shiny and silvery, conducts electricity and heat well, can be pounded into thin sheets (a property called *malleability*), and can be drawn into thin wires (a property called *ductility*). A **nonmetal** (*An element that exists in various colors and phases, is brittle, and does not conduct electricity or heat well.*) is an element that is brittle when solid, does not conduct electricity or heat very well, and cannot be made into thin sheets or wires (Figure 1.5 "Semimetals"). Nonmetals also exist in a variety of phases and colors at room temperature. Some elements have properties of both metals and nonmetals and are called **semimetals (or metalloids)** (*An element that has properties of both metals and nonmetals.*). We will see later how these descriptions can be assigned rather easily to various elements.
+There are other descriptors that we can use to describe matter, especially elements. We can usually divide elements into metals and nonmetals, and each set shares certain (but not always all) properties. A **metal** (*An element that conducts electricity and heat well and is shiny, silvery, solid, ductile, and malleable.*) is an element that is solid at room temperature (although mercury is a well-known exception), is shiny and silvery, conducts electricity and heat well, can be pounded into thin sheets (a property called *malleability*), and can be drawn into thin wires (a property called *ductility*). A **nonmetal** (*An element that exists in various colors and phases, is brittle, and does not conduct electricity or heat well.*) is an element that is brittle when solid, does not conduct electricity or heat very well, and cannot be made into thin sheets or wires ({ref}`Figure 1.5 "Semimetals" <fig:ch01:s01:f05>`). Nonmetals also exist in a variety of phases and colors at room temperature. Some elements have properties of both metals and nonmetals and are called **semimetals (or metalloids)** (*An element that has properties of both metals and nonmetals.*). We will see later how these descriptions can be assigned rather easily to various elements.
+
+```{figure} ../images/restored/fig-1-5.jpg
+:label: fig:ch01:s01:f05
+:enumerator: 1.5
+:alt: A shiny, irregular piece of crystalline silicon.
+:align: center
+:width: 70%
+
+**Semimetals.** Silicon is a metalloid: it has a metallic luster but is brittle, and its electrical conductivity is intermediate between that of typical metals and nonmetals.
+
+Credits: [SiliconCroda — Enricoros at English Wikipedia](https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 {ref}`Figure 1.6 "Describing Matter" <fig:ch01:s01:f06>` is a flowchart of the relationships among the different ways of describing matter.
 

@@ -48,7 +48,19 @@ $$
 \text{0.000411 = 4.11 }\times{}\text{ 1/10,000 = 4.11 }\times{}\text{ 10}^{-4}
 $$
 
-Typically, the extra zero digits at the end or the beginning of a number are not included. (See Figure 2.1 "Using Scientific Notation".)
+Typically, the extra zero digits at the end or the beginning of a number are not included. (See {ref}`Figure 2.1 "Using Scientific Notation" <fig:ch02:s01:f01>`.)
+
+```{figure} ../images/restored/fig-2-1.jpg
+:label: fig:ch02:s01:f01
+:enumerator: 2.1
+:alt: A calculator display showing 9.7965837 multiplied by ten to the negative fifth power.
+:align: center
+:width: 70%
+
+**Using Scientific Notation.** A calculator displays a number as a coefficient multiplied by a power of ten. This notation avoids writing a long string of zeros.
+
+Credits: [Scientific notation in calculator display 16 — Thirunavukkarasye-Raveendran](https://commons.wikimedia.org/wiki/File:Scientific_notation_in_calculator_display_16.JPG), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Images resized for the web.
+```
 
 ```{exercise}
 :label: ex:ball-ch02-s01-n02
@@ -100,7 +112,19 @@ $$
 \end{aligned}\,
 $$
 
-Many quantities in chemistry are expressed in scientific notation. When performing calculations, you may have to enter a number in scientific notation into a calculator. Be sure you know how to correctly enter a number in scientific notation into your calculator. Different models of calculators require different actions for properly entering scientific notation. If in doubt, consult your instructor immediately. (See Figure 2.2 "Scientific Notation on a Calculator".)
+Many quantities in chemistry are expressed in scientific notation. When performing calculations, you may have to enter a number in scientific notation into a calculator. Be sure you know how to correctly enter a number in scientific notation into your calculator. Different models of calculators require different actions for properly entering scientific notation. If in doubt, consult your instructor immediately. (See {ref}`Figure 2.2 "Scientific Notation on a Calculator" <fig:ch02:s01:f02>`.)
+
+```{figure} ../images/restored/fig-2-2.jpg
+:label: fig:ch02:s01:f02
+:enumerator: 2.2
+:alt: A Casio fx-991EX scientific calculator with a multiplication-by-ten-to-a-power key.
+:align: center
+:width: 70%
+
+**Scientific Notation on a Calculator.** Scientific calculators provide keys for entering powers of ten. The key sequence varies by model; consult the instructions for the calculator you use.
+
+Credits: [Casio fx-991EX Scientific Calculator — David Wheatley](https://commons.wikimedia.org/wiki/File:Casio_fx-991EX_Scientific_Calculator.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Images resized for the web.
+```
 
 ```{important} Key Takeaways
 

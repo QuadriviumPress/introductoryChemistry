@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
 
-This textbook is licensed under CC BY-NC-SA 3.0.
+This textbook is licensed under CC BY-NC-SA 3.0, except for the separately licensed replacement images in `images/restored/`. Those images retain their individual CC BY, CC BY-SA, CC0, or public-domain terms, documented in their captions, `SOURCES.md`, and `images/restored/manifest.json`. The textbook license does not restrict reuse of those images under their own terms.
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format

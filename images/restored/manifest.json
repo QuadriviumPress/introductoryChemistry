@@ -1,0 +1,572 @@
+[
+  {
+    "number": "1.1",
+    "title": "The Phases of Matter",
+    "label": "fig:ch01:s01:f01",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "Ice and liquid water in glasses, a glass of water, and a steaming kettle illustrate the solid, liquid, and gas phases of water. Water vapor itself is invisible; the visible mist near a kettle consists of tiny liquid droplets.",
+    "assets": [
+      {
+        "file": "fig-1-1a.jpg",
+        "commons_title": "File:Ice cubes on water.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ice_cubes_on_water.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ice_cubes_on_water.jpg",
+        "credit": "Cleiton Andrade Andrade from Alfenas, Brasil",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "alt": "Ice cubes floating in liquid water in drinking glasses.",
+        "title": "Ice cubes on water",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "c985118008c629815d1c1e40e51d6b30ff9d195ddb0b84876bd6bb711447fd20"
+      },
+      {
+        "file": "fig-1-1b.jpg",
+        "commons_title": "File:Glass of water.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Glass_of_water.jpg",
+        "credit": "deavmi",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A glass containing liquid water.",
+        "title": "Glass of water",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "e697b05dd5d3f9f929258e2855f1776035b476f5f438c82f4951b87feadab458"
+      },
+      {
+        "file": "fig-1-1c.jpg",
+        "commons_title": "File:Steaming Kettle - Boston, MA.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Steaming_Kettle_-_Boston,_MA.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Steaming_Kettle_-_Boston%2C_MA.jpg",
+        "credit": "Daderot",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "alt": "A kettle emitting a visible cloud of condensed water droplets.",
+        "title": "Steaming Kettle - Boston, MA",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "b3bcbf4d88992518a0378fff92b55c6b74593e50434aef439d3e7803cc8f3a85"
+      }
+    ],
+    "source_id": "ball-ch01_s01_f01"
+  },
+  {
+    "number": "1.2",
+    "title": "Chemical Properties",
+    "label": "fig:ch01:s01:f02",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "A burning match demonstrates a chemical property: the match material reacts with oxygen to form new substances.",
+    "assets": [
+      {
+        "file": "fig-1-2.jpg",
+        "commons_title": "File:Burning matchstick 2010.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Burning_matchstick_2010.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Burning_matchstick_2010.jpg",
+        "credit": "Maja Dumat from Deutschland (Germany)",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "retrieved": "2026-10-30",
+        "alt": "A wooden match burning with a bright flame.",
+        "title": "Burning matchstick 2010",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "4726b14c985fcfcb2f13ce852eb4b253fba31af45b647716e284cf861de28e9c"
+      }
+    ],
+    "source_id": "ball-ch01_s01_f02"
+  },
+  {
+    "number": "1.3",
+    "title": "Physical Changes",
+    "label": "fig:ch01:s01:f03",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "An ice cube melts on a sunlit stone. Melting changes water from a solid to a liquid without changing its chemical composition.",
+    "assets": [
+      {
+        "file": "fig-1-3.jpg",
+        "commons_title": "File:Eiswürfel auf Stein.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Eisw%C3%BCrfel_auf_Stein.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Eisw%C3%BCrfel_auf_Stein.jpg",
+        "credit": "ThoBel-0043",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A small melting ice cube on a stone, with water running onto the pavement.",
+        "title": "Eiswürfel auf Stein",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "680aceeeff91382bd3c4166dd223844578ee5377f162cd64b6acd4a53e06a819"
+      }
+    ],
+    "source_id": "ball-ch01_s01_f03"
+  },
+  {
+    "number": "1.4",
+    "title": "Types of Mixtures",
+    "label": "fig:ch01:s01:f04",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "The nuts and dried fruit in trail mix remain visibly distinct, making it a heterogeneous mixture. In contrast, salt dissolved in water forms a uniform solution. Such a solution looks like the glass of water shown below; the dissolved salt would not be visible.",
+    "assets": [
+      {
+        "file": "fig-1-4a.jpg",
+        "commons_title": "File:Studentenfutter 01.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Studentenfutter_01.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Studentenfutter_01.JPG",
+        "credit": "Thogru",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "alt": "A mixture of nuts and dried fruit with visibly different components.",
+        "title": "Studentenfutter 01",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "ad955b97cd50296e32adc7b34184f992e8f33061c73eba228eb863515e42ec72"
+      },
+      {
+        "file": "fig-1-1b.jpg",
+        "commons_title": "File:Glass of water.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Glass_of_water.jpg",
+        "credit": "deavmi",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A glass of water illustrating the uniform appearance of a solution.",
+        "title": "Glass of water",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "e697b05dd5d3f9f929258e2855f1776035b476f5f438c82f4951b87feadab458"
+      }
+    ],
+    "source_id": "ball-ch01_s01_f04"
+  },
+  {
+    "number": "1.5",
+    "title": "Semimetals",
+    "label": "fig:ch01:s01:f05",
+    "page": "chapters/ch-01-s01-some-basic-definitions.md",
+    "caption": "Silicon is a metalloid: it has a metallic luster but is brittle, and its electrical conductivity is intermediate between that of typical metals and nonmetals.",
+    "assets": [
+      {
+        "file": "fig-1-5.jpg",
+        "commons_title": "File:SiliconCroda.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SiliconCroda.jpg",
+        "credit": "Enricoros at English Wikipedia",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "A shiny, irregular piece of crystalline silicon.",
+        "title": "SiliconCroda",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "66944a78a77c0250a98e07d5721cb59b230cad4664fb71f9d39b5520d41378c6"
+      }
+    ],
+    "source_id": "ball-ch01_s01_f05"
+  },
+  {
+    "number": "1.8",
+    "title": "Defining a Law",
+    "label": "fig:ch01:s02:f01",
+    "page": "chapters/ch-01-s02-chemistry-as-a-science.md",
+    "caption": "A speed limit is a rule made by people and can be broken. A scientific law instead describes a regularity observed in nature.",
+    "assets": [
+      {
+        "file": "fig-1-8.jpg",
+        "commons_title": "File:Speed Limit 20 sign on Commercial Drive, Southbridge, Massachusetts.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Speed_Limit_20_sign_on_Commercial_Drive,_Southbridge,_Massachusetts.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Speed_Limit_20_sign_on_Commercial_Drive%2C_Southbridge%2C_Massachusetts.jpg",
+        "credit": "Peter Cooper Jr.",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "alt": "A roadside sign specifying a speed limit of 20 miles per hour.",
+        "title": "Speed Limit 20 sign on Commercial Drive, Southbridge, Massachusetts",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "d003caa623e432c3aafda16fb71048b0330b48c2044fba4869bce6052ff3d5a8"
+      }
+    ],
+    "source_id": "ball-ch01_s02_f01"
+  },
+  {
+    "number": "2.1",
+    "title": "Using Scientific Notation",
+    "label": "fig:ch02:s01:f01",
+    "page": "chapters/ch-02-s01-expressing-numbers.md",
+    "caption": "A calculator displays a number as a coefficient multiplied by a power of ten. This notation avoids writing a long string of zeros.",
+    "assets": [
+      {
+        "file": "fig-2-1.jpg",
+        "commons_title": "File:Scientific notation in calculator display 16.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Scientific_notation_in_calculator_display_16.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Scientific_notation_in_calculator_display_16.JPG",
+        "credit": "Thirunavukkarasye-Raveendran",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A calculator display showing 9.7965837 multiplied by ten to the negative fifth power.",
+        "title": "Scientific notation in calculator display 16",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "a1e3165aa9cc4229e95326bee4781460c9188fbd72a42ec32b48fd468750ac1b"
+      }
+    ],
+    "source_id": "ball-ch02_s01_f01"
+  },
+  {
+    "number": "2.2",
+    "title": "Scientific Notation on a Calculator",
+    "label": "fig:ch02:s01:f02",
+    "page": "chapters/ch-02-s01-expressing-numbers.md",
+    "caption": "Scientific calculators provide keys for entering powers of ten. The key sequence varies by model; consult the instructions for the calculator you use.",
+    "assets": [
+      {
+        "file": "fig-2-2.jpg",
+        "commons_title": "File:Casio fx-991EX Scientific Calculator.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Casio_fx-991EX_Scientific_Calculator.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Casio_fx-991EX_Scientific_Calculator.jpg",
+        "credit": "David Wheatley",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "alt": "A Casio fx-991EX scientific calculator with a multiplication-by-ten-to-a-power key.",
+        "title": "Casio fx-991EX Scientific Calculator",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "a133d93d57a68acb3dc202cbde632f4f1467ab4854948d85b1f9538ff3853096"
+      }
+    ],
+    "source_id": "ball-ch02_s01_f02"
+  },
+  {
+    "number": "2.7",
+    "title": "Significant Figures",
+    "label": "fig:ch02:s03:f05",
+    "page": "chapters/ch-02-s03-significant-figures.md",
+    "caption": "This odometer reads 173386.2 miles, reporting distance to the nearest tenth of a mile. The last displayed digit indicates the resolution of the measurement; adding further digits would imply unsupported precision.",
+    "assets": [
+      {
+        "file": "fig-2-7.jpg",
+        "commons_title": "File:Digital odometer 1987 Oldsmobile Toronado.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Digital_odometer_1987_Oldsmobile_Toronado.JPG",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Digital_odometer_1987_Oldsmobile_Toronado.JPG",
+        "credit": "Jacek Rużyczka",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A digital automobile odometer reading 173386.2 miles.",
+        "title": "Digital odometer 1987 Oldsmobile Toronado",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "cbe2903d0f4d5e1f4d049706f81ba2213d7f7df5e4f81453754f10fe45bfb1c5"
+      }
+    ],
+    "source_id": "ball-ch02_s03_f05"
+  },
+  {
+    "number": "3.5",
+    "title": "NaCl = Table Salt",
+    "label": "fig:ch03:s04:f01",
+    "page": "chapters/ch-03-s04-ions-and-ionic-compounds.md",
+    "caption": "A close-up of a table-salt crystal. Sodium chloride is an ionic compound with equal numbers of sodium ions and chloride ions, represented by the formula NaCl.",
+    "assets": [
+      {
+        "file": "fig-3-5.jpg",
+        "commons_title": "File:Table Salt (NaCl) Crystal.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Table_Salt_(NaCl)_Crystal.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Table_Salt_%28NaCl%29_Crystal.jpg",
+        "credit": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "alt": "A magnified sodium chloride crystal with angular surface features.",
+        "title": "Table Salt (NaCl) Crystal",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "dcaf605fc41a14b6b6a2f37eacf1906be10223cea06ff6e3ba5e2d30c6bf425d"
+      }
+    ],
+    "source_id": "ball-ch03_s04_f01"
+  },
+  {
+    "number": "7.1",
+    "title": "Calories on Food Labels",
+    "label": "fig:ch07:s01:f01",
+    "page": "chapters/ch-07-s01-energy.md",
+    "caption": "An FDA example nutrition label lists 230 Calories per serving. In food labeling, a Calorie is a kilocalorie: 1 Cal = 1 kcal = 4,184 J.",
+    "assets": [
+      {
+        "file": "fig-7-1.png",
+        "commons_title": "File:FDA Nutrition Facts Label 2016.png",
+        "source": "https://commons.wikimedia.org/wiki/File:FDA_Nutrition_Facts_Label_2016.png",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/FDA_Nutrition_Facts_Label_2016.png",
+        "credit": "U.S. Food and Drug Administration",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "An FDA Nutrition Facts label showing 230 Calories per serving.",
+        "title": "FDA Nutrition Facts Label 2016",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "2017b122972bdf558556ac6db78c39439a2693a65a4900b030ccc59e5ddc0a62"
+      }
+    ],
+    "source_id": "ball-ch07_s01_f01"
+  },
+  {
+    "number": "10.3",
+    "title": "Liquids and Gravity",
+    "label": "fig:ch10:s02:f01",
+    "page": "chapters/ch-10-s02-phase-transitions-melting-boil.md",
+    "caption": "A water sphere floats beside an astronaut’s fingers aboard the International Space Station. In microgravity, surface tension draws the water into a nearly spherical shape instead of allowing it to settle at the bottom of a container.",
+    "assets": [
+      {
+        "file": "fig-10-3.jpg",
+        "commons_title": "File:Iss072e069743 (Oct 19, 2024) --- The fingers of NASA astronaut and Expedition 72 Flight Engineer Don Pettit are refracted in this sphere of water in the microgravity environment of the International Space Station.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Iss072e069743_(Oct_19,_2024)_---_The_fingers_of_NASA_astronaut_and_Expedition_72_Flight_Engineer_Don_Pettit_are_refracted_in_this_sphere_of_water_in_the_microgravity_environment_of_the_International_Space_Station.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Iss072e069743_%28Oct_19%2C_2024%29_---_The_fingers_of_NASA_astronaut_and_Expedition_72_Flight_Engineer_Don_Pettit_are_refracted_in_this_sphere_of_water_in_the_microgravity_environment_of_the_International_Space_Station.jpg",
+        "credit": "NASA Johnson Space Center",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "An astronaut’s fingers next to a floating sphere of water inside the International Space Station.",
+        "title": "Water sphere aboard the International Space Station",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "734bcfb5476fc8aeaf53538b5bc87c978ea3a418c29fa73d8e5c74d6b17af1a7"
+      }
+    ],
+    "source_id": "ball-ch10_s02_f01"
+  },
+  {
+    "number": "10.10",
+    "title": "Effects of Surface Tension",
+    "label": "fig:ch10:s03:f06",
+    "page": "chapters/ch-10-s03-properties-of-liquids.md",
+    "caption": "Surface tension helps water form rounded droplets on a leaf. The interaction between the water and the leaf surface also affects the droplets’ shape.",
+    "assets": [
+      {
+        "file": "fig-10-10.jpg",
+        "commons_title": "File:Water droplets leaf.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Water_droplets_leaf.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Water_droplets_leaf.jpg",
+        "credit": "Dhivya dhivi DJ",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "Rounded water droplets resting on green leaves.",
+        "title": "Water droplets leaf",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "683ae7778204336fa14b1bb0f3b15e408c2f73dc8ebb956ddb35525ff47c5257"
+      }
+    ],
+    "source_id": "ball-ch10_s03_f06"
+  },
+  {
+    "number": "10.11",
+    "title": "Walking on Water",
+    "label": "fig:ch10:s03:f07",
+    "page": "chapters/ch-10-s03-properties-of-liquids.md",
+    "caption": "A water strider rests on the surface of a river. Its water-repellent legs spread its weight, and surface tension supports it without breaking the surface.",
+    "assets": [
+      {
+        "file": "fig-10-11.jpg",
+        "commons_title": "File:Water strider on Natisone river.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Water_strider_on_Natisone_river.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Water_strider_on_Natisone_river.jpg",
+        "credit": "Vid Pogacnik",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A water strider on clear water, with dimples beneath its legs and shadows on the riverbed.",
+        "title": "Water strider on Natisone river",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "33da736dbd38f6a9352f42087b29346b571263a77eb59824b952f98dd79d3e73"
+      }
+    ],
+    "source_id": "ball-ch10_s03_f07"
+  },
+  {
+    "number": "11.1",
+    "title": "Concentration in Commercial Applications",
+    "label": "fig:ch11:s02:f01",
+    "page": "chapters/ch-11-s02-quantitative-units-of-concentr.md",
+    "caption": "A commercial hydrogen peroxide bottle states a concentration of 3%. Concentration labels specify how much solute is present in a solution; the convention used for a percentage should always be checked.",
+    "assets": [
+      {
+        "file": "fig-11-1.jpg",
+        "commons_title": "File:Hydrogen Peroxide Bottle.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hydrogen_Peroxide_Bottle.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hydrogen_Peroxide_Bottle.jpg",
+        "credit": "ThatOneEli",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "A brown hydrogen peroxide bottle labeled solution 3%.",
+        "title": "Hydrogen Peroxide Bottle",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "c9902ba2300c3c0b5a242abbd58c957604efa8bf5dbd15c28e82fe8753807b9a"
+      }
+    ],
+    "source_id": "ball-ch11_s02_f01"
+  },
+  {
+    "number": "11.2",
+    "title": "Salt and Safety",
+    "label": "fig:ch11:s05:f01",
+    "page": "chapters/ch-11-s05-colligative-properties-of-solu.md",
+    "caption": "Trucks stand in a road-salt storage facility. Salt spread on icy roads dissolves in water and lowers the freezing point of the resulting solution.",
+    "assets": [
+      {
+        "file": "fig-11-2.jpg",
+        "commons_title": "File:RoadSaltTrucks.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:RoadSaltTrucks.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/RoadSaltTrucks.jpg",
+        "credit": "James LeWorm",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "retrieved": "2026-10-30",
+        "alt": "Road-salt trucks inside a storage building containing piles of salt.",
+        "title": "RoadSaltTrucks",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "b81d2aa1c1b8c28bc9b78a995ce722b9a7aed88671b2cf2e26501d8a31538a9e"
+      }
+    ],
+    "source_id": "ball-ch11_s05_f01"
+  },
+  {
+    "number": "14.3",
+    "title": "Button Batteries",
+    "label": "fig:ch14:s03:f03",
+    "page": "chapters/ch-14-s03-applications-of-redox-reaction.md",
+    "caption": "Button cells supply electrical energy to small electronic devices. Their compact form comes in several sizes and chemistries.",
+    "assets": [
+      {
+        "file": "fig-14-3.jpg",
+        "commons_title": "File:Coin-cells.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Coin-cells.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coin-cells.jpg",
+        "credit": "Gerhard H Wrodnigg",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "retrieved": "2026-10-30",
+        "alt": "Several round button-cell batteries of different diameters.",
+        "title": "Coin-cells",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "0c051c1f05df3fcfa7707e32368ad73c60445da3baeef3e49f4a4592b9772819"
+      }
+    ],
+    "source_id": "ball-ch14_s03_f03"
+  },
+  {
+    "number": "14.4",
+    "title": "Lead Storage Batteries",
+    "label": "fig:ch14:s03:f04",
+    "page": "chapters/ch-14-s03-applications-of-redox-reaction.md",
+    "caption": "A cutaway view of an automotive lead-acid battery shows its positive and negative plates, separators, and connections. Multiple cells connected in series provide the voltage needed to start an engine.",
+    "assets": [
+      {
+        "file": "fig-14-4.jpg",
+        "commons_title": "File:Cutaway view of a 1953 automotive lead-acid battery.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cutaway_view_of_a_1953_automotive_lead-acid_battery.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cutaway_view_of_a_1953_automotive_lead-acid_battery.jpg",
+        "credit": "National Institute of Standards and Technology Digital Collections, Gaithersburg, MD 20899",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "A labeled cutaway of an automotive lead-acid battery showing plates, separators, and connections.",
+        "title": "Cutaway view of a 1953 automotive lead-acid battery",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "cb0f16d6dbadb861e09f600526f0c46c3b5c83727b128f0fbf95c7296a956781"
+      }
+    ],
+    "source_id": "ball-ch14_s03_f04"
+  },
+  {
+    "number": "15.2",
+    "title": "Detecting Radioactivity",
+    "label": "fig:ch15:s03:f01",
+    "page": "chapters/ch-15-s03-units-of-radioactivity.md",
+    "caption": "A Geiger counter and its connected probe detect ionizing radiation. Radiation entering the detector produces electrical pulses that can be displayed or heard as clicks.",
+    "assets": [
+      {
+        "file": "fig-15-2.jpg",
+        "commons_title": "File:Geiger counter 2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Geiger_counter_2.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Geiger_counter_2.jpg",
+        "credit": "TimVickers",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "A portable Geiger counter with a meter and a connected detector probe.",
+        "title": "Geiger counter 2",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "6879a255e3f90c0401e69eeca269539f79ae05eac344f04aadf0468055fe8043"
+      }
+    ],
+    "source_id": "ball-ch15_s03_f01"
+  },
+  {
+    "number": "16.1",
+    "title": "Three-Dimensional Representation of Methane",
+    "label": "fig:ch16:s01:f01",
+    "page": "chapters/ch-16-s01-hydrocarbons.md",
+    "caption": "In methane, the carbon atom (dark sphere) bonds to four hydrogen atoms (light spheres). The bonds point toward the corners of a tetrahedron rather than lying in one plane.",
+    "assets": [
+      {
+        "file": "fig-16-1.png",
+        "commons_title": "File:Methane-3D-balls.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Methane-3D-balls.png",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Methane-3D-balls.png",
+        "credit": "Ben Mills (Benjah-bmm27)",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "retrieved": "2026-10-30",
+        "alt": "A ball-and-stick model of methane with four hydrogen atoms arranged tetrahedrally around carbon.",
+        "title": "Methane-3D-balls",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "527e8c13f04a02cfafdeae22415b0c760352e8337fee1ed3c358326059449903"
+      }
+    ],
+    "source_id": "ball-ch16_s01_f01"
+  },
+  {
+    "number": "16.2",
+    "title": "Combustion",
+    "label": "fig:ch16:s01:f02",
+    "page": "chapters/ch-16-s01-hydrocarbons.md",
+    "caption": "A gas stove burns hydrocarbon fuel in oxygen and releases heat. Complete combustion produces carbon dioxide and water.",
+    "assets": [
+      {
+        "file": "fig-16-2.jpg",
+        "commons_title": "File:Gas stove burner flame.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gas_stove_burner_flame.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gas_stove_burner_flame.jpg",
+        "credit": "Lisafern",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "retrieved": "2026-10-30",
+        "alt": "Blue flames and a few yellow tips surrounding a gas-stove burner.",
+        "title": "Gas stove burner flame",
+        "changes": "Resized and optimized for the web; no content changes.",
+        "sha256": "320e9905f59d6399d1d25e09958219bfa6ccbf834ed1b0062007dbafb0a27c57"
+      }
+    ],
+    "source_id": "ball-ch16_s01_f02"
+  },
+  {
+    "number": "16.6",
+    "title": "Nucleotides",
+    "label": "fig:ch16:s06:f02",
+    "page": "chapters/ch-16-s06-polymers.md",
+    "caption": "A nucleotide contains a nitrogen-containing base, a five-carbon sugar, and one or more phosphate groups. The diagram distinguishes the sugar-base nucleoside from its mono-, di-, and triphosphate nucleotides. DNA and RNA chains contain nucleotide residues linked through phosphate groups.",
+    "assets": [
+      {
+        "file": "fig-16-6.png",
+        "commons_title": "File:Nucleotide nucleoside general.svg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nucleotide_nucleoside_general.svg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nucleotide_nucleoside_general.svg",
+        "credit": "Yikrazuul",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "retrieved": "2026-10-30",
+        "alt": "Diagram labeling the base, pentose sugar, and phosphate groups of a nucleotide; ribose has OH at the 2-prime position and deoxyribose has H.",
+        "title": "Nucleotide nucleoside general",
+        "changes": "Resized and optimized for the web; no content changes. Wikimedia rendered the nucleotide SVG as PNG.",
+        "sha256": "a5d81373ebd86b48cfac27639f23d7e7e207b6e30315a954e6dcd306ca3fa885"
+      }
+    ],
+    "source_id": "ball-ch16_s06_f02"
+  }
+]

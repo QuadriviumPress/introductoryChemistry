@@ -93,7 +93,19 @@ The following conventions dictate which numbers in a reported measurement are si
 3. Zeros at the end of a number without a decimal point (i.e., trailing zeros) are not significant; they serve only to put the significant digits in the correct positions. However, zeros at the end of any number with a decimal point are significant.
 4. Zeros at the beginning of a decimal number (i.e., leading zeros) are not significant; again, they serve only to put the significant digits in the correct positions.
 
-So, by these rules, the population figure of the United States has only three significant figures: the 3, the 6, and the zero between them. The remaining six zeros simply put the 306 in the millions position. (See Figure 2.7 "Significant Figures" for another example.)
+So, by these rules, the population figure of the United States has only three significant figures: the 3, the 6, and the zero between them. The remaining six zeros simply put the 306 in the millions position. (See {ref}`Figure 2.7 "Significant Figures" <fig:ch02:s03:f05>` for another example.)
+
+```{figure} ../images/restored/fig-2-7.jpg
+:label: fig:ch02:s03:f05
+:enumerator: 2.7
+:alt: A digital automobile odometer reading 173386.2 miles.
+:align: center
+:width: 70%
+
+**Significant Figures.** This odometer reads 173386.2 miles, reporting distance to the nearest tenth of a mile. The last displayed digit indicates the resolution of the measurement; adding further digits would imply unsupported precision.
+
+Credits: [Digital odometer 1987 Oldsmobile Toronado — Jacek Rużyczka](https://commons.wikimedia.org/wiki/File:Digital_odometer_1987_Oldsmobile_Toronado.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
 
 ```{exercise}
 :label: ex:ball-ch02-s03-n03

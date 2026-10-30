@@ -98,7 +98,31 @@ All liquids share some other properties as well. **Surface tension** (*An effect
 Surface Tension. Surface tension comes from the fact that particles at the surface of a liquid do not experience interactions from all directions, leading to an imbalance of forces on the surface.
 ```
 
-Surface tension is responsible for several well-known behaviors of liquids, including water. Liquids with high surface tension tend to bead up when present in small amounts (Figure 10.10 "Effects of Surface Tension"). Surface tension causes liquids to form spheres in free fall or zero gravity (see Figure 10.3 "Liquids and Gravity": the “floating” water isn’t in the shape of a sphere by accident; it is the result of surface tension). Surface tension is also responsible for the fact that small insects can “walk” on water. Because of surface tension, it takes energy to break the surface of a liquid, and if an object (such as an insect) is light enough, there is not enough force due to gravity for the object to break through the surface, so the object stays on top of the water (Figure 10.11 "Walking on Water"). Carefully done, this phenomenon can also be illustrated with a thin razor blade or a paper clip.
+Surface tension is responsible for several well-known behaviors of liquids, including water. Liquids with high surface tension tend to bead up when present in small amounts ({ref}`Figure 10.10 "Effects of Surface Tension" <fig:ch10:s03:f06>`). Surface tension causes liquids to form spheres in free fall or zero gravity (see {ref}`Figure 10.3 "Liquids and Gravity" <fig:ch10:s02:f01>`: the “floating” water isn’t in the shape of a sphere by accident; it is the result of surface tension). Surface tension is also responsible for the fact that small insects can “walk” on water. Because of surface tension, it takes energy to break the surface of a liquid, and if an object (such as an insect) is light enough, there is not enough force due to gravity for the object to break through the surface, so the object stays on top of the water ({ref}`Figure 10.11 "Walking on Water" <fig:ch10:s03:f07>`). Carefully done, this phenomenon can also be illustrated with a thin razor blade or a paper clip.
+
+```{figure} ../images/restored/fig-10-11.jpg
+:label: fig:ch10:s03:f07
+:enumerator: 10.11
+:alt: A water strider on clear water, with dimples beneath its legs and shadows on the riverbed.
+:align: center
+:width: 70%
+
+**Walking on Water.** A water strider rests on the surface of a river. Its water-repellent legs spread its weight, and surface tension supports it without breaking the surface.
+
+Credits: [Water strider on Natisone river — Vid Pogacnik](https://commons.wikimedia.org/wiki/File:Water_strider_on_Natisone_river.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
+
+```{figure} ../images/restored/fig-10-10.jpg
+:label: fig:ch10:s03:f06
+:enumerator: 10.10
+:alt: Rounded water droplets resting on green leaves.
+:align: center
+:width: 70%
+
+**Effects of Surface Tension.** Surface tension helps water form rounded droplets on a leaf. The interaction between the water and the leaf surface also affects the droplets’ shape.
+
+Credits: [Water droplets leaf — Dhivya dhivi DJ](https://commons.wikimedia.org/wiki/File:Water_droplets_leaf.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Images resized for the web.
+```
 
 The fact that small droplets of water bead up on surfaces does not mean that water—or any other liquid—does not interact with other substances. Sometimes the attraction can be very strong. **Adhesion** (*The tendency of a substance to interact with other substances because of intermolecular forces.*) is the tendency of a substance to interact with other substances because of intermolecular forces, while **cohesion** (*The tendency of a substance to interact with itself.*) is the tendency of a substance to interact with itself. If cohesive forces within a liquid are stronger than adhesive forces between a liquid and another substance, then the liquid tends to keep to itself; it will bead up. However, if adhesive forces between a liquid and another substance are stronger than cohesive forces, then the liquid will spread out over the other substance, trying to maximize the interface between the other substance and the liquid. We say that the liquid *wets* the other substance.
 

@@ -69,7 +69,7 @@ A sample of radium has an activity of 16.0 mCi. If the half-life of radium is 1,
 
 In this case we do not have an exact number of half-lives, so we need to use the more complicated equation (in {ref}`Chapter 15 "Nuclear Chemistry" <ch:ch15>`, {ref}`Section 15.2 "Half-Life" <sec:ch15:s02>`) and solve for time. If the initial amount is represented by 16.0 mCi and the final amount is 5.6 mCi, we have
 
-$\text{5.6 mCi = (16.0 mCi)}e^{-0.693}^{t}^{\text{/(1,600 y)}}$
+$\text{5.6 mCi = (16.0 mCi)}e^{-0.693t/(1{,}600\text{ y})}$
 
 To solve, we divide both sides of the equation by 16.0 mCi to cancel the millicurie units:
 
@@ -163,7 +163,19 @@ The actual effects of radioactivity and radiation exposure on a person’s healt
 
 One of the simplest ways of detecting radioactivity is by using a piece of photographic film embedded in a badge or a pen. On a regular basis, the film is developed and checked for exposure. Comparing the exposure level of the film with a set of standard exposures indicates the amount of radiation a person was exposed to.
 
-Another means of detecting radioactivity is an electrical device called a **Geiger counter** (*An electrical device that detects radioactivity.*) (Figure 15.2 "Detecting Radioactivity"). It contains a gas-filled chamber with a thin membrane on one end that allows radiation emitted from radioactive nuclei to enter the chamber and knock electrons off atoms of gas (usually argon). The presence of electrons and positively charged ions causes a small current, which is detected by the Geiger counter and converted to a signal on a meter or, commonly, an audio circuit to produce an audible “click.”
+Another means of detecting radioactivity is an electrical device called a **Geiger counter** (*An electrical device that detects radioactivity.*) ({ref}`Figure 15.2 "Detecting Radioactivity" <fig:ch15:s03:f01>`). It contains a gas-filled chamber with a thin membrane on one end that allows radiation emitted from radioactive nuclei to enter the chamber and knock electrons off atoms of gas (usually argon). The presence of electrons and positively charged ions causes a small current, which is detected by the Geiger counter and converted to a signal on a meter or, commonly, an audio circuit to produce an audible “click.”
+
+```{figure} ../images/restored/fig-15-2.jpg
+:label: fig:ch15:s03:f01
+:enumerator: 15.2
+:alt: A portable Geiger counter with a meter and a connected detector probe.
+:align: center
+:width: 70%
+
+**Detecting Radioactivity.** A Geiger counter and its connected probe detect ionizing radiation. Radiation entering the detector produces electrical pulses that can be displayed or heard as clicks.
+
+Credits: [Geiger counter 2 — TimVickers](https://commons.wikimedia.org/wiki/File:Geiger_counter_2.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 ```{important} Key Takeaway
 

@@ -143,7 +143,19 @@ Starch is an important source of energy in the human diet. Note how individual g
 
 This polymer is known as *cellulose*. Cellulose is a major component in the cell walls of plants. Curiously, despite the similarity in the building blocks, some animals (such as humans) cannot digest cellulose; those animals that can digest cellulose typically rely on symbiotic bacteria in the digestive tract for the actual digestion. Animals do not have the proper enzymes to break apart the glucose units in cellulose, so it passes through the digestive tract and is considered *dietary fiber*.
 
-*Deoxyribonucleic acid* (*DNA*) and *ribonucleic acid* (*RNA*) are also polymers, composed of long, three-part chains consisting of phosphate groups, sugars with 5 C atoms (ribose or deoxyribose), and N-containing rings referred to as bases. Each combination of the three parts is called a nucleotide; DNA and RNA are essentially polymers of nucleotides that have rather complicated but intriguing structures (Figure 16.6 "Nucleotides"). DNA is the fundamental material in chromosomes and is directly responsible for heredity, while RNA is an essential substance in protein synthesis.
+*Deoxyribonucleic acid* (*DNA*) and *ribonucleic acid* (*RNA*) are also polymers, composed of long, three-part chains consisting of phosphate groups, sugars with 5 C atoms (ribose or deoxyribose), and N-containing rings referred to as bases. Each combination of the three parts is called a nucleotide; DNA and RNA are essentially polymers of nucleotides that have rather complicated but intriguing structures ({ref}`Figure 16.6 "Nucleotides" <fig:ch16:s06:f02>`). DNA is the fundamental material in chromosomes and is directly responsible for heredity, while RNA is an essential substance in protein synthesis.
+
+```{figure} ../images/restored/fig-16-6.png
+:label: fig:ch16:s06:f02
+:enumerator: 16.6
+:alt: Diagram labeling the base, pentose sugar, and phosphate groups of a nucleotide; ribose has OH at the 2-prime position and deoxyribose has H.
+:align: center
+:width: 70%
+
+**Nucleotides.** A nucleotide contains a nitrogen-containing base, a five-carbon sugar, and one or more phosphate groups. The diagram distinguishes the sugar-base nucleoside from its mono-, di-, and triphosphate nucleotides. DNA and RNA chains contain nucleotide residues linked through phosphate groups.
+
+Credits: [Nucleotide nucleoside general — Yikrazuul](https://commons.wikimedia.org/wiki/File:Nucleotide_nucleoside_general.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Images resized for the web.
+```
 
 ```{important} Key Takeaways
 

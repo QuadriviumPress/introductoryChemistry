@@ -66,7 +66,19 @@ What is the energy change when 108 g of C<sub>6</sub>H<sub>6</sub> freeze at 5.5
 
 During melting, energy goes exclusively to changing the phase of a substance; it does not go into changing the temperature of a substance. Hence melting is an **isothermal** (*A process that does not change the temperature.*) process because a substance stays at the same temperature. Only when all of a substance is melted does any additional energy go to changing its temperature.
 
-What happens when a solid becomes a liquid? In a solid, individual particles are stuck in place because the intermolecular forces cannot be overcome by the energy of the particles. When more energy is supplied (e.g., by raising the temperature), there comes a point at which the particles have enough energy to move around but not enough energy to separate. This is the liquid phase: particles are still in contact but are able to move around each other. This explains why liquids can assume the shape of their containers: the particles move around and, under the influence of gravity, fill the lowest volume possible (unless the liquid is in a zero-gravity environment—see Figure 10.3 "Liquids and Gravity").
+What happens when a solid becomes a liquid? In a solid, individual particles are stuck in place because the intermolecular forces cannot be overcome by the energy of the particles. When more energy is supplied (e.g., by raising the temperature), there comes a point at which the particles have enough energy to move around but not enough energy to separate. This is the liquid phase: particles are still in contact but are able to move around each other. This explains why liquids can assume the shape of their containers: the particles move around and, under the influence of gravity, fill the lowest volume possible (unless the liquid is in a zero-gravity environment—see {ref}`Figure 10.3 "Liquids and Gravity" <fig:ch10:s02:f01>`).
+
+```{figure} ../images/restored/fig-10-3.jpg
+:label: fig:ch10:s02:f01
+:enumerator: 10.3
+:alt: An astronaut’s fingers next to a floating sphere of water inside the International Space Station.
+:align: center
+:width: 70%
+
+**Liquids and Gravity.** A water sphere floats beside an astronaut’s fingers aboard the International Space Station. In microgravity, surface tension draws the water into a nearly spherical shape instead of allowing it to settle at the bottom of a container.
+
+Credits: [Water sphere aboard the International Space Station — NASA Johnson Space Center](https://commons.wikimedia.org/wiki/File:Iss072e069743_(Oct_19,_2024)_---_The_fingers_of_NASA_astronaut_and_Expedition_72_Flight_Engineer_Don_Pettit_are_refracted_in_this_sphere_of_water_in_the_microgravity_environment_of_the_International_Space_Station.jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Images resized for the web.
+```
 
 The phase change between a liquid and a gas has some similarities to the phase change between a solid and a liquid. At a certain temperature, the particles in a liquid have enough energy to become a gas. The process of a liquid becoming a gas is called **boiling (or vaporization)** (*The process of a liquid becoming a gas.*), while the process of a gas becoming a liquid is called **condensation** (*The process of a gas becoming a liquid.*). However, unlike the solid/liquid conversion process, the liquid/gas conversion process is noticeably affected by the surrounding pressure on the liquid because gases are strongly affected by pressure. This means that the temperature at which a liquid becomes a gas, the **boiling point** (*The characteristic temperature at which a liquid becomes a gas.*), can change with surrounding pressure. Therefore, we define the **normal boiling point** (*The characteristic temperature at which a liquid becomes a gas when the surrounding pressure is exactly 1 atm.*) as the temperature at which a liquid changes to a gas when the surrounding pressure is exactly 1 atm, or 760 torr. Unless otherwise specified, it is assumed that a boiling point is for 1 atm of pressure.
 
