@@ -4,10 +4,10 @@
   "private": true,
   "description": "MyST Markdown edition of Introductory Chemistry, from the Saylor Academy HTML text adapted from David W. Ball.",
   "license": "CC-BY-NC-SA-3.0",
-  "packageManager": "npm@10.9.8",
+  "packageManager": "npm@11.20.0",
   "engines": {
     "node": ">=26",
-    "npm": ">=10 <11"
+    "npm": ">=11 <12"
   },
   "scripts": {
     "start": "myst start",
